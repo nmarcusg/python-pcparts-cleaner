@@ -1,0 +1,414 @@
+item_name,category_name,item_price_in_php,stocks
+"Generic, PSU, 550w/580w/600w/650w/700w/750w, actual rating : 200w",Psu,450.0,49
+"Deep Cool DC DQ750M-V3L, 750watts PSU, gold, full modular, pn: R-DQ750M-FB0B-US",Psu,4999.0,5
+"Deep Cool DC DQ850M-V3L, 850watts PSU, gold, full modular, pn: R-DQ850M-FB0B-US",Psu,5799.0,6
+"Deep Cool DC DQ1000M-V3L, 1000watts PSU, gold, full modular, pn: R-DQA00M-FB0B-US",Psu,6680.0,2
+"Deep Cool DC PX1000G, 1000watts PSU, gold, full modular, ATX3.0 PCIE5, pn: R-PXA00G-FC0B-US",Psu,8899.0,1
+"Inwin P125 1250watts, P Series, PSU, gold, full modular",Psu,7999.0,5
+"Seasonic Core GC650, 650watts PSU, gold, pn: SSR-650LC",Psu,4350.0,11
+"Seasonic Core GX650, 650watts PSU, gold, full modular, pn: SSR-650LX",Psu,4350.0,0
+"Seasonic Prime PX Platinum 850watts PSU, full modular, pn: SSR-850PD APFC F3",Psu,10450.0,0
+"Seasonic Prime PX Platinum 1000watts PSU, full modular, pn: SSR-1000PD APFC F3",Psu,11999.0,1
+"Seasonic Prime PX Platinum 1300watts PSU, full modular, pn: SSR-1300PD APFC F3",Psu,14360.0,1
+"Seasonic Prime GX gold 750watts PSU, full modular, pn: SSR-750GD APFC F3",Psu,7999.0,0
+"Seasonic Prime GX gold 850watts PSU, full modular, pn: SSR-850GD APFC F3",Psu,8780.0,1
+"Seasonic Prime GX gold 1000watts PSU, full modular, pn: SSR-1000GD APFC F3",Psu,10580.0,2
+"Seasonic Prime GX gold 1300watts PSU, full modular, pn: SSR-1300GD APFC F3",Psu,11999.0,1
+"Seasonic Focus GX gold 550watts PSU, full modular, pn: SSR-550FX",Psu,4450.0,0
+"Seasonic Focus GX gold 650watts PSU, full modular, pn: SSR-650FX",Psu,5825.0,0
+"Seasonic Focus GX gold 750watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-750FX3",Psu,6780.0,0
+"Seasonic Focus GX gold 850watts PSU, full modular, ATX3.0 PCIE5, pn: SRP-FGX851-A5A32SF",Psu,7899.0,0
+"Seasonic Focus GX gold 1000watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-1000FX",Psu,9725.0,1
+"Seasonic Focus Platinum 850PX, 850watts PSU, full modular, pn: SSR-850PX",Psu,8799.0,0
+"Seasonic Focus GM gold 650watts PSU, semi modular, pn: SSR-650FM",Psu,5150.0,8
+"Seasonic Focus GM gold 750watts PSU, semi modular, pn: SSR-750FM",Psu,5699.0,5
+"Seasonic Focus GM gold 850watts PSU, semi modular, pn: SSR-850FM",Psu,6680.0,1
+"Seasonic Focus SGX gold 500watts PSU, SFX, full modular, pn: SSR-500SGX",Psu,4880.0,1
+"Seasonic Focus SPX platinum 750watts PSU, SFX, full modular, pn:",Psu,9650.0,0
+"Seasonic S12III 550watts PSU, bronze, pn: SSR-550GB3",Psu,2850.0,8
+"Seasonic S12III 650watts PSU, bronze, pn: SSR-650GB3",Psu,3350.0,3
+"Seasonic white Focus GX gold 750watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-750FX",Psu,6780.0,0
+"Seasonic white Focus GX gold 850watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-850FX",Psu,7925.0,0
+"Seasonic white Focus GX gold 1000watts PSU, full modular, pn: SSR-1000FX",Psu,9399.0,2
+"Seasonic Prime TX Ultra Titanium 1300watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-1300TR",Psu,21999.0,1
+"Seasonic Prime TX Ultra Titanium 1600watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-1600TR",Psu,23999.0,1
+"Seasonic B12 BM650, 650watts PSU, bronze, semi modular, pn: A651BMAFH",Psu,3980.0,4
+"Seasonic B12 BM750, 750watts PSU, bronze, semi modular, pn: A751BMAFH",Psu,4480.0,5
+"Seasonic B12 BM850, 850watts PSU, bronze, semi modular, pn: A851BMAFH",Psu,5250.0,0
+"Seasonic B12 BC650, 650watts PSU, bronze, pn: A651BCAFH",Psu,3580.0,6
+"Seasonic B12 BC750, 750watts PSU, bronze, pn: A751BCAFH",Psu,3999.0,5
+"Seasonic B12 BC850, 850watts PSU, bronze, pn: A851BCAFH",Psu,4580.0,0
+"Seasonic G12 GC650, 650watts PSU, gold, pn: SSP-650RT2",Psu,3980.0,0
+"Seasonic G12 GC750, 750watts PSU, gold, pn: SSP-750RT2",Psu,4480.0,0
+"Seasonic G12 GC850, 850watts PSU, gold, pn: SSP-850RT2",Psu,5199.0,0
+"Seasonic G12 GM650, 650watts PSU, gold, semi modular, pn: SSR-650FM",Psu,4280.0,0
+"Seasonic G12 GM750, 750watts PSU, gold, semi modular, pn: SSR-750FM",Psu,4880.0,0
+"Seasonic G12 GM850, 850watts PSU, gold, semi modular, pn: A851GMAFH",Psu,5599.0,3
+"Seasonic Vertex GX 750, 750watts PSU, gold, full modular, ATX3.0 PCIE5, pn: 12751GXAFS",Psu,9950.0,1
+"Seasonic Vertex GX 850, 850watts PSU, gold, full modular, ATX3.0 PCIE5, pn: 12851GXAFS",Psu,11250.0,0
+"Seasonic Vertex GX 1200, 1200watts PSU, gold, full modular, ATX3.0 PCIE5, pn: 12122GXAFS",Psu,14899.0,1
+"Seasonic Vertex PX 850, 850watts PSU, platinum, full modular, ATX3.0 PCIE5, pn: 12851PXAFS",Psu,11799.0,1
+"NZXT C850, 850watts PSU, gold, modular, pn: NP-C850M-US | PA-8G1BB-US",Psu,7399.0,0
+"FSP Hydro M Pro 600watts PSU, bronze, semi modular",Psu,3225.0,3
+"FSP Hydro M Pro 700watts PSU, bronze, semi modular",Psu,3499.0,2
+"FSP Hydro M Pro 800watts PSU, bronze, semi modular",Psu,3725.0,3
+"FSP Hydro GD 650watts PSU, gold",Psu,3999.0,0
+"FSP Hydro PTM+ 1200watts PSU, platinum, full modular",Psu,29425.0,0
+"FSP Hydro PTM Pro 650watts PSU, platinum, full modular",Psu,4999.0,0
+"FSP Hydro PTM X Pro 850watts PSU, platinum, full modular, pn: HPT3-850M",Psu,7500.0,1
+"FSP SFX Pro 450watts PSU, bronze",Psu,3025.0,4
+"FSP Dagger Pro SFX 650watts PSU, gold, full modular",Psu,5499.0,4
+"FSP Dagger Pro SFX 850watts PSU, gold, full modular",Psu,6999.0,1
+"FSP Dagger Pro SFX 850watts PSU white, gold, full modular, ATX3.0 PCIE5",Psu,7450.0,3
+"FSP FlexGuru Pro 500watts PSU, gold",Psu,4950.0,1
+"FSP Hydro G Pro 750watts PSU, gold, full modular, ATX3.0 PCIE5",Psu,6350.0,4
+"FSP Hydro G Pro 850watts PSU, gold, full modular, ATX3.0 PCIE5",Psu,6899.0,3
+"FSP Hydro G Pro 1000watts PSU, gold, full modular, ATX3.0 PCIE5",Psu,8125.0,1
+"FSP Hydro G Pro 1200watts PSU, gold, full modular, ATX3.0 PCIE5",Psu,9650.0,1
+"FSP HV Pro 85+ 550watts PSU, bronze, ATX3.0",Psu,2480.0,0
+"FSP HV Pro 85+ 650watts PSU, bronze, ATX3.0",Psu,2699.0,0
+"FSP Hydro GT Pro 1000watts PSU, gold, semi modular",Psu,6799.0,1
+"FSP Vita GM 750watts PSU, gold, full modular, ATX3.1 PCIE5.1",Psu,6580.0,4
+"FSP Vita GM 850watts PSU, gold, full modular, ATX3.1 PCIE5.1",Psu,7125.0,3
+"FSP Vita GM 1000watts PSU, gold, full modular, ATX3.1 PCIE5.1",Psu,7899.0,1
+"FSP Hydro Ti Pro 850watts PSU, titanium, full modular, ATX3.0 PCIE5",Psu,11350.0,1
+"FSP Hydro Ti Pro 1000watts PSU, titanium, full modular, ATX3.0 PCIE5",Psu,13350.0,2
+"MSI MPG A850G 850watts PSU, gold, full modular, ATX3.0, pn: MPG A850G PCIE5",Psu,7899.0,3
+"MSI MPG A1000G 1000watts PSU, gold, full modular, ATX3.0, pn: MPG A1000G PCIE5",Psu,8599.0,1
+"MSI MAG A550BN 550watts PSU, bronze, pn: MAG A550BN",Psu,2680.0,0
+"MSI MAG A650BN 650watts PSU, bronze, pn: MAG A650BN",Psu,2950.0,6
+"MSI MAG A750BN 750watts PSU, bronze, pn: MAG A750BN PCIE5",Psu,3799.0,11
+"Phanteks AMP GH, 750watts PSU, black, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P750GH_BK01_US",Psu,4799.0,0
+"Phanteks AMP GH, 750watts PSU, white, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P750GH_WT01_US",Psu,5250.0,0
+"Phanteks AMP GH, 850watts PSU, black, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P850GH_BK01_US",Psu,5699.0,0
+"Phanteks AMP GH, 850watts PSU, white, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P850GH_WT01_US",Psu,6150.0,0
+"Phanteks AMP GH, 1000watts PSU, black, platinum, full modular, ATX 3.1 PCIE5.1, pn: PH-P1000GH_BK01_US",Psu,7099.0,0
+"Phanteks AMP GH, 1000watts PSU, white, platinum, full modular, ATX 3.1 PCIE5.1, pn: PH-P1000GH_WT01_US",Psu,7599.0,0
+"Silver Stone SST, Attis 650watts PSU, bronze, ATX3.1, pn: SST-AT650R-BF",Psu,3150.0,2
+"Silver Stone SST, Attis 750watts PSU, bronze, ATX3.1, pn: SST-AT750R-BF",Psu,3399.0,0
+"darkFlash PMT650 650watts PSU, gold, full modular, ATX3.1 PCIE5.1",Psu,4380.0,0
+"darkFlash PMT750 750watts PSU, gold, full modular, ATX3.1 PCIE5.1",Psu,4699.0,0
+"darkFlash PMT850 850watts PSU, gold, full modular, ATX3.1 PCIE5.1",Psu,5299.0,0
+"Cooler Master CM MWE650 V2, 650watts PSU, bronze, pn: MPE-6501-ACAAB | MPE-6501-ACABW",Psu,3250.0,25
+"Cooler Master CM MWE750 V2, 750watts PSU, bronze, pn: MPE-7501-ACAAB | MPE-7501-ACABW",Psu,3650.0,7
+"Cooler Master CM XG850, 850watts PSU, platinum, full modular, smart thermal control mode, pn: MPG-8501-AFBAP-XU2",Psu,10999.0,1
+"Cooler Master CM MWE650 V2, 650watts PSU, gold, full modular, pn: MPE-6501-AFAAG-U2",Psu,4999.0,10
+"Cooler Master CM V850 V2, 850watts PSU, gold, semi fanless full modular, pn: MPY-850V-AFBAG-US",Psu,6999.0,1
+"Cooler Master CM GX650, 650watts PSU, gold, full modular, pn: MPE-6501-AFAAG-TW",Psu,5450.0,2
+"Cooler Master CM GX850, 850watts PSU, gold, full modular, pn: MPE-8501-AFAAG-TW",Psu,5999.0,25
+"Corsair RM850x Shift, 850watts PSU, black, gold, full modular, ATX3.0 PCIE5, pn: CP-9020252",Psu,9399.0,3
+"Corsair RM1000x Shift, 1000watts PSU, black, gold, full modular, ATX3.0 PCIE5, pn: CP-9020253",Psu,12399.0,1
+"Corsair RM650, 650watts PSU, gold, full modular, pn: CP-9020280",Psu,5625.0,-45
+"Corsair SF850L, 850watts PSU, SFX, gold, modular, ATX3.0 PCIE5, pn: CP-9020245",Psu,8899.0,1
+"Corsair SF1000L, 1000watts PSU, SFX, gold, modular, ATX3.0 PCIE5, pn: CP-9020246",Psu,10399.0,2
+"Corsair CX550F RGB, 550watts PSU, black, bronze, full modular, pn: CP-9020216",Psu,4925.0,0
+"Corsair RM750e, 750watts PSU, gold, full modular, ATX3.0 PCIE5, pn: CP-9020262",Psu,6999.0,0
+"Corsair RM850e, 850watts PSU, gold, full modular, ATX3.0 PCIE5, pn: CP-9020263",Psu,7599.0,1
+"Corsair RM1000e, 1000watts PSU, gold, full modular, ATX3.0 PCIE5, pn: CP-9020264",Psu,11599.0,2
+"Corsair RM850, 850watts PSU, white, gold, full modular, pn: CP-9020232",Psu,7999.0,3
+"Corsair CX550, 550watts PSU, bronze, pn: CP-9020277",Psu,2725.0,8
+"Corsair CX650, 650watts PSU, bronze, pn: CP-9020278",Psu,3099.0,5
+"Corsair CX750, 750watts PSU, bronze, pn: CP-9020279",Psu,3550.0,16
+"Corsair RM850x Shift, 850watts PSU, white, gold, full modular, ATX3.0 PCIE5, pn: CP-9020274",Psu,8825.0,0
+"Corsair RM1000x Shift, 1000watts PSU, white, gold, full modular, ATX3.0 PCIE5, pn: CP-9020275",Psu,11399.0,3
+"Corsair RM1200x Shift, 1200watts PSU, white, gold, full modular, ATX3.0 PCIE5, pn: CP-9020276",Psu,12999.0,4
+"Lian Li 850watts PSU, SFX, black chassis, gold, modular, pn: SP850-B",Psu,7380.0,1
+"Lian Li 850watts PSU, SFX, white chassis, gold, modular, pn: SP850-W",Psu,7480.0,1
+"Lian Li Edge 850watts PSU, black, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG0850 BLACK",Psu,7380.0,1
+"Lian Li Edge 1000watts PSU, black, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1000 BLACK",Psu,9199.0,1
+"Lian Li Edge 1000watts PSU, white, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1000 WHITE",Psu,9650.0,1
+"Lian Li Edge 1300watts PSU, black, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1300 BLACK",Psu,10999.0,0
+"Lian Li Edge 1300watts PSU, white, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1300 WHITE",Psu,11425.0,0
+"Asus ROG Thor P2 850watts PSU, platinum, modular, PCIE5, pn: ROG-THOR-850P2-GAMING",Psu,14999.0,0
+"Asus ROG Thor P2 1000watts PSU, platinum, modular, PCIE5, pn: ROG-THOR-1000P2-GAMING",Psu,17099.0,3
+"Asus ROG Thor P2 1200watts PSU, platinum, modular, PCIE5, pn: ROG-THOR-1200P2-GAMING",Psu,19999.0,2
+"Asus ROG EVA Thor 1000watts PSU, platinum, modular, pn: ROG-THOR-1000P2-EVA-GAMING",Psu,19899.0,2
+"Asus ROG Strix 750watts PSU, gold, modular, pn: ROG-STRIX-750G",Psu,7999.0,3
+"Asus ROG Strix 850watts PSU, gold, modular, pn: ROG-STRIX-850G",Psu,9180.0,5
+"Asus TUF 650watts PSU, bronze, pn: TUF-GAMING-650B",Psu,4125.0,4
+"Asus TUF 750watts PSU, bronze, pn: TUF-GAMING-750B",Psu,4725.0,10
+"Asus TUF 750watts PSU, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-750G",Psu,7125.0,3
+"Asus TUF 850watts PSU, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-850G",Psu,8225.0,2
+"Asus TUF 1000watts PSU, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-1000G",Psu,9999.0,3
+"Asus TUF 1200watts PSU, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-1200G",Psu,10999.0,3
+"Asus ROG Loki 750watts black, PSU, SFX-L, platinum, modular, ATX3.0 PCIE5, pn: ROG-LOKI-750P-SFX-L-GAMING",Psu,8350.0,1
+"Asus ROG Loki 850watts black, PSU, SFX-L, platinum, modular, ATX3.0 PCIE5, pn: ROG-LOKI-850P-SFX-L-GAMING",Psu,9899.0,2
+"Asus ROG Loki 1000watts black, PSU, SFX-L, platinum, modular, ATX3.0 PCIE5, pn: ROG-LOKI-1000P-SFX-L-GAMING",Psu,12650.0,2
+"Asus ROG Loki 850watts white, PSU, SFX-L, platinum, modular, ATX3.0 PCIE5, pn: ROG-LOKI-850P-SFX-L-WHITE-GAMING",Psu,12225.0,1
+"Asus ROG Strix Aura 750watts PSU, gold, modular, ATX3.0 PCIE5, pn: ROG-STRIX-AURA-750G-GAMING",Psu,10500.0,1
+"Asus ROG Strix Aura 850watts PSU, gold, modular, ATX3.0 PCIE5, pn: ROG-STRIX-AURA-850G-GAMING",Psu,11750.0,3
+"Asus ROG Strix Aura 1200watts PSU, gold, modular, ATX3.0 PCIE5, pn: ROG-STRIX-1200G-AURA-GAMING",Psu,14580.0,2
+"Asus ROG Thor 1600watts PSU, titanium, modular, PCIE5, pn: ROG-THOR-1600T-GAMING",Psu,34680.0,0
+"Asus Prime 750watts PSU, gold, modular, ATX3.0 PCIE5, pn: AP-750G",Psu,5999.0,4
+"Asus Prime 850watts PSU, gold, modular, ATX3.0 PCIE5, pn: AP-850G",Psu,6999.0,4
+"Asus TUF 1000watts white, PSU, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-1000G-WHITE",Psu,10799.0,2
+"Gigabyte 450watts PSU, bronze, pn: GP-P450B",Psu,2150.0,10
+"Gigabyte 550watts PSU, bronze, pn: GP-P550B",Psu,2580.0,23
+"Gigabyte 750watts PSU, black, gold, full modular, pn: GP-UD750GM",Psu,5325.0,3
+"Gigabyte 650watts PSU, gold, pn: GP-P650G",Psu,3299.0,16
+"Gigabyte 750watts PSU, black, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD750GM-PG5",Psu,5999.0,4
+"Gigabyte 850watts PSU, black, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD850GM-PG5",Psu,6799.0,2
+"Gigabyte 1000watts PSU, black, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD1000GM-PG5",Psu,8999.0,4
+"Gigabyte 1300watts PSU, black, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD1300GM-PG5",Psu,14580.0,2
+"Gigabyte 850watts PSU, white, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD850GM-PG5W",Psu,7180.0,3
+"Aorus Elite 850watts PSU, black, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM PG5",Psu,7725.0,2
+"Aorus Elite 1000watts PSU, black, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM PG5",Psu,9680.0,1
+"Aorus Elite 850watts PSU, white, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM PG5 ICE",Psu,7999.0,0
+"Aorus Elite 1000watts PSU, white, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM PG5 ICE",Psu,9999.0,1
+"iForgame 600watts, RPO600, PSU, 80 white",Psu,1399.0,0
+"iForgame 650watts, SP650, PSU, silver, Modular",Psu,2099.0,0
+"iForgame 750watts, SP750, PSU, silver, Modular",Psu,2599.0,128
+"iForgame 550watts, GX550, PSU, gold, Modular",Psu,2299.0,188
+"iForgame 650watts, GX650, PSU, gold, Modular",Psu,3099.0,197
+"iForgame 750watts, GX750, PSU, gold, Modular",Psu,3480.0,73
+"iForgame 850watts, GX850, PSU, gold, Modular",Psu,3950.0,37
+"Seasonic Focus SPX platinum 750watts PSU, SFX, full modular, pn: SPX-750",Psu,9650.0,0
+"Aorus Elite 850watts PSU, black, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM-PG5",Psu,7725.0,2
+"Aorus Elite 1000watts PSU, black, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM-PG5",Psu,9680.0,1
+"Aorus Elite 850watts PSU, white, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM-PG5-ICE",Psu,7999.0,0
+"Aorus Elite 1000watts PSU, white, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM-PG5-ICE",Psu,9999.0,1
+"Seasonic Prime PX Platinum 1600watts PSU, full modular, ATX3.0 PCIE5, pn:",Psu,21299.0,0
+"Seasonic Prime PX Platinum 1600watts PSU, full modular, ATX3.0 PCIE5, pn: SSR-1600PD",Psu,21299.0,0
+"Corsair RM850x, 850watts PSU, black, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020270",Psu,8099.0,0
+"Corsair RM1000x, 1000watts PSU, black, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020271",Psu,10500.0,0
+"NZXT C850, 850watts PSU black, gold, full modular, ATX3.1, pn: PA-8G2BB-US",Psu,7850.0,0
+"NZXT C850, 850watts PSU white, gold, full modular, ATX3.1, pn: PA-8G2BW-US",Psu,7999.0,0
+"FSP Dagger Pro SFX 850watts PSU, white, gold, full modular, ATX3.0 PCIE5",Psu,7450.0,3
+"FSP Vita GM 750watts PSU black, gold, full modular, ATX3.1 PCIE5.1",Psu,6580.0,4
+"FSP Vita GM 850watts PSU black, gold, full modular, ATX3.1 PCIE5.1",Psu,6999.0,3
+"FSP Vita GM 1000watts PSU black, gold, full modular, ATX3.1 PCIE5.1",Psu,7799.0,1
+"FSP Vita GM 850watts PSU white, gold, full modular, ATX3.1 PCIE5.1",Psu,6999.0,0
+"FSP Vita GM 1000watts PSU white, gold, full modular, ATX3.1 PCIE5.1",Psu,7799.0,0
+"Corsair RM750, 750watts PSU white, gold, full modular, pn: CP-9020231",Psu,7899.0,0
+"Seasonic Core GX750, 750watts PSU, gold, full modular, ATX 3.1 PCIE5.1, pn: SRP-CGX751-A5A32SF",Psu,6450.0,0
+"Seasonic Core GX850, 850watts PSU, gold, full modular, ATX 3.1 PCIE5.1, pn: SRP-CGX851-A5A32SF",Psu,7699.0,0
+"Seasonic Focus GX gold 750watts PSU, black color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX751-A5A32SF",Psu,7799.0,0
+"Seasonic Focus GX gold 850watts PSU, black color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX851-A5A32SF",Psu,8999.0,0
+"Seasonic Focus GX gold 1000watts PSU, black color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX102-A5A32SF",Psu,10999.0,1
+"Seasonic Focus GX gold 750watts PSU, white color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX751-A5A32SF",Psu,8350.0,0
+"Seasonic Focus GX gold 850watts PSU, white color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX851-A5A32SF",Psu,9699.0,0
+"Seasonic Focus GX gold 1000watts PSU, white color, full modular, pn: SSR-1000FX",Psu,9399.0,2
+"Seasonic Focus GX gold 750watts PSU black color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX751-A5A32SF",Psu,7799.0,0
+"Seasonic Focus GX gold 850watts PSU black color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX851-A5A32SF",Psu,8999.0,0
+"Seasonic Focus GX gold 1000watts PSU black color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX102-A5A32SF",Psu,10999.0,1
+"Seasonic Focus GX gold 750watts PSU white color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX751-A5A32SF",Psu,8350.0,0
+"Seasonic Focus GX gold 850watts PSU white color, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX851-A5A32SF",Psu,9699.0,0
+"Seasonic Focus GX gold 1000watts PSU white color, full modular, pn: SSR-1000FX",Psu,9399.0,2
+"NZXT C850, 850watts PSU black color, gold, full modular, ATX3.1, pn: PA-8G2BB-US",Psu,7850.0,0
+"NZXT C1000, 1000watts PSU black color, gold, full modular, ATX3.1, pn: PA-0G2BB-US",Psu,9850.0,0
+"NZXT C1200, 1200watts PSU black color, gold, full modular, ATX3.1, pn: PA-2G2BB-US",Psu,10699.0,0
+"NZXT C850, 850watts PSU white color, gold, full modular, ATX3.1, pn: PA-8G2BW-US",Psu,7999.0,0
+"NZXT C1000, 1000watts PSU white color, gold, full modular, ATX3.1, pn: PA-0G2BW-US",Psu,9999.0,0
+"NZXT C1200, 1200watts PSU white color, gold, full modular, ATX3.1, pn: PA-2G2BW-US",Psu,10899.0,0
+"FSP Dagger Pro SFX 850watts PSU black color, gold, full modular, ATX3.0 PCIE5",Psu,7450.0,1
+"FSP Dagger Pro SFX 850watts PSU white color, gold, full modular, ATX3.0 PCIE5",Psu,7450.0,3
+"FSP Vita GM 750watts PSU black color, gold, full modular, ATX3.1 PCIE5.1",Psu,6580.0,4
+"FSP Vita GM 850watts PSU black color, gold, full modular, ATX3.1 PCIE5.1",Psu,6999.0,3
+"FSP Vita GM 1000watts PSU black color, gold, full modular, ATX3.1 PCIE5.1",Psu,7799.0,1
+"FSP Vita GM 850watts PSU white color, gold, full modular, ATX3.1 PCIE5.1",Psu,6999.0,0
+"FSP Vita GM 1000watts PSU white color, gold, full modular, ATX3.1 PCIE5.1",Psu,7799.0,0
+"Phanteks AMP GH, 750watts PSU black color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P750GH_BK01_US",Psu,4799.0,0
+"Phanteks AMP GH, 750watts PSU white color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P750GH_WT01_US",Psu,5250.0,0
+"Phanteks AMP GH, 850watts PSU black color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P850GH_BK01_US",Psu,5699.0,0
+"Phanteks AMP GH, 850watts PSU white color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P850GH_WT01_US",Psu,6150.0,0
+"Phanteks AMP GH, 1000watts PSU black color, platinum, full modular, ATX 3.1 PCIE5.1, pn: PH-P1000GH_BK01_US",Psu,7099.0,0
+"Phanteks AMP GH, 1000watts PSU white color, platinum, full modular, ATX 3.1 PCIE5.1, pn: PH-P1000GH_WT01_US",Psu,7599.0,0
+"Corsair RM850x Shift, 850watts PSU black color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020252",Psu,9399.0,3
+"Corsair RM1000x Shift, 1000watts PSU black color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020253",Psu,12399.0,1
+"Corsair RM750, 750watts PSU white color, gold, full modular, pn: CP-9020231",Psu,7899.0,0
+"Corsair RM850, 850watts PSU white color, gold, full modular, pn: CP-9020232",Psu,7999.0,3
+"Corsair RM850x Shift, 850watts PSU white color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020274",Psu,8825.0,0
+"Corsair RM1000x Shift, 1000watts PSU white color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020275",Psu,11399.0,3
+"Corsair RM1200x Shift, 1200watts PSU white color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020276",Psu,12999.0,4
+"Corsair RM850x, 850watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020270",Psu,8099.0,0
+"Corsair RM1000x, 1000watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020271",Psu,10500.0,0
+"Lian Li 850watts PSU white color, SFX, gold, modular, pn: SP850-W",Psu,7480.0,1
+"Lian Li Edge 850watts PSU black color, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG0850 BLACK",Psu,7380.0,1
+"Lian Li Edge 1000watts PSU black color, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1000 BLACK",Psu,9199.0,1
+"Lian Li Edge 1000watts PSU white color, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1000 WHITE",Psu,9650.0,1
+"Lian Li Edge 1300watts PSU black color, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1300 BLACK",Psu,10999.0,0
+"Lian Li Edge 1300watts PSU white color, platinum, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG1300 WHITE",Psu,11425.0,0
+"Asus TUF 750watts PSU black color, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-750G",Psu,7125.0,3
+"Asus TUF 850watts PSU black color, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-850G",Psu,8099.0,2
+"Asus TUF 1000watts PSU black color, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-1000G",Psu,9850.0,3
+"Asus TUF 1200watts PSU black color, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-1200G",Psu,10999.0,3
+"Asus ROG Loki 750watts PSU black color, SFX-L, platinum, modular, ATX3.0 PCIE5, pn: ROG-LOKI-750P-SFX-L-GAMING",Psu,8350.0,1
+"Asus TUF 1000watts PSU white color, gold, modular, ATX3.0 PCIE5, pn: TUF-GAMING-1000G-WHITE",Psu,10799.0,2
+"Gigabyte 750watts PSU black color, gold, full modular, pn: GP-UD750GM",Psu,5325.0,3
+"Gigabyte 750watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD750GM-PG5",Psu,5999.0,4
+"Gigabyte 850watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD850GM-PG5",Psu,6799.0,2
+"Gigabyte 1000watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD1000GM-PG5",Psu,8999.0,4
+"Gigabyte 1300watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD1300GM-PG5",Psu,14580.0,2
+"Gigabyte 850watts PSU white color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD850GM-PG5W",Psu,7180.0,3
+"Aorus Elite 850watts PSU black color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM-PG5",Psu,7725.0,2
+"Aorus Elite 1000watts PSU black color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM-PG5",Psu,9680.0,1
+"Aorus Elite 850watts PSU white color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM-PG5-ICE",Psu,7999.0,0
+"Aorus Elite 1000watts PSU white color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM-PG5-ICE",Psu,9999.0,1
+"Lian Li 850watts PSU black color, SFX, gold, modular, pn: SP850-B",Psu,7380.0,1
+"Asus ROG Strix 850watts PSU, platinum, modular, ATX3.1 PCIE5, pn: ROG-STRIX-850P-GAMING",Psu,11750.0,0
+"Asus ROG Strix 1000watts PSU, platinum, modular, ATX3.1 PCIE5, pn: ROG-STRIX-1000P-GAMING",Psu,13350.0,0
+"Asus ROG Strix 1200watts PSU, platinum, modular, ATX3.1 PCIE5, pn: ROG-STRIX-1200P-GAMING",Psu,15299.0,0
+"Cooler Master CM MWE650 V3, 650watts PSU, bronze, ATX3.1, pn: MPE-6501-ACABW-3BUS",Psu,3599.0,0
+"Cooler Master CM MWE750 V3, 750watts PSU, bronze, ATX3.1, pn: MPE-7501-ACABW-3BUS",Psu,3999.0,0
+"Cooler Master CM MWE750 V2, 750watts PSU, gold, ATX3.1, full modular, pn: MPE-7501-AFAAG-3EU2",Psu,6099.0,0
+"Cooler Master CM MWE850 V2, 850watts PSU, gold, ATX3.1, full modular, pn: MPE-8501-AFAAG-3EU2",Psu,6999.0,0
+"Gigabyte 750watts PSU, bronze, pn: GP-P750BS",Psu,3450.0,0
+"MSI MAG A750GL PCIE5 750watts PSU, gold, full modular, ATX3.0, pn: MAG A750GL PCIE5",Psu,4799.0,0
+"MSI MAG A850GL PCIE5 850watts PSU, gold, full modular, ATX3.0, pn: MAG A850GL PCIE5",Psu,5399.0,0
+"Deep Cool DC DQ1000M-V3L 1000watts PSU, gold, full modular, pn: R-DQA00M-FB0B-US",Psu,6680.0,0
+"Deep Cool DC PX1000G 1000watts PSU, gold, full modular, ATX3.0 PCIE5, pn: R-PXA00G-FC0B-US",Psu,8899.0,1
+"Seasonic Core GC650 650watts PSU, gold, pn: SSR-650LC",Psu,4350.0,3
+"Seasonic Core GX750 750watts PSU, gold, full modular, ATX 3.1 PCIE5.1, pn: SRP-CGX751-A5A32SF",Psu,6450.0,5
+"Seasonic Core GX850 850watts PSU, gold, full modular, ATX 3.1 PCIE5.1, pn: SRP-CGX851-A5A32SF",Psu,7699.0,5
+"Seasonic Prime PX 1300watts PSU, platinum, full modular, pn: SSR-1300PD APFC F3",Psu,14399.0,1
+"Seasonic Prime PX, 1600watts PSU, platinum, full modular, ATX3.0 PCIE5, pn: SSR-1600PD",Psu,21299.0,1
+"Seasonic Prime GX 750watts PSU, gold, full modular, pn: SSR-750GD APFC F3",Psu,7999.0,3
+"Seasonic Prime GX 1000watts PSU, gold, full modular, pn: SSR-1000GD APFC F3",Psu,10599.0,2
+"Seasonic Prime GX 1300watts PSU, gold, full modular, pn: SSR-1300GD APFC F3",Psu,11999.0,1
+"Seasonic Focus GX 750watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX751-A5A32SF",Psu,7799.0,2
+"Seasonic Focus GX 850watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX851-A5A32SF",Psu,8999.0,10
+"Seasonic Focus GX 1000watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX102-A5A32SF",Psu,10999.0,3
+"Seasonic Focus 850PX 850watts PSU, platinum, full modular, pn: SSR-850PX",Psu,8799.0,2
+"Seasonic Focus GM 650watts PSU, gold, semi modular, pn: SSR-650FM",Psu,5150.0,0
+"Seasonic Focus GM 850watts PSU, gold, semi modular, pn: SSR-850FM",Psu,6699.0,0
+"Seasonic Focus SGX 500watts PSU, SFX, gold, full modular, pn: SSR-500SGX",Psu,4450.0,2
+"Seasonic Focus SPX 750watts PSU, SFX, platinum, full modular, pn: SPX-750",Psu,10350.0,1
+"Seasonic Focus GX 750watts PSU white color, gold, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX751-A5A32SF",Psu,8350.0,4
+"Seasonic Focus GX 850watts PSU white color, gold, full modular, ATX3.1 PCIE5.1, pn: SRP-FGX851-A5A32SF",Psu,9699.0,4
+"Seasonic Focus GX 1000watts PSU white color, gold, full modular, pn: SSR-1000FX",Psu,12150.0,3
+"Seasonic Prime TX Ultra 1300watts PSU, titanium, full modular, ATX3.0 PCIE5, pn: SSR-1300TR",Psu,21999.0,0
+"Seasonic B12 BM650 650watts PSU, bronze, semi modular, pn: A651BMAFH",Psu,3980.0,2
+"Seasonic B12 BM750 750watts PSU, bronze, semi modular, pn: A751BMAFH",Psu,4480.0,3
+"Seasonic B12 BM850 850watts PSU, bronze, semi modular, pn: A851BMAFH",Psu,5250.0,1
+"Seasonic B12 BC650 650watts PSU, bronze, pn: A651BCAFH",Psu,3580.0,2
+"Seasonic B12 BC750 750watts PSU, bronze, pn: A751BCAFH",Psu,3999.0,0
+"Seasonic B12 BC850 850watts PSU, bronze, pn: A851BCAFH",Psu,4599.0,0
+"Seasonic G12 GC650 650watts PSU, gold, pn: SSP-650RT2",Psu,3980.0,4
+"Seasonic G12 GC750 750watts PSU, gold, pn: SSP-750RT2",Psu,4480.0,0
+"Seasonic G12 GC850 850watts PSU, gold, pn: SSP-850RT2",Psu,6199.0,8
+"Seasonic G12 GM650 650watts PSU, gold, semi modular, pn: SSR-650FM",Psu,5199.0,1
+"Seasonic G12 GM750 750watts PSU, gold, semi modular, pn: SSR-750FM",Psu,5699.0,2
+"Seasonic G12 GM850 850watts PSU, gold, semi modular, pn: A851GMAFH",Psu,6599.0,3
+"Seasonic Vertex GX 750 750watts PSU, gold, full modular, ATX3.0 PCIE5, pn: 12751GXAFS",Psu,9950.0,1
+"Seasonic Vertex GX 850 850watts PSU, gold, full modular, ATX3.0 PCIE5, pn: 12851GXAFS",Psu,11250.0,1
+"Seasonic Vertex GX 1200 1200watts PSU, gold, full modular, ATX3.0 PCIE5, pn: 12122GXAFS",Psu,14899.0,1
+"NZXT C850 850watts PSU black color, gold, full modular, ATX3.1, pn: PA-8G2BB-US",Psu,7850.0,1
+"NZXT C1000 1000watts PSU black color, gold, full modular, ATX3.1, pn: PA-0G2BB-US",Psu,9850.0,0
+"NZXT C1200 1200watts PSU black color, gold, full modular, ATX3.1, pn: PA-2G2BB-US",Psu,10699.0,0
+"NZXT C850 850watts PSU white color, gold, full modular, ATX3.1, pn: PA-8G2BW-US",Psu,7999.0,0
+"NZXT C1000 1000watts PSU white color, gold, full modular, ATX3.1, pn: PA-0G2BW-US",Psu,9999.0,0
+"NZXT C1200 1200watts PSU white color, gold, full modular, ATX3.1, pn: PA-2G2BW-US",Psu,10899.0,0
+"FSP Hydro M Pro, 700watts PSU, bronze, semi modular",Psu,3499.0,0
+"FSP Hydro M Pro, 800watts PSU, bronze, semi modular",Psu,3725.0,2
+"FSP SFX Pro, 450watts PSU, bronze",Psu,3025.0,3
+"MSI MEG Ai1300P 1300watts, PSU, platinum, full modular, ATX3.0, pn: MEG Ai 1300P PCIE5",Psu,15950.0,0
+"MSI MAG A750GL 750watts PSU black color, gold, full modular, ATX3.0, pn: MAG A750GL PCIE5",Psu,4799.0,0
+"MSI MAG A850GL,  850watts PSU black color, gold, full modular, ATX3.0, pn: MAG A850GL PCIE5",Psu,5399.0,0
+"MSI MAG A850GL 850watts PSU white color, gold, full modular, ATX3.0, pn: MAG A850GL PCIE5 WHITE",Psu,6599.0,0
+"Phanteks AMP GH 750watts PSU black color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P750GH_BK01_US",Psu,4799.0,5
+"Phanteks AMP GH 750watts PSU white color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P750GH_WT01_US",Psu,5250.0,3
+"Phanteks AMP GH 850watts PSU black color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P850GH_BK01_US",Psu,5699.0,4
+"Phanteks AMP GH 850watts PSU white color, gold, full modular, ATX 3.1 PCIE5.1, pn: PH-P850GH_WT01_US",Psu,6150.0,3
+"Phanteks AMP GH 1000watts PSU black color, platinum, full modular, ATX 3.1 PCIE5.1, pn: PH-P1000GH_BK01_US",Psu,7099.0,1
+"Phanteks AMP GH 1000watts PSU white color, platinum, full modular, ATX 3.1 PCIE5.1, pn: PH-P1000GH_WT01_US",Psu,7599.0,1
+"Silver Stone SST Attis 650watts PSU, bronze, ATX3.1, pn: SST-AT650R-BF",Psu,3150.0,1
+"Silver Stone SST Attis 750watts PSU, bronze, ATX3.1, pn: SST-AT750R-BF",Psu,3399.0,1
+"Cooler Master CM MWE650 V3 650watts PSU, bronze, ATX3.1, pn: MPE-6501-ACABW-3BUS",Psu,3599.0,0
+"Cooler Master CM MWE750 V3 750watts PSU, bronze, ATX3.1, pn: MPE-7501-ACABW-3BUS",Psu,3999.0,0
+"Cooler Master CM XG850 850watts PSU, platinum, full modular, smart thermal control mode, pn: MPG-8501-AFBAP-XU2",Psu,10999.0,1
+"Cooler Master CM MWE650 V2 650watts PSU, gold, full modular, pn: MPE-6501-AFAAG-U2",Psu,4999.0,13
+"Cooler Master CM MWE750 V2 750watts PSU, gold, ATX3.1, full modular, pn: MPE-7501-AFAAG-3EU2",Psu,6099.0,0
+"Cooler Master CM MWE850 V2 850watts PSU, gold, ATX3.1, full modular, pn: MPE-8501-AFAAG-3EU2",Psu,6999.0,0
+"Corsair RM850x Shift 850watts PSU black color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020252",Psu,8299.0,0
+"Corsair RM1000x Shift 1000watts PSU black color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020253",Psu,9699.0,0
+"Corsair RM650 650watts PSU, gold, full modular, pn: CP-9020280",Psu,5625.0,5
+"Corsair SF850L 850watts PSU, SFX, gold, modular, ATX3.0 PCIE5, pn: CP-9020245",Psu,8899.0,1
+"Corsair SF1000L 1000watts PSU, SFX, gold, modular, ATX3.0 PCIE5, pn: CP-9020246",Psu,10399.0,3
+"Corsair RM750e 750watts PSU, gold, full modular, ATX3.0 PCIE5, pn: CP-9020262",Psu,6999.0,12
+"Corsair RM850e 850watts PSU, gold, full modular, ATX3.0 PCIE5, pn: CP-9020263",Psu,7599.0,2
+"Corsair RM1000e 1000watts PSU, gold, full modular, ATX3.0 PCIE5, pn: CP-9020264",Psu,11599.0,4
+"Corsair RM750 750watts PSU white color, gold, full modular, pn: CP-9020231",Psu,7899.0,3
+"Corsair RM850 850watts PSU white color, gold, full modular, pn: CP-9020232",Psu,7999.0,4
+"Corsair CX550 550watts PSU, bronze, pn: CP-9020277",Psu,2725.0,11
+"Corsair CX650 650watts PSU, bronze, pn: CP-9020278",Psu,3099.0,33
+"Corsair CX750 750watts PSU, bronze, pn: CP-9020279",Psu,3550.0,6
+"Corsair RM850x Shift 850watts PSU white color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020274",Psu,8825.0,2
+"Corsair RM1000x Shift 1000watts PSU white color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020275",Psu,11399.0,3
+"Corsair RM1200x Shift 1200watts PSU white color, gold, full modular, ATX3.0 PCIE5, pn: CP-9020276",Psu,12999.0,1
+"Corsair RM850x 850watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020270",Psu,8099.0,0
+"Corsair RM1000x 1000watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020271",Psu,10500.0,3
+"Corsair RM750e, 750watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020295",Psu,7199.0,0
+"Corsair RM850e, 850watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020296",Psu,7699.0,0
+"Corsair RM1000e, 1000watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020297",Psu,9799.0,0
+"Gigabyte P450B, 450watts PSU, bronze, pn: GP-P450B",Psu,2150.0,15
+"Gigabyte P550B 550watts PSU, bronze, pn: GP-P550B",Psu,2580.0,0
+"Gigabyte P750BS 750watts PSU, bronze, pn: GP-P750BS",Psu,3450.0,0
+"Gigabyte UD750GM 750watts PSU black color, gold, full modular, pn: GP-UD750GM",Psu,5325.0,0
+"Gigabyte P650G 650watts PSU, gold, pn: GP-P650G",Psu,3299.0,5
+"Gigabyte UD750GM 750watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD750GM PG5",Psu,5999.0,3
+"Gigabyte UD850GM 850watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD850GM PG5",Psu,6799.0,2
+"Gigabyte UD1000GM 1000watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD1000GM PG5",Psu,8999.0,2
+"Gigabyte UD1300GM 1300watts PSU black color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD1300GM PG5",Psu,14580.0,2
+"Gigabyte UD850GM 850watts PSU white color, gold, full modular, ATX 3.0 PCIE5, pn: GP-UD850GM PG5W",Psu,7180.0,1
+"Aorus Elite 850watts PSU black color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM PG5",Psu,7725.0,3
+"Aorus Elite 1000watts PSU black color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM PG5",Psu,9680.0,1
+"Aorus Elite 850watts PSU white color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE850PM PG5 ICE",Psu,7999.0,0
+"Aorus Elite 1000watts PSU white color, platinum, full modular, ATX 3.0 PCIE5, pn: GP-AE1000PM PG5 ICE",Psu,9999.0,3
+"Gigabyte P550SS 550watts PSU black color, 80 silver, pn: GP-P550SS",Psu,2499.0,0
+"Gigabyte P650SS 650watts PSU black color, 80 silver, pn: GP-P650SS",Psu,2999.0,0
+"Gigabyte P550SS ICE 550watts PSU white color, 80 silver, pn: GP-P550SS ICE",Psu,2499.0,0
+"Gigabyte P650SS ICE 650watts PSU white color, 80 silver, pn: GP-P650SS ICE",Psu,2999.0,0
+"iForgame 600watts RPO600, PSU, 80 white",Psu,1399.0,0
+"iForgame 650watts SP650, PSU, 80 silver, modular",Psu,2099.0,0
+"iForgame 750watts SP750, PSU, 80 silver, modular",Psu,2599.0,77
+"iForgame 550watts GX550, PSU, gold, modular",Psu,2299.0,40
+"iForgame 650watts GX650, PSU, gold, modular",Psu,3099.0,178
+"iForgame 750watts GX750, PSU, gold, modular",Psu,3480.0,62
+"iForgame 850watts GX850, PSU, gold, modular",Psu,3950.0,16
+"Ocypus Gamma P550, 550watts, 80 white, pn: GAMMA-P550-W1HDBK024X-US",Psu,2350.0,0
+"Ocypus Gamma P650, 650watts, 80 white, pn: GAMMA-P650-W1HDBK024X-US",Psu,2699.0,0
+"Ocypus Gamma P750, 750watts, 80 white, pn: GAMMA-P750-W1HDBK024X-US",Psu,2999.0,0
+"Ocypus Gamma P850, 850watts, 80 white, pn: GAMMA-P850-W1HDBK024X-US",Psu,3180.0,0
+"FSP Vita GM 650watts PSU black color, gold, full modular, ATX3.1 PCIE5.1",Psu,5499.0,0
+"FSP Vita GM 750watts PSU white color, gold, full modular, ATX3.1 PCIE5.1",Psu,6450.0,0
+"FSP Vita BD 750watts PSU black color, bronze, ATX3.1 PCIE5.1",Psu,3450.0,0
+"FSP Vita BD 850watts PSU black color, bronze, ATX3.1 PCIE5.1",Psu,3680.0,0
+"FSP Vita GD 750watts PSU black color, gold, ATX3.1 PCIE5.1",Psu,4299.0,0
+"FSP Vita GD 850watts PSU black color, gold, ATX3.1 PCIE5.1",Psu,4699.0,0
+"MSI MAG A850GL  850watts PSU black color, gold, full modular, ATX3.0, pn: MAG A850GL PCIE5",Psu,6599.0,0
+"MSI MAG A850GL 850watts PSU black color, gold, full modular, ATX3.0, pn: MAG A850GL PCIE5",Psu,6599.0,0
+"MSI MAG A1000GL 1000watts PSU black color, gold, full modular, ATX3.0, pn:",Psu,8799.0,0
+"MSI MAG A1250GL 1250watts PSU black color, gold, full modular, ATX3.0, pn:",Psu,11500.0,0
+"MSI MAG A750GN 750watts PSU black color, gold, ATX3.1, pn:",Psu,4699.0,0
+"MSI MAG A850GN 850watts PSU black color, gold, ATX3.1, pn:",Psu,5350.0,0
+"Corsair SF850, 850watts PSU, SFX, platinum, full modular, ATX3.1 PCIE5.1, pn: CP-9020256",Psu,10499.0,0
+"Deep Cool DC PL650D-V2, 650watts PSU, bronze, ATX3.1 PCIE5.1,  pn: R-PL650D-FC0B-US-V2",Psu,2999.0,0
+"MSI MAG A1000GL 1000watts PSU black color, gold, full modular, ATX3.1, pn: MAG A1000GL PCIE5",Psu,8799.0,0
+"MSI MAG A1250GL 1250watts PSU black color, gold, full modular, ATX3.1, pn: MAG A1250GL PCIE5",Psu,11500.0,0
+"MSI MAG A750GN 750watts PSU black color, gold, ATX3.1, pn: MAG A750GN PCIE5",Psu,4699.0,0
+"MSI MAG A850GN 850watts PSU black color, gold, ATX3.1, pn: MAG A850GN PCIE5",Psu,5350.0,0
+"Cougar STC 5000watts PSU, 80 white, pn: STC500",Psu,1880.0,0
+"Galax Omega GL650S 650watts PSU, bronze, pn: PGO50BOTNATB0",Psu,2950.0,0
+"Corsair RM650e, 650watts PSU black color, cybenetics gold, full modular, ATX3.1 PCIE5.1, pn: CP-9020302",Psu,5550.0,0
+"Seasonic Focus SGX 650watts PSU, SFX, gold, full modular, pn: SSR-650SGX",Psu,6350.0,0
+"Corsair SF1000 1000watts PSU, SFX, platinum, modular, ATX3.1 PCIE5.1, pn: CP-9020257",Psu,12599.0,0
+"Asus ROG Thor 3 1600watts PSU, titanium, modular, ATX3.1 PCIE5.1, pn: ROG-THOR-1600T3-GAMING",Psu,43099.0,0
+"Lian Li Edge 750watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG0750G",Psu,5099.0,0
+"Lian Li Edge 850watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG0850G BLACK",Psu,5599.0,0
+"Lian Li Edge 850watts PSU white color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG0850G WHITE",Psu,5899.0,0
+"Lian Li Edge 1000watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG01000G BH BLACK",Psu,7699.0,0
+"Lian Li Edge 1000watts PSU white color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG01000G WH WHITE",Psu,7699.0,0
+"Lian Li Edge 1200watts PSU black color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG01200G BH BLACK",Psu,8650.0,0
+"Lian Li Edge 1200watts PSU white color, gold, full modular, ATX3.1 PCIE5.1, L-shape for dual chamber, pn: EG01200G WH WHITE",Psu,8650.0,0
+"Asus Prime 650watts PSU, bronze, pn: PRIME-650B-BLACK",Psu,3599.0,0
+"Asus ROG Thor P3 1000watts PSU, platinum, modular, ATX3.1 PCIE5.1, pn: ROG-THOR-1000P3-GAMING",Psu,24399.0,0
+"Asus ROG Thor P3 1200watts PSU, platinum, modular, ATX3.1 PCIE5.1, pn: ROG-THOR-1200P3-GAMING",Psu,25199.0,0
+"Thermaltake TT Smart BX3 550watts PSU, bronze, ATX3.1, pn:",Psu,2799.0,0
+"Thermaltake TT Smart BX3 650watts PSU, bronze, ATX3.1, pn:",Psu,3199.0,0
+"Thermaltake TT Smart BX3 750watts PSU, bronze, ATX3.1, pn:",Psu,3550.0,0
+"Thermaltake TT Smart BX3 550watts PSU, bronze, ATX3.1, pn: PS-SPD-0550NNFABU-3",Psu,2799.0,0
+"Thermaltake TT Smart BX3 650watts PSU, bronze, ATX3.1, pn: PS-SPD-0650NNFABU-3",Psu,3199.0,0
+"Thermaltake TT Smart BX3 750watts PSU, bronze, ATX3.1, pn: PS-SPD-0750NNFABU-3",Psu,3550.0,0
+"NZXT C750, 750watts PSU black color, bronze, pn: PA-7B2BB-US",Psu,3550.0,0
+"Asus Prime 750watts PSU, bronze, pn: PRIME-750B-BLACK",Psu,3925.0,0
+"Seasonic Core GX650 650watts PSU, gold, full modular, ATX 3.1 PCIE5.1, pn: SRP-CGX651-A5A32SF",Psu,5799.0,6

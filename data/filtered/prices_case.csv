@@ -1,0 +1,659 @@
+item_name,category_name,item_price_in_php,stocks
+"Cooler Master CM CMP 510 aRGB TG, black, ATX, 3x120mm, pn: CP510-KGNN-S00",Case,2999.0,1
+"Cooler Master CM CMP 320 aRGB TG, black, mATX, 2x120mm, USB3 1C 1A, pn: CP320-KGNN-S00",Case,3350.0,5
+"Cooler Master CM TD300 MESH TG, black, mATX, 2x120mm, pn: TD300-KGNN-S00",Case,3750.0,4
+"Cooler Master CM TD300 MESH TG, white, mATX, 2x120mm, pn: TD300-WGNN-S00",Case,3880.0,4
+"Cooler Master CM H500M TG, black, ATX, 2x200mm 1x140mm, USB3 1C 4A, pn: MCM-H500M-IHNN-S00",Case,8825.0,8
+"Cooler Master CM HAF500 TG, black, ATX, 2x200mm 2x120mm, USB3 1C 2A, pn: H500-KGNN-S00",Case,6380.0,1
+"Cooler Master CM Q300P TG, black, mATX, 3x120mm, pn: MCB-Q300P-KANN-S02",Case,3299.0,9
+"Cooler Master CM Q300L V2 TG, black, mATX, 1x120mm, pn: Q300LV2-KGNN-S01",Case,2950.0,41
+"Cooler Master CM TD500 MESH V2 TG, black ATX, 3x120mm aRGB, USB3.2 1C 2A, pn: TD500V2-KGNN-S00",Case,5799.0,4
+"Cooler Master CM TD500 MESH V2 TG, white ATX, 3x120mm aRGB, USB3.2 1C 2A, pn: TD500V2-WGNN-S00",Case,4999.0,2
+"Cooler Master CM MB320L TG, black, mATX, 1x120mm, pn: MCB-B320L-KGNN-S00",Case,2399.0,3
+"Cooler Master CM HAF 700 Evo TG, titanium grey, ATX, 2x200mm 3x120mm, USB3 1C 4A, pn: H700E-IGNN-S00",Case,26450.0,0
+"Cooler Master CM HAF 700 TG, titanium grey, ATX, 2x200mm 3x120mm, USB3 1C 4A, pn: H700-IGNN-S00",Case,17580.0,0
+"Cooler Master CM MB520 TG Mesh, black, ATX, 3x120mm, pn: MB520-KGNN-S00",Case,4350.0,2
+"Cooler Master CM MB520 TG Mesh, white, ATX, 3x120mm, pn: MB520-WGNN-S00",Case,4580.0,1
+"Cooler Master CM Qube 500 Flatpack, black, ATX, 1x120mm, USB3 1C 2A, pn: Q500-KGNN-S00",Case,4399.0,1
+"Cooler Master CM Qube 500 Flatpack, white, ATX, 1x120mm, USB3 1C 2A, pn: Q500-WGNN-S00",Case,4525.0,2
+"Cooler Master CM Qube 500 Flatpack Macaron, ATX, 1x120mm, USB3 1C 2A, pn: Q500-DGNN-S00",Case,5499.0,1
+"Cooler Master CM TD500 Mesh V2 SF6 Ryu TG, ATX, 4x120mm aRGB, USB3 1C 2A, pn: TD500V2-WGNN-SRY",Case,5599.0,4
+"Cooler Master CM Sneaker X, red, ITX, 850 SFX PSU Gold, Flux 360mm AIO Cooler, gpu riser, pn: ABK-SXNN-S38L3-R1",Case,70250.0,1
+"Cooler Master CM NR200P V2 Steel TG, black, ITX, 1x120mm, USB3 1C 2A, pn: MCB-NR200PV2-KCNN-S00",Case,6999.0,2
+"Cooler Master CM MB600 TG, black, ATX, 3x140mm 1x120mm, USB3 1C 2A, pn: MB600-KGNN-S00",Case,5399.0,1
+"Cooler Master CM MB600 TG, white, ATX, 3x140mm 1x120mm, USB3 1C 2A, pn: MB600-WGNN-S00",Case,5699.0,1
+"Cooler Master CM MB600 Lite TG, black, ATX, USB3 1C 2A, pn: MB600L-KGNN-S00",Case,3050.0,1
+"Cooler Master CM MB600 Lite TG, white, ATX, USB3 1C 2A, pn: MB600L-WGNN-S00",Case,3250.0,2
+"iForgame Kiryu H1 TG, black, ATX, 4x120mm Rainbow, pn: H1",Case,1999.0,0
+"iForgame Kiryu H2 TG, black, ATX, 4x120mm Rainbow, pn: H2",Case,1999.0,0
+"iForgame Kiryu H3 TG, black, ATX, 4x120mm Rainbow, pn: H3",Case,1999.0,7
+"iForgame Kiryu H4 TG, black, ATX, 4x120mm Rainbow, pn: H4",Case,1999.0,11
+"iForgame GG TG, ATX, pn: SKY D2",Case,1950.0,0
+"iForgame Frag TG, black, ATX, 3x120mm Rainbow, pn: BGS",Case,1660.0,0
+"iForgame FTW ICE aRGB TG, black, ATX, 3x120mm, pn: FTW-ARGB-ICE-BK",Case,1999.0,0
+"iForgame Qilin X5 TG, black out, ATX, cable cover, gpu graphics card holder, pn: N3G-BK",Case,2850.0,44
+"iForgame Nimbus1 M ICE TG, black out, ATX, 3x120mm, mesh front, cable cover, pn: N1M-ARGB-ICE-BK",Case,3150.0,146
+"iForgame Nimbus1 M ICE TG, orca white, ATX, 3x120mm, mesh front, cable cover, pn: N1M-ARGB-ICE-WH",Case,3150.0,26
+"iForgame Nimbus1 G ICE TG, black out, ATX, 3x120mm, glass front, cable cover, pn: N1G-ARGB-ICE-BK",Case,3150.0,0
+"iForgame Nimbus1 G ICE TG, orca white, ATX, 3x120mm, glass front, cable cover, pn: N1G-ARGB-ICE-WH",Case,3150.0,28
+"iForgame Nimbus2 M ICE TG, black out, ATX, 3x120mm, mesh front, pn: N2M-ARGB-ICE-BK",Case,2050.0,3
+"iForgame Tanjun TG, gun metal, mATX, 3x120mm Rainbow, pn: Elf-E6",Case,1699.0,0
+"iForgame Tanjun TG, white, mATX, 3x120mm Rainbow, pn: Elf-E6",Case,1699.0,71
+"iForgame Tanjun TG, pink, mATX, 3x120mm Rainbow, pn: Elf-E6",Case,999.0,149
+"iForgame Tanjun + RPO600 80+W TG, gun metal, mATX, 3x120mm, with RPO 600W 80+ White psu, pn: Elf-E6-GM-RPO600",Case,2999.0,0
+"iForgame Tanjun + RPO700 80+W TG, gun metal, mATX, 3x120mm, with RPO 700W 80+ White psu, pn: Elf-E6-GM-RPO700",Case,3299.0,1
+"Asus TUF GT501 RGB, grey, ATX, 1x140mm 3x120mm, pn: GT501/GRY/WITH HANDLE",Case,6999.0,3
+"Asus ROG Helios GX601 RGB, black, ATX, 3x140mm RGB, 1x140mm, USB3 1C 4A, pn: GX601/BK/AL/WITH HANDLE",Case,15450.0,2
+"Asus TUF GT501 RGB, white, ATX, 1x140mm 3x120mm, pn: GT501/WT/HANDLE",Case,7525.0,3
+"Asus TUF GT301 aRGB, black, ATX, 4x120mm, pn: GT301/BLK/ARGB FAN",Case,4499.0,8
+"Asus ROG Helios GX601 RGB, white, ATX, 3x140mm RGB, 1x140mm, USB3 1C 4A, pn: GX601/WT/AL/WITH HANDLE",Case,14999.0,4
+"Asus Prime AP201 Mesh, black, mATX, USB3 1C 2A, pn: AP201/BLK/MESH",Case,3850.0,1
+"Asus Prime AP201 Mesh, white, mATX, USB3 1C 2A, pn: AP201/WHT/MESH",Case,3999.0,3
+"Asus ROG EVA-02 Hyperion GR701, ATX, USB3 2C 4A, pn: GR701/EVA",Case,27880.0,2
+"Asus TUF GT502 TG, black, ATX, USB3 1C 2A, pn: GT502/BLK/TG",Case,8250.0,3
+"Asus TUF GT502 TG, white, ATX, USB3 1C 2A, pn: GT502/WHT/TG",Case,8380.0,6
+"Asus ROG Hyperion GR701, black, ATX, USB3 2C 4A, pn: GR701/BK/PWM FAN",Case,21999.0,1
+"Asus ROG Hyperion GR701, white, ATX, USB3 2C 4A, pn: GR701/WT/PWM FAN",Case,22199.0,3
+"Asus Prime AP201 TG, black, mATX, USB3 1C 2A, pn: AP201/BLK/TG",Case,3799.0,3
+"Asus Prime AP201 TG, white, mATX, USB3 1C 2A, pn: AP201/WHT/TG",Case,3999.0,6
+"Asus A21 Mesh TG, black, mATX, USB3, pn: A21/BLK",Case,3199.0,7
+"Asus A21 Mesh TG, white, mATX, USB3, pn: A21/WHT",Case,3299.0,5
+"Asus ProArt PA602 TG, black, ATX, 2x200mm 1x140mm, USB3 2C 2A, pn: 90DC00J0-B00000",Case,13999.0,1
+"Asus TUF GT302 aRGB TG, black, ATX, 4x140mm, USB3 1C 2A, pn: GT302/ARGB FANS/BLK",Case,6399.0,3
+"Asus TUF GT302 aRGB TG, white, ATX, 4x140mm, USB3 1C 2A, pn: GT302/ARGB FANS/WHT",Case,6750.0,2
+"Asus ROG Hyperion GR701 BTF Edition, black, ATX, 4x140mm, USB3 1C 4A, pn: GR701/BTF/BK/PWM FAN",Case,23980.0,2
+"Thermaltake TT H200 RGB Black TG, ATX, 1x120mm, USB3 2A, pn: CA-1M3-00M1WN-00",Case,3450.0,1
+"Thermaltake TT H200 RGB Snow TG, ATX, 1x120mm, USB3 2A, pn: CA-1M3-00M6WN-00",Case,3499.0,1
+"Thermaltake TT H550 aRGB TG, ATX, 1x120mm, pn: CA-1P4-00M1WN-00",Case,5550.0,1
+"Thermaltake TT Commander G31 aRGB TG, ATX, 1x120mm 1x200mm, pn: CA-1P1-00M1WN-00",Case,4699.0,3
+"Thermaltake TT Commander G32 aRGB TG, ATX, 1x120mm 1x200mm, pn: CA-1P2-00M1WN-00",Case,4699.0,3
+"Thermaltake TT V250 aRGB Black TG, ATX, 4x120mm, USB3 3A, pn: CA-1Q5-00M1WN-00",Case,3350.0,1
+"Thermaltake TT Divider 300 TG, black, ATX, 1x120mm, pn: CA-1S2-00M1WN-00",Case,5350.0,1
+"Thermaltake TT Divider 200 TG, black, mATX, 1x120mm 1x200mm, pn: CA-1V1-00S1WN-00",Case,5499.0,1
+"Thermaltake TT Divider 370 Snow aRGB TG, ATX, 3x120mm, pn: CA-1S4-00M6WN-00",Case,5999.0,1
+"Thermaltake TT Ceres 300 aRGB Black TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Y2-00M1WN-00",Case,5125.0,1
+"Thermaltake TT Ceres 300 aRGB Snow TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Y2-00M6WN-00",Case,5125.0,1
+"Thermaltake TT Ceres 300 aRGB Matcha Green TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Y2-00MEWN-00",Case,5125.0,1
+"Thermaltake TT Ceres 500 aRGB Black TG, ATX, 4x140mm, USB3 1C 2A, pn: CA-1X5-00M1WN-00",Case,8550.0,1
+"Thermaltake TT The Tower 200 Black TG, ITX, 2x140mm, USB3 1C 2A, pn: CA-1X9-00S1WN-00",Case,6225.0,3
+"Thermaltake TT The Tower 200 Snow TG, ITX, 2x140mm, USB3 1C 2A, pn: CA-1X9-00S6WN-00",Case,6225.0,5
+"Thermaltake TT The Tower 200 Matcha Green TG, ITX, 2x140mm, USB3 1C 2A, pn: CA-1X9-00SEWN-00",Case,6225.0,1
+"Thermaltake TT The Tower 200 Racing Green TG, ITX, 2x140mm, USB3 1C 2A, pn: CA-1X9-00SCWN-00",Case,6225.0,1
+"Thermaltake TT S100 TG, black, mATX, 4x120mm, USB3 3A, pn: CA-1Q9-00S1WN-03",Case,2899.0,1
+"Thermaltake TT V150 Breeze aRGB Black TG, mATX, 3x120mm, USB3 3A, pn: CA-1R1-00S1WN-02",Case,2999.0,3
+"Thermaltake TT V250 Air aRGB Black TG, ATX, 4x120mm, USB3 3A, pn: CA-1Q5-00M1WN-03",Case,3350.0,1
+"Thermaltake TT S200 aRGB Black TG, ATX, 3x120mm, USB3 2A, pn: CA-1X2-00M1WN-00",Case,3350.0,2
+"Thermaltake TT S200 aRGB Snow TG, ATX, 3x120mm, USB3 2A, pn: CA-1X2-00M6WN-00",Case,3450.0,1
+"Thermaltake TT The Tower 300 Black TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00S1WN-00",Case,7450.0,0
+"Thermaltake TT The Tower 300 Snow TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00S6WN-00",Case,7450.0,0
+"Thermaltake TT The Tower 300 Hydrangea Blue TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00SFWN-00",Case,7450.0,1
+"Thermaltake TT The Tower 300 Bumblebee TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00S4WN-00",Case,7450.0,0
+"Thermaltake TT The Tower 300 Matcha Green TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00SEWN-00",Case,7599.0,1
+"Thermaltake TT The Tower 300 Bubble Pink TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00SAWN-00",Case,7599.0,0
+"Thermaltake TT The Tower 300 Peach Fuzz TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00SKWN-00",Case,7599.0,0
+"Thermaltake TT The Tower 300 Limestone TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00SIWN-00",Case,7599.0,0
+"Thermaltake TT The Tower 300 Gravel Sand TG, mATX, 2x140mm, USB3 1C 2A, pn: CA-1Y4-00SGWN-00",Case,7599.0,0
+"Thermaltake TT View 270 aRGB Black TG, ATX, 1x140mm, USB3 1C 2A, pn: CA-1Y7-00M1WN-00",Case,4180.0,1
+"Thermaltake TT View 270 aRGB Snow TG, ATX, 1x140mm, USB3 1C 2A, pn: CA-1Y7-00M6WN-00",Case,4299.0,1
+"Thermaltake TT View 270 aRGB Matcha Green TG, ATX, 1x140mm, USB3 1C 2A, pn: CA-1Y7-00MEWN-00",Case,4299.0,1
+"Thermaltake TT The Tower 600 Black TG, ATX, 2x140mm, USB3 1C 4A, pn: CA-1Z1-00M1WN-00",Case,7999.0,0
+"Thermaltake TT The Tower 600 Snow TG, ATX, 2x140mm, USB3 1C 4A, pn: CA-1Z1-00M6WN-00",Case,8199.0,0
+"Thermaltake TT The Tower 600 Hydrangea Blue TG, ATX, 2x140mm, USB3 1C 4A, pn: CA-1Z1-00MFWN-00",Case,8199.0,0
+"Thermaltake TT The Tower 600 Matcha Green TG, ATX, 2x140mm, USB3 1C 4A, pn: CA-1Z1-00MEWN-00",Case,8199.0,0
+"Thermaltake TT Ceres 330 aRGB Black TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Y2-00M1WN-01",Case,5999.0,0
+"Thermaltake TT Ceres 330 aRGB Snow TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Y2-00M6WN-01",Case,6125.0,0
+"Thermaltake TT Ceres 330 aRGB Hydrangea Blue TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Y2-00MFWN-00",Case,6125.0,0
+"Thermaltake TT Ceres 350 MX aRGB Black TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Z3-00M1WN-00",Case,5799.0,0
+"Thermaltake TT Ceres 350 MX aRGB Snow TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Z3-00M6WN-00",Case,5999.0,0
+"Thermaltake TT Ceres 350 MX aRGB Hydrangea Blue TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Z3-00MFWN-00",Case,5999.0,0
+"Thermaltake TT Ceres 350 MX aRGB Bumblebee TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Z3-00M4WN-00",Case,5999.0,0
+"Thermaltake TT Ceres 350 MX aRGB Bubble Pink TG, ATX, 3x140mm, USB3 1C 2A, pn: CA-1Z3-00MAWN-00",Case,5999.0,0
+"Thermaltake TT CTE E550 aRGB Black TG, ATX, USB3 1C 2A, dual chamber, pn: CA-1Z8-00M1WN-00",Case,7699.0,0
+"Thermaltake TT CTE E550 aRGB Snow TG, ATX, USB3 1C 2A, dual chamber, pn: CA-1Z8-00M6WN-00",Case,7899.0,0
+"Thermaltake TT View 380 aRGB Black TG, ATX, 4x120mm, USB3 1C 2A, dual chamber, pn: CA-1Z2-00M1WN-00",Case,5199.0,0
+"Thermaltake TT View 380 aRGB Snow TG, ATX, 4x120mm, USB3 1C 2A, dual chamber, pn: CA-1Z2-00M6WN-00",Case,5399.0,0
+"Antec NX Series NX292 TG, black, ATX, 4x120mm RGB, USB3 3A, pn: NX292",Case,2650.0,2
+"Antec NX Series NX200M, black, mATX, 1x120mm, USB3 3A, pn: NX200M",Case,1899.0,3
+"Antec NX Series NX270 Elite TG, black, ATX, 3x120mm RGB, USB3 2A, pn: NX270 ELITE",Case,1899.0,5
+"Antec NX Series NX410 TG, black, ATX, 2x140mm 1x120mm aRGB, USB3 3A, pn: NX410",Case,3480.0,1
+"Antec NX Series NX410 TG, white, ATX, 2x140mm 1x120mm aRGB, USB3 3A, pn: NX410W",Case,3599.0,2
+"Antec NX Series NX416L TG, black, ATX, 2x160mm 1x120mm aRGB, USB3 1C 1A, pn: NX416L",Case,4725.0,1
+"Antec NX Series NX416L TG, white, ATX, 2x160mm 1x120mm aRGB, USB3 1C 1A, pn: NX416L",Case,4999.0,1
+"Antec AX20 Elite TG, black, ATX, 4x120mm RGB, USB3 3A, pn: AX20 ELITE",Case,1999.0,4
+"Antec AX90 TG, black, ATX, 4x120mm aRGB, USB3 3A, pn: AX90",Case,3999.0,1
+"Antec C8 TG, black, ATX, USB3 2A, dual chamber, pn: C8",Case,6999.0,1
+"Antec C8 TG, white, ATX, USB3 2A, dual chamber, pn: C8",Case,7380.0,2
+"Lian Li O11 Dynamic, black, ATX, USB3 1C 2A, dual chamber, pn: PC-O11DX",Case,8725.0,0
+"Lian Li O11 Dynamic, white, ATX, USB3 1C 2A, dual chamber, pn: PC-O11DW",Case,8199.0,2
+"Lian Li O11 Dynamic EVO, black, ATX, USB3 1C 2A, dual chamber, pn: O11DEX",Case,9499.0,0
+"Lian Li O11 Dynamic EVO, white, ATX, USB3 1C 2A, dual chamber, pn: O11DEW",Case,9950.0,0
+"Lian Li TU150 TG, black, ITX, Top Handle, USB3 1C 2A, pn: TU150WX",Case,6150.0,1
+"Lian Li Lancool 216 Mesh TG, black, ATX, 2x160mm 1x140mm, USB3 1C 2A, pn: LANCOOL 216X BLACK",Case,4725.0,1
+"Lian Li Lancool 216 RGB Mesh TG, black, ATX, 2x160mm 1x140mm, USB3 1C 2A, pn: LANCOOL 216RX BLACK",Case,5299.0,0
+"Lian Li Lancool 216 RGB Mesh TG, white, ATX, 2x160mm 1x140mm, USB3 1C 2A, pn: LANCOOL 216RW WHITE",Case,5580.0,3
+"Lian Li Lancool 205 TG, white, ATX, 2x120mm",Case,3499.0,2
+"Lian Li O11 Dynamic Mini, black, ATX, SFX psu, USB3 1C 2A, dual chamber, pn: O11D Mini-X",Case,6450.0,0
+"Lian Li O11 Air Mini Mesh TG, black, ATX, 2x140mm 1x120mm, USB3 1C 2A, pn: O11AMX",Case,6280.0,1
+"Lian Li A4-H2O, black, ITX, PCIE4 Riser, SFX psu, pn: A4-H20 X4",Case,8999.0,0
+"Lian Li A4-H2O, silver, ITX, PCIE4 Riser, SFX psu, pn: A4-H20 A4",Case,8999.0,0
+"Lian Li SSUPD HDMI to HDMI Cable, 2 meters, 90 degree, pn: SSU-ACC-HDMI-4K60-200-90D",Case,999.0,0
+"Lian Li Lancool Two Mesh RGB + Type C, snow, ATX, 3x120mm, USB3 1C 2A, pn: LAN2MRS",Case,6625.0,1
+"Lian Li Lancool III RGB TG, black, ATX, 4x140mm, pn: LANCOOL 3R-X BLACK",Case,8999.0,1
+"Lian Li O11 Dynamic EVO XL, black, ATX, USB3 1C 4A, dual chamber, pn: O11DEXL-X",Case,12225.0,3
+"Lian Li O11 Dynamic EVO XL, white, ATX, USB3 1C 4A, dual chamber, pn: O11DEXL-W",Case,12799.0,2
+"Lian Li O11 Dynamic EVO RGB, black, ATX, USB3 1C 2A, dual chamber, pn: O11DERGBX",Case,11680.0,2
+"Lian Li O11 Dynamic EVO RGB, white, ATX, USB3 1C 2A, dual chamber, pn: O11DERGBW",Case,12125.0,0
+"Lian Li O11 Vision, black, ATX, USB3 1C 2A, dual chamber, pn: O11VX",Case,8225.0,2
+"Lian Li O11 Vision, white, ATX, USB3 1C 2A, dual chamber, pn: O11VW",Case,8680.0,1
+"Lian Li O11 Vision Chrome, black, ATX, USB3 1C 2A, dual chamber, pn: O11VC CHROME",Case,8680.0,2
+"Lian Li Dan A3, black, mATX, USB3 1C 2A, pn: A3-mATX BLACK",Case,3899.0,8
+"Lian Li Dan A3, white, mATX, USB3 1C 2A, pn: A3-mATX WHITE",Case,3899.0,5
+"Lian Li SUP01 TG, black, ATX, PCIE4 Riser, 3x120mm, USB3 1C 2A, pn: SUP01X",Case,8350.0,2
+"Lian Li SUP01 TG, white, ATX, PCIE4 Riser, 3x120mm, USB3 1C 2A, pn: SUP01W",Case,8350.0,1
+"NZXT H700i Smart TG, ATX, Matte black+red, 1x140mm 3x120mm, pn: CA-H700W-BR",Case,5999.0,13
+"NZXT H510 Elite Smart TG, Matte black, ATX, 4x140mm, USB3 1C 1A, pn: CA-H510E-B1",Case,7999.0,1
+"NZXT H1 v1, white, ITX,650w psu, AIO Cooler, updated gpu riser, USB3 1C 1A, pn: CA-H16WR-W1",Case,12999.0,1
+"NZXT H1 v2, black, ITX, 750w psu, AIO Cooler, PCIE4 Riser, USB3 1C 1A, pn: CS-H11BB-US",Case,18999.0,1
+"NZXT H1 v2, white, ITX, 750w psu, AIO Cooler, PCIE4 Riser, USB3 1C 1A, pn: CS-H11BW-US",Case,18999.0,1
+"NZXT H7 Base TG, black, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71BB-01",Case,6725.0,0
+"NZXT H7 Base TG, white, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71BW-01",Case,6725.0,0
+"NZXT H7 Base TG, white black, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71BG-01",Case,5999.0,1
+"NZXT H7 Flow TG, black, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71FB-01",Case,7280.0,2
+"NZXT H7 Flow TG, white, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71FW-01",Case,7280.0,1
+"NZXT H7 Elite TG, white, ATX, 4x140mm, USB3 1C 2A, pn: CM-H71EW-01",Case,9799.0,1
+"NZXT H5 Flow TG, black, ATX, 2x120mm, USB3 1C 1A, pn: CC-H51FB-01",Case,4380.0,0
+"NZXT H5 Flow TG, white, ATX, 2x120mm, USB3 1C 1A, pn: CC-H51FW-01",Case,4380.0,1
+"NZXT H5 Elite TG, black, ATX, 1x120mm 2x140mm, USB3 1C 1A, pn: CC-H51EB-01",Case,7280.0,2
+"NZXT H5 Elite TG, white, ATX, 1x120mm 2x140mm, USB3 1C 1A, pn: CC-H51EW-01",Case,7280.0,1
+"NZXT H5 Flow RGB Mesh TG, matte black, ATX, 2x140mm 2x120mm, USB3 1C 1A, pn: CC-H51FB-R1",Case,6280.0,1
+"NZXT H5 Flow RGB Mesh TG, matte white, ATX, 2x140mm 2x120mm, USB3 1C 1A, pn: CC-H51FW-R1",Case,6280.0,2
+"NZXT H9 Flow TG, black, ATX, 4x120mm, USB3 1C 1A, pn: CM-H91FB-01",Case,8880.0,2
+"NZXT H9 Flow TG, white, ATX, 4x120mm, USB3 1C 1A, pn: CM-H91FW-01",Case,8880.0,2
+"NZXT H9 Elite TG, black, ATX, 4x120mm, USB3 1C 1A, pn: CM-H91EB-01",Case,13380.0,1
+"NZXT H9 Elite TG, white, ATX, 4x120mm, USB3 1C 1A, pn: CM-H91EW-01",Case,13380.0,1
+"NZXT H7 Flow RGB Mesh TG, matte black, ATX, 3x140mm 1x120mm, USB3 1C 2A, pn: CM-H71FB-R1",Case,8399.0,2
+"NZXT H7 Elite RGB TG, matte black, ATX, 4x140mm, USB3 1C 2A, pn: CM-H71EB-02",Case,9450.0,2
+"NZXT H7 Elite RGB TG, matte white, ATX, 4x140mm, USB3 1C 2A, pn: CM-H71EW-02",Case,8399.0,2
+"NZXT H6 Flow TG, matte black, ATX, 3x120mm, USB3 1C 2A, dual chamber, pn: CC-H61FB-01",Case,5999.0,2
+"NZXT H6 Flow TG, matte white, ATX, 3x120mm, USB3 1C 2A, dual chamber, pn: CC-H61FW-01",Case,5999.0,2
+"NZXT H6 Flow RGB TG, matte black, ATX, 3x120mm, USB3 1C 2A, dual chamber, pn: CC-H61FB-R1",Case,7399.0,0
+"NZXT H6 Flow RGB TG, matte white, ATX, 3x120mm, USB3 1C 2A, dual chamber, pn: CC-H61FW-R1",Case,7399.0,1
+"NZXT H7 Flow TG, black, ATX, 3x120mm, USB3 1C 2A, pn: CM-H72FB-01",Case,6950.0,2
+"NZXT H7 Flow TG, white, ATX, 3x120mm, USB3 1C 2A, pn: CM-H72FW-01",Case,6950.0,2
+"NZXT H7 Flow RGB TG, black, ATX, F360 RGB Core, USB3 1C 2A, pn: CM-H72FB-R1",Case,7999.0,2
+"NZXT H7 Flow RGB TG, white, ATX, F360 RGB Core, USB3 1C 2A, pn: CM-H72FW-R1",Case,7999.0,1
+"Silver Stone SST, Redline RL07W GT TG, white, ATX, 1x140mm",Case,3999.0,1
+"Silver Stone SST, Lucid LD01B, black, mATX",Case,3999.0,1
+"Fractal Meshify C TG, black, clear tint, ATX, 2x120mm, pn: FD-CA-MESH-C-BKO-TGL",Case,6550.0,1
+"Fractal Meshify C TG, white, clear tint, ATX, 2x120mm, pn: FD-CA-MESH-C-WT-TGC",Case,6550.0,1
+"Fractal Meshify 2 Compact RGB TG, black, light tint, ATX, 4x120mm, USB3 1C 2A, pn: FD-C-MES2C-06",Case,9550.0,1
+"Fractal Meshify 2 Compact RGB TG, white, clear tint, ATX, 4x120mm, USB3 1C 2A, pn: FD-C-MES2C-08",Case,9550.0,1
+"Fractal Meshify 2 Compact Lite Mesh TG, white, ATX, 1x120mm 2x140mm, USB3 1C 2A, pn: FD-C-MEL2C-04",Case,6999.0,1
+"Fractal Meshify 2 Compact Lite RGB TG, black, light tint, ATX, 4x120mm, USB3 1C 2A, pn: FD-C-MEL2C-05",Case,8250.0,1
+"Fractal Meshify 2 Mini Mesh TG, black, dark tint, mATX, 1x120mm 1x140mm, USB3 1C 2A, pn: FD-C-MES2M-01",Case,7399.0,2
+"Fractal Meshify 2 Nano Mesh TG, black, dark tint, ITX, 1x120mm 1x140mm, USB3 1C 2A, pn: FD-C-MES2N-01",Case,6650.0,1
+"Fractal Meshify 2 Nano Mesh TG, white, clear tint, ITX, 1x120mm 1x140mm, USB3 1C 2A, pn: FD-C-MES2N-02",Case,6650.0,1
+"Fractal Ridge, black, ITX, PCIE4 Riser, SFX psu, 2x140mm, USB3 1C 2A, pn: FD-C-RID1N-11",Case,9325.0,1
+"Fractal Ridge, white, ITX, PCIE4 Riser, SFX psu, 2x140mm, USB3 1C 2A, pn: FD-C-RID1N-12",Case,9325.0,1
+"Fractal Terra, graphite, ITX, SFX psu, USB3 1C 2A, pn: FD-C-TER1N-01",Case,12750.0,0
+"Fractal Terra, silver, ITX, SFX psu, USB3 1C 2A, pn: FD-C-TER1N-02",Case,12750.0,0
+"Fractal Terra, jade, ITX, SFX psu, USB3 1C 2A, pn: FD-C-TER1N-03",Case,12750.0,0
+"Fractal North Mesh, charcoal black, ATX, 2x140mm, USB3 1C 2A, pn: FD-C-NOR1C-01",Case,10580.0,1
+"Fractal North Mesh, chalk white, ATX, 2x140mm, USB3 1C 2A, pn: FD-C-NOR1C-03",Case,10580.0,1
+"Fractal North XL Mesh, charcoal black, ATX, 3x140mm, USB3 1C 2A, pn: FD-C-NOR1X-01",Case,11380.0,1
+"Fractal North XL Mesh, chalk white, ATX, 3x140mm, USB3 1C 2A, pn: FD-C-NOR1X-03",Case,11380.0,1
+"Fractal North TG, charcoal black, dark tint, ATX, 2x140mm, USB3 1C 2A, pn: FD-C-NOR1C-02",Case,10580.0,1
+"Fractal North TG, chalk white, clear tint, ATX, 2x140mm, USB3 1C 2A, pn: FD-C-NOR1C-04",Case,10580.0,1
+"Fractal North XL TG, charcoal black, dark tint, ATX, 3x140mm, USB3 1C 2A, pn: FD-C-NOR1X-02",Case,11380.0,1
+"Fractal North XL TG, chalk white, clear tint, ATX, 3x140mm, USB3 1C 2A, pn: FD-C-NOR1X-04",Case,11380.0,1
+"Fractal Torrent TG, black, dark tint, ATX, 2x180mm 3x140mm, USB3 1C 2A, pn: FD-C-TOR1A-06",Case,12625.0,0
+"Fractal Torrent TG, white, clear tint, ATX, 2x180mm 3x140mm, USB3 1C 2A, pn: FD-C-TOR1A-03",Case,12625.0,0
+"Fractal Torrent TG, grey, light tint, ATX, 2x180mm 3x140mm, USB3 1C 2A, pn: FD-C-TOR1A-02",Case,12625.0,1
+"Fractal Torrent TG RGB, black, light tint, ATX, 2x180mm 3x140mm, USB3 1C 2A, pn: FD-C-TOR1A-04",Case,14799.0,1
+"Fractal Torrent TG RGB, white, clear tint, ATX, 2x180mm 3x140mm, USB3 1C 2A, pn: FD-C-TOR1A-07",Case,14950.0,0
+"Fractal Torrent Compact TG, black, dark tint, ATX, 2x180mm, USB3 1C 2A, pn: FD-C-TOR1C-01",Case,10325.0,0
+"Fractal Torrent Compact TG, white, clear tint, ATX, 2x180mm, USB3 1C 2A, pn: FD-C-TOR1C-03",Case,10325.0,0
+"Fractal Torrent Compact RGB TG, black, light tint, ATX, 2x180mm, USB3 1C 2A, pn: FD-C-TOR1C-02",Case,10325.0,1
+"Fractal Torrent Nano TG, black, dark tint, ITX, 1x180mm, USB3 1C 2A, pn: FD-C-TOR1N-01",Case,7780.0,0
+"Fractal Torrent Nano TG RGB, black, light tint, ITX, 1x180mm, USB3 1C 2A, pn: FD-C-TOR1N-02",Case,8325.0,1
+"Fractal Era 2 Mesh, charcoal gray, ITX, 2x120mm, USB3 1C 2A, pn: FD-C-ERA2N-02",Case,12500.0,0
+"Fractal Era 2 Mesh, silver, ITX, 2x120mm, USB3 1C 2A, pn: FD-C-ERA2N-01",Case,12500.0,0
+"Fractal Era 2 Mesh, midnight blue, ITX, 2x120mm, USB3 1C 2A, pn: FD-C-ERA2N-03",Case,12500.0,0
+"Fractal Mood Mesh, black, ITX, 1x180mm, USB3 1C 2A, pn: FD-C-MOD1N-02",Case,9999.0,0
+"Fractal Mood Mesh, light gray, ITX, 1x180mm, USB3 1C 2A, pn: FD-C-MOD1N-01",Case,9999.0,0
+"Deep Cool DC Pixel, black, decorative case bits for case, pn: R-PIXEL-BK100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, white, decorative case bits for case, pn: R-PIXEL-WH100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, gray, decorative case bits for case, pn: R-PIXEL-GY100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, blue, decorative case bits for case, pn: R-PIXEL-BU100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, red, decorative case bits for case, pn: R-PIXEL-RD100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, pink, decorative case bits for case, pn: R-PIXEL-PK100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, green, decorative case bits for case, pn: R-PIXEL-GB100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, yellow, decorative case bits for case, pn: R-PIXEL-YE100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, orange, decorative case bits for case, pn: R-PIXEL-PO100-G-1",Case,299.0,1
+"Deep Cool DC Pixel, purple, decorative case bits for case, pn: R-PIXEL-TV100-G-1",Case,299.0,1
+"Deep Cool DC Smarter, black, mATX, pn: DP-MATX-SMTR",Case,1499.0,1
+"Deep Cool DC Matrexx 55 V4 TG, black, ATX, 3x140mm 1x120mm, USB3 2A, pn: R-MATREXX55-BKADA4-G-4",Case,3780.0,2
+"Deep Cool DC Matrexx 55 V4 C TG, black, ATX, 3x140mm 1x120mm, USB3 2A 1C, pn: R-MATREXX55-BCADA4-G-4",Case,3925.0,2
+"Deep Cool DC Matrexx 55 Mesh V4 TG, black, ATX, 3x140mm 1x120mm, USB3 2A, pn: R-MATREXX55-BKAGA4-G-4",Case,3780.0,1
+"Deep Cool DC Matrexx 55 Mesh V4 C TG, black, ATX, 3x140mm 1x120mm, USB3 2A 1C, pn: R-MATREXX55-BCAGA4-G-4",Case,3925.0,2
+"Deep Cool DC MACUBE 110 TG, white, mATX, 1x120mm, pn: R-MACUBE110-WHNGM1N-G-1",Case,2450.0,1
+"Deep Cool DC Matrexx 50 Mesh 4FS TG, black, ATX, 4x120mm, pn: DP-ATX-MATREXX50-MESH-4FS",Case,3080.0,2
+"Deep Cool DC CK560 Glass TG, black, ATX, 1x140mm 3x120mm, pn: R-CK560-BKAAE4-G-1",Case,4680.0,4
+"Deep Cool DC CK560 Glass TG, white, ATX, 1x140mm 3x120mm, pn: R-CK560-WHAAE4-G-1",Case,4799.0,4
+"Deep Cool DC CH510 Mesh Digital TG, black, ATX, 1x120mm, USB3 1C 1A pn: R-CH510-BKNSE1-G-1",Case,4680.0,3
+"Deep Cool DC CH560 TG, black, ATX, 3x140mm 1x120mm, USB3 1A 1C, pn: R-CH560-BKAPE4-G-1",Case,4299.0,1
+"Deep Cool DC CH560 TG, white, ATX, 3x140mm 1x120mm, USB3 1A 1C, pn: R-CH560-WHAPE4-G-1",Case,4625.0,2
+"Deep Cool DC CH560 Digital Mesh TG, black, ATX, 3x140mm 1x120mm, USB3 1C 1A, pn: R-CH560-BKAPE4D-G-1",Case,5350.0,1
+"Deep Cool DC CH560 Digital Mesh TG, white, ATX, 3x140mm 1x120mm, USB3 1C 1A, pn: R-CH560-WHAPE4D-G-1",Case,5799.0,1
+"Deep Cool DC CC360 aRGB Mesh TG, black, mATX, 3x120mm, USB3 2A, pn: R-CC360-BKAPM3-G-1",Case,2625.0,1
+"Deep Cool DC CH510 TG, black, ATX, 1x120mm, USB3 2A, pn: R-CH510-BKNNE1-G-1",Case,3699.0,2
+"Deep Cool DC CH510 TG, white, ATX, 1x120mm, USB3 2A, pn: R-CH510-WHNNE1-G-1",Case,3850.0,4
+"Deep Cool DC CH780 TG, black, ATX, 3x140mm, USB3 4A 1C, pn: R-CH780-BKADE41-G-1",Case,8450.0,2
+"Deep Cool DC CH780 TG, white, ATX, 3x140mm, USB3 4A 1C, pn: R-CH780-WHADE41-G-1",Case,8850.0,1
+"Deep Cool DC CH160 TG, black, ITX, Top Handle, USB3 2A 1C, pn: R-CH160-BKNGI0-G-1",Case,2699.0,5
+"Deep Cool DC CH160 TG, white, ITX, Top Handle, USB3 2A 1C, pn: R-CH160-WHNGI0-G-1",Case,2899.0,1
+"Deep Cool DC Morpheus TG, black, ATX, 1x420mm, USB3 4A 1C, dual chamber, pn: R-MORPHEUS-BKAPA1-G-1",Case,9250.0,1
+"Deep Cool DC Morpheus TG, white, ATX, 1x420mm, USB3 4A 1C, dual chamber, pn: R-MORPHEUS-WHAPA1-G-1",Case,9950.0,1
+"Deep Cool DC CH360 TG, black, mATX, 2x140mm 1x120mm, USB3 1A 1C, pn: R-CH360-BKAPE3-G-1",Case,3899.0,0
+"Deep Cool DC CH360 TG, white, mATX, 2x140mm 1x120mm, USB3 1A 1C, pn: R-CH360-WHAPE3-G-1",Case,4125.0,1
+"Deep Cool DC CH360 Digital TG, black, mATX, 2x140mm 1x120mm, USB3 1A 1C, pn: R-CH360-BKAPE3D-G-1",Case,4299.0,3
+"Deep Cool DC CH360 Digital TG, white, mATX, 2x140mm 1x120mm, USB3 1A 1C, pn: R-CH360-WHAPE3D-G-1",Case,4580.0,3
+"Deep Cool DC CH370 TG, black, mATX, 1x120mm, USB3 2A, pn: R-CH370-BKNAM1-G-1",Case,3499.0,2
+"Deep Cool DC CH370 TG, white, mATX, 1x120mm, USB3 2A, pn: R-CH370-WHNAM1-G-1",Case,3625.0,3
+"Deep Cool DC CH170 Digital Mesh, black, ITX, USB3 2A 1C, pn: R-CH170-BKNPI0D-G-1",Case,3199.0,0
+"Deep Cool DC CH170 Digital Mesh, white, ITX, USB3 2A 1C, pn: R-CH170-WHNPI0D-G-1",Case,3450.0,0
+"Deep Cool DC CG580 TG, black, ATX, USB3 2A, pn: R-CG580-BKNDA0-G-1",Case,3580.0,0
+"Deep Cool DC CG580 TG, white, ATX, USB3 2A, pn: R-CG580-WHNDA0-G-1",Case,3699.0,0
+"Corsair 7000X RGB TG, white, ATX, 4x140mm, USB3 1C 4A, pn: CC-9011227-WW",Case,9999.0,1
+"Corsair 4000D TG, white, ATX, 2x120mm, USB3 1C 1A, pn: CC-9011199-WW",Case,3999.0,17
+"Corsair 5000D TG, white, ATX, 2x120mm, USB3 1C 2A, pn: CC-9011209-WW",Case,6350.0,9
+"Corsair 5000D AIRFLOW TG, white, ATX, 2x120mm, USB3 1C 2A, pn: CC-9011211-WW",Case,7999.0,3
+"Corsair iCue 5000X RGB TG, black, ATX, 3x120mm, USB3 1C 2A, pn: CC-9011212-WW",Case,6999.0,1
+"Corsair iCue 5000X RGB TG, white, ATX, 3x120mm, USB3 1C 2A, pn: CC-9011213-WW",Case,6999.0,2
+"Corsair 5000D CORE AIRFLOW TG, white, ATX, USB3 1C 2A, pn: CC-9011262-WW",Case,4999.0,7
+"Corsair iCue 4000D AIRFLOW RGB TG, white, ATX, 3x120mm, USB3 1C 1A, pn: CC-9011241-WW",Case,4499.0,8
+"Corsair 2000D AIRFLOW Mesh, black, ITX, USB3 1C 2A, pn: CC-9011244-WW",Case,6399.0,17
+"Corsair 2000D AIRFLOW Mesh, white, ITX, USB3 1C 2A, pn: CC-9011245-WW",Case,6399.0,19
+"Corsair iCue 2000D AIRFLOW RGB Mesh, black, ITX, 3x120mm, USB3 1C 2A, pn: CC-9011246-WW",Case,6980.0,1
+"Corsair iCue 2000D AIRFLOW RGB Mesh, white, ITX, 3x120mm, USB3 1C 2A, pn: CC-9011247-WW",Case,6999.0,11
+"Corsair 3000D AIRFLOW TG, white, ATX, 2x120mm, USB3 2A, pn: CC-9011252-WW",Case,3999.0,14
+"Corsair 3000D RGB AIRFLOW TG, black, ATX, 3x120mm, USB3 2A, pn: CC-9011255-WW",Case,5899.0,1
+"Corsair 3000D RGB AIRFLOW TG, white, ATX, 3x120mm, USB3 2A, pn: CC-9011256-WW",Case,5899.0,1
+"Corsair 3500X TG, black, ATX, USB3 1C 2A, pn: CS-CC-9011276-WW",Case,4599.0,0
+"Corsair 3500X TG, white, ATX, USB3 1C 2A, pn: CS-CC-9011277-WW",Case,4599.0,0
+"Corsair 3500X aRGB TG, black, ATX, 3x120mm, USB3 1C 2A, pn: CS-CC-9011278-WW",Case,5899.0,0
+"Corsair 3500X aRGB TG, white, ATX, 3x120mm, USB3 1C 2A, pn: CS-CC-9011279-WW",Case,5899.0,0
+"Corsair iCUE LINK 3500X RGB TG, black, ATX, 3x120mm, USB3 1C 2A, pn: CS-CC-9011280-WW",Case,8399.0,0
+"Corsair iCUE LINK 3500X RGB TG, white, ATX, 3x120mm, USB3 1C 2A, pn: CS-CC-9011281-WW",Case,8399.0,0
+"Corsair 480T AIRFLOW TG, black, ATX, USB3 2A, pn: CS-CC-9011271-WW",Case,3599.0,1
+"Corsair 480T AIRFLOW RGB TG, black, ATX, 3x120mm, USB3 2A, pn: CS-CC-9011272-WW",Case,4725.0,2
+"Corsair 2500X TG, black, mATX, USB3 1C 2A, dual chamber, pn: CS-CC-9011265-WW",Case,8425.0,1
+"Corsair 2500X TG, white, mATX, USB3 1C 2A, dual chamber, pn: CS-CC-9011266-WW",Case,8425.0,1
+"Corsair 2500D AIRFLOW TG, black, mATX, USB3 1C 2A, dual chamber, pn: CS-CC-9011263-WW",Case,8999.0,1
+"Corsair 2500D AIRFLOW TG, white, mATX, USB3 1C 2A, dual chamber, pn: CS-CC-9011264-WW",Case,8999.0,1
+"Corsair 6500X TG, black, ATX, USB3 1C 4A, dual chamber, pn: CS-CC-9011257-WW",Case,11250.0,1
+"Corsair 6500X TG, white, ATX, USB3 1C 4A, dual chamber, pn: CS-CC-9011258-WW",Case,11250.0,0
+"Corsair 6500D AIRFLOW TG, black, ATX, USB3 1C 4A, dual chamber, pn: CS-CC-9011259-WW",Case,11250.0,1
+"Corsair 6500D AIRFLOW TG, white, ATX, USB3 1C 4A, dual chamber, pn: CS-CC-9011260-WW",Case,11250.0,1
+"Corsair iCue 5000T RGB TG, black, ATX, 3x120mm, USB3 1C 4A, pn: CS-CC-9011230-WW",Case,8999.0,2
+"Corsair iCue 5000T RGB TG, white, ATX, 3x120mm, USB3 1C 4A, pn: CS-CC-9011231-WW",Case,8999.0,2
+"Cougar Conquer Essence TG, mATX, 2x120mm",Case,6999.0,3
+"InWin Airforce, Phantom Black, ATX, 4x120mm, USB3 1C 2A, pn: IW-CS-AIRFORCE-BLA",Case,5999.0,1
+"InWin Airforce, Justice White, ATX, 4x120mm, USB3 1C 2A, pn: IW-CS-AIRFORCE-WHI",Case,5999.0,2
+"InWin Explorer TG, Bone White, ITX, 3x120mm, USB3 1C 2A, pn: IW-CS- EXPLORER-BWHI",Case,3999.0,2
+"InWin A5 TG, black, ATX, 1x120mm",Case,3500.0,2
+"MSI MAG Shield M301, black, mATX, 2x120mm, USB 3A",Case,1425.0,3
+"MSI MPG Velox 100R TG, black, ATX, 4x120mm, USB 1C 2A",Case,5999.0,1
+"MSI MPG Velox 100R TG, white, ATX, 4x120mm, USB 1C 2A",Case,6125.0,2
+"MSI MAG Pano M100R PZ TG, black, mATX, 4x120mm, USB 1C 1A",Case,4599.0,6
+"MSI MAG Pano M100R PZ TG, white, mATX, 4x120mm, USB 1C 1A",Case,4725.0,1
+"MSI MPG Gungnir 300R Airflow TG, black, ATX, 4x120mm, USB 1C 2A",Case,7899.0,2
+"MSI MPG Gungnir 300R Airflow TG, white, ATX, 4x120mm, USB 1C 2A",Case,8780.0,2
+"MSI MPG Gungnir 300R Airflow Monster Hunter TG, black, ATX, 4x120mm, USB 1C 2A",Case,9999.0,1
+"Adata XPG Battle Cruiser RGB TG, white, ATX, 4xARGB 120mm",Case,4500.0,2
+"Adata XPG Defender Pro Mesh TG, white, ATX, 3x120mm",Case,3500.0,1
+"MSI MAG Forge M100A, black, mATX, 4x120mm, USB 3A",Case,2099.0,8
+"MSI MAG Forge M100R TG, black, mATX, 4x120mm, USB 3A",Case,2725.0,3
+"MSI MAG Forge 120A Airflow TG, black, ATX, 6x120mm, USB 2A",Case,2725.0,4
+"MSI MAG Forge 112R TG, black, ATX, 4x120mm, USB 2A",Case,3650.0,2
+"MSI MAG Forge 320R Airflow TG, black, ATX, 4x120mm, USB 2A",Case,3825.0,2
+"APNX C1 TG, black, ATX, 3x140mm 1x120mm, USB3 1C 2A, pn: C1-BK-v1",Case,6299.0,3
+"APNX C1 TG, white, ATX, 3x140mm 1x120mm, USB3 1C 2A, pn: C1-WT-v1",Case,6299.0,2
+"InPlay Meteor 03 Mesh TG, black, ATX",Case,1099.0,5
+"InPlay Meteor 03 Mesh TG, white, ATX",Case,1170.0,0
+"InPlay Meteor 20 Mesh TG, white, ATX",Case,1170.0,2
+"InPlay Meteor 30 Mesh TG, black, ATX",Case,1099.0,2
+"InPlay Meteor 30 Mesh TG, white, ATX",Case,1170.0,7
+"InPlay Openview V100 TG, black, mATX",Case,1225.0,8
+"InPlay Openview V100 TG, white, mATX",Case,1299.0,6
+"InPlay Openview V200 TG, black, mATX",Case,1080.0,6
+"InPlay Openview V200 TG, white, mATX",Case,1145.0,5
+"InPlay Lite X10, black, mATX",Case,499.0,1
+"Montech Air X TG aRGB, black, ATX, 1x120mm 2X200mm",Case,2399.0,0
+"Montech Sky Two TG, black, ATX, 4x120mm",Case,4899.0,0
+"Montech Air 903 Base, black, ATX, 3x140mm, USB3 1C 2A",Case,3899.0,0
+"Montech Air 903 Base, white, ATX, 3x140mm, USB3 1C 2A",Case,3899.0,8
+"Montech Air 903 Max, black, ATX, 4x140mm, USB3 1C 2A",Case,4380.0,0
+"Montech Air 903 Max, white, ATX, 4x140mm, USB3 1C 2A",Case,4450.0,7
+"Montech King 95 TG, black, ATX, USB3 1C 2A, dual chamber",Case,6599.0,0
+"Montech King 95 TG, white, ATX, USB3 1C 2A, dual chamber",Case,6799.0,0
+"Montech King 95 Pro TG, black, ATX, 4x120mm 2x140mm, USB3 1C 2A, dual chamber",Case,8550.0,0
+"Phanteks Eclipse G300A Mesh TG, black, ATX, 1x120mm, USB3 1C 1A, pn: PH-EC300GA_DBK01",Case,3999.0,2
+"Phanteks Eclipse G300A Mesh TG, black, ATX, 3x120mm, USB3 1C 1A, pn: PH-EC300GA_DBK02",Case,4480.0,2
+"Phanteks Enthoo Evolv Shift X TG, black, ITX, 2x140mm, pn: PH-ES217XE_BK",Case,7999.0,1
+"Metallic gear by Phanteks Neo Air, black, ATX, 2x120mm, pn: MG-NE520A_BK01",Case,3580.0,1
+"Phanteks P300A Air Mesh TG, ATX, black, pn: PH-EC300ATG_BK01",Case,3060.0,2
+"Phanteks P400A Air Mesh DRGB TG, ATX, white, 3x120mm, digital rgb ctrl, pn: PH-EC400ATG_DWT01",Case,4730.0,2
+"Phanteks NV7 Mesh TG, satin black, ATX, USB3 1C 2A, pn: PH-NV723TG_DBK01",Case,10780.0,1
+"Phanteks NV7 Mesh TG, matte white, ATX, USB3 1C 2A, pn: PH-NV723TG_DMW01",Case,10780.0,1
+"Magnium Gear Neo Qube 2 TG black, ATX, USB3 1C 1A, dual chamber, pn: MG-NE620Q_DBK02",Case,7399.0,1
+"Magnium Gear Neo Qube 2 TG white, ATX, USB3 1C 1A, dual chamber, pn: MG-NE620Q_DWT02",Case,7399.0,1
+"Magnium Gear Neo Qube 2 Infinity TG black, ATX, USB3 1C 1A, dual chamber, pn: MG-NE620QI_DBK02",Case,7980.0,1
+"Magnium Gear Neo Qube 2 Infinity TG white, ATX, USB3 1C 1A, dual chamber, pn: MG-NE620QI_DWT02",Case,7980.0,1
+"Phanteks NV5 TG, satin black, ATX, USB3 1C 2A, pn: PH-NV523TG_DBK01",Case,6450.0,1
+"Phanteks NV5 TG, matte white, ATX, USB3 1C 2A, pn: PH-NV523TG_DMW01",Case,6899.0,1
+"Phanteks NV9 TG, satin black, ATX, USB3 1C 2A, pn: PH-NV923TG_DBK01",Case,12999.0,1
+"Phanteks NV9 TG, matte white, ATX, USB3 1C 2A, pn: PH-NV923TG_DMW01",Case,12999.0,1
+"Phanteks XT Pro TG, satin black, ATX, 1x120mm, USB3 1C 1A, pn: PH-XT523P1_BK01",Case,3299.0,1
+"Phanteks XT Pro Ultra TG, satin black, ATX, 4x140mm USB3 1C 1A, pn: PH-XT523P1_DBK01",Case,3999.0,2
+"Phanteks XT Pro Ultra TG, matte white, ATX, 4x140mm USB3 1C 1A, pn: PH-XT523P1_DWT01",Case,4299.0,1
+"Phanteks XT View TG, black, ATX, 3x120mm USB3 1C 1A, pn: PH-XT523V1_DBK01",Case,4899.0,0
+"Phanteks XT View TG, white, ATX, 3x120mm USB3 1C 1A, pn: PH-XT523V1_DWT01",Case,4899.0,0
+"Coolman Reyna TG, white, mATX",Case,1599.0,1
+"Coolman Ruby Mesh TG, black, mATX, 3x120mm RGB",Case,1999.0,3
+"Coolman Ruby Mesh TG, white, mATX, 3x120mm RGB",Case,2125.0,8
+"Coolman Harley Mesh TG, black, mATX",Case,1250.0,3
+"Coolman Spectra TG, starry black, mATX, USB3 2A, dual chamber",Case,2099.0,12
+"Coolman Spectra TG, pearl white, mATX, USB3 2A, dual chamber",Case,2199.0,2
+"Coolman Spectra Luxe TG, starry black, ATX, USB3 2A, dual chamber",Case,2499.0,2
+"Coolman Spectra Luxe TG, pearl white, ATX, USB3 2A, dual chamber",Case,2680.0,8
+"Jonsbo C4 TG, black, ATX, 1x120mm, aluminum",Case,2999.0,4
+"Jonsbo C2, silver, mATX (245 X 215mm), aluminum",Case,1999.0,4
+"Jonsbo C2, black, mATX (245 X 215mm), aluminum",Case,2099.0,28
+"Zeaginal ZC-01, blue, ATX",Case,5999.0,1
+"Zeaginal ZC-10, black red, ATX",Case,6999.0,1
+"Hyte Revolt 3 Mesh, black, ITX, Top Handle, USB3 1C 2A, pn: CS-HYTE-REVOLT3-B",Case,6250.0,0
+"Hyte Revolt 3 Mesh, white, ITX, Top Handle, USB3 1C 2A, pn: CS-HYTE-REVOLT3-W",Case,6250.0,0
+"Hyte Revolt 3 Mesh, black, ITX, with 700W SFX Gold PSU, Top Handle, USB3 1C 2A, pn: CS-HYTE-REVOLT3-BP",Case,11399.0,0
+"Hyte Revolt 3 Mesh, white, ITX, with 700W SFX Gold PSU, Top Handle, USB3 1C 2A, pn: CS-HYTE-REVOLT3-WP",Case,11399.0,0
+"Hyte Y60 TG, ATX, black, 3x120mm, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y60-B",Case,11799.0,0
+"Hyte Y60 TG, ATX, black white, 3x120mm, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y60-BW",Case,11799.0,2
+"Hyte Y60 TG, ATX, snow white, 3x120mm, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y60-WW",Case,11799.0,2
+"Hyte Y40 TG black, ATX, PCIE4 Riser, 2x120mm, USB3 1C 1A, pn: CS-HYTE-Y40-B",Case,7799.0,0
+"Hyte Y40 TG black white, ATX, PCIE4 Riser, 2x120mm, USB3 1C 1A, pn: CS-HYTE-Y40-BW",Case,7799.0,1
+"Hyte Y40 TG red, ATX, PCIE4 Riser, 2x120mm, USB3 1C 1A, pn: CS-HYTE-Y40-BR",Case,7099.0,1
+"Hyte Y40 TG snow white, ATX, PCIE4 Riser, 2x120mm, USB3 1C 1A, pn: CS-HYTE-Y40-WW",Case,7799.0,1
+"Hyte Y60 LCD DIY Kit, 1920 x 515, 2.9 watts",Case,6450.0,1
+"Hyte Y70 Touch TG, black, ATX, 4K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-B-L",Case,21999.0,0
+"Hyte Y70 Touch TG, black white, ATX, 4K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-BW-L",Case,21999.0,0
+"Hyte Y70 Touch TG, white, ATX, 4K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-WW-L",Case,21999.0,0
+"Hyte Y70 TG, black, ATX, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-B",Case,12725.0,1
+"Hyte Y70 TG, black white, ATX, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-BW",Case,12725.0,1
+"Hyte Y70 TG, black red, ATX, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-BR",Case,12725.0,1
+"Hyte Y70 TG, snow white, ATX, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70-WW",Case,12725.0,1
+"Galax Revolution 01 aRGB, black, ATX, 4x120mm, pn: Rev01",Case,2480.0,76
+"Galax Revolution 05, black, ATX, pn: Rev05",Case,2499.0,13
+"Galax Revolution 05, white, ATX, pn: Rev05",Case,2499.0,4
+"Almordor SilverLining 160I, black, ITX, USB3 1C 1A, SFX psu",Case,4999.0,1
+"Neutron Atom C01, mATX, 700w sfx psu, black",Case,1650.0,1
+"Neutron Atom C03, mATX, 700w sfx psu, black",Case,1650.0,1
+"Neutron Atom F01, mATX, 700w sfx psu, black",Case,1650.0,1
+"Neutron Atom F03, mATX, 700w sfx psu, black",Case,1650.0,1
+"CVS 1707, mATX, acrylic side, 700w psu, all black",Case,1399.0,0
+"CVS 1707, mATX, acrylic side, no psu, all black",Case,950.0,47
+"CVS 1715, mATX, no psu, all black",Case,699.0,23
+"Tecware Nexus Air TG, black, ATX, 4x120mm, pn: TWCA-NEXATBK",Case,2299.0,14
+"Tecware Nexus Air M2 Mesh TG, black, mATX, 3x120mm, pn: TWCA-NEXAM2-BK",Case,1650.0,21
+"Tecware Nexus Air M2 Mesh TG, white, mATX, 3x120mm, pn: TWCA-NEXAM2-WH",Case,1650.0,32
+"Tecware Flatline TG, black, mATX, 4x120mm, pn: TWCA-FTLN-BK",Case,1950.0,0
+"Tecware Flatline TG, white, mATX, 4x120mm, pn: TWCA-FTLN-WH",Case,1999.0,11
+"Tecware Vision M TG, black, mATX, 4x120mm, pn: TWCA-VISM-BKAR",Case,2799.0,1
+"Tecware Neo M2 Mesh TG, black, mATX, 2x140mm 1x120mm, pn: TWCA-NEOM2-BKOL",Case,1950.0,0
+"Tecware Neo M2 Mesh TG, white, mATX, 2x140mm 1x120mm, pn: TWCA-NEOM2-WHAR",Case,2099.0,0
+"Tecware VX90M TG, black, mATX, pn: TWCA-VX90M-BK",Case,2550.0,3
+"Tecware VXN EVO TG, black, mATX, 3x120mm, pn: TWCA-VXNEV-BKAR",Case,2350.0,19
+"Tecware VXN EVO TG, white, mATX, 3x120mm, pn: TWCA-VXNEV-WHAR",Case,2499.0,9
+"Tecware Infinity M2 TG, black, mATX, 3x120mm, pn: TWCA-INFM2-BKOL",Case,1850.0,4
+"Tecware Infinity M2 TG, white, mATX, 3x120mm, pn: TWCA-INFM2-WHAR | TWCA-INFM2-WHOL",Case,1950.0,17
+"Tecware Flow M TG, black, mATX, 4x120mm, pn: TWCA-FLOWM-BK",Case,1850.0,0
+"Tecware Flow M TG, white, mATX, 4x120mm, pn: TWCA-FLOWM-WH",Case,1999.0,1
+"Tecware VXL EVO TG, black, ATX, 4x120mm, dual chamber, pn: TWCA-VXLEV-BKAR",Case,3625.0,4
+"Tecware VXL EVO TG, white, ATX, 4x120mm, dual chamber, pn: TWCA-VXLEV-WHAR",Case,3850.0,2
+"Tecware Infinity M TG, black, mATX, 3x120mm, pn: TWCA-INFM-BKOL",Case,2350.0,5
+"Tecware Infinity M TG, white, mATX, 3x120mm, pn: TWCA-INFM-WHOL",Case,2399.0,9
+"Tecware Timber TG, black, ATX, 4x120mm, pn: TWCA-TBER-BK",Case,2850.0,0
+"Tecware Timber TG, white, ATX, 4x120mm, pn: TWCA-TBER-WH",Case,2850.0,0
+"Tecware Fusion 2, black, mATX, 1x120mm, pn: TWCA-FUS2-BK",Case,3080.0,5
+"Tecware Fusion 2, white, mATX, 1x120mm, pn: TWCA-FUS2-WH",Case,3299.0,1
+"Tecware Arc TG, black, ATX, 4x120mm, pn: TWCA-ARC-BKOL",Case,3199.0,0
+"Tecware Arc TG, white, ATX, 4x120mm, pn: TWCA-ARC-WHOL",Case,3199.0,0
+"Tecware Arc M TG, black, mATX, 3x120mm, pn: TWCA-ARCM-BKOL",Case,2450.0,0
+"Tecware Arc M TG, white, mATX, 3x120mm, pn: TWCA-ARCM-WHOL",Case,2599.0,0
+"darkFlash DLM21 Mesh TG, black, mATX",Case,2199.0,4
+"darkFlash DLM21 Mesh TG, white, mATX",Case,2250.0,2
+"darkFlash Water Square 5 TG, black, ATX, 3x120mm",Case,2099.0,2
+"darkFlash DLM22 TG, black, mATX",Case,2199.0,2
+"darkFlash DLM21 Mesh TG, pink, mATX",Case,2350.0,2
+"darkFlash Pollux TG, black, ATX, 2x140mm",Case,2099.0,2
+"darkFlash DLZ31 TG, black, ATX",Case,4650.0,1
+"darkFlash DK150 TG, black, ATX, 3x120mm",Case,1850.0,2
+"darkFlash DK150 TG, white, ATX, 3x120mm",Case,1999.0,1
+"darkFlash DK351 Mesh TG, black, ATX, 4x120mm",Case,2399.0,7
+"darkFlash DK352 Plus TG, black, ATX, 4x120mm",Case,2499.0,2
+"darkFlash DK352 Plus TG, white, ATX, 4x120mm",Case,2625.0,3
+"darkFlash DK431 Mesh TG, black, ATX, 4x aRGB 120mm",Case,3199.0,2
+"darkFlash DK431 Mesh TG, white, ATX, 4x aRGB 120mm",Case,3425.0,3
+"darkFlash DK352 Mesh TG, black, ATX, 4x120mm",Case,2450.0,1
+"darkFlash DK352 Mesh TG, white, ATX, 4x120mm",Case,2580.0,3
+"darkFlash DK415M Mesh TG, black, mATX, 2x140mm",Case,2550.0,1
+"darkFlash DK415M Mesh TG, white, mATX, 2x140mm",Case,2725.0,3
+"darkFlash Exquisite C285MP TG, black, mATX",Case,2425.0,2
+"darkFlash Exquisite C285MP TG, white, mATX",Case,2550.0,3
+"darkFlash C285P TG, black, ATX, dual chamber",Case,2899.0,1
+"darkFlash C285P TG, white, ATX, dual chamber",Case,3080.0,2
+"darkFlash DS900 TG, black, ATX, USB3 1C 2A",Case,2780.0,2
+"darkFlash DS900 TG, white, ATX, USB3 1C 2A",Case,2950.0,2
+"darkFlash DS900 Air TG, black, ATX, USB3 1C 2A",Case,2999.0,3
+"darkFlash DS900 Air TG, white, ATX, USB3 1C 2A",Case,3199.0,3
+"darkFlash DK361 Mesh TG, black, ATX, 4x aRGB 140mm",Case,2580.0,2
+"darkFlash DK361 Mesh TG, white, ATX, 4x aRGB 140mm",Case,2699.0,3
+"darkFlash DS900M TG, black, mATX, 3x120mm Infinity 8, with AE650 650W 80+ white psu",Case,3825.0,0
+"darkFlash DB330M TG, black, mATX",Case,1450.0,8
+"darkFlash DB330M TG, white, mATX",Case,1599.0,8
+"darkFlash TH285M TG, black, mATX",Case,2899.0,0
+"darkFlash TH285M TG, white, mATX",Case,3080.0,0
+"Novus Ascend 1110, mATX",Case,599.0,2
+"Novus Ascend 1130, mATX",Case,599.0,23
+"Aerocool AC, Trinity Mini TG RGB, black, mATX, 2x140mm, 1x120mm, pn: Trinity Mini-G-BK-v2",Case,899.0,0
+"NZXT H7 Flow 2022 TG, black, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71FB-01",Case,6750.0,2
+"NZXT H7 Flow 2022 TG, white, ATX, 2x120mm, USB3 1C 2A, pn: CM-H71FW-01",Case,6750.0,1
+"NZXT H7 Flow RGB 2022 TG, matte black, ATX, 3x140mm 1x120mm, USB3 1C 2A, pn: CM-H71FB-R1",Case,7799.0,2
+"NZXT H7 Flow 2024 TG, black, ATX, 3x120mm, USB3 1C 2A, pn: CM-H72FB-01",Case,6950.0,2
+"NZXT H7 Flow 2024 TG, white, ATX, 3x120mm, USB3 1C 2A, pn: CM-H72FW-01",Case,6950.0,2
+"NZXT H7 Flow RGB 2024 TG, black, ATX, F360 RGB Core, USB3 1C 2A, pn: CM-H72FB-R1",Case,7999.0,2
+"NZXT H7 Flow RGB 2024 TG, white, ATX, F360 RGB Core, USB3 1C 2A, pn: CM-H72FW-R1",Case,7999.0,1
+"Ocypus Gamma C50 TG, black, mATX, USB3 2A, pn: GAMMA-C50-BKG000XX-GL",Case,1550.0,0
+"Ocypus Gamma C50 TG, white, mATX, USB3 2A, pn: GAMMA-C50-WHG000XX-GL",Case,1550.0,0
+"Ocypus Gamma C70 aRGB TG, black, ATX, 4x120mm, USB3 2A, pn: GAMMA-C70-BKG400XX-GL",Case,3180.0,0
+"Ocypus Gamma C70 aRGB TG, white, ATX, 4x120mm, USB3 2A, pn: GAMMA-C70-WHG400XX-GL",Case,3180.0,0
+"Ocypus Iota C70 aRGB TG, black, ATX, 6x120mm, USB3 2A 1C, dual chamber, pn: IOTA-C70-BKD600XX-GL",Case,5899.0,0
+"Ocypus Iota C70 aRGB TG, white, ATX, 6x120mm, USB3 2A 1C, dual chamber, pn: IOTA-C70-WHD600XX-GL",Case,5899.0,0
+"Deep Cool DC CG530 TG, black, ATX, USB3 2A, dual chamber, pn: R-CG530-BKNDA0-G-1",Case,2850.0,0
+"Deep Cool DC CG530 TG, white, ATX, USB3 2A, dual chamber, pn: R-CG530-WHNDA0-G-1",Case,2950.0,0
+"Hyte Y70 Touch Infinite TG, pitch black, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TI-BB",Case,25899.0,0
+"Hyte Y70 Touch Infinite TG, snow white, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TI-WW",Case,25899.0,0
+"Hyte Y70 Touch Infinite TG, panda, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TI-WB",Case,25899.0,0
+"Hyte Y70 Touch Infinite TG, black cherry, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TI-RB",Case,25899.0,0
+"CVS 1707, mATX, acrylic side, 700w psu",Case,1399.0,0
+"CVS 1707, mATX, acrylic side, no psu",Case,950.0,47
+"CVS 1715, mATX, no psu",Case,699.0,23
+"CVS 1718, mATX, no psu",Case,899.0,0
+"CVS 1722, mATX, no psu",Case,865.0,0
+"CVS Scylla TG, ATX, USB3 1A",Case,1099.0,0
+"CVS Emirsun TG, mATX, USB3 1A, dual chamber",Case,1099.0,0
+"Antec AX20 Elite TG, ATX, 4x120mm RGB, USB3 3A, pn: AX20 ELITE",Case,1999.0,4
+"Antec AX90 TG, ATX, 4x120mm aRGB, USB3 3A, pn: AX90",Case,3999.0,1
+"Antec AX22 TG, ATX, 3x120mm, USB3 1A, pn:",Case,2080.0,0
+"Antec AX22 Elite TG, ATX, 4x120mm, USB3 1A, pn:",Case,2399.0,0
+"Antec AX83 RGB TG, ATX, 3x120mm, USB3 1A, pn:",Case,2380.0,0
+"Antec AX83 RGB Elite TG, ATX, 4x120mm, USB3 1A, pn:",Case,2599.0,0
+"Antec AX83 RGB Extreme TG, ATX, 6x120mm, USB3 1A, pn:",Case,2799.0,0
+"Antec CX200M Basic TG, black, mATX, USB3 2A, pn:",Case,1999.0,0
+"Antec CX200M RGB Elite TG, black, mATX, 3x120mm, USB3 2A, pn:",Case,2699.0,0
+"Antec CX200M RGB Elite TG, white, mATX, 3x120mm, USB3 2A, pn:",Case,3080.0,0
+"Antec CX800 Wood aRGB TG, ATX, 4x120mm, USB3 1C 1A, dual chamber, pn:",Case,4950.0,0
+"Phanteks NV7 TG, satin black, ATX, USB3 1C 2A, pn: PH-NV723TG_DBK01",Case,10780.0,1
+"Phanteks NV7 TG, matte white, ATX, USB3 1C 2A, pn: PH-NV723TG_DMW01",Case,10780.0,1
+"Galax Revolution ALLSYNQ 06 TG, white, ATX, 4x120mm, USB3 1A",Case,3550.0,0
+"CVS 1718, mATX, 700w psu",Case,899.0,0
+"CVS 1722, mATX, 700w psu",Case,865.0,0
+"Antec AX22 TG, ATX, 3x120mm, USB3 1A, pn: AX22",Case,2080.0,0
+"Antec AX22 Elite TG, ATX, 4x120mm, USB3 1A, pn: AX22 ELITE",Case,2399.0,0
+"Antec AX83 RGB TG, ATX, 3x120mm, USB3 1A, pn: AX83 RGB",Case,2380.0,0
+"Antec AX83 RGB Elite TG, ATX, 4x120mm, USB3 1A, pn: AX83 RGB ELITE",Case,2599.0,0
+"Antec AX83 RGB Extreme TG, ATX, 6x120mm, USB3 1A, pn: AX83 RGB EXTREME",Case,2799.0,0
+"Antec CX200M Basic TG, black, mATX, USB3 2A, pn: CX200M_B",Case,1999.0,0
+"Antec CX200M RGB Elite TG, black, mATX, 5x120mm, USB3 2A, pn: CX200M RGB ELITE",Case,2699.0,0
+"Antec CX200M RGB Elite TG, white, mATX, 5x120mm, USB3 2A, pn: CX200M RGB ELITE",Case,3080.0,0
+"Antec CX800 Wood aRGB TG, ATX, 4x120mm, USB3 1C 1A, dual chamber, pn: CX800 WOOD ARGB",Case,4950.0,0
+"Asus TUF GT502 Horizon TG, black, ATX, Top Handle, USB3 1C 2A, dual chamber, pn: GT502 FV/BLK/TG",Case,9499.0,0
+"Lian Li Dan A3, wood, mATX, USB3 1C 2A, pn: A3-mATX-WD BLACK",Case,4950.0,0
+"Lian Li O11 Vision Compact, black, ATX, USB3 1C 2A, dual chamber, pn: O11VPX",Case,7199.0,0
+"Lian Li O11 Vision Compact, white, ATX, USB3 1C 2A, dual chamber, pn: O11VPW",Case,7199.0,0
+"Tecware Forge M Omni TG, black, mATX, 4x120mm, pn: TWCA-FORGEM-BKOM",Case,2350.0,0
+"Tecware Forge M Omni TG, white, mATX, 4x120mm, pn: TWCA-FORGEM-WHOM",Case,2499.0,0
+"Lian Li Lancool 207 aRGB TG, black, ATX, 2x140mm 2x120mm, USB3 1C 2A, pn: LAN207RX",Case,4499.0,0
+"Lian Li Lancool 207 aRGB TG, white, ATX, 2x140mm 2x120mm, USB3 1C 2A, pn: LAN207RW",Case,4499.0,0
+"Powerlogic Agile Blakiston TG, black, mATX, 1x120mm, USB3 1A, dual chamber",Case,1580.0,0
+"Powerlogic Agile Blakiston TG, white, mATX, 1x120mm, USB3 1A, dual chamber",Case,1650.0,0
+"Powerlogic Agile Elemental G TG, ATX, 4x120mm, USB3 1A",Case,2199.0,0
+"Powerlogic Agile Elemental M TG, ATX, 4x120mm, USB3 1A",Case,2199.0,0
+"Powerlogic Q5, mATX, 600w sfx psu, black",Case,1225.0,0
+"Powerlogic Agile Wyvern TG, ATX, 4x120mm, USB3 1A",Case,1650.0,0
+"Powerlogic Agile Peryton TG, ATX, 1x120mm, USB3 1A",Case,1299.0,0
+"NZXT H5 Flow 2022 TG, black, ATX, 2x120mm, USB3 1C 1A, pn: CC-H51FB-01",Case,4380.0,0
+"NZXT H5 Flow 2022 TG, white, ATX, 2x120mm, USB3 1C 1A, pn: CC-H51FW-01",Case,4380.0,1
+"NZXT H5 Flow RGB 2023 TG, matte black, ATX, 2x140mm 2x120mm, USB3 1C 1A, pn: CC-H51FB-R1",Case,6280.0,1
+"NZXT H5 Flow RGB 2023 TG, matte white, ATX, 2x140mm 2x120mm, USB3 1C 1A, pn: CC-H51FW-R1",Case,6280.0,2
+"NZXT H9 Flow TG, black, ATX, 4x120mm, USB3 1C 1A, dual chamber, pn: CM-H91FB-01",Case,8880.0,2
+"NZXT H9 Flow TG, white, ATX, 4x120mm, USB3 1C 1A, dual chamber, pn: CM-H91FW-01",Case,8880.0,2
+"NZXT H9 Elite TG, black, ATX, 4x120mm, USB3 1C 1A, dual chamber, pn: CM-H91EB-01",Case,13380.0,1
+"NZXT H9 Elite TG, white, ATX, 4x120mm, USB3 1C 1A, dual chamber, pn: CM-H91EW-01",Case,13380.0,1
+"Antec VX10M, mATX, 1x80mm, USB3 1A, pn:",Case,1065.0,0
+"Tecware Forge M Omni TG, black, mATX, 4x120mm, pn: TWCA-FORGEM-BKOL",Case,2350.0,3
+"Tecware Forge M Omni TG, white, mATX, 4x120mm, pn: TWCA-FORGEM-WHOL",Case,2499.0,6
+"Cooler Master CM Elite 301 TG aRGB, black, mATX, 3x120mm, USB3 1C 1A, pn:",Case,3199.0,0
+"Cooler Master CM Elite 301 TG aRGB, white, mATX, 3x120mm, USB3 1C 1A, pn:",Case,3250.0,0
+"Cooler Master CM Elite 301 Lite TG aRGB, black, mATX, 1x120mm, USB3 1C 1A, pn:",Case,2199.0,0
+"Cooler Master CM Elite 301 Lite TG aRGB, white, mATX, 1x120mm, USB3 1C 1A, pn:",Case,2280.0,0
+"Cooler Master CM Elite 301 TG aRGB, black, mATX, 3x120mm, USB3 1C 1A, pn: E301-KGNN-S00",Case,3199.0,0
+"Cooler Master CM Elite 301 TG aRGB, white, mATX, 3x120mm, USB3 1C 1A, pn: E301-WGNN-S00",Case,3250.0,0
+"Cooler Master CM Elite 301 Lite TG aRGB, black, mATX, 1x120mm, USB3 1C 1A, pn: E301L-KGNN-S00",Case,2199.0,0
+"Cooler Master CM Elite 301 Lite TG aRGB, white, mATX, 1x120mm, USB3 1C 1A, pn: E301L-WGNN-S00",Case,2280.0,0
+"Antec VX10M, mATX, 1x80mm, USB3 1A, pn: VX10M",Case,1065.0,0
+"darkFlash DB330M TG, black, mATX, USB3 1A",Case,1450.0,4
+"darkFlash DB330M TG, white, mATX, USB3 1A",Case,1599.0,5
+"darkFlash TH285M TG, black, mATX, USB3 1A, dual chamber",Case,2899.0,1
+"darkFlash TH285M TG, white, mATX, USB3 1A, dual chamber",Case,2650.0,1
+"darkFlash L285M TG, black, mATX, USB3 1A, dual chamber",Case,3250.0,0
+"darkFlash L285M TG, white, mATX, USB3 1A, dual chamber",Case,3399.0,0
+"Deep Cool DC CH160 Mesh, black, ITX, Top Handle, USB3 2A 1C, pn: R-CH160-BKNMI0-G-1",Case,2799.0,0
+"Deep Cool DC CH160 Mesh, white, ITX, Top Handle, USB3 2A 1C, pn: R-CH160-WHNMI0-G-1",Case,2999.0,0
+"Hyte Y70 Touch Infinite TG, pitch black, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TTI-BB",Case,26499.0,0
+"Hyte Y70 Touch Infinite TG, snow white, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TTI-WW",Case,26499.0,0
+"Hyte Y70 Touch Infinite TG, panda, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TTI-WB",Case,26499.0,1
+"Hyte Y70 Touch Infinite TG, black cherry, ATX, 2.5K LCD, PCIE4 Riser, USB3 1C 2A, dual chamber, pn: CS-HYTE-Y70TTI-RB",Case,26499.0,1
+"Tecware Neo M2 Mesh TG, white, mATX, 2x140mm 1x120mm, pn: TWCA-NEOM2-WHAR | TWCA-NEOM2-WHOL",Case,2099.0,0
+"Tecware VXL EVO TG, black, ATX, 4x120mm, dual chamber, pn: TWCA-VXLEV-BKOL",Case,3625.0,6
+"Tecware VXL EVO TG, white, ATX, 4x120mm, dual chamber, pn: TWCA-VXLEV-WHOL",Case,3850.0,0
+"Tecware Arc TG, black, ATX, 4x120mm, USB3 1A, dual chamber, pn: TWCA-ARC-BKOL",Case,3199.0,6
+"Tecware Arc TG, white, ATX, 4x120mm, USB3 1A, dual chamber, pn: TWCA-ARC-WHOL",Case,3199.0,0
+"Tecware Arc M TG, black, mATX, 3x120mm, USB3 1A, dual chamber, pn: TWCA-ARCM-BKOL",Case,2450.0,2
+"Tecware Arc M TG, white, mATX, 3x120mm, USB3 1A, dual chamber, pn: TWCA-ARCM-WHOL",Case,2599.0,3
+"Tecware VX Prism M TG, black, mATX, 3x120mm, USB3 1A, dual chamber, pn: TWCA-VXPRM-BKAR",Case,3299.0,0
+"Tecware VX Prism M TG, white, mATX, 3x120mm, USB3 1A, dual chamber, pn: TWCA-VXPRM-WHAR",Case,3350.0,0
+"Asus TUF GT502 TG, black, ATX, USB3 1C 2A, dual chamber, pn: GT502/BLK/TG",Case,8250.0,4
+"Asus TUF GT502 TG, white, ATX, USB3 1C 2A, dual chamber, pn: GT502/WHT/TG",Case,8380.0,5
+"Asus TUF GT502 Horizon TG, white, ATX, Top Handle, USB3 1C 2A, dual chamber, pn:",Case,9999.0,0
+"Deep Cool DC CH260 TG, black, mATX, USB3 2A 1C, pn: R-CH260-BKNGM0-G-1",Case,3350.0,0
+"Deep Cool DC CH260 TG, white, mATX, USB3 2A 1C, pn: R-CH260-WHNGM0-G-1",Case,3680.0,0
+"Deep Cool DC CH270 Digital TG, black, mATX, USB3 2A 1C, pn: R-CH270-BKNDM0-G-1",Case,4180.0,0
+"Deep Cool DC CH270 Digital TG, white, mATX, USB3 2A 1C, pn: R-CH270-WHNDM0-G-1",Case,4599.0,0
+"Asus TUF GT502 Horizon TG, white, ATX, Top Handle, USB3 1C 2A, dual chamber, pn: GT502 FV/WHT/TG",Case,9999.0,0
+"Asus A21 TG, black, mATX, USB3, pn: A21/BLK",Case,3199.0,5
+"Asus A21 TG, white, mATX, USB3, pn: A21/WHT",Case,3550.0,6
+"Thermaltake TT Divider 500 Air Black TG, ATX, 2x120mm, USB3 1C 2A, pn: CA-1T4-00M1WN-02",Case,6599.0,0
+"Thermaltake TT Divider 500 Air Snow TG, ATX, 2x120mm, USB3 1C 2A, pn: CA-1T4-00M6WN-02",Case,6599.0,0
+"Thermaltake TT Divider 500 aRGB Black TG, ATX, 4x120mm, USB3 1C 2A, pn: CA-1T4-00M1WN-01",Case,7799.0,0
+"Thermaltake TT Divider 500 aRGB Snow TG, ATX, 4x120mm, USB3 1C 2A, pn: CA-1T4-00M6WN-01",Case,7799.0,0
+"Asus A31 TG, black, ATX, USB3 1C 2A, pn:",Case,3699.0,0
+"Asus A31 TG, white, ATX, USB3 1C 2A, pn:",Case,3850.0,0
+"Asus ProArt PA401 Wood PWM TG, black, ATX, 2x160mm, USB3 1C 2A, pn:",Case,6399.0,0
+"Tecware Timber M TG, black, mATX, 4x120mm, pn:",Case,2080.0,0
+"Tecware Timber M TG, white, mATX, 4x120mm, pn:",Case,2099.0,0
+"Asus ProArt PA401 Wood PWM TG, black, ATX, 2x160mm, USB3 1C 2A, pn: PA401/BK/WOOD/TG",Case,6399.0,0
+"Lian Li Dan A3 wood, black mATX, USB3 1C 2A, pn: A3-mATX-WD BLACK",Case,4950.0,0
+"Lian Li Dan A3 wood, white mATX, USB3 1C 2A, pn: A3-mATX-WD WHITE",Case,5099.0,0
+"Lian Li Dan A3 wood TG, black mATX, USB3 1C 2A, pn:",Case,4950.0,0
+"Lian Li Dan A3 wood TG, white mATX, USB3 1C 2A, pn:",Case,5099.0,0
+"Lian Li Dan A3 wood TG, black mATX, USB3 1C 2A, pn: A3-mATX-WDG BLACK",Case,4950.0,0
+"Lian Li Dan A3 wood TG, white mATX, USB3 1C 2A, pn: A3-mATX-WDG WHITE",Case,5099.0,0
+"Tecware Timber M TG, black, mATX, 4x120mm, pn: TWCA-TBERM-BK",Case,2099.0,0
+"Tecware Timber M TG, white, mATX, 4x120mm, pn: TWCA-TBERM-WH",Case,2180.0,0
+"InPlay Seaview Pavillion TG, black, mATX, 3x120mm, USB3 1C 1A, dual chamber",Case,1950.0,0
+"InPlay Seaview Pavillion TG, white, mATX, 3x120mm, USB3 1C 1A, dual chamber",Case,2099.0,0
+"InPlay Seaview Summer TG, black, ATX, 3x120mm, USB3 1C 1A, dual chamber",Case,2680.0,0
+"InPlay Seaview Summer TG, white, ATX, 3x120mm, USB3 1C 1A, dual chamber",Case,2850.0,0
+"Asus A31 TG, black, ATX, USB3 1C 2A, pn: A31/BK/TG/NO FAN",Case,3480.0,0
+"Asus A31 TG, white, ATX, USB3 1C 2A, pn: A31/WT/TG/NO FAN",Case,3599.0,0
+"darkFlash DY470 TG, black, ATX. 4x120mm aRGB, USB3 1C 2A, dual chamber",Case,4599.0,0
+"darkFlash DY470 TG, white, ATX. 4x120mm aRGB, USB3 1C 2A, dual chamber",Case,4850.0,0
+"Antec AX63 Wood aRGB TG, ATX, 4x120mm, USB3 1A, pn: AX63 WOOD ARGB",Case,3250.0,0
+"Antec CX500M aRGB TG, black, mATX, 4x120mm, USB3 1A, pn:",Case,4099.0,0
+"Antec VX10M TG, mATX, 1x80mm, USB3 1A, pn: VX10M TG",Case,1065.0,0
+"Antec VX100M RGB TG, mATX, 3x120mm, USB3 1A, pn: VX100M RGB",Case,1599.0,0
+"Antec VX300M aRGB TG, mATX, 4x120mm, USB3 1A, pn: VX300M ARGB",Case,2299.0,0
+"MSI MAG Pano 110R PZ TG, black, ATX, 4x120mm, USB 1C 2A",Case,4480.0,0
+"MSI MAG Pano 110R PZ TG, white, ATX, 4x120mm, USB 1C 2A",Case,4899.0,0
+"Montech King 95 Pro TG, white, ATX, 4x120mm 2x140mm, USB3 1C 2A, dual chamber",Case,8550.0,0
+"Montech King 65 Pro TG, black, ATX, 3x120mm, USB3 1C 2A, dual chamber",Case,5999.0,0
+"Montech King 65 Pro TG, white, ATX, 3x120mm, USB3 1C 2A, dual chamber",Case,6450.0,0
+"darkFlash DY470 TG, black, ATX, USB3 1C 2A, dual chamber",Case,4599.0,0
+"darkFlash DY470 TG, white, ATX, USB3 1C 2A, dual chamber",Case,4850.0,0
+"darkFlash WD200 Wood Mesh, black, mATX, Top Handle, USB3 1C 1A",Case,2299.0,0
+"Thermaltake TT The Tower 250 Black TG, ITX, 2x120mm, USB3 1C 2A, pn: CA-1Z9-00S1WN-00",Case,6799.0,0
+"Thermaltake TT The Tower 250 Snow TG, ITX, 2x120mm, USB3 1C 2A, pn: CA-1Z9-00S6WN-00",Case,6799.0,0
+"Corsair 4000D RS aRGB TG, black, ATX, 3x120mm, USB3.2 1C 2A, pn: CC-9011296-WW",Case,6099.0,0
+"Corsair 4000D RS aRGB TG, white, ATX, 3x120mm, USB3.2 1C 2A, pn:CC-9011297-WW",Case,6099.0,0
+"darkFlash WD200 Wood Mesh, white, mATX, Top Handle, USB3 1C 1A",Case,2399.0,0
+"Corsair 4000D RS aRGB TG, white, ATX, 3x120mm, USB3.2 1C 2A, pn: CC-9011297-WW",Case,6099.0,0
+"Phanteks XT M3 TG, black, ATX, USB3 1C 1A, pn:",Case,3599.0,0
+"Phanteks XT M3 TG, white, ATX, USB3 1C 1A, pn:",Case,3599.0,0
+"Phanteks Evolv S2 TG, black, ATX, USB3 1C 2A, pn:",Case,7350.0,0
+"Phanteks Evolv S2 TG, white, ATX, USB3 1C 2A, pn:",Case,7350.0,0
+"Phanteks Evolv X2 TG, black, ATX, USB3 1C 2A, pn:",Case,8850.0,0
+"Phanteks Evolv X2 TG, white, ATX, USB3 1C 2A, pn:",Case,8950.0,0
+"Phanteks NV5 MKII TG, black, ATX, USB3 1C 2A, pn:",Case,6350.0,0
+"Phanteks NV5 MKII TG, white, ATX, USB3 1C 2A, pn:",Case,6699.0,0
+"Phanteks NV9 MKII TG, black, ATX, USB3 1C 2A, pn:",Case,12199.0,0
+"Phanteks NV9 MKII TG, white, ATX, USB3 1C 2A, pn:",Case,12199.0,0
+"NZXT H5 Flow 2024 TG, black, ATX, 2x120mm, USB3.2 1C 1A, pn: CC-H52FB-01",Case,4999.0,0
+"NZXT H5 Flow 2024 TG, white, ATX, 2x120mm, USB3.2 1C 1A, pn: CC-H52FW-01",Case,4999.0,0
+"NZXT H5 Flow RGB 2024 TG, black, ATX, F360 RGB Core, USB3.2 1C 1A, pn: CC-H52FB-R1",Case,6850.0,0
+"NZXT H5 Flow RGB 2024 TG, white, ATX, F360 RGB Core, USB3.2 1C 1A, pn: CC-H52FW-R1",Case,6850.0,0
+"Phanteks XT M3 TG, black, mATX, USB3 1C 1A, pn: PH-XT325M_BK01",Case,3599.0,0
+"Phanteks XT M3 TG, white, mATX, USB3 1C 1A, pn: PH-XT325M_WT01",Case,3599.0,0
+"Phanteks Evolv S2 TG, black, ATX, 4x120mm, USB3 1C 2A, pn: PH-ES524S2_DBK01",Case,7350.0,0
+"Phanteks Evolv S2 TG, white, ATX, 4x120mm, USB3 1C 2A, pn: PH-ES524S2_DWT01",Case,7350.0,0
+"Phanteks Evolv X2 TG, black, ATX, USB3 1C 2A, pn: PH-ES524XTG_DBK01",Case,8850.0,0
+"Phanteks Evolv X2 TG, white, ATX, USB3 1C 2A, pn: PH-ES524XTG_DMW01",Case,8950.0,0
+"Phanteks NV5 MKII TG, black, ATX, USB3 1C 2A, pn: PH-NV523TG_DBK02",Case,6350.0,0
+"Phanteks NV5 MKII TG, white, ATX, USB3 1C 2A, pn: PH-NV523TG_DMW02",Case,6699.0,0
+"Thermaltake TT The Tower 600 Bumblebee TG, ATX, 2x140mm, USB3 1C 4A, pn: CA-1Z1-00M4WN-00",Case,8599.0,0
+"Thermaltake TT The Tower 600 Future Dusk TG, ATX, 2x140mm, USB3 1C 4A, pn: CA-1Z1-00MNWN-00",Case,8599.0,0
+"Thermaltake TT CTE E550 aRGB Gravel Sand TG, ATX, USB3 1C 2A, dual chamber, pn: CA-1Z8-00MGWN-00",Case,7999.0,0
+"Thermaltake TT The Tower 250 Butter Caramel TG, ITX, 2x120mm, USB3 1C 2A, pn: CA-1Z9-00SMWN-00",Case,6899.0,0
+"Tecware Neo M2 Steel Mesh, black, mATX, 3x120mm, USB3 1A, pn: TWCA-NEOM2S-BK",Case,1340.0,0
+"Tecware Fusion Air M2 Mesh, black, mATX, 2x120mm, USB3 1A, pn: TWCA-FUSAM2-BK",Case,1399.0,0
+"Neutron Atom C03 Mini Case, mATX, 700w sfx psu, black",Case,1650.0,1
+"Neutron Atom F01 Mini Case, mATX, 700w sfx psu, black",Case,1650.0,1

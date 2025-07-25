@@ -1,0 +1,398 @@
+item_name,category_name,item_price_in_php,stocks
+"2tb Seagate Barracuda HDD, 256mb 7200rpm, pn: ST2000DM008",Storage,3480.0,32
+"4tb Seagate Barracuda HDD, 256mb 5400rpm, pn: ST4000DM004",Storage,5799.0,1
+"4tb Seagate Skyhawk HDD, for CCTV surveillance, 256mb 5400rpm, pn: ST4000VX016",Storage,4950.0,0
+"8tb Seagate Ironwolf HDD, for NAS, 256mb 7200rpm, pn: ST8000VN004",Storage,13150.0,1
+"16tb Seagate Ironwolf Pro HDD, for NAS, 256mb 7200rpm, pn: ST16000NE000",Storage,29999.0,37
+"2tb WD Blue HDD, 256mb 7200rpm, pn: WD20EZBX",Storage,3499.0,3
+"6tb WD Blue HDD, 256mb 5400rpm, pn: WD60EZAZ",Storage,8425.0,1
+"6tb WD Purple HDD, for CCTV surveillance, 128mb 5400rpm, pn: WD64PURZ",Storage,8525.0,0
+"6tb WD Red+ Plus HDD, for NAS, 256mb 5640rpm, pn: WD60EFPX",Storage,10150.0,2
+"8tb WD Purple Pro HDD, for CCTV surveillance, 256mb 7200rpm, pn: WD8001PURP",Storage,12999.0,1
+"8tb WD Red+ Plus HDD, for NAS, 256mb 5640rpm, pn: WD80EFPX",Storage,12699.0,4
+"10tb WD Red+ Plus HDD, for NAS, 256mb 5400rpm, pn: WD101EFBX",Storage,14999.0,0
+"12tb WD Red+ Plus HDD, for NAS, 256mb 7200rpm, pn: WD120EFBX",Storage,18250.0,2
+"2tb WD Blue Scorpio 2.5 HDD, 128mb 5400rpm, mobile, pn: WD20SPZX",Storage,5350.0,1
+"1tb Samsung 870 QVO SSD sata; 1gb dram cache, QLC, R|W: 560|530 98k|88K, pn: MZ-77Q1T0BW",Storage,5999.0,17
+"500gb Samsung 870 EVO SSD sata; 512mb dram cache, TLC, R|W: 560|530 98k|88K, pn: MZ-77E500BW",Storage,3350.0,411
+"1tb Samsung 870 EVO SSD sata; 1gb dram cache, R|W: 560|530 98k|88K, pn: MZ-77E1T0BW",Storage,5999.0,126
+"240gb Samsung PM893 Enterprise OEM SSD sata, R|W: 550|380 98K|15K, pn: MZ7L3240HCHQ",Storage,1999.0,11
+"480gb Samsung PM893 Enterprise OEM SSD sata, R|W: 550|520 98K|29K, pn: MZ7L3480HCHQ",Storage,2499.0,6
+"240gb WD Green SSD sata; R|W: 540|465 68K|37K, pn: WDS240G3G0A | WDS240G3G0A-00BJG0",Storage,1625.0,7
+"480gb WD Green SSD sata; R|W: 540|465 68K|37K, pn: WDS480G3G0A | WDS480G3G0A-00BJG0",Storage,2199.0,4
+"500gb WD Blue SA510 SSD sata; R|W: 560|510, pn: WDS500G3B0A",Storage,2999.0,0
+"1tb WD Blue SA510 SSD sata; R|W: 560|510, pn: WDS100T3B0A",Storage,4425.0,1
+"240gb Kingston A400 SSD sata, R|W: 500|350, pn: SA400S37/240G",Storage,1599.0,232
+"480gb Kingston A400 SSD sata, R|W: 500|450, pn: SA400S37/480G",Storage,2125.0,52
+"960gb Kingston A400 SSD sata, R|W: 500|450, pn: SA400S37/960G",Storage,2950.0,6
+"512gb Patriot P220 SSD sata, R|W: 550|500 50k|50k, pn: P220S512G25",Storage,1999.0,38
+"1tb Patriot P220 SSD sata, R|W: 550|500 50k|50k, pn: P220S1TB25",Storage,3599.0,35
+"2tb Patriot P220 SSD sata, R|W: 550|500 50k|50k, pn: P220S2TB25",Storage,6299.0,17
+"240gb Gigabyte SSD sata; R|W: 500|420 50k|75K, pn: GP-GSTFS31240GNTD",Storage,1450.0,3
+"480gb Gigabyte SSD sata; R|W: 550|480 75|70K, pn: GP-GSTFS31480GNTD",Storage,2325.0,12
+"240gb MSI Spatium S270 SSD sata, R|W: 500|450",Storage,1380.0,17
+"480gb MSI Spatium S270 SSD sata, R|W: 500|450",Storage,2050.0,13
+"1tb Patriot VP4000 Mini SSD NVMe 2230; R|W: 5000|3500, for ROG Ally, Legion Go & Steam Deck, pn: VP4000M1TBM23",Storage,4999.0,0
+"2tb Patriot VP4000 Mini SSD NVMe 2230; R|W: 5000|3500, for ROG Ally, Legion Go & Steam Deck, pn: VP4000M2TBM23",Storage,10999.0,1
+"512gb Team MS30 SSD M.2 sata 2280; R|W: 530|480, pn: TM8PS7512G0C101",Storage,2150.0,1
+"1tb Micron 2400 SSD NVMe 2230; R|W: 4500|3600, for ROG Ally, Legion Go & Steam Deck, pn: MTFDKBK1T0QFM-1BD1AABYYR",Storage,6125.0,2
+"250gb Samsung 970 EVO PLUS SSD NVMe, 512mb DRAM, R|W: 3500|2300 250k|550K, pn: MZ-V7S250BW",Storage,2280.0,108
+"500gb Samsung 980 PRO SSD NVMe, 512mb DRAM, R|W: 6900|5000 800K|1000K, pn: MZ-V8P500BW",Storage,6999.0,6
+"250gb Samsung 980 SSD NVMe, R|W: 2900|1300 230K|320K, pn: MZ-V8V250BW",Storage,1999.0,8
+"1tb Samsung 990 PRO SSD NVMe, 1gb DRAM, R|W: 7450|6900 1550K|1550K, pn: MZ-V9P1T0BW",Storage,7999.0,207
+"2tb Samsung 990 PRO SSD NVMe, 2gb DRAM, R|W: 7450|6900 1550K|1550K, pn: MZ-V9P2T0BW",Storage,13500.0,22
+"4tb Samsung 990 PRO SSD NVMe, 4gb DRAM, R|W: 7450|6900 1550K|1550K, pn: MZ-V9P4T0BW",Storage,22999.0,2
+"1tb Samsung 990 PRO SSD NVMe heatsink, 1gb DRAM, R|W: 7450|6900 1550K|1550K, pn: MZ-V9P1T0CW",Storage,8999.0,1
+"2tb Samsung 990 PRO SSD NVMe heatsink, 2gb DRAM, R|W: 7450|6900 1550K|1550K, pn: MZ-V9P2T0CW",Storage,13500.0,1
+"4tb Samsung 990 PRO SSD NVMe heatsink, 4gb DRAM, R|W: 7450|6900 1550K|1550K, pn: MZ-V9P4T0CW",Storage,22280.0,0
+"1tb Samsung 990 EVO SSD NVMe, R|W: 5000|4200, pn: MZ-V9E1T0BW",Storage,6999.0,3
+"2tb Samsung 990 EVO SSD NVMe, R|W: 5000|4200, pn: MZ-V9E2T0BW",Storage,10999.0,0
+"240gb WD Green SN350 SSD NVMe, R|W: 2400|900, pn: WDS240G2G0C | WDS240G2G0C-00AJM0",Storage,1699.0,0
+"1tb WD Green SN350 SSD NVMe, R|W: 3200|2500, pn: WDS100T3G0C | WDS100T3G0C-00AZL0",Storage,3999.0,8
+"2tb WD Green SN350 SSD NVMe, R|W: 3200|3000, pn: WDS200T3G0C | WDS200T3G0C-00AZL0",Storage,7880.0,4
+"250gb WD Blue SN570 SSD NVMe, R|W: 3300|1200, pn: WDS250G3B0C",Storage,1999.0,0
+"500gb WD Blue SN570 SSD NVMe, R|W: 3500|2300, pn: WDS500G3B0C",Storage,2899.0,0
+"500gb WD Blue SN580 SSD NVMe, R|W: 4000|3600, pn: WDS500G3B0E",Storage,3150.0,9
+"1tb WD Blue SN580 SSD NVMe, R|W: 4150|4150, pn: WDS100T3B0E",Storage,4699.0,0
+"250gb WD Black SN770 SSD NVMe, R|W: 4000|2000, pn: WDS250G3X0E",Storage,2699.0,4
+"500gb WD Black SN770 SSD NVMe, R|W: 5000|4000, pn: WDS500G3X0E",Storage,3599.0,4
+"1tb WD Black SN770 SSD NVMe, R|W: 5150|4900, pn: WDS100T3X0E",Storage,5280.0,14
+"1tb WD Black SN850X SSD NVMe, R|W: 7300|6300, pn: WDS100T2X0E",Storage,7150.0,14
+"2tb WD Black SN850X SSD NVMe, R|W: 7300|6600, pn: WDS200T2X0E",Storage,12425.0,12
+"1tb WD Black SN850X SSD NVMe heatsink, R|W: 7300|6300, pn: WDS100T2XHE",Storage,8550.0,5
+"2tb WD Black SN850X SSD NVMe heatsink, R|W: 7300|6600, pn: WDS200T2XHE",Storage,13825.0,2
+"256gb Adata Legend 700 SSD NVMe, R|W: 2000|1600, pn: ALEG-700-256GCS",Storage,1799.0,0
+"512gb Kingston KC3000 SSD NVMe, R|W: 7000|3900, pn: SKC3000S/512G",Storage,3350.0,8
+"1tb Kingston KC3000 SSD NVMe, R|W: 7000|6000, pn: SKC3000S/1024G",Storage,5250.0,4
+"2tb Kingston KC3000 SSD NVMe, R|W: 7000|7000, pn: SKC3000D/2048G",Storage,8550.0,3
+"500gb Kingston Fury Renegade SSD NVMe, R|W: 7300|3900, pn: SFYRS/500G",Storage,3380.0,5
+"1tb Kingston Fury Renegade SSD NVMe, R|W: 7300|6000, pn: SFYRS/1000G",Storage,5250.0,7
+"2tb Kingston Fury Renegade SSD NVMe, R|W: 7300|7000, pn: SFYRD/2000G",Storage,8550.0,2
+"250gb Kingston NV2 SSD NVMe, R|W: 3000|1700, pn: SNV2S/250G",Storage,1750.0,20
+"500gb Kingston NV2 SSD NVMe, R|W: 3500|2100, pn: SNV2S/500G",Storage,2150.0,13
+"1tb Kingston NV2 SSD NVMe, R|W: 3500|2100, pn: SNV2S/1000G",Storage,3080.0,80
+"2tb Kingston NV2 SSD NVMe, R|W: 3500|2800, pn: SNV2S/2000G",Storage,5999.0,0
+"4tb Kingston NV2 SSD NVMe, R|W: 3500|2800, pn: SNV2S/4000G",Storage,14250.0,2
+"500gb Kingston NV3 SSD NVMe, R|W: 5000|3000, pn: SNV3S/500G",Storage,2599.0,0
+"1tb Kingston NV3 SSD NVMe, R|W: 6000|4000, pn: SNV3S/1000G",Storage,3780.0,0
+"2tb Kingston NV3 SSD NVMe, R|W: 6000|5000, pn: SNV3S/2000G",Storage,7299.0,0
+"256gb Patriot P300 SSD NVMe, R|W: 1700|1100 290k|260k, pn: P300P256GM28",Storage,1399.0,163
+"512gb Patriot P300 SSD NVMe, R|W: 1700|1100 290k|260k, pn: P300P512GM28",Storage,2199.0,163
+"1tb Patriot P300 SSD NVMe, R|W: 2100|1650 290k|260k, pn: P300P1TBM28",Storage,3799.0,76
+"2tb Patriot P300 SSD NVMe, R|W: 2100|1650 290k|260k, pn: P300P2TBM28",Storage,6999.0,24
+"500gb Patriot VP4300 Lite SSD NVMe, R|W: 7000|4000, pn: VP4300L500GM28H",Storage,3180.0,30
+"1tb Patriot VP4300 Lite SSD NVMe, R|W: 7400|6400, pn: VP4300L1TBM28H",Storage,4950.0,38
+"2tb Patriot VP4300 Lite SSD NVMe, R|W: 7400|6400, pn: VP4300L2TBM28H",Storage,8699.0,35
+"1tb Patriot P400 SSD NVMe, R|W: 5000|3300, pn: P400P1TBM28H",Storage,4680.0,25
+"2tb Patriot P400 SSD NVMe, R|W: 5000|3300, pn: P400P2TBM28H",Storage,7980.0,25
+"250gb Patriot P400 Lite SSD NVMe, R|W: 3200|1300, pn: P400LP250GM28H",Storage,1699.0,34
+"500gb Patriot P400 Lite SSD NVMe, R|W: 3500|2400, pn: P400LP500GM28H",Storage,2499.0,10
+"1tb Patriot P400 Lite SSD NVMe, R|W: 3500|2700, pn: P400LP1KGM28H",Storage,2999.0,2
+"2tb Patriot P400 Lite SSD NVMe, R|W: 3500|2700, pn: P400LP2KGM28H",Storage,7999.0,7
+"512gb Patriot P320 SSD NVMe, R|W: 3000|2200, pn: P320P512GM28",Storage,2199.0,40
+"1tb Patriot P320 SSD NVMe, R|W: 3000|2200, pn: P3201TBM28",Storage,3980.0,18
+"500gb Gigabyte 2500E SSD NVMe, R|W: 2300|1500 60k|240K, pn: GP-G325E500G",Storage,2299.0,3
+"500gb Aorus SSD NVMe, R|W: 5000|3800, pn: GP-AG450E500G-G",Storage,3299.0,2
+"1tb Lexar NQ710 SSD NVMe, R|W: 5000|3300, pn: LNQ710X001T",Storage,4150.0,142
+"1tb Corsair MP600 Core XT SSD NVMe, R|W: 5000|4400, pn: CSSD-F1000GBMP600CXT",Storage,5225.0,4
+"1tb Corsair MP600 Pro LPX black, SSD NVMe, R|W: 7100|5800, pn: CSSD-F1000GBMP600PLP",Storage,5999.0,0
+"1tb Corsair MP600 Pro LPX white, SSD NVMe, R|W: 7100|5800, pn: CSSD-F1000GBMP600PLPW",Storage,5999.0,0
+"1tb Corsair MP600 Elite SSD NVMe, R|W: 7000|6500, pn: CSSD-F1000GBMP600ENH",Storage,4950.0,0
+"1tb Corsair MP600 Elite SSD NVMe heatsink, R|W: 7000|6500, pn: CSSD-F1000GBMP600EHS",Storage,5399.0,0
+"1tb Corsair MP600 Core Mini SSD NVMe, R|W: 5000|3800, for ROG Ally, Legion Go & Steam Deck, pn: CSSD-F1000GBMP600CMN",Storage,5599.0,0
+"2tb Corsair MP600 Core Mini SSD NVMe, R|W: 5000|3800, for ROG Ally, Legion Go & Steam Deck, pn: CSSD-F2000GBMP600CMN",Storage,12499.0,0
+"1tb Corsair MP600 Mini SSD NVMe, R|W: 7000|6200, for ROG Ally, Legion Go & Steam Deck, pn: CSSD-F1000GBMP600MNR2",Storage,5999.0,0
+"500gb MSI Spatium M371 SSD NVMe, R|W: 2350|1900",Storage,2480.0,14
+"500gb MSI Spatium M450 SSD NVMe, R|W: 3600|3000",Storage,2725.0,12
+"1tb MSI Spatium M450 SSD NVMe, R|W: 3600|3000",Storage,4625.0,6
+"1tb Samsung T7 Shield ext SSD black, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE1T0S/WW",Storage,8680.0,0
+"1tb Samsung T7 Shield ext SSD blue, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE1T0R/WW",Storage,8680.0,0
+"1tb Samsung T7 Shield ext SSD beige, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE1T0K/WW",Storage,8680.0,0
+"2tb Samsung T7 Shield ext SSD black, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE2T0S/WW",Storage,14225.0,0
+"1tb Samsung T9 ext SSD black, portable ext drive, USB3.2, 2000mb/s, pn: MU-PG1T0B/WW",Storage,7650.0,1
+"2tb Samsung T9 ext SSD black, portable ext drive, USB3.2, 2000mb/s, pn: MU-PG2T0B/WW",Storage,12299.0,1
+"1tb WD My Passport ext SSD blue, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0010BBL",Storage,5999.0,0
+"1tb WD My Passport ext SSD gold, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0010BGD",Storage,5999.0,0
+"1tb WD My Passport ext SSD grey, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0010BGY",Storage,5999.0,0
+"2tb WD My Passport ext SSD blue, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BBL-WESN",Storage,9380.0,0
+"2tb WD My Passport ext SSD silver, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BSL-WESN",Storage,9380.0,0
+"2tb WD My Passport ext SSD grey, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BGY-WESN",Storage,9380.0,0
+"2tb WD My Passport ext SSD red, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BRD-WESN",Storage,9380.0,0
+"1tb Crucial X6 ext SSD, portable ext drive, USB-C 3.2 Type C, 800mb/s, pn: CT1000X6SSD9",Storage,4650.0,2
+"2tb Crucial X6 ext SSD, portable ext drive, USB-C 3.2 Type C, 800mb/s, pn: CT2000X6SSD9",Storage,7250.0,1
+"4tb Crucial X6 ext SSD, portable ext drive, USB-C 3.2 Type C, 800mb/s, pn: CT4000X6SSD9",Storage,14650.0,2
+"2tb ADATA SC610 ext SSD, portable ext drive, USB3.2 TYPE A, 550mb/s, pn: SC610-2000G-CBK/RD",Storage,7280.0,1
+"1tb Kingston XS2000 ext SSD, portable ext drive, USB-C 3.2 Type C, 2000mb/s, pn: SXS2000/1000G",Storage,5925.0,2
+"2tb Kingston XS2000 ext SSD, portable ext drive, USB-C 3.2 Type C, 2000mb/s, pn: SXS2000/2000G",Storage,9899.0,1
+"4tb Kingston XS2000 ext SSD, portable ext drive, USB-C 3.2 Type C, 2000mb/s, pn: SXS2000/4000G",Storage,14450.0,1
+"1tb Kingston XS1000 ext SSD, portable ext drive, USB-C 3.2 Type C, 1050mb/s, pn: SXS1000/1000G",Storage,4680.0,2
+"2tb Kingston XS1000 ext SSD, portable ext drive, USB-C 3.2 Type C, 1050mb/s, pn: SXS1000/2000G",Storage,6999.0,1
+"512gb Patriot Transporter Lite ext SSD, portable ext drive, USB-C 3.2 Type C, 1000mb/s, pn: PTPL512GPEC",Storage,2880.0,1
+"512gb Patriot Transporter ext SSD, portable ext drive, USB-C 3.2 Type C, 1000mb/s, pn: PTP512GPEC",Storage,2999.0,4
+"1tb Patriot Transporter ext SSD, portable ext drive, USB-C 3.2 Type C, 1000mb/s, pn: PTP1TBPEC",Storage,4799.0,3
+"WD Passport 1tb black, portable ext hdd, pn: WDBYVG0010BBK",Storage,3350.0,2
+"WD Passport 1tb red, portable ext hdd, pn: WDBYVG0010BRD",Storage,3350.0,5
+"WD Passport 1tb blue, portable ext hdd, pn: WDBYVG0010BBL",Storage,3350.0,2
+"WD Passport 1tb white, portable ext hdd, pn: WDBYVG0010BWT",Storage,3350.0,3
+"WD Passport 2tb black, portable ext hdd, pn: WDBYVG0020BBK",Storage,4125.0,5
+"WD Passport 2tb red, portable ext hdd, pn: WDBYVG0020BRD",Storage,4125.0,1
+"WD Passport 2tb blue, portable ext hdd, pn: WDBYVG0020BBL",Storage,4125.0,0
+"WD Passport 4tb black, portable ext hdd, pn: WDBPKJ0040BBK",Storage,6350.0,6
+"WD Passport 4tb red, portable ext hdd, pn: WDBPKJ0040BRD",Storage,6350.0,3
+"WD Passport 4tb blue, portable ext hdd, pn: WDBPKJ0040BBL",Storage,6350.0,3
+"WD MyBook 8tb, 3.5, ext hdd, pn: WDBBGB0080HBK",Storage,10880.0,2
+"WD MyBook 12tb 3.5 ext hdd, pn: WDBBGB0120HBK",Storage,14999.0,0
+"WD MyBook 14tb 3.5 ext hdd, pn: WDBBGB0140HBK",Storage,16380.0,0
+"WD MyBook 16tb 3.5 ext hdd, pn: WDBBGB0160HBK",Storage,22125.0,0
+"WD MyBook 18tb 3.5 ext hdd, pn: WDBBGB0180HBK",Storage,25850.0,0
+"WD MyBook 22tb 3.5 ext hdd, pn: WDBBGB0220HBK",Storage,32799.0,0
+"Seagate One Touch 1tb 2.5 black, ext hdd, 3y hardware level data recovery + password protect, pn: STKY1000400",Storage,3580.0,1
+"Seagate One Touch 1tb 2.5 space grey, ext hdd, 3y hardware level data recovery + password protect, pn: STKY1000404",Storage,3580.0,2
+"Seagate One Touch 2tb 2.5 black, ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000400",Storage,4750.0,2
+"Seagate One Touch 2tb 2.5 blue, ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000402",Storage,4750.0,2
+"Seagate One Touch 2tb 2.5 red, ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000403",Storage,4750.0,2
+"Seagate One Touch 4tb 2.5 black, ext hdd, 3y hardware level data recovery + password protect, pn: STKZ4000400",Storage,6899.0,2
+"Seagate One Touch 4tb 2.5 silver, ext hdd, 3y hardware level data recovery + password protect, pn: STKZ4000401",Storage,6899.0,3
+"Seagate One Touch 4tb 2.5 blue, ext hdd, 3y hardware level data recovery + password protect, pn: STKZ4000402",Storage,6899.0,1
+"Toshiba Canvio Basics 1tb 2.5 black, ext hdd, pn: HDTB410AK3AA",Storage,2999.0,0
+"Asus 24x, int dvdrw, sata, OEM, sata cables excluded, pn: DRW-24B1ST",Storage,950.0,2
+"Lenovo 8x, ext dvdrw, usb, slim, pn: DB60-WW",Storage,950.0,0
+"Asus 8x, ext dvdrw, usb, slim, pn: SDRW 08D2S",Storage,1699.0,10
+"16gb Sandisk Ultra CZ48, UFD USB3.0 Flash Drive, 100mb/s, pn: SDCZ48-016G-U46",Storage,235.0,55
+"16gb Patriot TAB200, UFD USB2.0 Flash Drive, pn: PSF16GT200S2U",Storage,180.0,450
+"32gb Sandisk Ultra CZ48, USB3.0 UFD, pn: SDCZ48-032G-U46",Storage,245.0,0
+"32gb Sandisk Ultra Flair, UFD USB3.0 Flash Drive, 150mb/s, pn: SDCZ73-032G-G46",Storage,280.0,37
+"32gb Sandisk Ultra Dual Drive M3 black, UFD USB3.0 Flash Drive Type A+B OTG, 150mb/s, pn: SDDD3-032G-G46",Storage,220.0,212
+"32gb Sandisk Ultra Dual Drive M3 white, UFD USB3.0 Flash Drive Type A+B OTG, 150mb/s, pn: SDDD3-032G-G46GW",Storage,220.0,47
+"32gb Patriot TAB200, UFD USB2.0 Flash Drive, pn: PSF32GT200S2U",Storage,199.0,0
+"32gb Patriot Xporter Core, UFD USB3.2 Flash Drive, pn: PSF32GXRB3U",Storage,199.0,261
+"32gb Patriot TAB300, UFD USB3.2 Flash Drive, 120mb/s, pn: PSF32GT300DS3U",Storage,225.0,96
+"64gb Dahua, UFD USB2.0 Flash Drive, pn: DHI-USB-U116-20-64GB",Storage,225.0,0
+"64gb Team C162, UFD USB3.2 Flash Drive, pn: TC162364GB01",Storage,250.0,0
+"64gb Kingston Exodia, UFD USB3.2 Flash Drive, pn: DTX/64GB",Storage,275.0,12
+"64gb Kingston Exodia M, UFD USB3.2 Flash Drive, pn: DTXM/64GB",Storage,275.0,61
+"64gb Kingston Exodia Onyx, UFD USB3.2 Flash Drive, pn: DTXON/64GB",Storage,275.0,68
+"64gb Kingston MicroDuo 3.0, OTG UFD, pn: DTDUO3/64GB",Storage,260.0,0
+"64gb Sandisk Ultra CZ48, UFD USB3.0 Flash Drive, pn: SDCZ48-064G-U46",Storage,299.0,91
+"64gb Sandisk Ultra Dual Drive M3 Black, UFD USB3.0 Flash Drive Type A+B OTG, 150mb/s, pn: SDDD3-064G-G46",Storage,299.0,3
+"64gb Patriot Xporter 3, UFD USB3.2 Flash Drive, pn: PSF64GX3B3U",Storage,270.0,0
+"128gb Kingston Exodia, UFD USB3.2 Flash Drive, pn: DTX/128GB",Storage,440.0,40
+"128gb Kingston Exodia M, UFD USB3.2 Flash Drive, pn: DTXM/128GB",Storage,440.0,36
+"128gb Kingston Exodia Onyx, UFD USB3.2 Flash Drive, pn: DTXON/128GB",Storage,440.0,7
+"128gb Sandisk Ultra CZ48, UFD USB3.0 Flash Drive, pn: SDCZ48-128G-U46",Storage,520.0,75
+"128gb Patriot TAB300, UFD USB3.2 Flash Drive, pn: PSF128GT300DS3U",Storage,440.0,0
+"256gb Kingston Exodia, UFD USB3.2 Flash Drive, pn: DTX/256GB",Storage,940.0,0
+"256gb Kingston Exodia M, UFD USB3.2 Flash Drive, pn: DTXM/256GB",Storage,940.0,3
+"250gb Patriot Supersonic Rage Prime, UFD USB3.2 G2 Flash Drive, 600mb/s, pn: PEF250GRPMW32U",Storage,1725.0,1
+"1tb Patriot Supersonic Rage Prime, UFD USB3.2 G2 Flash Drive, 600mb/s, pn: PEF1TBRPMW32U",Storage,4825.0,1
+"16gb SanDisk Ultra micro SD | MMC, C10 U1, 80MB/S, pn: SDSQUNS-016G-GN3MN",Storage,220.0,18
+"32gb ADATA micro SD | MMC, A1, C10 U1 V10, 100|25 MB/S, pn: AUSDH32GUICL 10A1-RA1",Storage,180.0,6
+"32gb ADATA micro SD | MMC, C10 U1, 80|10 MB/S, pn: AUSDH32GUICL 10-RA1",Storage,199.0,6
+"32gb SanDisk Ultra micro SD | MMC, C10 U1, 100MB/S, pn: SDSQUNR-032G-GN3MN",Storage,265.0,0
+"32gb SanDisk Ultra micro SD | MMC, A1 C10 U1, 120MB/S, pn: SDSQUA4-032G-GN6MN",Storage,299.0,2
+"32gb SanDisk High Endurance micro SD | MMC, C10 U3 V30, 100MB/S, pn: SDSQQNR-032G-GN6IA",Storage,470.0,3
+"32gb SanDisk Max Endurance micro SD | MMC, C10 U3 V30, 100MB/S, pn: SDSQQVR-032G-GN6IA",Storage,645.0,0
+"32gb Kingston Canvass Select Plus micro SD | MMC, A1 U1 V10, R|100 W|10-85, pn: SDCS2/32GB",Storage,250.0,0
+"64gb ADATA micro SD | MMC, C10 U1, 80|10 MB/S, pn: AUSDX64GUICL 10-RA1",Storage,275.0,9
+"64gb Hiksemi Neo Home micro SD | MMC, C10 V30, 92|40 MB/S, pn: TF-D1 64G",Storage,230.0,0
+"64gb Samsung Pro Endurance micro SD | MMC, U1 V10, 100/30 MB/S, with adapter, pn: MB-MJ64KA/APC",Storage,675.0,0
+"64gb SanDisk Ultra micro SD | MMC, A1 C10 U1, 140MB/S, pn: SDSQUAB-064G-GN6MN",Storage,345.0,5
+"64gb SanDisk High Endurance micro SD | MMC, C10 U3 V30, 100MB/S, pn: SDSQQNR-064G-GN6IA",Storage,470.0,0
+"64gb SanDisk Max Endurance micro SD | MMC, C10 U3 V30, 100MB/S, pn: SDSQQVR-064G-GN6IA",Storage,885.0,0
+"64gb SanDisk Extreme micro SD | MMC, A2 U3 V30, 170|80 MB/S, pn: SDSQXAH-064G-GN6MN",Storage,460.0,2
+"64gb SanDisk Extreme Gaming micro SD | MMC, A2 U3 V30, 170|80 MB/S, pn: SDSQXAH-064G-GN6GN",Storage,450.0,3
+"64gb SanDisk Extreme Pro micro SD | MMC, A2 U3 V30, 200|90 MB/S, pn: SDSQXCU-064G-GN6MA",Storage,625.0,1
+"64gb Kingston Canvass Select Plus micro SD | MMC, A1 U1 V10, R|100 W|10-85, pn: SDCS2/64GB",Storage,399.0,3
+"64gb Patriot EP A1 V30 micro SD | MMC, A1 U3 V30 (4K UHD), R|90 W|min 30 max 80, pn: PEF64GEP31MCX",Storage,340.0,0
+"128gb Samsung EVO Plus micro SD | MMC, A2 U3 V30, 130 MB/S, pn: MB-MC128KA/APC",Storage,710.0,3
+"128gb Samsung Pro Endurance micro SD | MMC, U3 V30, 100/40 MB/S, with adapter, pn: MB-MJ128KA/APC",Storage,1175.0,5
+"128gb Samsung Pro Ultimate micro SD | MMC, A2 U3 V30, 200/130 MB/S, with adapter, pn: MB-MY128SA/WW",Storage,1110.0,5
+"128gb SanDisk Ultra micro SD | MMC, C10 U1, 100MB/S, pn: SDSQUNR-128G-GN3MN",Storage,599.0,0
+"128gb SanDisk High Endurance micro SD | MMC, C10 U3 V30, 100MB/S, pn: SDSQQNR-128G-GN6IA",Storage,930.0,5
+"128gb SanDisk Ultra micro SD | MMC, A1 C10 U1, 140MB/S, pn: SDSQUAB-128G-GN6MN",Storage,665.0,3
+"128gb SanDisk Extreme micro SD | MMC, A2 U3 V30, 190|90 MB/S, pn: SDSQXAA-128G-GN6MN",Storage,825.0,2
+"128gb SanDisk Extreme Gaming micro SD | MMC, A2 U3 V30, 190|90 MB/S, pn: SDSQXAA-128G-GN6GN",Storage,815.0,3
+"128gb SanDisk Extreme Gaming micro SD | MMC, A2 U3 V30, 190|90 MB/S, with adapter, pn: SDSQXAA-128G-GN6AA",Storage,885.0,4
+"128gb Kingston Canvass Select Plus micro SD | MMC, A1 U1 V10, R|100 W|10-85, pn: SDCS2/128GB",Storage,599.0,2
+"128gb Patriot EP A1 V30 micro SD | MMC, A1 U3 V30 (4K UHD), R|90 W|min 30 max 80, pn: PEF128GEP31MCX",Storage,550.0,0
+"256gb Samsung Pro Endurance micro SD | MMC, U3 V30, 100/40 MB/S, with adapter, pn: MB-MJ256KA/APC",Storage,2099.0,2
+"256gb Samsung Pro Ultimate micro SD | MMC, A2 U3 V30, 200/130 MB/S, with adapter, pn: MB-MY256SA/WW",Storage,1699.0,5
+"256gb SanDisk Ultra micro SD | MMC, A1 C10 U1, 150MB/S, pn: SDSQUAC-256G-GN6MN",Storage,1080.0,1
+"256gb SanDisk Ultra micro SD | MMC, C10, 100MB/S, pn: SDSQUNR-256G-GN3MN",Storage,999.0,1
+"256gb SanDisk High Endurance micro SD | MMC, C10 U3 V30, 100MB/S, pn: SDSQQNR-256G-GN6IA",Storage,1825.0,1
+"256gb SanDisk Extreme micro SD | MMC, A2 U3 V30, 190|130 MB/S, pn: SDSQXAV-256G-GN6MN",Storage,1299.0,1
+"256gb SanDisk Extreme gaming micro SD | MMC, A2 U3 V30, 190|130 MB/S, pn: SDSQXAV-256G-GN6GN",Storage,1375.0,0
+"256gb Kingston Canvass Select Plus micro SD | MMC, A1 U3 V30, R|100 W|10-85, pn: SDCS2/256GB",Storage,1150.0,2
+"256gb Patriot EP A1 V30 micro SD | MMC, A1 U3 V30 (4K UHD), R|90 W|min 30 max 80, pn: PEF256GEP31MCX",Storage,1065.0,0
+"512gb Samsung Pro Ultimate micro SD | MMC, A2 U3 V30, 200/130 MB/S, with adapter, pn: MB-MY512SA/WW",Storage,3325.0,2
+"512gb SanDisk Ultra micro SD | MMC, A1 C10 U1, 150MB/S, pn: SDSQUAC-512G-GN6MN",Storage,2299.0,3
+"512gb SanDisk Ultra micro SD | MMC, C10, 100MB/S, pn: SDSQUNR-512G-GN3MN",Storage,2199.0,4
+"512gb SanDisk Extreme micro SD | MMC, A2 U3 V30, 190|130 MB/S, pn: SDSQXAV-512G-GN6MN",Storage,2599.0,2
+"1tb SanDisk Extreme micro SD | MMC, A2 U3 V30, 190|130 MB/S, pn: SDSQXAV-1T00-GN6MN",Storage,5925.0,1
+"250gb Seagate Barracuda SSD sata; R|W: 560|530 90K|90K, pn: ZA250CM10002",Storage,1599.0,0
+"512gb Hiksemi Wave Pro NVMe, R|W: 3500|1800 195K|150K",Storage,1599.0,0
+"2tb Corsair MP600 Pro LPX black, SSD NVMe, R|W: 7100|6800, pn: CSSD-F2000GBMP600PLP",Storage,10850.0,0
+"1tb Samsung T7 Shield SSD black, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE1T0S/WW",Storage,8680.0,0
+"1tb Samsung T7 Shield SSD blue, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE1T0R/WW",Storage,8680.0,0
+"1tb Samsung T7 Shield SSD beige, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE1T0K/WW",Storage,8680.0,0
+"2tb Samsung T7 Shield SSD black, portable ext drive, USB3.2, 1050mb/s, pn: MU-PE2T0S/WW",Storage,14225.0,0
+"1tb Samsung T9 SSD black, portable ext drive, USB3.2, 2000mb/s, pn: MU-PG1T0B/WW",Storage,7650.0,1
+"2tb Samsung T9 SSD black, portable ext drive, USB3.2, 2000mb/s, pn: MU-PG2T0B/WW",Storage,12299.0,1
+"1tb WD Passport SSD blue, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0010BBL",Storage,5999.0,0
+"1tb WD Passport SSD gold, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0010BGD",Storage,5999.0,0
+"1tb WD Passport SSD grey, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0010BGY",Storage,5999.0,0
+"2tb WD Passport SSD blue, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BBL-WESN",Storage,9299.0,0
+"2tb WD Passport SSD silver, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BSL-WESN",Storage,9299.0,0
+"2tb WD Passport SSD grey, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BGY-WESN",Storage,9299.0,0
+"2tb WD Passport SSD red, portable ext drive, USB-C 3.2 Type C to A, 1050mb/s, pn: WDBAGF0020BRD-WESN",Storage,9299.0,0
+"1tb Crucial X6 SSD, portable ext drive, USB-C 3.2 Type C, 800mb/s, pn: CT1000X6SSD9",Storage,4650.0,2
+"2tb Crucial X6 SSD, portable ext drive, USB-C 3.2 Type C, 800mb/s, pn: CT2000X6SSD9",Storage,7250.0,1
+"4tb Crucial X6 SSD, portable ext drive, USB-C 3.2 Type C, 800mb/s, pn: CT4000X6SSD9",Storage,14650.0,2
+"2tb ADATA SC610 SSD, portable ext drive, USB3.2 TYPE A, 550mb/s, pn: SC610-2000G-CBK/RD",Storage,7280.0,1
+"1tb Kingston XS2000 SSD, portable ext drive, USB-C 3.2 Type C, 2000mb/s, pn: SXS2000/1000G",Storage,4899.0,2
+"2tb Kingston XS2000 SSD, portable ext drive, USB-C 3.2 Type C, 2000mb/s, pn: SXS2000/2000G",Storage,8999.0,1
+"4tb Kingston XS2000 SSD, portable ext drive, USB-C 3.2 Type C, 2000mb/s, pn: SXS2000/4000G",Storage,14450.0,1
+"1tb Kingston XS1000 SSD, portable ext drive, USB-C 3.2 Type C, 1050mb/s, pn: SXS1000/1000G",Storage,4450.0,2
+"2tb Kingston XS1000 SSD, portable ext drive, USB-C 3.2 Type C, 1050mb/s, pn: SXS1000/2000G",Storage,6699.0,1
+"512gb Patriot Transporter Lite SSD, portable ext drive, USB-C 3.2 Type C, 1000mb/s, pn: PTPL512GPEC",Storage,2880.0,1
+"512gb Patriot Transporter SSD, portable ext drive, USB-C 3.2 Type C, 1000mb/s, pn: PTP512GPEC",Storage,2999.0,4
+"1tb Patriot Transporter SSD, portable ext drive, USB-C 3.2 Type C, 1000mb/s, pn: PTP1TBPEC",Storage,4799.0,3
+"1tb SanDisk SSD, portable ext drive, USB3.2, 800mb/s, pn: SDSSDE30-1T00-G26",Storage,4599.0,0
+"2tb SanDisk Extreme SSD black, portable ext drive, USB3.2, 1050mb/s, pn: SDSSDE61-2T00-G25",Storage,9450.0,0
+"2tb SanDisk Extreme SSD sky blue, portable ext drive, USB3.2, 1050mb/s, pn: SDSSDE61-2T00-G25B",Storage,9450.0,0
+"2tb SanDisk Extreme SSD monterey, portable ext drive, USB3.2, 1050mb/s, pn: SDSSDE61-2T00-G25M",Storage,9450.0,0
+"1tb WD Passport black, portable ext hdd, pn: WDBYVG0010BBK",Storage,3299.0,2
+"1tb WD Passport red, portable ext hdd, pn: WDBYVG0010BRD",Storage,3299.0,5
+"1tb WD Passport blue, portable ext hdd, pn: WDBYVG0010BBL",Storage,3299.0,2
+"1tb WD Passport white, portable ext hdd, pn: WDBYVG0010BWT",Storage,3299.0,3
+"2tb WD Passport black, portable ext hdd, pn: WDBYVG0020BBK",Storage,4099.0,5
+"2tb WD Passport red, portable ext hdd, pn: WDBYVG0020BRD",Storage,4099.0,1
+"2tb WD Passport blue, portable ext hdd, pn: WDBYVG0020BBL",Storage,4099.0,0
+"4tb WD Passport black, portable ext hdd, pn: WDBPKJ0040BBK",Storage,6299.0,6
+"4tb WD Passport red, portable ext hdd, pn: WDBPKJ0040BRD",Storage,6299.0,3
+"4tb WD Passport blue, portable ext hdd, pn: WDBPKJ0040BBL",Storage,6299.0,3
+"5tb WD Passport black, portable ext hdd, pn: WDBPKJ0050BBK",Storage,6950.0,0
+"5tb WD Passport red, portable ext hdd, pn: WDBPKJ0050BRD",Storage,6950.0,0
+"5tb WD Passport blue, portable ext hdd, pn: WDBPKJ0050BBL",Storage,6950.0,0
+"5tb WD Passport white, portable ext hdd, pn: WDBPKJ0050BWT",Storage,6950.0,0
+"6tb WD Passport black, portable ext hdd, pn: WDBR9S0060BBK",Storage,8699.0,0
+"6tb WD Passport red, portable ext hdd, pn: WDBR9S0060BRD",Storage,8699.0,0
+"6tb WD Passport blue, portable ext hdd, pn: WDBR9S0060BBL",Storage,8699.0,0
+"6tb WD Passport white, portable ext hdd, pn: WDBR9S0060BWT",Storage,8699.0,0
+"8tb WD MyBook, 3.5, ext hdd, pn: WDBBGB0080HBK",Storage,10899.0,2
+"12tb WD MyBook 3.5 ext hdd, pn: WDBBGB0120HBK",Storage,14999.0,0
+"14tb WD MyBook 3.5 ext hdd, pn: WDBBGB0140HBK",Storage,16399.0,0
+"16tb WD MyBook 3.5 ext hdd, pn: WDBBGB0160HBK",Storage,22099.0,0
+"18tb WD MyBook 3.5 ext hdd, pn: WDBBGB0180HBK",Storage,25850.0,0
+"22tb WD MyBook 3.5 ext hdd, pn: WDBBGB0220HBK",Storage,32799.0,0
+"1tb Seagate One Touch black, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKY1000400",Storage,3450.0,1
+"1tb Seagate One Touch space grey, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKY1000404",Storage,3450.0,2
+"2tb Seagate One Touch black, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000400",Storage,4399.0,2
+"2tb Seagate One Touch blue, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000402",Storage,4399.0,2
+"2tb Seagate One Touch red, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000403",Storage,4399.0,2
+"2tb Seagate One Touch silver, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKY2000401",Storage,4399.0,1
+"4tb Seagate One Touch black, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKZ4000400",Storage,6899.0,2
+"4tb Seagate One Touch silver, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKZ4000401",Storage,6899.0,3
+"4tb Seagate One Touch blue, portable ext hdd, 3y hardware level data recovery + password protect, pn: STKZ4000402",Storage,6899.0,1
+"1tb Toshiba Canvio Basics black, portable ext hdd, pn: HDTB410AK3AA",Storage,2999.0,0
+"512gb SanDisk Extreme Pro micro SD | MMC, A2 U3 V30, 200|140 MB/S, pn: SDSQXCD-512G-GN6MA",Storage,3099.0,0
+"4tb Samsung 870 QVO SSD sata; 2gb dram cache, QLC, R|W: 560|530 98k|88K, pn: MZ-77Q4T0BW",Storage,24999.0,0
+"4tb Kingston NV3 SSD NVMe, R|W: 6000|5000, pn: SNV3S/4000G",Storage,14250.0,0
+"32gb Sandisk Ultra CZ48, black, USB3.0 UFD, 100mb/s, pn: SDCZ48-032G-U46",Storage,245.0,0
+"4tb Seagate Ironwolf HDD, for NAS, 256mb 5900rpm, pn: ST4000VN006",Storage,6650.0,0
+"500gb WD Green SN3000 SSD NVMe, R|W: 5000|4100, pn: WDS500G4G0E-00CPS0",Storage,2280.0,0
+"1tb WD Green SN3000 SSD NVMe, R|W: 5000|4200, pn: WDS100T4G0E-00CPS0",Storage,3699.0,0
+"500gb WD Blue SN5000 SSD NVMe, R|W: 5000|4000, pn: WDS500G4B0E-00CNZ0",Storage,2580.0,0
+"1tb WD Blue SN5000 SSD NVMe, R|W: 5150|4900, pn: WDS100T4B0E-00CNZ0",Storage,3999.0,0
+"1tb Patriot P210 SSD sata, R|W: 520|430 50k|50k, pn: P210S1TB25",Storage,2999.0,0
+"1tb WD Blue SA510 SSD sata; R|W: 560|520, pn: WDS100T3B0A",Storage,3999.0,4
+"240gb Patriot Burst Elite SSD sata, R|W: 450|320 40k|40k, pn: PBE240GS25SSDR",Storage,899.0,0
+"960gb Patriot Burst Elite SSD sata, R|W: 450|320 40k|40k, pn: PBE960GS25SSDR",Storage,2499.0,0
+"8tb WD Purple Pro HDD, for CCTV surveillance, 256mb 7200rpm, pn: WD8002PURP",Storage,12999.0,1
+"500gb Samsung 980 SSD NVMe, R|W: 3100|2600 400K|470K, pn: MZ-V8V500BW",Storage,2999.0,0
+"500gb WD Black SN7100 SSD NVMe, R|W: 6800|5800, pn: WDS500G4X0E-00CJA0",Storage,3380.0,0
+"1tb WD Black SN7100 SSD NVMe, R|W: 7250|6900, pn: WDS100T4X0E-00CJA0",Storage,4499.0,0
+"2tb WD Black SN7100 SSD NVMe, R|W: 7250|6900, pn: WDS200T4X0E-00CJA0",Storage,7999.0,0
+"10tb Seagate Ironwolf HDD, for NAS, 256mb 7200rpm, pn: ST10000VN000",Storage,17999.0,0
+"12tb Seagate Ironwolf HDD, for NAS, 256mb 7200rpm, pn: ST12000VN0008",Storage,19999.0,0
+"18tb Seagate Ironwolf Pro HDD, for NAS, 256mb 7200rpm, pn: ST18000NT001",Storage,29999.0,0
+"20tb Seagate Ironwolf Pro HDD, for NAS, 256mb 7200rpm, pn: ST18000NT001",Storage,32199.0,0
+"16tb WD Red Pro HDD, for NAS, 512mb 7200rpm, pn: WD161KFGX",Storage,24999.0,0
+"18tb WD Red Pro HDD, for NAS, 512mb 7200rpm, pn: WD181KFGX",Storage,31599.0,0
+"20tb WD Red Pro HDD, for NAS, 512mb 7200rpm, pn: WD202KFGX",Storage,34199.0,0
+"2tb Samsung 870 EVO SSD sata; 2gb dram cache, R|W: 560|530 98k|88K, pn: MZ-77E2T0BW",Storage,9999.0,0
+"4tb Samsung 870 EVO SSD sata; 4gb dram cache, R|W: 560|530 98k|88K, pn: MZ-77E4T0BW",Storage,19999.0,0
+"250gb WD Green SN350 SSD NVMe, R|W: 2400|1500, pn: WDS250G2G0C-00CDH0",Storage,1150.0,0
+"500gb WD Green SN350 SSD NVMe, R|W: 2400|1500, pn: WDS500G2G0C-00CDH0",Storage,1680.0,0
+"250gb WD Blue SN580 SSD NVMe, R|W: 4000|2000, pn: WDS250G3B0E-00CHF0",Storage,1599.0,0
+"8tb WD Black SN850X SSD NVMe, R|W: 7200|6600, pn: WDS800T2X0E-00CDD0",Storage,45699.0,0
+"8tb WD Black SN850X SSD NVMe heatsink, R|W: 7200|6600, pn: WDS800T2XHE-00CDD0",Storage,47199.0,0
+"4tb WD Blue SN5000 SSD NVMe, R|W: 5500|5000, pn: WDS400T4B0E-00BKY0",Storage,15450.0,0
+"250gb Gigabyte 4000E SSD NVMe, R|W: 3500|1800, pn: GP-G440E250G",Storage,1375.0,0
+"500gb Gigabyte 4000E SSD NVMe, R|W: 3600|3000, pn: GP-G440E500G",Storage,2099.0,0
+"500gb WD black SN850 SSD NVMe Gen4, R|W: 7000|4100, pn: WDS500G1X0E",Storage,3799.0,6
+"6tb Seagate One Touch Hub 3.5 ext hdd, pn: STLC6000400",Storage,11999.0,0
+"8tb Seagate One Touch Hub 3.5 ext hdd, pn: STLC8000400",Storage,12999.0,0
+"10tb Seagate One Touch Hub 3.5 ext hdd, pn: STLC10000400",Storage,16199.0,0
+"14tb Seagate One Touch Hub 3.5 ext hdd, pn: STLC14000400",Storage,19650.0,0
+"18tb Seagate One Touch Hub 3.5 ext hdd, pn: STLC18000402",Storage,26999.0,0
+"32gb Sandisk Ultra CZ48, red, USB3.0 UFD, 100mb/s, pn: SDCZ48-032G-U46R",Storage,245.0,30
+"32gb Sandisk Ultra CZ48, blue, USB3.0 UFD, 100mb/s, pn: SDCZ48-032G-U46B",Storage,245.0,30
+"1tb Patriot VP4000 Mini SSD NVMe1.4; R|W: 5000|3500, for ROG Ally, Legion Go & Steam Deck, pn: VP4000M1TBM23",Storage,4999.0,1
+"2tb Patriot VP4000 Mini SSD NVMe1.4; R|W: 5000|3500, for ROG Ally, Legion Go & Steam Deck, pn: VP4000M2TBM23",Storage,10650.0,1
+"500gb WD black SN850 SSD NVMe, R|W: 7000|4100, pn: WDS500G1X0E",Storage,3799.0,6
+"256gb Patriot P300 SSD NVMe1.3, R|W: 1700|1100 290k|260k, pn: P300P256GM28",Storage,1099.0,88
+"512gb Patriot P300 SSD NVMe1.3, R|W: 1700|1100 290k|260k, pn: P300P512GM28",Storage,1850.0,67
+"1tb Patriot P300 SSD NVMe1.3, R|W: 2100|1650 290k|260k, pn: P300P1TBM28",Storage,2999.0,0
+"500gb Patriot VP4300 Lite SSD NVMe2.0, R|W: 7000|4000, pn: VP4300L500GM28H",Storage,2880.0,27
+"1tb Patriot VP4300 Lite SSD NVMe2.0, R|W: 7400|6400, pn: VP4300L1TBM28H",Storage,4780.0,7
+"2tb Patriot VP4300 Lite SSD NVMe2.0, R|W: 7400|6400, pn: VP4300L2TBM28H",Storage,7750.0,21
+"1tb Patriot P400 SSD NVMe1.3, R|W: 5000|3300, pn: P400P1TBM28H",Storage,4699.0,9
+"2tb Patriot P400 SSD NVMe1.3, R|W: 5000|3300, pn: P400P2TBM28H",Storage,7399.0,18
+"250gb Patriot P400 Lite SSD NVMe1.4, R|W: 3200|1300, pn: P400LP250GM28H",Storage,1999.0,30
+"500gb Patriot P400 Lite SSD NVMe1.4, R|W: 3500|2400, pn: P400LP500GM28H",Storage,2499.0,93
+"1tb Patriot P400 Lite SSD NVMe1.4, R|W: 3500|2700, pn: P400LP1KGM28H",Storage,3599.0,22
+"2tb Patriot P400 Lite SSD NVMe1.4, R|W: 3500|2700, pn: P400LP2KGM28H",Storage,6650.0,32
+"512gb Patriot P320 SSD NVMe1.3, R|W: 3000|2200, pn: P320P512GM28",Storage,2150.0,20
+"1tb Patriot PV553 SSD NVMe2.0 heatsink, R|W: 12400|11800, pn: PV553P1TBM28H",Storage,11499.0,0
+"2tb Patriot PV573 SSD NVMe2.0 heatsink, R|W: 14000|12000, pn: PV573P2TBM28H",Storage,21150.0,0
+"4tb Patriot PV573 SSD NVMe2.0 heatsink, R|W: 14000|12000, pn: PV573P4TBM28H",Storage,36199.0,0
+"1tb Samsung 9100 PRO SSD NVMe2.0 G5, 1gb DRAM, R|W: 14700|13300 1850K|2600K, pn: MZ-VAP1T0BW",Storage,10099.0,0
+"2tb Samsung 9100 PRO SSD NVMe2.0 G5, 2gb DRAM, R|W: 14700|13400 1850K|2600K, pn: MZ-VAP2T0BW",Storage,15250.0,0
+"4tb Samsung 9100 PRO SSD NVMe2.0 G5, 4gb DRAM, R|W: 14800|13400 2200K|2600K, pn: MZ-VAP4T0BW",Storage,27899.0,0
+"1tb Samsung 9100 PRO SSD NVMe2.0 G5 heatsink, 1gb DRAM, R|W: 14700|13300 1850K|2600K, pn: MZ-VAP1T0CW",Storage,10450.0,0
+"2tb Samsung 9100 PRO SSD NVMe2.0 G5 heatsink, 2gb DRAM, R|W: 14700|13400 1850K|2600K, pn: MZ-VAP2T0CW",Storage,17250.0,0
+"4tb Samsung 9100 PRO SSD NVMe2.0 G5 heatsink, 4gb DRAM, R|W: 14800|13400 2200K|2600K, pn: MZ-VAP4T0CW",Storage,30599.0,0
+"500gb Patriot VP4300 Lite SSD NVMe2.0 G4, R|W: 7000|4000, pn: VP4300L500GM28H",Storage,2880.0,27
+"1tb Patriot VP4300 Lite SSD NVMe2.0 G4, R|W: 7400|6400, pn: VP4300L1TBM28H",Storage,4780.0,7
+"2tb Patriot VP4300 Lite SSD NVMe2.0 G4, R|W: 7400|6400, pn: VP4300L2TBM28H",Storage,7750.0,21
+"1tb Patriot PV553 SSD NVMe2.0 G5 heatsink, R|W: 12400|11800, pn: PV553P1TBM28H",Storage,11499.0,0
+"2tb Patriot PV573 SSD NVMe2.0 G5 heatsink, R|W: 14000|12000, pn: PV573P2TBM28H",Storage,21150.0,0
+"4tb Patriot PV573 SSD NVMe2.0 G5 heatsink, R|W: 14000|12000, pn: PV573P4TBM28H",Storage,36199.0,0
+"500gb Patriot P400v4 SSD NVMe2.0 G4, R|W: 5000|3000, pn: P400VP500GM28H",Storage,2850.0,0
+"1tb Patriot P400v4 SSD NVMe2.0 G4, R|W: 6000|5000, pn: P400VP1TBM28H",Storage,4280.0,0
+"2tb Patriot P400v4 SSD NVMe2.0 G4, R|W: 6200|5200, pn: P400VP2TBM28H",Storage,7199.0,0
+"4tb Patriot P400v4 SSD NVMe2.0 G4, R|W: 6200|5200, pn: P400VP4TBM28H",Storage,14999.0,0
+"1tb WD Green SN350 SSD NVMe, R|W: 3200|2500, pn: WDS100T3G0C | WDS100T3G0C",Storage,3199.0,0
+"2tb WD Green SN350 SSD NVMe, R|W: 3200|3000, pn: WDS200T3G0C | WDS200T3G0C",Storage,6699.0,2
+"250gb WD Green SN350 SSD NVMe, R|W: 2400|1500, pn: WDS250G2G0C",Storage,1299.0,0
+"500gb WD Green SN350 SSD NVMe, R|W: 2400|1500, pn: WDS500G2G0C",Storage,1899.0,0
+"250gb WD Blue SN580 SSD NVMe, R|W: 4000|2000, pn: WDS250G3B0E",Storage,1780.0,0
+"8tb WD Black SN850X SSD NVMe, R|W: 7200|6600, pn: WDS800T2X0E",Storage,46599.0,0
+"8tb WD Black SN850X SSD NVMe heatsink, R|W: 7200|6600, pn: WDS800T2XHE",Storage,47999.0,0
+"500gb WD Green SN3000 SSD NVMe, R|W: 5000|4100, pn: WDS500G4G0E",Storage,2280.0,0
+"1tb WD Green SN3000 SSD NVMe, R|W: 5000|4200, pn: WDS100T4G0E",Storage,3699.0,0
+"500gb WD Blue SN5000 SSD NVMe, R|W: 5000|4000, pn: WDS500G4B0E",Storage,2280.0,0
+"1tb WD Blue SN5000 SSD NVMe, R|W: 5150|4900, pn: WDS100T4B0E",Storage,3850.0,0
+"2tb WD Blue SN5000 SSD NVMe, R|W: 5150|4850, pn: WDS200T4B0E",Storage,7199.0,0
+"4tb WD Blue SN5000 SSD NVMe, R|W: 5500|5000, pn: WDS400T4B0E",Storage,15699.0,0
+"500gb WD Black SN7100 SSD NVMe, R|W: 6800|5800, pn: WDS500G4X0E",Storage,3399.0,0
+"1tb WD Black SN7100 SSD NVMe, R|W: 7250|6900, pn: WDS100T4X0E",Storage,4599.0,0
+"2tb WD Black SN7100 SSD NVMe, R|W: 7250|6900, pn: WDS200T4X0E",Storage,8450.0,0
+"6tb Seagate Barracuda HDD, 256mb 5400rpm, pn: ST6000DM003",Storage,8999.0,0
+"8tb Seagate Barracuda HDD, 256mb 5400rpm, pn: ST8000DM004",Storage,11299.0,0
+"256gb SanDisk Extreme Pro micro SD | MMC, A2 U3 V30, 200|140 MB/S, pn: SDSQXCD-256G-GN6MA",Storage,1599.0,0
+"10tb WD Red+ Plus HDD, for NAS, 512mb 7200rpm, pn: WD100EFGX",Storage,14450.0,0
+"4tb WD Black SN850X SSD NVMe, R|W: 7300|6600, pn: WDS400T2X0E",Storage,18599.0,0
+"4tb WD Black SN850X SSD NVMe heatsink, R|W: 7300|6600, pn: WDS400T2XHE",Storage,19999.0,0
+"4tb Patriot VP4300 Lite SSD NVMe2.0 G4, R|W: 7400|6000, pn: VP4300L4TBM28H",Storage,15499.0,0

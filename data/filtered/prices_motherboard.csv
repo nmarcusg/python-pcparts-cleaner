@@ -1,0 +1,495 @@
+item_name,category_name,item_price_in_php,stocks
+"Asus ROG Strix H370-F Gaming, LGA1151, H370, ATX, 4*ddr4",Motherboard,5999.0,34
+"Asus Prime H510M-K R2.0, LGA1200, mATX, 2*ddr4",Motherboard,4225.0,11
+"MSI Pro H510M-B, LGA1200, mATX, 2*ddr4",Motherboard,3450.0,31
+"Asus Prime H610M-D D4, LGA1700, mATX, 2*ddr4",Motherboard,4999.0,8
+"Asus Prime H610M-K D4, LGA1700, mATX, 2*ddr4",Motherboard,4880.0,9
+"Asus Prime H610M-E D4, LGA1700, mATX, 2*ddr4",Motherboard,4899.0,20
+"Asus Prime H610M-R D4, LGA1700, mATX, 2*ddr4",Motherboard,4625.0,8
+"Gigabyte H610M-H V3 DDR4, LGA1700, mATX, 2*ddr4",Motherboard,4450.0,3
+"ASRock B660M-ITX/AC, LGA1700, ITX, 2*ddr4, WiFi + BT",Motherboard,6950.0,2
+"Asus TUF B760M-Plus WiFi D4, LGA1700, mATX, 4*ddr4",Motherboard,10780.0,22
+"Asus Prime B760M-K D4, LGA1700, mATX, 2*ddr4",Motherboard,5999.0,12
+"Asus Prime B760M-A WiFi D4, LGA1700, mATX, 4*ddr4",Motherboard,8399.0,13
+"Asus Prime B760M-R D4, LGA1700, mATX, 2*ddr4",Motherboard,5799.0,13
+"Asus TUF Z790 Pro WiFi D5, LGA1700, ATX, 4*ddr5",Motherboard,20450.0,3
+"Asus TUF Z790 Plus WiFi D5, LGA1700, ATX, 4*ddr5",Motherboard,19799.0,3
+"Asus Prime Z790-A WiFi/CSM D5, LGA1700, ATX, 4*ddr5",Motherboard,21950.0,0
+"Asus Prime Z790-P WiFi/CSM D5, LGA1700, ATX, 4*ddr5",Motherboard,15599.0,2
+"Asus TUF Z790-BTF WiFi D5, LGA1700, ATX, 4*ddr5",Motherboard,20599.0,3
+"Asus Prime Z790M-Plus-CSM D5, LGA1700, mATX, 4*ddr5",Motherboard,14625.0,3
+"Asus ROG Maximus Z790 Hero D5, LGA1700, ATX, 4*ddr5, WiFi6",Motherboard,32180.0,2
+"Asus ROG Maximus Z790 Dark Hero D5, LGA1700, ATX, 4*ddr5, WiFi7",Motherboard,39380.0,2
+"Asus ROG Maximus Z790 Apex Encore D5, LGA1700, ATX, 2*ddr5, WiFi7",Motherboard,39999.0,1
+"Asus ROG Maximus Z790 Formula D5, LGA1700, ATX, 4*ddr5, WiFi7",Motherboard,44625.0,1
+"Asus ROG Maximus Z790 Hero EVA-02 D5, LGA1700, ATX, 4*ddr5, WiFi6",Motherboard,45299.0,2
+"Asus ROG Strix B760-A Gaming WiFi D5, LGA1700, ATX, 4*ddr5",Motherboard,15180.0,6
+"Asus ROG Strix B760-F Gaming WiFi D5, LGA1700, ATX, 4*ddr5",Motherboard,15180.0,9
+"Asus ROG Strix B760-G Gaming WiFi D5, LGA1700, ATX, 4*ddr5",Motherboard,13450.0,4
+"Asus ROG Strix B760-I Gaming WiFi D5, LGA1700, ITX, 2*ddr5",Motherboard,14150.0,3
+"Asus TUF B760M-Plus WiFi II D5, LGA1700, mATX, 4*ddr5",Motherboard,11725.0,6
+"Asus TUF B760M-BTF WiFi D5, LGA1700, mATX, 4*ddr5",Motherboard,14750.0,2
+"Asus Prime B760M-K D5, LGA1700, mATX, 2*ddr5",Motherboard,6550.0,11
+"Asus Prime B760M-A WiFi D5, LGA1700, mATX, 4*ddr5",Motherboard,8899.0,16
+"Asus Prime H610M-E D5, LGA1700, mATX, 2*ddr5",Motherboard,4950.0,134
+"MSI Pro Z790-A WiFi DDR4, LGA1700, ATX, 4*ddr4",Motherboard,15225.0,2
+"MSI MAG B760 Tomahawk WiFi DDR4, LGA1700, ATX, 4*ddr4",Motherboard,12500.0,2
+"MSI MPG B760I Edge WiFi DDR4, LGA1700, ITX, 2*ddr4",Motherboard,11699.0,0
+"MSI Pro H610M-G WiFi DDR4 LGA1700, mATX, 2*ddr4",Motherboard,5399.0,7
+"MSI Pro B760M-A WiFi DDR4, LGA1700, mATX, 4*ddr4",Motherboard,7725.0,9
+"MSI Pro B760M-E DDR4, LGA1700, mATX, 2*ddr4",Motherboard,5150.0,4
+"MSI MPG Z790 Carbon WiFi II, LGA1700, ATX, 4*ddr5",Motherboard,26850.0,2
+"MSI MPG Z790 Edge WiFi, LGA1700, ATX, 4*ddr5",Motherboard,22699.0,0
+"MSI MPG Z790 Edge Monster Hunter, LGA1700, ATX, 4*ddr5, WiFi7",Motherboard,24999.0,1
+"MSI MAG Z790 Tomahawk WiFi, LGA1700, ATX, 4*ddr5",Motherboard,17999.0,2
+"MSI Pro Z790-P WiFi, LGA1700, ATX, 4*ddr5",Motherboard,14299.0,3
+"MSI Pro Z790-S WiFi, LGA1700, ATX, 4*ddr5",Motherboard,11725.0,1
+"MSI Pro B760-P WiFi, LGA1700, ATX, 4*ddr5",Motherboard,10999.0,0
+"MSI B760 Gaming Plus WiFi, LGA1700, ATX, 4*ddr5",Motherboard,10880.0,2
+"MSI MAG B760 Tomahawk WiFi, LGA1700, ATX, 4*ddr5",Motherboard,12999.0,1
+"MSI MPG B760I Edge WiFi, LGA1700, ITX, 2*ddr5",Motherboard,11725.0,3
+"MSI MAG B760M Mortar WiFi II, LGA1700, mATX, 4*ddr5",Motherboard,11500.0,4
+"MSI Pro B760M-A WiFi, LGA1700, mATX, 4*ddr5",Motherboard,8199.0,13
+"MSI B760M Project Zero, LGA1700, mATX, 4*ddr5, WiFi6",Motherboard,11699.0,2
+"Gigabyte B760M Aorus Elite AX DDR4, LGA1700, mATX, 4*ddr4, WiFi6",Motherboard,9499.0,1
+"Gigabyte B760I Aorus Pro DDR4, LGA1700, ITX, 2*ddr4, WiFi",Motherboard,12699.0,3
+"Gigabyte B760 Gaming X AX DDR4, LGA1700, ATX, 4*ddr4, WiFi6",Motherboard,10899.0,3
+"Gigabyte B760M Gaming AC DDR4, LGA1700, mATX, 2*ddr4, WiFi",Motherboard,7525.0,3
+"Gigabyte B760M DS3H AX DDR4, LGA1700, mATX, 4*ddr4, WiFi6",Motherboard,7325.0,11
+"Gigabyte B760M DS3H DDR4, LGA1700, mATX, 4*ddr4",Motherboard,6350.0,3
+"Gigabyte B760M H DDR4, LGA1700, mATX, 2*ddr4",Motherboard,5725.0,11
+"Gigabyte Z790 Aorus Master, LGA1700, ATX, 4*ddr5, WiFi6",Motherboard,36599.0,0
+"Gigabyte Z790M Aorus Elite AX, LGA1700, mATX, 4*ddr5, WiFi6",Motherboard,15599.0,1
+"Gigabyte Z790M Aorus Elite AX ICE, LGA1700, mATX, 4*ddr5, WiFi6",Motherboard,15580.0,1
+"Gigabyte Z790 Aorus Pro X, LGA1700, ATX, 4*ddr5, WiFi7",Motherboard,26599.0,1
+"Gigabyte Z790I Aorus Ultra, LGA1700, ITX, 2*ddr5, WiFi6",Motherboard,19999.0,2
+"Gigabyte Z790 Aero G, LGA1700, ATX, 4*ddr5, WiFi6",Motherboard,20599.0,3
+"Gigabyte Z790 Eagle AX, LGA1700, ATX, 4*ddr5, WiFi6",Motherboard,12550.0,2
+"Gigabyte B760M Aorus Elite AX, LGA1700, mATX, 4*ddr5, WiFi6",Motherboard,10899.0,2
+"Gigabyte B760M Aorus Elite X AX, LGA1700, mATX, 4*ddr5, WiFi6",Motherboard,12625.0,2
+"Gigabyte B760 Gaming X AX, LGA1700, ATX, 4*ddr5, WiFi6",Motherboard,11299.0,3
+"Gigabyte B760M DS3H AX, LGA1700, mATX, 4*ddr5, WiFi6",Motherboard,7650.0,13
+"Gigabyte B760M DS3H, LGA1700, mATX, 4*ddr5",Motherboard,6699.0,7
+"NZXT N7 Z790 black, LGA1700, ATX, 4*ddr5, WiFi6, pn: N7-Z79XT-B1",Motherboard,17450.0,1
+"NZXT N7 Z790 white, LGA1700, ATX, 4*ddr5, WiFi6, pn: N7-Z79XT-W1",Motherboard,17450.0,0
+"Asus ROG Crosshair 6 Hero, AM4, X370, ATX, 4*ddr4",Motherboard,8350.0,4
+"Asus ROG Strix X370-F Gaming, AM4, X370, ATX, 4*ddr4",Motherboard,6999.0,4
+"Asus Prime B450M-K 2/CSM, AM4, mATX, 2*ddr4",Motherboard,3950.0,86
+"Asus Prime A520M-K, AM4, mATX, 2*ddr4",Motherboard,3499.0,0
+"Asus Prime A520M-K/CSM, AM4, mATX, 2*ddr4",Motherboard,3750.0,17
+"Asus TUF Gaming B550M Plus WiFi II, AM4, mATX, 4*ddr4",Motherboard,9950.0,13
+"Asus Prime B550M-A WiFi II, AM4, mATX, 4*ddr4",Motherboard,5999.0,22
+"Asus ROG Strix B550-A Gaming, AM4, ATX, 4*ddr4",Motherboard,11525.0,4
+"Asus ROG Strix B550-F Gaming WiFi II, AM4, ATX, 4*ddr4",Motherboard,11725.0,4
+"MSI A520M-A Pro, AM4, mATX, 2*ddr4",Motherboard,3250.0,10
+"MSI MAG B550M Mortar Max WiFi, AM4, mATX, 4*ddr4",Motherboard,9150.0,0
+"MSI MAG B550 Tomahawk Max WiFi, AM4, ATX, 4*ddr4",Motherboard,10500.0,8
+"MSI B550M Pro VDH WiFi, AM4, B550, mATX, 4*ddr4",Motherboard,5899.0,13
+"MSI B550M A Pro, AM4, mATX, 2*ddr4",Motherboard,4599.0,6
+"Gigabyte B450M DS3H V2, AM4, mATX, 4*ddr4",Motherboard,3780.0,21
+"Gigabyte A520I AC, AM4, ITX, 2*ddr4, WiFi",Motherboard,6350.0,0
+"Gigabyte A520M DS3H AC, AM4, mATX, 4*ddr4, WiFi",Motherboard,4180.0,1
+"Gigabyte A520M DS3H V2, AM4, mATX, 2*ddr4",Motherboard,3980.0,24
+"Gigabyte A520M K V2, AM4, mATX, 2*ddr4",Motherboard,3450.0,5
+"Gigabyte B550M DS3H, AM4, mATX, 4*ddr4",Motherboard,4999.0,8
+"Gigabyte B550M Aorus Elite, AM4, mATX, 4*ddr4",Motherboard,6199.0,2
+"Gigabyte B550M DS3H AC, AM4, mATX, 4*ddr4, WiFi",Motherboard,5699.0,13
+"Gigabyte B550M Aorus Elite AX, AM4, mATX, 4*ddr4, WiFi",Motherboard,7150.0,0
+"Gigabyte B550 Aorus Elite AX V2, AM4, ATX, 4*ddr4, WiFi",Motherboard,10999.0,3
+"Gigabyte B550I Aorus Pro AX, AM4, ITX, 2*ddr4, WiFi",Motherboard,11250.0,3
+"ASRock B550M Pro 4, AM4, mATX, 4*ddr4",Motherboard,5880.0,7
+"ASRock B550M Pro SE, AM4, mATX, 4*ddr4",Motherboard,5450.0,6
+"NZXT N7 B550 black, AM4, ATX, 4*ddr4, WiFi, pn: N7-B55XT-B1",Motherboard,12625.0,1
+"NZXT N7 B550 white, AM4, ATX, 4*ddr4, WiFi, pn: N7-B55XT-W1",Motherboard,12625.0,1
+"Asus ROG Crosshair X670E Hero, AM5, ATX, 4*ddr5, WiFi",Motherboard,36899.0,0
+"Asus ROG Crosshair X670E Extreme, AM5, ATX, 4*ddr5, WiFi",Motherboard,47299.0,0
+"Asus ROG Strix X670E-A Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,21850.0,3
+"Asus ROG Strix X670E-E Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,29699.0,3
+"Asus ROG Strix X670E-F Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,26499.0,3
+"Asus TUF Gaming B650M Plus WiFi, AM5, mATX, 4*ddr5",Motherboard,13350.0,6
+"Asus TUF Gaming B650M-E, AM5, mATX, 4*ddr5",Motherboard,11299.0,2
+"Asus TUF Gaming B650-E WiFi, AM5, ATX, 4*ddr5",Motherboard,13350.0,3
+"Asus Prime B650M-A II, AM5, mATX, 4*ddr5",Motherboard,7799.0,5
+"Asus Prime B650M-A WiFi II, AM5, mATX, 4*ddr5",Motherboard,9325.0,3
+"Asus ROG Strix B650-A Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,15999.0,3
+"Asus ROG Strix B650E-E Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,22280.0,4
+"Asus ROG Strix B650E-F Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,18500.0,2
+"Asus ROG Strix B650E-I Gaming WiFi, AM5, ITX, 2*ddr5",Motherboard,21399.0,2
+"Asus TUF Gaming X670E-Plus WiFi, AM5, ATX, 4*ddr5",Motherboard,20999.0,0
+"Asus ProArt X670E-Creator WiFi, AM5, ATX, 4*ddr5",Motherboard,29599.0,0
+"Asus Prime X670E-Pro WiFi-CSM, AM5, ATX, 4*ddr5",Motherboard,17699.0,3
+"Asus Prime A620M-K-CSM, AM5, mATX, 2*ddr5",Motherboard,6299.0,0
+"Asus TUF Gaming A620M Plus, AM5, mATX, 4*ddr5",Motherboard,7999.0,3
+"Asus TUF Gaming A620M Plus WiFi, AM5, mATX, 4*ddr5",Motherboard,8450.0,2
+"Asus ROG Crosshair X870E Hero, AM5, ATX, 4*ddr5, WiFi7",Motherboard,43899.0,0
+"Asus ROG Strix X870E-E Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,34199.0,0
+"Asus ProArt X870E-Creator WiFi, AM5, ATX, 4*ddr5",Motherboard,32599.0,0
+"Asus ROG Strix X870-A Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,27350.0,0
+"Asus ROG Strix X870-F Gaming WiFi, AM5, ATX, 4*ddr5",Motherboard,29599.0,0
+"Asus ROG Strix X870-I Gaming WiFi, AM5, ITX, 4*ddr5",Motherboard,32799.0,0
+"Asus TUF Gaming X870 Plus WiFi, AM5, ATX, 4*ddr5",Motherboard,23699.0,0
+"Asus Prime X870-P WiFi-CSM, AM5, ATX, 4*ddr5",Motherboard,19799.0,0
+"MSI MPG X670E Carbon WiFi, AM5, ATX, 4*ddr5",Motherboard,28425.0,1
+"MSI X670E Gaming Plus WiFi, AM5, ATX, 4*ddr5",Motherboard,15650.0,1
+"MSI MAG X670E Tomahawk WiFi, AM5, ATX, 4*ddr5",Motherboard,18699.0,1
+"MSI MPG B650 Carbon WiFi, AM5, ATX, 4*ddr5",Motherboard,17699.0,2
+"MSI MPG B650 EDGE WiFi, AM5, ATX, 4*ddr5",Motherboard,15599.0,3
+"MSI MAG B650 Tomahawk WiFi, AM5, ATX, 4*ddr5",Motherboard,13950.0,5
+"MSI B650 Gaming Plus WiFi, AM5, ATX, 4*ddr5",Motherboard,12350.0,4
+"MSI MAG B650M Mortar WiFi, AM5, mATX, 4*ddr5",Motherboard,12999.0,5
+"MSI Pro B650M-A WiFi, AM5, mATX, 4*ddr5",Motherboard,10999.0,6
+"MSI Pro B650M-P, AM5, mATX, 4*ddr5",Motherboard,7699.0,1
+"MSI Pro B650M-B, AM5, mATX, 2*ddr5",Motherboard,5999.0,2
+"MSI B650M Project Zero, AM5, mATX, 4*ddr5, WiFi",Motherboard,13399.0,1
+"MSI B650M Gaming Plus WiFi, AM5, mATX, 4*ddr5",Motherboard,8850.0,7
+"MSI MPG B650I EDGE WiFi, AM5, ITX, 2*ddr5",Motherboard,13625.0,4
+"MSI Pro A620M-E, AM5, mATX, 2*ddr5",Motherboard,5650.0,2
+"MSI Pro X870 P WiFi, AM5, ATX, 4*ddr5",Motherboard,16399.0,0
+"Gigabyte X670 Gaming X AX V2, AM5, ATX, 4*ddr5, WiFi",Motherboard,15325.0,2
+"Gigabyte B650M Aorus Elite AX, AM5, mATX, 4*ddr5, WiFi",Motherboard,10599.0,4
+"Gigabyte B650M Gaming X AX, AM5, mATX, 4*ddr5, WiFi",Motherboard,11550.0,4
+"Gigabyte B650 Aero G, AM5, ATX, 4*ddr5, WiFi",Motherboard,16750.0,2
+"Gigabyte B650 Eagle AX, AM5, ATX, 4*ddr5, WiFi",Motherboard,11199.0,2
+"Gigabyte B650M D3HP AX, AM5, mATX, 4*ddr5, WiFi",Motherboard,8599.0,3
+"Gigabyte B650M K, AM5, mATX, 4*ddr5",Motherboard,7399.0,2
+"Gigabyte A620M S2H, AM5, mATX, 2*ddr5",Motherboard,5850.0,3
+"Gigabyte B650 Aorus Elite AX V2, AM5, ATX, 4*ddr5, WiFi",Motherboard,12650.0,0
+"Gigabyte B650 Aorus Elite AX ICE, AM5, ATX, 4*ddr5, WiFi",Motherboard,13199.0,4
+"Gigabyte B650E Aorus Elite X AX ICE, AM5, ATX, 4*ddr5, WiFi",Motherboard,15450.0,2
+"Gigabyte B650E Aorus Stealth ICE, AM5, ATX, 4*ddr5, WiFi7",Motherboard,17350.0,1
+"Gigabyte B650I AX, AM5, ITX, 2*ddr5, WiFi",Motherboard,9899.0,5
+"Gigabyte X870E Aorus Master, AM5, ATX, 4*ddr5, WiFi7",Motherboard,31599.0,0
+"Gigabyte X870E Aorus Elite WiFi7, AM5, ATX, 4*ddr5",Motherboard,19699.0,0
+"Gigabyte X870 Aorus Elite WiFi7, AM5, ATX, 4*ddr5",Motherboard,18450.0,0
+"Gigabyte X870 Aorus Elite WiFi7 ICE, AM5, ATX, 4*ddr5",Motherboard,18799.0,0
+"Gigabyte X870 Gaming X WiFi7, AM5, ATX, 4*ddr5",Motherboard,14999.0,0
+"Gigabyte X870 Gaming WiFi6, AM5, ATX, 4*ddr5",Motherboard,13199.0,0
+"Gigabyte X870 Eagle WiFi7, AM5, ATX, 4*ddr5",Motherboard,13899.0,0
+"ASRock X670E Taichi Carrara, AM5, ATX, 4*ddr4",Motherboard,19799.0,0
+"ASRock B650M PG Riptide, AM5, mATX, 4*ddr5",Motherboard,10599.0,2
+"ASRock B650M PG Riptide WiFi, AM5, mATX, 4*ddr5",Motherboard,11450.0,2
+"ASRock B650M Pro RS WiFi, AM5, mATX, 4*ddr5",Motherboard,9799.0,6
+"ASRock B650M-H/M.2+, AM5, mATX, 2*ddr5",Motherboard,6999.0,1
+"ASRock B650M Pro RS, AM5, mATX, 4*ddr5",Motherboard,8899.0,2
+"ASRock B650M-HDV/M.2, AM5, mATX, 2*ddr5",Motherboard,7199.0,4
+"NZXT N7 B650E black, AM5, ATX, 4*ddr5, WiFi6, pn: N7-B65XT-B1",Motherboard,19499.0,0
+"NZXT N7 B650E white, AM5, ATX, 4*ddr5, WiFi6, pn: N7-B65XT-W1",Motherboard,19499.0,0
+"Asus ROG Maximus Z890 Extreme, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,68999.0,0
+"Asus ROG Maximus Z890 Hero, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,45999.0,0
+"Asus ROG Maximus Z890 Apex, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,45999.0,0
+"Asus ROG Strix Z890-A Gaming WiFi, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,28999.0,0
+"Asus ROG Strix Z890-E Gaming WiFi, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,34899.0,0
+"Asus ROG Strix Z890-F Gaming WiFi, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,30999.0,0
+"Asus ROG Strix Z890-I Gaming WiFi, LGA1851, ITX, 2*ddr5, WiFi7",Motherboard,33750.0,0
+"Asus TUF Gaming Z890 Pro WiFi, LGA1851, ATX, 4*ddr5",Motherboard,24099.0,0
+"Asus TUF Gaming Z890 Plus WiFi, LGA1851, ATX, 4*ddr5",Motherboard,23350.0,0
+"Asus Prime Z890-P WiFi-CSM, LGA1851, ATX, 4*ddr5",Motherboard,19199.0,0
+"Asus TUF Gaming B650M-E WiFi, AM5, mATX, 4*ddr5",Motherboard,12599.0,0
+"MSI MPG Z890 Carbon WiFi, LGA1851, ATX, 4*ddr5",Motherboard,31499.0,0
+"MSI MAG Z890 Tomahawk WiFi, LGA1851, ATX, 4*ddr5",Motherboard,20999.0,0
+"MSI Pro Z890-P WiFi, LGA1851, ATX, 4*ddr5",Motherboard,15799.0,0
+"MSI Z890 Gaming Plus WiFi, LGA1851, ATX, 4*ddr5",Motherboard,17950.0,0
+"Gigabyte Z890 Aorus Pro ICE, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,29699.0,0
+"Gigabyte Z890 Aorus Elite WiFi7, LGA1851, ATX, 4*ddr5",Motherboard,18950.0,0
+"Gigabyte Z890 Aorus Elite WiFi7 ICE, LGA1851, ATX, 4*ddr5",Motherboard,19550.0,0
+"Gigabyte Z890M Aorus Elite WiFi7, LGA1851, mATX, 4*ddr5",Motherboard,15550.0,0
+"Gigabyte Z890M Aorus Elite WiFi7 ICE, LGA1851, mATX, 4*ddr5",Motherboard,16199.0,0
+"Gigabyte Z890I Aorus Ultra, LGA1851, ITX, 2*ddr5, WiFi7",Motherboard,23650.0,0
+"Gigabyte Z890 Gaming X WiFi7, LGA1851, ATX, 4*ddr5",Motherboard,17550.0,0
+"Gigabyte Z890M Gaming X, LGA1851, mATX, 4*ddr5",Motherboard,12199.0,0
+"Gigabyte Z890 Aero G, LGA1851, ATX, 4*ddr5",Motherboard,23650.0,0
+"Gigabyte Z890 Eagle WiFi7, LGA1851, ATX, 4*ddr5",Motherboard,16199.0,0
+"ASRock B650 Steel Legend WiFi, AM5, ATX, 4*ddr5",Motherboard,14499.0,0
+"ASRock B650I Lightning WiFi, AM5, ITX, 2*ddr5",Motherboard,12799.0,0
+"Emaxx EMX-H610-PRO, LGA1700, mATX, 2*ddr4",Motherboard,3499.0,0
+"Emaxx EMX-H610M-PRO, LGA1700, mATX, 2*ddr4",Motherboard,3499.0,0
+"Asus Prime B550M-A, AM4, mATX, 4*ddr4",Motherboard,5299.0,0
+"MSI B650M Gaming WiFi, AM5, mATX, 2*ddr5",Motherboard,8299.0,0
+"Gigabyte X870E Aorus Pro, AM5, ATX, 4*ddr5, WiFi7",Motherboard,22150.0,0
+"Gigabyte X870E Aorus Pro ICE, AM5, ATX, 4*ddr5, WiFi7",Motherboard,22499.0,0
+"MSI MPG Z890 Edge Ti WiFi, LGA1851, ATX, 4*ddr5",Motherboard,26999.0,0
+"Gigabyte B450M DS3H V3, AM4, mATX, 4*ddr4",Motherboard,3799.0,21
+"Asus Prime B550M-K, AM4, mATX, 4*ddr4",Motherboard,4950.0,0
+"Gigabyte Z890 Aorus Master, LGA1851, ATX, 4*ddr5, WiFi7",Motherboard,39999.0,0
+"Gigabyte Z890 UD WiFi6E, LGA1851, ATX, 4*ddr5",Motherboard,14899.0,0
+"ASRock B550M WiFi SE, AM4, mATX, 4*ddr4",Motherboard,5599.0,0
+"ASRock B650M PG Lightning WiFi, AM5, mATX, 4*ddr5",Motherboard,8599.0,0
+"Asus ROG Strix H370-F Gaming, LGA1151, H370, ATX, 4*d4",Motherboard,5999.0,34
+"Asus Prime H510M-K R2.0, LGA1200, mATX, 2*d4",Motherboard,4225.0,11
+"MSI Pro H510M-B, LGA1200, mATX, 2*d4",Motherboard,3399.0,31
+"Asus Prime H610M-D D4, LGA1700, mATX, 2*d4",Motherboard,4699.0,8
+"Asus Prime H610M-K D4, LGA1700, mATX, 2*d4",Motherboard,4599.0,9
+"Asus Prime H610M-E D4, LGA1700, mATX, 2*d4",Motherboard,4699.0,20
+"Asus Prime H610M-R D4, LGA1700, mATX, 2*d4",Motherboard,4799.0,8
+"Gigabyte H610M-H V3 d4, LGA1700, mATX, 2*d4",Motherboard,4399.0,3
+"Emaxx EMX-H610M-PRO, LGA1700, mATX, 2*d4",Motherboard,3499.0,0
+"Asus TUF B760M-Plus WiFi D4, LGA1700, mATX, 4*d4",Motherboard,10500.0,22
+"Asus Prime B760M-K D4, LGA1700, mATX, 2*d4",Motherboard,5750.0,12
+"Asus Prime B760M-A WiFi D4, LGA1700, mATX, 4*d4",Motherboard,8399.0,13
+"Asus Prime B760M-R D4, LGA1700, mATX, 2*d4",Motherboard,5799.0,13
+"Asus TUF Z790 BTF WiFi D5, LGA1700, ATX, 4*d5",Motherboard,15399.0,3
+"Asus Prime Z790M Plus CSM D5, LGA1700, mATX, 4*d5",Motherboard,12199.0,3
+"Asus ROG Maximus Z790 Dark Hero D5, LGA1700, ATX, 4*d5, WiFi7",Motherboard,33999.0,2
+"Asus ROG Maximus Z790 Apex Encore D5, LGA1700, ATX, 2*d5, WiFi7",Motherboard,29999.0,1
+"Asus ROG Maximus Z790 Formula D5, LGA1700, ATX, 4*d5, WiFi7",Motherboard,39999.0,1
+"Asus ROG Strix B760-A Gaming WiFi D5, LGA1700, ATX, 4*d5",Motherboard,14599.0,6
+"Asus ROG Strix B760-F Gaming WiFi D5, LGA1700, ATX, 4*d5",Motherboard,15180.0,9
+"Asus ROG Strix B760-G Gaming WiFi D5, LGA1700, ATX, 4*d5",Motherboard,13450.0,4
+"Asus ROG Strix B760-I Gaming WiFi D5, LGA1700, ITX, 2*d5",Motherboard,13799.0,3
+"Asus TUF B760M-Plus WiFi II D5, LGA1700, mATX, 4*d5",Motherboard,11725.0,6
+"Asus TUF B760M-BTF WiFi D5, LGA1700, mATX, 4*d5",Motherboard,14750.0,2
+"Asus Prime B760M-K D5, LGA1700, mATX, 2*d5",Motherboard,6199.0,11
+"Asus Prime B760M-A WiFi D5, LGA1700, mATX, 4*d5",Motherboard,8250.0,16
+"Asus Prime H610M-E D5, LGA1700, mATX, 2*d5",Motherboard,4650.0,134
+"MSI MAG B760 Tomahawk WiFi d4, LGA1700, ATX, 4*d4",Motherboard,12450.0,2
+"MSI MPG B760I Edge WiFi d4, LGA1700, ITX, 2*d4",Motherboard,11699.0,0
+"MSI Pro H610M-G WiFi d4 LGA1700, mATX, 2*d4",Motherboard,5399.0,7
+"MSI Pro B760M-A WiFi d4, LGA1700, mATX, 4*d4",Motherboard,7650.0,9
+"MSI Pro B760M-E d4, LGA1700, mATX, 2*d4",Motherboard,5150.0,4
+"MSI MPG Z790 Edge Monster Hunter, LGA1700, ATX, 4*d5, WiFi7",Motherboard,23250.0,1
+"MSI Pro Z790-P WiFi, LGA1700, ATX, 4*d5",Motherboard,13499.0,3
+"MSI Pro Z790-S WiFi, LGA1700, ATX, 4*d5",Motherboard,11150.0,1
+"MSI Pro B760-P WiFi, LGA1700, ATX, 4*d5",Motherboard,10999.0,0
+"MSI B760 Gaming Plus WiFi, LGA1700, ATX, 4*d5",Motherboard,11500.0,2
+"MSI MAG B760 Tomahawk WiFi, LGA1700, ATX, 4*d5",Motherboard,12999.0,1
+"MSI MPG B760I Edge WiFi, LGA1700, ITX, 2*d5",Motherboard,11699.0,3
+"MSI MAG B760M Mortar WiFi II, LGA1700, mATX, 4*d5",Motherboard,11450.0,4
+"MSI Pro B760M-A WiFi, LGA1700, mATX, 4*d5",Motherboard,8099.0,13
+"MSI B760M Project Zero, LGA1700, mATX, 4*d5, WiFi6",Motherboard,11699.0,2
+"Gigabyte B760M Aorus Elite AX d4, LGA1700, mATX, 4*d4, WiFi6",Motherboard,8999.0,1
+"Gigabyte B760I Aorus Pro d4, LGA1700, ITX, 2*d4, WiFi",Motherboard,11999.0,3
+"Gigabyte B760 Gaming X AX d4, LGA1700, ATX, 4*d4, WiFi6",Motherboard,10450.0,3
+"Gigabyte B760M Gaming AC d4, LGA1700, mATX, 2*d4, WiFi",Motherboard,6899.0,3
+"Gigabyte B760M DS3H AX d4, LGA1700, mATX, 4*d4, WiFi6",Motherboard,7399.0,11
+"Gigabyte B760M DS3H d4, LGA1700, mATX, 4*d4",Motherboard,6350.0,3
+"Gigabyte B760M H d4, LGA1700, mATX, 2*d4",Motherboard,5499.0,11
+"Gigabyte Z790I Aorus Ultra, LGA1700, ITX, 2*d5, WiFi6",Motherboard,18999.0,2
+"Gigabyte B760M Aorus Elite AX, LGA1700, mATX, 4*d5, WiFi6",Motherboard,10450.0,2
+"Gigabyte B760M Aorus Elite X AX, LGA1700, mATX, 4*d5, WiFi6",Motherboard,12150.0,2
+"Gigabyte B760 Gaming X AX, LGA1700, ATX, 4*d5, WiFi6",Motherboard,10799.0,3
+"Gigabyte B760M DS3H AX, LGA1700, mATX, 4*d5, WiFi6",Motherboard,7750.0,13
+"Gigabyte B760M DS3H, LGA1700, mATX, 4*d5",Motherboard,6699.0,7
+"NZXT N7 Z790 black, LGA1700, ATX, 4*d5, WiFi6, pn: N7-Z79XT-B1",Motherboard,16599.0,1
+"Asus ROG Maximus Z890 Extreme, LGA1851, ATX, 4*d5, WiFi7",Motherboard,65999.0,0
+"Asus ROG Maximus Z890 Hero, LGA1851, ATX, 4*d5, WiFi7",Motherboard,45099.0,0
+"Asus ROG Maximus Z890 Apex, LGA1851, ATX, 4*d5, WiFi7",Motherboard,45099.0,0
+"Asus ROG Strix Z890-A Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,28399.0,0
+"Asus ROG Strix Z890-E Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,33999.0,0
+"Asus ROG Strix Z890-F Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,30199.0,0
+"Asus ROG Strix Z890-I Gaming WiFi, LGA1851, ITX, 2*d5, WiFi7",Motherboard,32299.0,0
+"Asus TUF Gaming Z890 Pro WiFi, LGA1851, ATX, 4*d5",Motherboard,23499.0,0
+"Asus TUF Gaming Z890 Plus WiFi, LGA1851, ATX, 4*d5",Motherboard,22799.0,0
+"Asus Prime Z890-P WiFi CSM, LGA1851, ATX, 4*d5",Motherboard,18699.0,0
+"MSI MPG Z890 Carbon WiFi, LGA1851, ATX, 4*d5",Motherboard,30899.0,0
+"MSI MPG Z890 Edge Ti WiFi, LGA1851, ATX, 4*d5",Motherboard,26399.0,0
+"MSI MAG Z890 Tomahawk WiFi, LGA1851, ATX, 4*d5",Motherboard,20599.0,0
+"MSI Z890 Gaming Plus WiFi, LGA1851, ATX, 4*d5",Motherboard,17599.0,0
+"MSI Pro Z890-P WiFi, LGA1851, ATX, 4*d5",Motherboard,15450.0,0
+"Gigabyte Z890 Aorus Master, LGA1851, ATX, 4*d5, WiFi7",Motherboard,39699.0,0
+"Gigabyte Z890 Aorus Pro ICE, LGA1851, ATX, 4*d5, WiFi7",Motherboard,28999.0,0
+"Gigabyte Z890 Aorus Elite WiFi7, LGA1851, ATX, 4*d5",Motherboard,18550.0,0
+"Gigabyte Z890 Aorus Elite WiFi7 ICE, LGA1851, ATX, 4*d5",Motherboard,19150.0,0
+"Gigabyte Z890M Aorus Elite WiFi7, LGA1851, mATX, 4*d5",Motherboard,15199.0,0
+"Gigabyte Z890M Aorus Elite WiFi7 ICE, LGA1851, mATX, 4*d5",Motherboard,15799.0,0
+"Gigabyte Z890I Aorus Ultra, LGA1851, ITX, 2*d5, WiFi7",Motherboard,23150.0,0
+"Gigabyte Z890 Gaming X WiFi7, LGA1851, ATX, 4*d5",Motherboard,17199.0,0
+"Gigabyte Z890M Gaming X, LGA1851, mATX, 4*d5",Motherboard,11899.0,0
+"Gigabyte Z890 Aero G, LGA1851, ATX, 4*d5",Motherboard,23150.0,0
+"Gigabyte Z890 Eagle WiFi7, LGA1851, ATX, 4*d5",Motherboard,15999.0,0
+"Gigabyte Z890 UD WiFi6E, LGA1851, ATX, 4*d5",Motherboard,14550.0,0
+"Asus ROG Crosshair 6 Hero, AM4, X370, ATX, 4*d4",Motherboard,8350.0,4
+"Asus ROG Strix X370-F Gaming, AM4, X370, ATX, 4*d4",Motherboard,6999.0,4
+"Asus Prime B450M-K 2/CSM, AM4, mATX, 2*d4",Motherboard,3750.0,86
+"Asus Prime A520M-K, AM4, mATX, 2*d4",Motherboard,3699.0,0
+"Asus Prime A520M-K/CSM, AM4, mATX, 2*d4",Motherboard,3450.0,17
+"Asus TUF Gaming B550M Plus WiFi II, AM4, mATX, 4*d4",Motherboard,8999.0,13
+"Asus Prime B550M-K, AM4, mATX, 4*d4",Motherboard,4650.0,0
+"Asus Prime B550M-A, AM4, mATX, 4*d4",Motherboard,5299.0,0
+"Asus Prime B550M-A WiFi II, AM4, mATX, 4*d4",Motherboard,6199.0,22
+"Asus ROG Strix B550-A Gaming, AM4, ATX, 4*d4",Motherboard,11399.0,4
+"Asus ROG Strix B550-F Gaming WiFi II, AM4, ATX, 4*d4",Motherboard,12199.0,4
+"MSI A520M-A Pro, AM4, mATX, 2*d4",Motherboard,3199.0,10
+"MSI MAG B550M Mortar Max WiFi, AM4, mATX, 4*d4",Motherboard,9150.0,0
+"MSI MAG B550 Tomahawk Max WiFi, AM4, ATX, 4*d4",Motherboard,10499.0,8
+"MSI B550M Pro VDH WiFi, AM4, B550, mATX, 4*d4",Motherboard,5899.0,13
+"MSI B550M A Pro, AM4, mATX, 2*d4",Motherboard,4499.0,6
+"Gigabyte B450M DS3H V3, AM4, mATX, 4*d4",Motherboard,3880.0,21
+"Gigabyte A520I AC, AM4, ITX, 2*d4, WiFi",Motherboard,6599.0,0
+"Gigabyte A520M DS3H AC, AM4, mATX, 4*d4, WiFi",Motherboard,4299.0,1
+"Gigabyte A520M DS3H V2, AM4, mATX, 4*d4",Motherboard,3550.0,24
+"Gigabyte A520M K V2, AM4, mATX, 2*d4",Motherboard,3080.0,5
+"Gigabyte B550M DS3H, AM4, mATX, 4*d4",Motherboard,4999.0,8
+"Gigabyte B550M Aorus Elite, AM4, mATX, 4*d4",Motherboard,6199.0,2
+"Gigabyte B550M DS3H AC, AM4, mATX, 4*d4, WiFi",Motherboard,5999.0,13
+"Gigabyte B550M Aorus Elite AX, AM4, mATX, 4*d4, WiFi",Motherboard,7150.0,0
+"Gigabyte B550 Aorus Elite AX V2, AM4, ATX, 4*d4, WiFi",Motherboard,10999.0,3
+"Gigabyte B550I Aorus Pro AX, AM4, ITX, 2*d4, WiFi",Motherboard,11250.0,3
+"ASRock B550M Pro 4, AM4, mATX, 4*d4",Motherboard,5899.0,7
+"ASRock B550M Pro SE, AM4, mATX, 4*d4",Motherboard,5450.0,6
+"ASRock B550M WiFi SE, AM4, mATX, 4*d4",Motherboard,5599.0,0
+"NZXT N7 B550 black, AM4, ATX, 4*d4, WiFi, pn: N7-B55XT-B1",Motherboard,12625.0,1
+"NZXT N7 B550 white, AM4, ATX, 4*d4, WiFi, pn: N7-B55XT-W1",Motherboard,12625.0,1
+"Asus ROG Strix X670E-A Gaming WiFi, AM5, ATX, 4*d5",Motherboard,20550.0,3
+"Asus TUF Gaming B650M Plus WiFi, AM5, mATX, 4*d5",Motherboard,13099.0,6
+"Asus TUF Gaming B650M-E, AM5, mATX, 4*d5",Motherboard,11299.0,2
+"Asus TUF Gaming B650M-E WiFi, AM5, mATX, 4*d5",Motherboard,12799.0,0
+"Asus TUF Gaming B650-E WiFi, AM5, ATX, 4*d5",Motherboard,13099.0,3
+"Asus Prime B650M-A II, AM5, mATX, 4*d5",Motherboard,7999.0,5
+"Asus Prime B650M-A WiFi II, AM5, mATX, 4*d5",Motherboard,8550.0,3
+"Asus ROG Strix B650-A Gaming WiFi, AM5, ATX, 4*d5",Motherboard,15999.0,3
+"Asus ROG Strix B650E-E Gaming WiFi, AM5, ATX, 4*d5",Motherboard,20450.0,4
+"Asus ROG Strix B650E-F Gaming WiFi, AM5, ATX, 4*d5",Motherboard,18999.0,2
+"Asus ROG Strix B650E-I Gaming WiFi, AM5, ITX, 2*d5",Motherboard,21399.0,2
+"Asus Prime A620M-K-CSM, AM5, mATX, 2*d5",Motherboard,6499.0,0
+"Asus TUF Gaming A620M Plus, AM5, mATX, 4*d5",Motherboard,6999.0,3
+"Asus TUF Gaming A620M Plus WiFi, AM5, mATX, 4*d5",Motherboard,8350.0,2
+"Asus ROG Crosshair X870E Hero, AM5, ATX, 4*d5, WiFi7",Motherboard,41699.0,0
+"Asus ROG Strix X870E-E Gaming WiFi, AM5, ATX, 4*d5",Motherboard,33099.0,0
+"Asus ProArt X870E-Creator WiFi, AM5, ATX, 4*d5",Motherboard,31499.0,0
+"Asus ROG Strix X870-A Gaming WiFi, AM5, ATX, 4*d5",Motherboard,26499.0,0
+"Asus ROG Strix X870-F Gaming WiFi, AM5, ATX, 4*d5",Motherboard,28599.0,0
+"Asus ROG Strix X870-I Gaming WiFi, AM5, ITX, 4*d5",Motherboard,31699.0,0
+"Asus TUF Gaming X870 Plus WiFi, AM5, ATX, 4*d5",Motherboard,22899.0,0
+"Asus Prime X870-P WiFi-CSM, AM5, ATX, 4*d5",Motherboard,19150.0,0
+"MSI MPG X670E Carbon WiFi, AM5, ATX, 4*d5",Motherboard,26899.0,1
+"MSI MPG B650 Carbon WiFi, AM5, ATX, 4*d5",Motherboard,17699.0,2
+"MSI MPG B650 EDGE WiFi, AM5, ATX, 4*d5",Motherboard,15599.0,3
+"MSI MAG B650 Tomahawk WiFi, AM5, ATX, 4*d5",Motherboard,13950.0,5
+"MSI B650 Gaming Plus WiFi, AM5, ATX, 4*d5",Motherboard,12350.0,4
+"MSI MAG B650M Mortar WiFi, AM5, mATX, 4*d5",Motherboard,12999.0,5
+"MSI Pro B650M-A WiFi, AM5, mATX, 4*d5",Motherboard,9799.0,6
+"MSI Pro B650M-P, AM5, mATX, 4*d5",Motherboard,7699.0,1
+"MSI Pro B650M-B, AM5, mATX, 2*d5",Motherboard,5999.0,2
+"MSI B650M Project Zero, AM5, mATX, 4*d5, WiFi",Motherboard,13399.0,1
+"MSI B650M Gaming Plus WiFi, AM5, mATX, 4*d5",Motherboard,8850.0,7
+"MSI B650M Gaming WiFi, AM5, mATX, 2*d5",Motherboard,8299.0,0
+"MSI MPG B650I EDGE WiFi, AM5, ITX, 2*d5",Motherboard,13625.0,4
+"MSI Pro A620M-E, AM5, mATX, 2*d5",Motherboard,5650.0,2
+"MSI Pro X870 P WiFi, AM5, ATX, 4*d5",Motherboard,16399.0,0
+"Gigabyte B650M Aorus Elite AX, AM5, mATX, 4*d5, WiFi",Motherboard,10899.0,4
+"Gigabyte B650M Gaming X AX, AM5, mATX, 4*d5, WiFi",Motherboard,10550.0,4
+"Gigabyte B650 Aero G, AM5, ATX, 4*d5, WiFi",Motherboard,15899.0,2
+"Gigabyte B650 Eagle AX, AM5, ATX, 4*d5, WiFi",Motherboard,9799.0,2
+"Gigabyte B650M D3HP AX, AM5, mATX, 4*d5, WiFi",Motherboard,7999.0,3
+"Gigabyte B650M K, AM5, mATX, 4*d5",Motherboard,7199.0,2
+"Gigabyte A620M S2H, AM5, mATX, 2*d5",Motherboard,5650.0,3
+"Gigabyte B650 Aorus Elite AX V2, AM5, ATX, 4*d5, WiFi",Motherboard,11550.0,0
+"Gigabyte B650 Aorus Elite AX ICE, AM5, ATX, 4*d5, WiFi",Motherboard,12299.0,4
+"Gigabyte B650E Aorus Elite X AX ICE, AM5, ATX, 4*d5, WiFi",Motherboard,15450.0,2
+"Gigabyte B650E Aorus Stealth ICE, AM5, ATX, 4*d5, WiFi7",Motherboard,17350.0,1
+"Gigabyte B650I AX, AM5, ITX, 2*d5, WiFi",Motherboard,9899.0,5
+"Gigabyte X870E Aorus Master, AM5, ATX, 4*d5, WiFi7",Motherboard,31599.0,0
+"Gigabyte X870E Aorus Pro, AM5, ATX, 4*d5, WiFi7",Motherboard,21899.0,0
+"Gigabyte X870E Aorus Pro ICE, AM5, ATX, 4*d5, WiFi7",Motherboard,22199.0,0
+"Gigabyte X870E Aorus Elite WiFi7, AM5, ATX, 4*d5",Motherboard,19599.0,0
+"Gigabyte X870 Aorus Elite WiFi7, AM5, ATX, 4*d5",Motherboard,18499.0,0
+"Gigabyte X870 Aorus Elite WiFi7 ICE, AM5, ATX, 4*d5",Motherboard,18850.0,0
+"Gigabyte X870 Gaming X WiFi7, AM5, ATX, 4*d5",Motherboard,14999.0,0
+"Gigabyte X870 Gaming WiFi6, AM5, ATX, 4*d5",Motherboard,13199.0,0
+"Gigabyte X870 Eagle WiFi7, AM5, ATX, 4*d5",Motherboard,13950.0,0
+"Gigabyte X870I Aorus Pro ICE, AM5, ITX, 2*d5, WiFi7",Motherboard,19199.0,0
+"ASRock B650M PG Riptide, AM5, mATX, 4*d5",Motherboard,10599.0,2
+"ASRock B650M PG Riptide WiFi, AM5, mATX, 4*d5",Motherboard,11450.0,2
+"ASRock B650M Pro RS WiFi, AM5, mATX, 4*d5",Motherboard,9799.0,6
+"ASRock B650M-H/M.2+, AM5, mATX, 2*d5",Motherboard,6999.0,1
+"ASRock B650M Pro RS, AM5, mATX, 4*d5",Motherboard,8899.0,2
+"ASRock B650M-HDV/M.2, AM5, mATX, 2*d5",Motherboard,6799.0,4
+"ASRock B650M PG Lightning WiFi, AM5, mATX, 4*d5",Motherboard,8599.0,0
+"ASRock B650 Steel Legend WiFi, AM5, ATX, 4*d5",Motherboard,14499.0,0
+"ASRock B650I Lightning WiFi, AM5, ITX, 2*d5",Motherboard,12799.0,0
+"Emaxx H610M-PRO, LGA1700, mATX, 2*d4",Motherboard,3499.0,0
+"Emaxx B450M PRO, AM4, mATX, 2*d4",Motherboard,2999.0,0
+"MSI X870 Gaming Plus WiFi, AM5, ATX, 4*ddr5",Motherboard,16999.0,0
+"MSI MAG X870 Tomahawk WiFi, AM5, ATX, 4*ddr5",Motherboard,19799.0,0
+"MSI MPG X870E Carbon WiFi, AM5, ATX, 4*ddr5",Motherboard,29499.0,0
+"Gigabyte Z790 UD AX, LGA1700, ATX, 4*d5, WiFi6",Motherboard,13499.0,0
+"Emaxx B450M-PRO, AM4, mATX, 2*d4",Motherboard,2999.0,0
+"Gigabyte B850 Aorus Elite WiFi7, AM5, ATX, 4*d5",Motherboard,14699.0,0
+"Gigabyte B850 Aorus Elite WiFi7 ICE, AM5, ATX, 4*d5",Motherboard,15450.0,0
+"Gigabyte B850 Eagle WiFi6E, AM5, ATX, 4*d5",Motherboard,11699.0,0
+"Gigabyte B850I Aorus Pro, AM5, ITX, 2*d5, WiFi7",Motherboard,15450.0,0
+"Asus ROG Strix B850-A Gaming WiFi, AM5, ATX, 4*d5",Motherboard,19150.0,0
+"Asus TUF Gaming B850M Plus WiFi, AM5, mATX, 4*d5",Motherboard,15799.0,0
+"Asus Prime B840M-A WiFI-CSM, AM5, mATX, 4*d5",Motherboard,12500.0,0
+"Asus ROG Strix B860-A Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,17699.0,0
+"Asus ROG Strix B860-F Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,19150.0,0
+"Asus ROG Strix B860-I Gaming WiFi, LGA1851, ATX, 2*d5, WiFi7",Motherboard,15799.0,0
+"Asus TUF Gaming B860M Plus WiFi, LGA1851, ATX, 4*d5",Motherboard,15500.0,0
+"Asus Prime B860M-A WiFi-CSM, LGA1851, ATX, 4*d5",Motherboard,12500.0,0
+"Gigabyte B860M Gaming X, LGA1851, ATX, 4*d5",Motherboard,10199.0,0
+"Gigabyte B860M Gaming X WiFi6E, LGA1851, ATX, 4*d5",Motherboard,11399.0,0
+"Gigabyte B450M DS3H WiFi, AM4, mATX, 4*ddr4",Motherboard,4350.0,0
+"Gigabyte B450M K, AM4, mATX, 2*ddr4",Motherboard,3380.0,0
+"Gigabyte B550M K, AM4, mATX, 2*ddr4",Motherboard,4499.0,0
+"Asus ROG Strix B850-F Gaming WiFi, AM5, ATX, 4*d5",Motherboard,20899.0,0
+"Gigabyte B650M Aorus Elite AX ICE, AM5, mATX, 4*ddr5, WiFi",Motherboard,11199.0,0
+"Gigabyte B650M Gaming WiFi, AM5, mATX, 2*ddr5",Motherboard,6499.0,0
+"Gigabyte B650M D3HP, AM5, mATX, 4*ddr5",Motherboard,7150.0,0
+"MSI B450M-A Pro Max II, AM4, mATX, 2*ddr4",Motherboard,3299.0,0
+"MSI Pro B850-P WiFi, AM5, ATX, 4*d5",Motherboard,12599.0,0
+"MSI B850 Gaming Plus WiFi, AM5, ATX, 4*d5",Motherboard,13250.0,0
+"MSI Pro B840-P WiFi, AM5, ATX, 4*d5",Motherboard,9799.0,0
+"MSI B840 Gaming Plus WiFi, AM5, ATX, 4*d5",Motherboard,10450.0,0
+"Gigabyte H610M-H V3 D4, LGA1700, mATX, 2*d4",Motherboard,4399.0,15
+"MSI MAG B760 Tomahawk WiFi D4, LGA1700, ATX, 4*d4",Motherboard,12450.0,1
+"MSI MPG B760I Edge WiFi D4, LGA1700, ITX, 2*d4",Motherboard,11699.0,0
+"MSI Pro H610M-G WiFi D4 LGA1700, mATX, 2*d4",Motherboard,5399.0,1
+"MSI Pro B760M-A WiFi D4, LGA1700, mATX, 4*d4",Motherboard,7650.0,8
+"MSI Pro B760M-E D4, LGA1700, mATX, 2*d4",Motherboard,5150.0,3
+"Gigabyte B760I Aorus Pro D4, LGA1700, ITX, 2*d4, WiFi",Motherboard,11999.0,2
+"Gigabyte B760 Gaming X AX D4, LGA1700, ATX, 4*d4, WiFi6",Motherboard,10450.0,2
+"Gigabyte B760M Gaming AC D4, LGA1700, mATX, 2*d4, WiFi",Motherboard,6899.0,10
+"Gigabyte B760M DS3H AX D4, LGA1700, mATX, 4*d4, WiFi6",Motherboard,7499.0,3
+"Gigabyte B760M DS3H D4, LGA1700, mATX, 4*d4",Motherboard,6350.0,4
+"Gigabyte B760M H D4, LGA1700, mATX, 2*d4",Motherboard,5499.0,4
+"MSI B450M-A Pro Max II, AM4, mATX, 2*d4",Motherboard,3299.0,0
+"Gigabyte B450M DS3H WiFi, AM4, mATX, 4*d4",Motherboard,4399.0,0
+"Gigabyte B450M K, AM4, mATX, 2*d4",Motherboard,3099.0,0
+"Gigabyte B550M K, AM4, mATX, 2*d4",Motherboard,4499.0,0
+"MSI X870 Gaming Plus WiFi, AM5, ATX, 4*d5",Motherboard,16999.0,0
+"MSI MAG X870 Tomahawk WiFi, AM5, ATX, 4*d5",Motherboard,19799.0,1
+"MSI MPG X870E Carbon WiFi, AM5, ATX, 4*d5",Motherboard,29499.0,1
+"Gigabyte B650M Aorus Elite AX ICE, AM5, mATX, 4*d5, WiFi",Motherboard,11199.0,0
+"Gigabyte B650M Gaming WiFi, AM5, mATX, 2*d5",Motherboard,6499.0,0
+"Gigabyte B650M D3HP, AM5, mATX, 4*d5",Motherboard,7150.0,0
+"ASRock X870E Taichi, AM5, ATX, 4*d5, WiFi7",Motherboard,29499.0,0
+"ASRock X870E Nova WiFi, AM5, ATX, 4*d5",Motherboard,23199.0,0
+"Asus ROG Strix B860-G Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,17150.0,0
+"ASRock B850M-X WiFi, AM5, mATX, 2*d5",Motherboard,8150.0,0
+"Asus Prime B860M-K CSM, LGA1851, ATX, 2*d5",Motherboard,9950.0,0
+"Asus ROG Strix B860-G Gaming WiFi, LGA1851, mATX, 4*d5, WiFi7",Motherboard,16999.0,0
+"ASRock X870 Steel Legend WiFi, AM5, ATX, 4*d5",Motherboard,16299.0,0
+"ASRock B850M Pro-A WiFi, AM5, mATX, 4*d5",Motherboard,9750.0,0
+"ASRock B850M Pro RS WiFi, AM5, mATX, 4*d5",Motherboard,10799.0,0
+"MSI B860 Gaming Plus WiFi, LGA1851, ATX, 4*d5",Motherboard,12350.0,0
+"MSI B860M Gaming Plus WiFi, LGA1851, mATX, 4*d5",Motherboard,11699.0,0
+"MSI Pro B860M-A WiFi, LGA1851, mATX, 4*d5",Motherboard,10999.0,0
+"MSI Pro B860-P WiFi, LGA1851, ATX, 4*d5",Motherboard,11799.0,0
+"MSI MAG B860M Mortar WiFi, LGA1851, mATX, 4*d5",Motherboard,13699.0,0
+"MSI MAG B860 Tomahawk WiFi, LGA1851, ATX, 4*d5",Motherboard,14799.0,0
+"ASRock Z890 Pro RS WiFi White, LGA1851, ATX, 4*d5",Motherboard,15999.0,0
+"MSI MPG Z890I Edge Ti WiFi, LGA1851, ITX, 2*d5",Motherboard,23399.0,0
+"Asus TUF B760M BTF WiFi D5, LGA1700, mATX, 4*d5",Motherboard,14950.0,2
+"MSI MAG B850 Tomahawk Max WiFi, AM5, ATX, 4*d5",Motherboard,17650.0,0
+"Asus Prime B550M-K aRGB, AM4, mATX, 2*d4",Motherboard,4899.0,0
+"Asus ROG Strix B850-E Gaming WiFi, AM5, ATX, 4*d5",Motherboard,23250.0,0
+"ASRock X870 Pro RS WiFi, AM5, ATX, 4*d5",Motherboard,14999.0,0
+"ASRock B850M Steel Legend WiFi, AM5, mATX, 4*d5",Motherboard,11399.0,0
+"ASRock B550M HDV, AM4, mATX, 2*d4",Motherboard,4599.0,0
+"ASRock B860M Pro RS WiFi, LGA1851, mATX, 4*d5",Motherboard,10299.0,0
+"ASRock B860M Steel Legend WiFi, LGA1851, mATX, 4*d5",Motherboard,12599.0,0
+"Gigabyte B550M DS3H R2, AM4, mATX, 4*d4",Motherboard,4999.0,0
+"ASRock A620I Lightning WiFi, AM5, ITX, 2*d5",Motherboard,9399.0,0
+"Gigabyte B550M DS3H AC R2, AM4, mATX, 4*d4, WiFi",Motherboard,6299.0,0
+"ASRock B850 Steel Legend WiFi, AM5, ATX, 4*d5",Motherboard,13499.0,0
+"Asus Prime B650M-K, AM5, mATX, 2*d5",Motherboard,6699.0,0
+"Asus X870 Max Gaming WiFi7 W white, AM5, ATX, 4*d5",Motherboard,14699.0,0
+"Asus ROG Strix Z890-H Gaming WiFi, LGA1851, ATX, 4*d5, WiFi7",Motherboard,25550.0,0
+"Asus TUF Gaming B850 BTF WiFi W white, AM5, ATX, 4*d5",Motherboard,17999.0,0
+"Asus ROG Crosshair X870E Extreme, AM5, ATX, 4*d5, WiFi7",Motherboard,67599.0,0
+"Asus ROG Crosshair X870E Apex, AM5, ATX, 2*d5, WiFi7",Motherboard,42499.0,0
+"Gigabyte B860M Gaming X, LGA1851, mATX, 4*d5",Motherboard,9899.0,0
+"Gigabyte B860M Gaming X WiFi6E, LGA1851, mATX, 4*d5",Motherboard,10999.0,0
+"Gigabyte Z790M Aorus Elite AX, LGA1700, mATX, 4*d5, WiFi6E",Motherboard,12500.0,0
+"Gigabyte Z790M Aorus Elite AX ICE, LGA1700, mATX, 4*d5, WiFi6E",Motherboard,13399.0,0
+"Gigabyte Z790 Eagle AX, LGA1700, ATX, 4*d5, WiFi",Motherboard,10999.0,0
