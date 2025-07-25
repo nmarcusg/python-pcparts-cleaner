@@ -1,0 +1,72 @@
+item_name,category_name,item_price_in_php,stocks
+"Intel Core i3 10105F 4C/8T 6mb 65W LGA1200, Box",Processor,4999.0,5
+"Intel Core i5 10400 6C/12T 12mb UHD630 65W LGA1200, Box",Processor,7699.0,0
+"Intel Core i3 13100F 4C/8T 12mb 58W LGA1700, Box",Processor,5799.0,16
+"Intel Core i3 14100 4C/8T 12mb UHD730 60W LGA1700, Box",Processor,8699.0,8
+"Intel Core i3 14100F 4C/8T 12mb 58W LGA1700, Box",Processor,6999.0,6
+"Intel Core i5 14400 10C/16T 20mb UHD730 65W LGA1700, Box",Processor,13999.0,9
+"Intel Core i5 14400F 10C/16T 20mb 65W LGA1700, Box",Processor,12699.0,8
+"Intel Core i5 14500 14C/20T 24mb UHD770 65W LGA1700, Box",Processor,14499.0,9
+"Intel Core i5 14600K 14C/20T 24mb UHD770 125W LGA1700, Box",Processor,18899.0,6
+"Intel Core i5 14600KF 14C/20T 24mb 125W LGA1700, Box",Processor,17599.0,5
+"Intel Core i7 14700 20C/28T 33mb UHD770 65W LGA1700, Box",Processor,23650.0,11
+"Intel Core i7 14700F 20C/28T 33mb 65W LGA1700, Box",Processor,21850.0,14
+"Intel Core i7 14700K 20C/28T 33mb UHD770 125W LGA1700, Box",Processor,25125.0,11
+"Intel Core i9 14900 24C/32T 36mb UHD770 65W LGA1700, Box",Processor,34999.0,5
+"Intel Core i9 14900F 24C/32T 36mb 65W LGA1700, Box",Processor,32350.0,6
+"Intel Core i9 14900K 24C/32T 36mb UHD770 125W LGA1700, Box",Processor,35950.0,3
+"Intel Core i9 14900KF 24C/32T 36mb 125W LGA1700, Box",Processor,33999.0,2
+"Intel 300 2C/4T 6mb UHD710 46W LGA1700, Box",Processor,2999.0,7
+"AMD Ryzen 5 5500 6C/12T 19mb 65W AM4, Box",Processor,5499.0,28
+"AMD Ryzen 5 5500GT 6C/12T 19mb 65W AM4 APU, Box",Processor,6999.0,4
+"AMD Ryzen 5 5600 6C/12T 35mb 65W AM4, Box",Processor,6999.0,88
+"AMD Ryzen 5 5600X 6C/12T 35mb 65W AM4, Box",Processor,8299.0,84
+"AMD Ryzen 5 5600G 6C/12T 19mb 65W AM4 APU, Box",Processor,7499.0,62
+"AMD Ryzen 5 5600GT 6C/12T 19mb 65W AM4 APU, Box",Processor,8450.0,26
+"AMD Ryzen 7 5700 8C/16T 20mb 65W AM4, Box",Processor,10299.0,24
+"AMD Ryzen 7 5700X 8C/16T 36mb 65W AM4, Box",Processor,9899.0,27
+"AMD Ryzen 7 5700X3D 8C/16T 100mb 105W AM4, Box",Processor,14999.0,71
+"AMD Ryzen 7 5700G 8C/16T 20mb 65W AM4 APU, Box",Processor,10999.0,12
+"AMD Ryzen 7 5800X 8C/16T 36mb 105W AM4, Box",Processor,13499.0,18
+"AMD Ryzen 7 5800XT 8C/16T 32mb 105W AM4, Box",Processor,15699.0,1
+"AMD Ryzen 9 5900X 12C/24T 70mb 105W AM4, Box",Processor,18999.0,7
+"AMD Ryzen 9 5900XT 16C/32T 64mb 105W AM4, Box",Processor,21999.0,1
+"AMD Ryzen 5 7500F 6C/12T 38mb 65W AM5, Box",Processor,9999.0,29
+"AMD Ryzen 5 7600 6C/12T 38mb 65W AM5, Box",Processor,11999.0,33
+"AMD Ryzen 5 7600X 6C/12T 38mb 105W AM5, Box",Processor,13450.0,8
+"AMD Ryzen 7 7700 8C/16T 40mb 65W AM5, Box",Processor,18199.0,77
+"AMD Ryzen 7 7700X 8C/16T 40mb 105W AM5, Box",Processor,19799.0,33
+"AMD Ryzen 7 7800X3D 8C/16T 104mb 120W AM5, Box",Processor,25499.0,69
+"AMD Ryzen 9 7900X 12C/24T 76mb 170W AM5, Box",Processor,24399.0,8
+"AMD Ryzen 5 8400F 6C/12T 16mb 65W AM5, MPK",Processor,6999.0,2
+"AMD Ryzen 5 8500G 6C/12T 22mb 65W AM5 APU, Box",Processor,8999.0,30
+"AMD Ryzen 5 8600G 6C/12T 22mb 65W AM5 APU, Box",Processor,11699.0,18
+"AMD Ryzen 7 8700G 8C/16T 24mb 65W AM5 APU, Box",Processor,17199.0,21
+"AMD Ryzen 7 8700F 8C/16T 24mb 65W AM5, MPK",Processor,8999.0,2
+"AMD Ryzen 5 9600X 6C/12T 38mb 65W AM5, Box",Processor,17999.0,4
+"AMD Ryzen 7 9700X 8C/16T 40mb 65W AM5, Box",Processor,22999.0,2
+"AMD Ryzen 9 9900X 12C/24T 76mb 120W AM5, Box",Processor,28999.0,0
+"AMD Ryzen 9 9950X 16C/32T 80mb 170W AM5, Box",Processor,41999.0,1
+"AMD Ryzen 7 9800X3D 8C/16T 104mb 120W AM5, Box",Processor,33999.0,0
+"Intel Core Ultra 9 285K 8P+16E 3.2-5.7ghz, 125W-250W, 40+36MB Cache, Xe 4 (64) 2.0ghz",Processor,39999.0,0
+"Intel Core Ultra 7 265K 8P+12E 3.3-5.5ghz, 125W-250W, 36+33MB Cache, Xe 4 (64) 2.0ghz",Processor,26199.0,0
+"Intel Core i3 10105 4C/8T 6mb UHD630 65W LGA1200, Box",Processor,6499.0,0
+"Intel Core Ultra 5 245K 6P+8E 3.6-5.2ghz, 125W-159W, 26+24MB Cache, Xe 4 (64) 1.96ghz",Processor,19999.0,0
+"Intel Core Ultra 7 265KF 8P+12E 3.3-5.5ghz, 125W-250W, 36+33MB Cache",Processor,25150.0,0
+"AMD Ryzen 5 4600G 6C/12T 11mb 65W AM4 APU, Box",Processor,4999.0,0
+"Intel Core Ultra 5 245KF 6P+8E 3.6-5.2ghz, 125W-159W, 26+24MB Cache",Processor,18999.0,0
+"AMD Ryzen 5 8400F 6C/12T 16mb 65W AM5, Box",Processor,7499.0,0
+"AMD Ryzen 7 8700F 8C/16T 24mb 65W AM5, Box",Processor,10999.0,0
+"Intel Core i5 12400 6C/12T 18mb UHD730 65W LGA1700, Box",Processor,8499.0,0
+"AMD Ryzen 5 7600X3D 6C/12T 96mb 65W AM5, Box",Processor,19999.0,0
+"Intel Core i9 13900 24C/32T 32mb UHD770 65W LGA1700, Box",Processor,29999.0,0
+"Intel Core Ultra 5 225 6P+4E 2.7-3.3ghz, 65W-121W, 22+20MB Cache, Xe 2 1.8ghz",Processor,15299.0,0
+"Intel Core Ultra 5 225F 6P+4E 2.7-3.3ghz, 65W-121W, 22+20MB Cache",Processor,14299.0,0
+"AMD Ryzen 5 5600G 6C/12T 16mb 65W AM4 APU, Box",Processor,7150.0,58
+"AMD Ryzen 5 5600GT 6C/12T 16mb 65W AM4 APU, Box",Processor,7350.0,135
+"Intel Core Ultra 9 285 8P+16E 1.9-5.6ghz, 65W-182W, 40+36MB Cache, Xe 4 (64) 2.0ghz",Processor,34999.0,0
+"AMD Ryzen 9 9900X3D 12C/24T 140mb 120W AM5, Box",Processor,39699.0,0
+"AMD Ryzen 9 9950X3D 16C/32T 144mb 170W AM5, Box",Processor,46299.0,0
+"Intel Core Ultra 5 235 6P+8E 2.9-3.4ghz, 65W-121W, 26+24MB Cache, Xe 3 2.0ghz",Processor,15699.0,0
+"Intel Core Ultra 7 265 8P+12E 1.8-2.4ghz, 65W-182W, 36+30MB Cache, Xe 4 1.95ghz",Processor,20750.0,0
+"AMD Ryzen 5 5500GT 6C/12T 19mb 65W AM4 APU, MPK",Processor,5999.0,0
