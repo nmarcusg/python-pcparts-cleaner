@@ -1,2 +1,4 @@
 # python-pcparts-cleaner
-python based filter for sorting and merging computer parts datasets with local PH computer parts pricing.
+A Python based tool for filtering, sorting, and merging PC component datasets with local ph pricing datasets.
+
+datasets used are not included****
