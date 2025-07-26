@@ -18,12 +18,12 @@ AMD Ryzen 9 7900X,12,4.7,5.6,Zen 4,170,Radeon,24399.0,AM5
 AMD Ryzen 9 9900X,12,4.4,5.6,Zen 5,120,Radeon,28999.0,AM5
 AMD Ryzen 9 9900X,12,4.4,5.6,Zen 5,120,Radeon,39699.0,AM5
 Intel Core i5-14600K,14,3.5,5.3,Raptor Lake Refresh,125,Intel UHD Graphics 770,18899.0,LGA1700
-Intel Core Ultra 7 265K,20,3.9,5.5,Arrow Lake,125,Intel Xe,26199.0,LGA1700
+Intel Core Ultra 7 265K,20,3.9,5.5,Arrow Lake,125,Intel Xe,26199.0,LGA1851
 Intel Core i5-14400F,10,2.5,4.7,Raptor Lake Refresh,65,,12699.0,LGA1700
 AMD Ryzen 9 9950X,16,4.3,5.7,Zen 5,170,Radeon,41999.0,AM5
 AMD Ryzen 9 9950X,16,4.3,5.7,Zen 5,170,Radeon,46299.0,AM5
 AMD Ryzen 5 7500F,6,3.7,5.0,Zen 4,65,,9999.0,AM5
-Intel Core Ultra 9 285K,24,3.7,5.7,Arrow Lake,125,Intel Xe,39999.0,LGA1700
+Intel Core Ultra 9 285K,24,3.7,5.7,Arrow Lake,125,Intel Xe,39999.0,LGA1851
 AMD Ryzen 5 5600G,6,3.9,4.4,Zen 3,65,Radeon Vega 7,7499.0,AM4
 AMD Ryzen 5 5600G,6,3.9,4.4,Zen 3,65,Radeon Vega 7,8450.0,AM4
 AMD Ryzen 5 5600G,6,3.9,4.4,Zen 3,65,Radeon Vega 7,7150.0,AM4
@@ -39,7 +39,7 @@ AMD Ryzen 7 5700G,8,3.8,4.6,Zen 3,65,Radeon Vega 8,10999.0,AM4
 Intel Core i5-14600KF,14,3.5,5.3,Raptor Lake Refresh,125,,17599.0,LGA1700
 AMD Ryzen 5 8600G,6,4.3,5.0,Zen 4,65,Radeon 760M,11699.0,AM5
 AMD Ryzen 7 5700,8,3.7,4.6,Zen 3,65,,10299.0,AM4
-Intel Core Ultra 7 265KF,20,3.9,5.5,Arrow Lake,125,,25150.0,LGA1700
+Intel Core Ultra 7 265KF,20,3.9,5.5,Arrow Lake,125,,25150.0,LGA1851
 AMD Ryzen 7 8700G,8,4.2,5.1,Zen 4,65,Radeon 780M,17199.0,AM5
 Intel Core i9-14900KF,24,3.2,6.0,Raptor Lake Refresh,125,,33999.0,LGA1700
 AMD Ryzen 7 8700F,8,4.1,5.0,Zen 4,65,,8999.0,AM5
@@ -47,21 +47,21 @@ AMD Ryzen 7 8700F,8,4.1,5.0,Zen 4,65,,10999.0,AM5
 Intel Core i7-14700F,20,2.1,5.4,Raptor Lake Refresh,65,,21850.0,LGA1700
 Intel Core i5-12400,6,2.5,4.4,Alder Lake,65,Intel UHD Graphics 730,8499.0,LGA1700
 Intel Core i3-14100F,4,3.5,4.7,Raptor Lake Refresh,58,,6999.0,LGA1700
-Intel Core Ultra 5 245K,14,4.2,5.2,Arrow Lake,125,Intel Xe,19999.0,LGA1700
+Intel Core Ultra 5 245K,14,4.2,5.2,Arrow Lake,125,Intel Xe,19999.0,LGA1851
 Intel Core i5-14400,10,2.5,4.7,Raptor Lake Refresh,65,Intel UHD Graphics 730,13999.0,LGA1700
 AMD Ryzen 7 7700,8,3.6,5.3,Zen 4,65,Radeon,18199.0,AM5
-Intel Core Ultra 5 225F,10,3.3,4.9,Arrow Lake,65,,14299.0,LGA1700
+Intel Core Ultra 5 225F,10,3.3,4.9,Arrow Lake,65,,14299.0,LGA1851
 Intel Core i5-10400,6,2.9,4.3,Comet Lake,65,Intel UHD Graphics 630,7699.0,LGA1200
 Intel Core i3-14100,4,3.5,4.7,Raptor Lake Refresh,60,Intel UHD Graphics 730,8699.0,LGA1700
 Intel Core i3-13100F,4,3.4,4.5,Raptor Lake,58,,5799.0,LGA1700
-Intel Core Ultra 5 235,14,3.4,5.0,Arrow Lake,65,Intel Xe,15699.0,LGA1700
-Intel Core Ultra 5 225,10,3.3,4.9,Arrow Lake,65,Intel Xe,15299.0,LGA1700
+Intel Core Ultra 5 235,14,3.4,5.0,Arrow Lake,65,Intel Xe,15699.0,LGA1851
+Intel Core Ultra 5 225,10,3.3,4.9,Arrow Lake,65,Intel Xe,15299.0,LGA1851
 Intel Core i7-14700,20,2.1,5.4,Raptor Lake Refresh,65,Intel UHD Graphics 770,23650.0,LGA1700
-Intel Core Ultra 9 285,24,2.5,5.6,Arrow Lake,65,Intel Xe,34999.0,LGA1700
+Intel Core Ultra 9 285,24,2.5,5.6,Arrow Lake,65,Intel Xe,34999.0,LGA1851
 Intel Core i5-14500,14,2.6,5.0,Raptor Lake Refresh,65,Intel UHD Graphics 770,14499.0,LGA1700
-Intel Core Ultra 7 265,20,2.4,5.3,Arrow Lake,65,Intel Xe,20750.0,LGA1700
+Intel Core Ultra 7 265,20,2.4,5.3,Arrow Lake,65,Intel Xe,20750.0,LGA1851
 Intel Core i3-10105F,4,3.7,4.4,Comet Lake,65,,4999.0,LGA1200
-Intel Core Ultra 5 245KF,14,4.2,5.2,Arrow Lake,125,,18999.0,LGA1700
+Intel Core Ultra 5 245KF,14,4.2,5.2,Arrow Lake,125,,18999.0,LGA1851
 Intel Core i9-14900F,24,2.0,5.8,Raptor Lake Refresh,65,,32350.0,LGA1700
 Intel Core i3-10105,4,3.7,4.4,Comet Lake,65,Intel UHD Graphics 630,6499.0,LGA1200
 Intel Core i9-14900,24,2.0,5.8,Raptor Lake Refresh,65,Intel UHD Graphics 770,34999.0,LGA1700
