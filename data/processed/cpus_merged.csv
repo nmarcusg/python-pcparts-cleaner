@@ -1,0 +1,68 @@
+name,price,core_count,core_clock,boost_clock,microarchitecture,tdp,graphics,model_key,price_php
+AMD Ryzen 5 7600X,170.49,6,4.7,5.3,Zen 4,105,Radeon,Amd Ryzen 5 7600X,13450.0
+AMD Ryzen 5 7600X,170.49,6,4.7,5.3,Zen 4,105,Radeon,Amd Ryzen 5 7600X,19999.0
+AMD Ryzen 5 9600X,204.99,6,3.9,5.4,Zen 5,65,Radeon,Amd Ryzen 5 9600X,17999.0
+AMD Ryzen 7 7700X,242.98,8,4.5,5.4,Zen 4,105,Radeon,Amd Ryzen 7 7700X,19799.0
+AMD Ryzen 5 5500,74.22,6,3.6,4.2,Zen 3,65,,Amd Ryzen 5 5500,5499.0
+AMD Ryzen 7 9700X,305.89,8,3.8,5.5,Zen 5,65,Radeon,Amd Ryzen 7 9700X,22999.0
+AMD Ryzen 5 5600X,158.99,6,3.7,4.6,Zen 3,65,,Amd Ryzen 5 5600X,8299.0
+AMD Ryzen 5 5600,125.61,6,3.5,4.4,Zen 3,65,,Amd Ryzen 5 5600,6999.0
+AMD Ryzen 7 5800X,179.95,8,3.8,4.7,Zen 3,105,,Amd Ryzen 7 5800X,13499.0
+AMD Ryzen 7 5800X,179.95,8,3.8,4.7,Zen 3,105,,Amd Ryzen 7 5800X,15699.0
+Intel Core i7-14700K,297.17,20,3.4,5.6,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel Core I7 14700K,25125.0
+Intel Core i9-14900K,439.0,24,3.2,6.0,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel Core I9 14900K,35950.0
+AMD Ryzen 5 7600,196.97,6,3.8,5.1,Zen 4,65,Radeon,Amd Ryzen 5 7600,11999.0
+AMD Ryzen 7 5700X,154.99,8,3.4,4.6,Zen 3,65,,Amd Ryzen 7 5700X,9899.0
+AMD Ryzen 7 5700X,154.99,8,3.4,4.6,Zen 3,65,,Amd Ryzen 7 5700X,14999.0
+AMD Ryzen 9 7900X,314.11,12,4.7,5.6,Zen 4,170,Radeon,Amd Ryzen 9 7900X,24399.0
+AMD Ryzen 9 9900X,359.0,12,4.4,5.6,Zen 5,120,Radeon,Amd Ryzen 9 9900X,28999.0
+AMD Ryzen 9 9900X,359.0,12,4.4,5.6,Zen 5,120,Radeon,Amd Ryzen 9 9900X,39699.0
+Intel Core i5-14600K,189.99,14,3.5,5.3,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel Core I5 14600K,18899.0
+Intel Core Ultra 7 265K,269.99,20,3.9,5.5,Arrow Lake,125,Intel Xe,Intel Core Ultra 7 265K,26199.0
+Intel Core i5-14400F,125.99,10,2.5,4.7,Raptor Lake Refresh,65,,Intel Core I5 14400F,12699.0
+AMD Ryzen 9 9950X,533.83,16,4.3,5.7,Zen 5,170,Radeon,Amd Ryzen 9 9950X,41999.0
+AMD Ryzen 9 9950X,533.83,16,4.3,5.7,Zen 5,170,Radeon,Amd Ryzen 9 9950X,46299.0
+AMD Ryzen 5 7500F,,6,3.7,5.0,Zen 4,65,,Amd Ryzen 5 7500F,9999.0
+Intel Core Ultra 9 285K,559.99,24,3.7,5.7,Arrow Lake,125,Intel Xe,Intel Core Ultra 9 285K,39999.0
+AMD Ryzen 5 5600G,134.99,6,3.9,4.4,Zen 3,65,Radeon Vega 7,Amd Ryzen 5 5600G,7499.0
+AMD Ryzen 5 5600G,134.99,6,3.9,4.4,Zen 3,65,Radeon Vega 7,Amd Ryzen 5 5600G,8450.0
+AMD Ryzen 5 5600G,134.99,6,3.9,4.4,Zen 3,65,Radeon Vega 7,Amd Ryzen 5 5600G,7150.0
+AMD Ryzen 5 5600G,134.99,6,3.9,4.4,Zen 3,65,Radeon Vega 7,Amd Ryzen 5 5600G,7350.0
+AMD Ryzen 7 7700,293.97,8,3.6,5.3,Zen 4,65,Radeon,Amd Ryzen 7 7700,18199.0
+AMD Ryzen 5 7500F,,6,3.7,5.0,Zen 4,65,,Amd Ryzen 5 7500F,9999.0
+AMD Ryzen 9 5900X,254.99,12,3.7,4.8,Zen 3,105,,Amd Ryzen 9 5900X,18999.0
+AMD Ryzen 9 5900X,254.99,12,3.7,4.8,Zen 3,105,,Amd Ryzen 9 5900X,21999.0
+AMD Ryzen 5 8400F,137.57,6,4.2,4.7,Zen 4,65,,Amd Ryzen 5 8400F,6999.0
+AMD Ryzen 5 8400F,137.57,6,4.2,4.7,Zen 4,65,,Amd Ryzen 5 8400F,7499.0
+AMD Ryzen 5 8500G,152.5,6,4.1,5.0,Zen 4,65,Radeon 740M,Amd Ryzen 5 8500G,8999.0
+AMD Ryzen 7 5700G,174.97,8,3.8,4.6,Zen 3,65,Radeon Vega 8,Amd Ryzen 7 5700G,10999.0
+Intel Core i5-14600KF,197.98,14,3.5,5.3,Raptor Lake Refresh,125,,Intel Core I5 14600Kf,17599.0
+AMD Ryzen 5 8600G,224.83,6,4.3,5.0,Zen 4,65,Radeon 760M,Amd Ryzen 5 8600G,11699.0
+AMD Ryzen 7 5700,134.96,8,3.7,4.6,Zen 3,65,,Amd Ryzen 7 5700,10299.0
+Intel Core Ultra 7 265KF,277.44,20,3.9,5.5,Arrow Lake,125,,Intel Core Ultra 7 265Kf,25150.0
+AMD Ryzen 7 8700G,279.0,8,4.2,5.1,Zen 4,65,Radeon 780M,Amd Ryzen 7 8700G,17199.0
+Intel Core i9-14900KF,419.97,24,3.2,6.0,Raptor Lake Refresh,125,,Intel Core I9 14900Kf,33999.0
+AMD Ryzen 7 8700F,239.99,8,4.1,5.0,Zen 4,65,,Amd Ryzen 7 8700F,8999.0
+AMD Ryzen 7 8700F,239.99,8,4.1,5.0,Zen 4,65,,Amd Ryzen 7 8700F,10999.0
+Intel Core i7-14700F,294.58,20,2.1,5.4,Raptor Lake Refresh,65,,Intel Core I7 14700F,21850.0
+Intel Core i5-12400,143.55,6,2.5,4.4,Alder Lake,65,Intel UHD Graphics 730,Intel Core I5 12400,8499.0
+Intel Core i3-14100F,90.05,4,3.5,4.7,Raptor Lake Refresh,58,,Intel Core I3 14100F,6999.0
+Intel Core Ultra 5 245K,259.99,14,4.2,5.2,Arrow Lake,125,Intel Xe,Intel Core Ultra 5 245K,19999.0
+Intel Core i5-14400,175.98,10,2.5,4.7,Raptor Lake Refresh,65,Intel UHD Graphics 730,Intel Core I5 14400,13999.0
+AMD Ryzen 7 7700,393.08,8,3.6,5.3,Zen 4,65,Radeon,Amd Ryzen 7 7700,18199.0
+Intel Core Ultra 5 225F,190.83,10,3.3,4.9,Arrow Lake,65,,Intel Core Ultra 5 225F,14299.0
+Intel Core i5-10400,139.99,6,2.9,4.3,Comet Lake,65,Intel UHD Graphics 630,Intel Core I5 10400,7699.0
+Intel Core i3-14100,119.95,4,3.5,4.7,Raptor Lake Refresh,60,Intel UHD Graphics 730,Intel Core I3 14100,8699.0
+Intel Core i3-13100F,85.34,4,3.4,4.5,Raptor Lake,58,,Intel Core I3 13100F,5799.0
+Intel Core Ultra 5 235,264.99,14,3.4,5.0,Arrow Lake,65,Intel Xe,Intel Core Ultra 5 235,15699.0
+Intel Core Ultra 5 225,213.01,10,3.3,4.9,Arrow Lake,65,Intel Xe,Intel Core Ultra 5 225,15299.0
+Intel Core i7-14700,306.55,20,2.1,5.4,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel Core I7 14700,23650.0
+Intel Core Ultra 9 285,579.99,24,2.5,5.6,Arrow Lake,65,Intel Xe,Intel Core Ultra 9 285,34999.0
+Intel Core i5-14500,238.09,14,2.6,5.0,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel Core I5 14500,14499.0
+Intel Core Ultra 7 265,374.99,20,2.4,5.3,Arrow Lake,65,Intel Xe,Intel Core Ultra 7 265,20750.0
+Intel Core i3-10105F,143.53,4,3.7,4.4,Comet Lake,65,,Intel Core I3 10105F,4999.0
+Intel Core Ultra 5 245KF,284.99,14,4.2,5.2,Arrow Lake,125,,Intel Core Ultra 5 245Kf,18999.0
+Intel Core i9-14900F,499.0,24,2.0,5.8,Raptor Lake Refresh,65,,Intel Core I9 14900F,32350.0
+Intel Core i3-10105,99.0,4,3.7,4.4,Comet Lake,65,Intel UHD Graphics 630,Intel Core I3 10105,6499.0
+Intel Core i9-14900,571.86,24,2.0,5.8,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel Core I9 14900,34999.0
+Intel Core i9-13900,414.99,24,2.0,5.6,Raptor Lake,65,Intel UHD Graphics 770,Intel Core I9 13900,29999.0

@@ -1,0 +1,305 @@
+item_name,category_name,item_price_in_php,stocks
+"Deep Cool DC Windpal Mini, laptop cooler, 140mm blue fan, up to 15.6, 340X250X25mm, pn: DP-N114L-WDMI",Cooling,399.0,0
+"Corsair iCue QL120 RGB, 120mm, 1 pack, black, 41.8 CFM, 1500rpm, 26dBA, aux fan, pn: CO-9050097-WW",Cooling,1825.0,2
+"Corsair iCue QL120 RGB, 120mm, 3 pack, black, 41.8 CFM, 1500rpm, 26dBA, aux fan, pn: CO-9050098-WW",Cooling,5680.0,1
+"Corsair iCue Link QX120 RGB, 120mm, 1 pack, black, 63.1 CFM, 2400rpm, 37dBA, aux fan, pn: CO-9051001-WW",Cooling,2425.0,0
+"Corsair iCue Link QX120 RGB, 120mm, 1 pack, white, 63.1 CFM, 2400rpm, 37dBA, aux fan, pn: CO-9051005-WW",Cooling,2425.0,1
+"Corsair iCue Link QX120 RGB, 120mm, 3 pack, black, 63.1 CFM, 2400rpm, 37dBA, aux fan, pn: CO-9051002-WW",Cooling,7980.0,1
+"Corsair iCue Link QX120 RGB, 120mm, 3 pack, white, 63.1 CFM, 2400rpm, 37dBA, aux fan, pn: CO-9051006-WW",Cooling,7980.0,0
+"Corsair iCue Link QX140 RGB, 140mm, 1 pack, black, 82.5 CFM, 2000rpm, 37dBA, aux fan, pn: CO-9051003-WW",Cooling,2699.0,2
+"Corsair iCue Link QX140 RGB, 140mm, 1 pack, white, 82.5 CFM, 2000rpm, 37dBA, aux fan, pn: CO-9051007-WW",Cooling,2699.0,2
+"Corsair iCue Link QX140 RGB, 140mm, 2 pack, black, 82.5 CFM, 2000rpm, 37dBA, aux fan, pn: CO-9051004-WW",Cooling,6999.0,1
+"Corsair iCue Link QX140 RGB, 140mm, 2 pack, white, 82.5 CFM, 2000rpm, 37dBA, aux fan, pn: CO-9051008-WW",Cooling,6999.0,1
+"Corsair HD120 RGB, 120mm, 1 pack, WITH controller, 54.4 CFM, 1725rpm, 30dBA, aux fan, pn: CO-9050066-WW",Cooling,1950.0,1
+"Thermaltake TT Riing Quad 12 Trio RGB, 120mm, white, 3 Pack, 40.9 CFM, aux fan, pn: CL-F100-PL12SW-A",Cooling,5450.0,1
+"Deep Cool DC MF120 GT aRGB Aura Sync, 120mm, 3 Pack, 60.6 CFM 1800rpm, 29.5dBA, aux fan, pn: DP-GS-F12-AR-MF120GT-3P",Cooling,2250.0,2
+"Deep Cool DC TF120S Black 120mm, 37.1 CFM 1800rpm, 25.9dBA, aux fan, pn: DP-GS-H12FDB-TF120S-BK",Cooling,470.0,0
+"Deep Cool DC TF120S White 120mm, 37.1 CFM 1800rpm, 25.9dBA, aux fan, pn: DP-GS-H12FDB-TF120S-WH",Cooling,470.0,1
+"Deep Cool DC CF120 PLUS Aura Sync, 120mm, 3 Pack, 52.5 CFM 1800rpm, 28.8dBA, aux fan, pn: DP-F12-AR-CF120P-3P",Cooling,2699.0,1
+"IDCooling AF125K black, 1 pack, 120mm, 78.25CFM 29.85dBA, aux fan, pn: AF-125-K",Cooling,475.0,5
+"IDCooling AF125W white, 1 pack, 120mm, 78.25CFM 29.85dBA, aux fan, pn: AF-125-W",Cooling,510.0,4
+"IDCooling NO12015XT Slim aRGB, 1 pack, 120mm, 74.6CFM 31.2dBA, aux fan, pn: ID-FAN-NO-12015-XT-ARGB",Cooling,499.0,6
+"IDCooling TF 12025 aRGB, black, 1 pack, 120mm, 68.2CFM 30.5dBA, aux fan, pn: ID-FAN-TF-12025-ARGB",Cooling,475.0,0
+"IDCooling TF 12025 aRGB, black, 3 Pack, 120mm, 68.2CFM 30.5dBA, aux fan, pn: ID-FAN-TF-12025-ARGB-",Cooling,1550.0,1
+"IDCooling TF 12025 aRGB, snow, 1 pack, 120mm, 76.16CFM 35.2dBA, aux fan, pn: ID-FAN-TF-12025-ARGB-SNOW",Cooling,550.0,0
+"IDCooling TF 12025 aRGB, snow, 3 pack, 120mm, 68.2CFM 30.5dBA, aux fan, pn: ID-FAN-TF-12025-ARGB-SNOW",Cooling,1599.0,1
+"IDCooling TF 12025 Pro, black, 1 pack, 120mm, 82.5CFM 35.2dBA, aux fan, pn: TF-12025 PRO BLACK",Cooling,375.0,0
+"IDCooling TF 12025 Reverse aRGB, black, 1 pack, 120mm, 63.2CFM 30.5dBA, aux fan, pn: TF-12025-ARGB REVERSE",Cooling,475.0,2
+"IDCooling TF 12025 Reverse aRGB, snow, 1 pack, 120mm, 63.2CFM 30.5dBA, aux fan, pn: TF-12025-ARGB SNOW REVERSE",Cooling,499.0,0
+"IDCooling TF 12025 Pro aRGB, black, 3 pack, 120mm, 82.5CFM 35.2dBA, aux fan, pn: TF-12025 PRO ARGB TRIO",Cooling,1550.0,0
+"IDCooling TF 12025 Pro aRGB, white, 3 pack, 120mm, 82.5CFM 35.2dBA, aux fan, pn: TF-12025 PRO ARGB TRIO WHITE",Cooling,1599.0,0
+"IDCooling AF127 aRGB, black, 1 pack, 120mm, 78CFM 29.9dBA, aux fan, pn: AF-127-ARGB-K",Cooling,699.0,0
+"IDCooling AF127 aRGB, white, 1 pack, 120mm, 78CFM 29.9dBA, aux fan, pn: AF-127-ARGB-W",Cooling,699.0,0
+"IDCooling AF127 aRGB, black, 3 pack, 120mm, 78CFM 29.9dBA, aux fan, pn: AF-127-ARGB-K",Cooling,1999.0,4
+"IDCooling AF127 aRGB, white, 3 pack, 120mm, 78CFM 29.9dBA, aux fan, pn: AF-127-ARGB-W",Cooling,1999.0,1
+"NZXT AER 2 RGB 140 white, 1 pack, 140mm, 91.9 CFM, aux fan, pn: HF-28140-BW",Cooling,1699.0,1
+"NZXT AER 2 RGB 140 white + Hue 2, 2 pack, 140mm, 91.9 CFM, aux fan, pn: HF-2814C-DW",Cooling,4525.0,2
+"NZXT F120 RGB Duo, black, 1 pack, 120mm, 48.58 CFM, aux fan, pn: RF-D12SF-B1",Cooling,1280.0,2
+"NZXT F120 RGB Duo, white, 1 pack, 120mm, 48.58 CFM, aux fan, pn: RF-D12SF-W1",Cooling,1280.0,1
+"NZXT F120 RGB Duo, black, 3 pack, 120mm, 48.58 CFM, aux fan, pn: RF-D12TF-B1",Cooling,5325.0,2
+"NZXT F120 RGB Duo, white, 3 pack, 120mm, 48.58 CFM, aux fan, pn: RF-D12TF-W1",Cooling,5325.0,0
+"NZXT F140 RGB Duo, black, 2 pack + controller, 140mm, 84.75 CFM, aux fan, pn: RF-D14DF-B1",Cooling,3999.0,3
+"NZXT F120 RGB Core, black, 1 pack, 120mm, 78.86 CFM, aux fan, pn: RF-C12SF-B1",Cooling,925.0,7
+"NZXT F120 RGB Core, white, 1 pack, 120mm, 78.86 CFM, aux fan, pn: RF-C12SF-W1",Cooling,925.0,3
+"NZXT F120 RGB Core, black, 3 pack + controller, 120mm, 78.86 CFM, aux fan, pn: RF-C12TF-B1",Cooling,3480.0,1
+"NZXT F120 RGB Core, white, 3 pack + controller, 120mm, 78.86 CFM, aux fan, pn: RF-C12TF-W1",Cooling,3480.0,1
+"NZXT F140 RGB Core, black, 1 pack, 140mm, 90.79 CFM, aux fan, pn: RF-C14SF-B1",Cooling,999.0,5
+"NZXT F140 RGB Core, white, 1 pack, 140mm, 90.79 CFM, aux fan, pn: RF-C14SF-W1",Cooling,899.0,2
+"Noctua NF P12 PWM, 120mm aux fan",Cooling,1299.0,2
+"Noctua NF F12 PWM, 120mm aux fan",Cooling,1299.0,8
+"Noctua NF S12A FLX, 120mm, aux fan",Cooling,1299.0,9
+"Noctua NF S12A ULN, 120mm, aux fan",Cooling,1299.0,12
+"Noctua NF S12A PWM Chromax.black.swap, 120mm, aux fan",Cooling,1480.0,5
+"Noctua NF S12A PWM, 120mm, aux fan",Cooling,1299.0,1
+"Noctua NF A14 PWM Chromax.black.swap, 140mm, aux fan",Cooling,1599.0,0
+"Noctua NF A14 PWM, 140mm aux fan",Cooling,1425.0,2
+"Noctua NF F12 PWM Chromax.black.swap, 120mm, aux fan",Cooling,1480.0,8
+"Noctua NF P12 Redux 1300, 120mm, aux fan",Cooling,899.0,1
+"Noctua NF P14r Redux 1500 PWM, 140mm, aux fan",Cooling,999.0,0
+"Noctua NF P12 Redux 1300 PWM, 120mm, aux fan",Cooling,899.0,4
+"Noctua NF P12 Redux 1700 PWM, 120mm, aux fan",Cooling,899.0,4
+"Noctua NF A20 PWM, 200mm, aux fan",Cooling,1899.0,2
+"Noctua NF A20 PWM Chromax.black.swap, 200mm, aux fan",Cooling,2180.0,2
+"Noctua NF A12x15 PWM Chromax.black.swap, 120mm aux fan",Cooling,1599.0,6
+"Noctua NF A12x25 PWM Chromax.black.swap, 120mm aux fan",Cooling,1999.0,1
+"Noctua NF A12x25 FLX, 120mm aux fan",Cooling,1899.0,3
+"Noctua NF A15 HS PWM Chromax.black.swap, 140mm, aux fan",Cooling,1725.0,2
+"Cryorig QF120 Silent, 120mm, 200~1000 RPM, 0.79mmH2O 44CFM 19dBA, aux fan",Cooling,499.0,1
+"Cryorig QF120 Performance, 120mm, 600~2200 RPM, 3.33mmH2O 83CFM 37dBA, aux fan",Cooling,499.0,33
+"Cryorig QF140 Silent, 140mm, 200~1000 RPM, 1.06mmH2O 42.1CFM 19.5dBA, aux fan",Cooling,550.0,31
+"Cryorig XF140, 140mm, 700~1300 RPM, 26mm thick, HPLN Bearing, 1.44mmH2O 76CFM 23dBA, aux fan",Cooling,850.0,87
+"Cryorig XT140, 140mm, 700~1300 RPM, 13mm thick, HPLN Bearing, 1.49mmH2O 65CFM 24dBA, aux fan",Cooling,850.0,131
+"Cryorig QF120 LED Silent white, 120mm, 200~1000 RPM, 0.79mmH2O 44CFM 19dBA, aux fan",Cooling,650.0,5
+"Cryorig QF120 LED Performance white, 120mm, 600~2200 RPM, 3.33mmH2O 83CFM 37dBA, aux fan",Cooling,650.0,276
+"iForgame R1 Rainbow, black, 120mm, aux fan, no box",Cooling,99.0,0
+"iForgame ICE aRGB 3 in 1, Aux fan, 3 Pack + Controller 5V 12V, 120mm, Fan 12V 1500rpm 26.4dBA 55.92CFM",Cooling,799.0,403
+"iForgame Chill aRGB 3 in 1, Aux fan, 3 Pack + Controller 5V 12V, 120mm, Fan 12V 1200rpm 26.4dBA 55.92CFM",Cooling,1099.0,246
+"Cooler Master CM MF120 Halo aRGB, black, 1 pack, 120mm, 1800 RPM 1.6mm H2O 47.2CFM 30dBA, aux fan, pn: MFL-B2DN-18NPA-R1",Cooling,860.0,2
+"Cooler Master CM Sickle Flow SF120 aRGB, black, 3 pack, 120mm, 1800 RPM 2.5mm H2O 62CFM 27dBA, aux fan, pn: MFX-B2DN-183PA-R1",Cooling,2325.0,0
+"Cooler Master CM MF120 S3 Triloop aRGB, black, 1 pack, 120mm, 1800 RPM 1.6mm H2O 47.2CFM 30dBA, aux fan, pn: MFW-B2DN-18NPA-S3",Cooling,699.0,2
+"Cooler Master CM MF120 Prismatic aRGB, black, 1 pack, 120mm, 2000 RPM 2.91mm H2O 55CFM 27dBA, aux fan, pn: MFY-B2DN-20NPA-R1",Cooling,899.0,15
+"Cooler Master CM Sickle Flow SF120 aRGB, white, 1 pack, 120mm, 1800 RPM 2.5mm H2O 62CFM 27dBA, aux fan, pn: MFX-B2DW-18NPA-R1",Cooling,825.0,1
+"Cooler Master CM MF120 Halo2, black, 1 pack, 120mm, 2050 RPM 2.89mm H2O 51.88CFM 27dBA, aux fan, pn: MFL-B2DN-21NP2-R2",Cooling,999.0,3
+"Cooler Master CM MF120 Halo2, white, 1 pack, 120mm, 2050 R0PM 2.89mm H2O 51.88CFM 27dBA, aux fan, pn: MFL-B2DW-21NP2-R2",Cooling,1180.0,1
+"Cooler Master CM MF140 Halo2, black, 1 pack, 140mm, 1600 RPM 2.53mm H2O 59.51CFM 27dBA, aux fan, pn: MFL-B4DN-16NP2-R2",Cooling,1180.0,2
+"Cooler Master CM Mobius 120, black, 1 pack, 120mm, 2050 RPM 2.69mm H2O 63.1CFM 22.6dBA, aux fan, pn: MFZ-M2NN-21NPK-R1",Cooling,1060.0,4
+"Cooler Master CM Mobius 120P aRGB, black, 1 pack, 120mm, 2400 RPM 3.63mm H2O 75.2CFM 30dBA, aux fan, pn: MFZ-M2DN-24NP2-R1",Cooling,1299.0,7
+"Tecware Omni P12 aRGB, 3 Pack, Black, 120mm, aux fan, pn: TWAC-OMP12-3BK",Cooling,999.0,1
+"Tecware Omni P12 aRGB, 3 Pack, White, 120mm, aux fan, pn: TWAC-OMP12-3WH",Cooling,999.0,2
+"darkFlash DR12 Pro RGB, 3 Pack + Controller, 120mm, aux fan",Cooling,1099.0,15
+"darkFlash DR12 Pro RGB, 120mm, aux fan",Cooling,299.0,4
+"darkFlash C6MS RGB black frame, 3 Pack, 120mm, aux fan, 4 pin",Cooling,999.0,1
+"darkFlash C6MS RGB white frame, 3 pack, 120mm, aux fan, 4 pin",Cooling,999.0,2
+"darkFlash C6MS RGB pink frame, 3 pack, 120mm, aux fan, 4 pin",Cooling,999.0,2
+"darkFlash C6MS RGB mint blue-green frame, 3 pack, 120mm, aux fan, 4 pin",Cooling,999.0,2
+"darkFlash C6S RGB black frame, 1 pack, 120mm, aux fan, 4 pin",Cooling,260.0,13
+"darkFlash C6S RGB white frame, 1 pack, 120mm, aux fan, 4 pin",Cooling,275.0,12
+"darkFlash Infinity 24 aRGB black, 1 pack, 120mm, aux fan, 6 pin",Cooling,375.0,11
+"darkFlash Infinity 24 aRGB black, 3 pack, 120mm, aux fan, 6 pin",Cooling,1399.0,2
+"darkFlash Infinity 24 aRGB white, 1 pack, 120mm, aux fan, 6 pin",Cooling,399.0,2
+"darkFlash Infinity 24 aRGB white, 3 pack, 120mm, aux fan, 6 pin",Cooling,1550.0,2
+"darkFlash DM12F aRGB black, 1 pack, 120mm, aux fan, 6 pin",Cooling,325.0,4
+"darkFlash DM12F aRGB black, 3 pack + controller, 120mm, aux fan, 6 pin",Cooling,1399.0,5
+"darkFlash DM12F aRGB white, 1 pack, 120mm, aux fan, 6 pin",Cooling,375.0,8
+"darkFlash DM12F aRGB white, 3 pack + controller, 120mm, aux fan, 6 pin",Cooling,1499.0,10
+"Lian Li Unifan SL120 V2 aRGB, black, 1 pack, 120mm, aux fan, pn: UF-SL120V2-1B",Cooling,1480.0,5
+"Lian Li Unifan SL120 V2 aRGB, black, 3 pack + controller, 120mm, aux fan, pn: UF-SL120V2-3B",Cooling,4999.0,2
+"Lian Li Unifan SL120 V2 aRGB, white, 1 pack, 120mm, aux fan, pn: UF-SL120V2-1W",Cooling,1480.0,2
+"Lian Li Unifan SL120 V2 aRGB, white, 3 pack + controller, 120mm, aux fan, pn: UF-SL120V2-3W",Cooling,4999.0,3
+"Lian Li Unifan SL Infinity aRGB, black, 1 pack, 120mm, aux fan, pn: UF-SLIN120-1B",Cooling,1699.0,3
+"Lian Li Unifan SL Infinity aRGB, black, 3 pack, 120mm, aux fan, pn: UF-SLIN120-3B",Cooling,6199.0,2
+"Lian Li Unifan SL Infinity aRGB, white, 1 pack, 120mm, aux fan, pn: UF-SLIN120-1W",Cooling,1699.0,0
+"Lian Li Unifan SL Infinity aRGB, white, 3 pack, 120mm, aux fan, pn: UF-SLIN120-3W",Cooling,6199.0,5
+"Lian Li Unifan SL140 V2 aRGB, white, 1 pack, 140mm, aux fan, pn: UF-SL140V2-1W",Cooling,1350.0,1
+"Lian Li Unifan SL Infinity Reverse Blade aRGB, black, 1 pack, 120mm, aux fan, pn: RSLIN120-1B",Cooling,1699.0,3
+"Lian Li Unifan SL Infinity Reverse Blade aRGB, white, 1 pack, 120mm, aux fan, pn: RSLIN120-1W",Cooling,1699.0,4
+"Lian Li Unifan SL Infinity RGB, black, 1 pack, 140mm, aux fan, pn: UF-SLIN140-1B",Cooling,1825.0,2
+"Lian Li Unifan SL Infinity RGB, white, 1 pack, 140mm, aux fan, pn: UF-SLIN140-1W",Cooling,1825.0,3
+"Lian Li ST120 aRGB, black, 3 pack, 120mm, aux fan, pn: ST120-3B",Cooling,1750.0,2
+"Lian Li ST120 aRGB, white, 3 pack, 120mm, aux fan, pn: ST120-3W",Cooling,1650.0,5
+"Lian Li Unifan SL Infinity Reverse Blade RGB, black, 1 pack, 140mm, aux fan, pn: 14RSLIN1B",Cooling,1699.0,5
+"Lian Li Unifan SL Infinity Reverse Blade RGB, white, 1 pack, 140mm, aux fan, pn: 14RSLIN1W",Cooling,1699.0,2
+"Lian Li Unifan AL120 aRGB, white, 3 pack, 120mm, aux fan, pn: UF-AL120-3W",Cooling,4980.0,3
+"Lian Li Unifan AL120 V2 aRGB, black, 1 pack, 120mm, aux fan, pn: UF-AL120V2-1B",Cooling,1480.0,4
+"Lian Li Unifan AL120 V2 aRGB, black, 3 pack + controller, 120mm, aux fan, pn: UF-AL120V2-3B",Cooling,5380.0,4
+"Lian Li Unifan AL120 V2 aRGB, white, 1 pack, 120mm, aux fan, pn: UF-AL120V2-1W",Cooling,1480.0,4
+"Lian Li Unifan AL120 V2 aRGB, white, 3 pack + controller, 120mm, aux fan, pn: UF-AL120V2-3W",Cooling,5380.0,4
+"Lian Li Unifan AL140 V2 aRGB, black, 1 pack, 140mm, aux fan, pn: UF-AL140V2-1B",Cooling,1680.0,5
+"Lian Li Unifan AL140 V2 aRGB, white, 1 pack, 140mm, aux fan, pn: UF-AL140V2-1W",Cooling,1680.0,2
+"Lian Li Unifan P28, black, 1 pack, 120mm, aux fan, pn: UF-P28120-1B",Cooling,1480.0,1
+"Lian Li Unifan P28, white, 1 pack, 120mm, aux fan, pn: UF-P28120-1W",Cooling,1480.0,1
+"Lian Li Unifan P28, black, 3 pack + controller, 120mm, aux fan, pn: UF-P28120-3B",Cooling,4250.0,2
+"Lian Li Unifan P28, white, 3 pack + controller, 120mm, aux fan, pn: UF-P28120-3W",Cooling,4250.0,1
+"Lian Li Unifan TL120 aRGB, black, 1 pack, 120mm, aux fan, pn: 12TL1B",Cooling,1699.0,3
+"Lian Li Unifan TL120 aRGB, white, 1 pack, 120mm, aux fan, pn: 12TL1W",Cooling,1699.0,2
+"Lian Li Unifan TL120 Reverse Blade aRGB, black, 1 pack, 120mm, aux fan, pn: 12RTL1B",Cooling,1699.0,4
+"Lian Li Unifan TL120 Reverse Blade aRGB, white, 1 pack, 120mm, aux fan, pn: 12RTL1W",Cooling,1699.0,3
+"Lian Li Unifan TL120 aRGB, black, 3 pack + comtroller, 120mm, aux fan, pn: 12TL3B",Cooling,5725.0,2
+"Lian Li Unifan TL120 aRGB, white, 3 pack + comtroller, 120mm, aux fan, pn: 12TL3W",Cooling,5725.0,2
+"Lian Li Unifan TL120 Reverse Blade aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12RTL3B",Cooling,5725.0,3
+"Lian Li Unifan TL120 Reverse Blade aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12RTL3W",Cooling,5725.0,2
+"Lian Li Unifan TL120 LCD aRGB, black, 1 pack, 120mm, aux fan, pn: 12TLLCD1B",Cooling,2450.0,3
+"Lian Li Unifan TL120 LCD aRGB, white, 1 pack, 120mm, aux fan, pn: 12TLLCD1W",Cooling,2450.0,2
+"Lian Li Unifan TL120 LCD Reverse Blade aRGB, black, 1 pack, 120mm, aux fan, pn: 12RTLLCD1B",Cooling,2450.0,2
+"Lian Li Unifan TL120 LCD Reverse Blade aRGB, white, 1 pack, 120mm, aux fan, pn: 12RTLLCD1W",Cooling,2450.0,3
+"Lian Li Unifan TL120 LCD aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12TLLCD3B",Cooling,7999.0,2
+"Lian Li Unifan TL120 LCD aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12TLLCD3W",Cooling,7999.0,3
+"Lian Li Unifan TL120 LCD Reverse Blade aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12RTLLCD3B",Cooling,7999.0,2
+"Lian Li Unifan TL120 LCD Reverse Blade aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12RTLLCD3W",Cooling,7999.0,0
+"Lian Li Unifan TL140 aRGB, black, 1 pack, 140mm, aux fan, pn: 14TL1B",Cooling,1825.0,3
+"Lian Li Unifan TL140 aRGB, white, 1 pack, 140mm, aux fan, pn: 14TL1W",Cooling,1825.0,3
+"Lian Li Unifan TL140 Reverse Blade aRGB, black, 1 pack, 140mm, aux fan, pn: 14RTL1B",Cooling,1825.0,0
+"Lian Li Unifan TL140 Reverse Blade aRGB, white, 1 pack, 140mm, aux fan, pn: 14RTL1W",Cooling,1825.0,3
+"Lian Li Unifan TL140 LCD aRGB, black, 1 pack, 140mm, aux fan, pn: 14TLLCD1B",Cooling,2725.0,2
+"Lian Li Unifan TL140 LCD aRGB, white, 1 pack, 140mm, aux fan, pn: 14TLLCD1W",Cooling,2725.0,2
+"Lian Li Unifan TL140 LCD Reverse Blade aRGB, black, 1 pack, 140mm, aux fan, pn: 14RTLLCD1B",Cooling,2725.0,4
+"Lian Li Unifan TL140 LCD Reverse Blade aRGB, white, 1 pack, 140mm, aux fan, pn: 14RTLLCD1W",Cooling,2725.0,4
+"Asus TUF TF120 ARGB, black, 1 pack, 120mm, 76 CFM 1900rpm, aux fan, pn: TF120A1R",Cooling,899.0,14
+"Asus TUF TF120 ARGB, black, 3 pack, 120mm, 76 CFM 1900rpm, aux fan, pn: TF120A1R",Cooling,2650.0,5
+"Asus TUF TF120 ARGB, white, 1 pack, 120mm, 76 CFM 1900rpm, aux fan, pn: TF120A1R",Cooling,899.0,2
+"Asus TUF TF120 ARGB, white, 3 pack, 120mm, 76 CFM 1900rpm, aux fan, pn: TF120A1R",Cooling,2650.0,3
+"Asus TUF TR120 ARGB, black, 1 pack, 120mm, 77.4 CFM 2000rpm, aux fan, pn: TR120-1",Cooling,1260.0,3
+"Asus TUF TR120 ARGB, black, 3 pack, 120mm, 77.4 CFM 2000rpm, aux fan, pn: TR120-1",Cooling,3425.0,3
+"Asus TUF TR120 ARGB, white, 1 pack, 120mm, 77.4 CFM 2000rpm, aux fan, pn: TR120-1",Cooling,1260.0,4
+"Asus TUF TR120 ARGB, white, 3 pack, 120mm, 77.4 CFM 2000rpm, aux fan, pn: TR120-1",Cooling,3425.0,7
+"Asus TUF TR120 ARGB reverse, black, 1 pack, 120mm, 76.3 CFM 2000rpm, aux fan, pn: TR120-1R",Cooling,1260.0,3
+"Asus TUF TR120 ARGB reverse, black, 3 pack, 120mm, 76.3 CFM 2000rpm, aux fan, pn: TR120-1R",Cooling,3425.0,3
+"Asus TUF TR120 ARGB reverse, white, 1 pack, 120mm, 76.3 CFM 2000rpm, aux fan, pn: TR120-1R",Cooling,1260.0,3
+"Asus TUF TR120 ARGB reverse, white, 3 pack, 120mm, 76.3 CFM 2000rpm, aux fan, pn: TR120-1R",Cooling,3425.0,0
+"Adata XPG Vento Pro 120 PWM, 120mm, 2150 RPM 75CFM 28dBA, aux fan, 4pin, pn: VENTOPRO120PWM-8KCWW",Cooling,999.0,1
+"Adata XPG Vento 120 aRGB, 120mm, 1200 RPM 45.3CFM 23dBA, aux fan, 3pin, pn: VENTOPRO120ARGB-8KCWW",Cooling,899.0,3
+"Arctic Cooling F14 PWM PST CO, black, 1 pack, 140mm, 74 CFM, 1350rpm, aux fan, PST CO - PWM Sharing Tech Continous operation",Cooling,650.0,1
+"Arctic Cooling P14 PWM PST CO, black, 1 pack, 140mm, 72.8 CFM, 1700rpm, aux fan, PST CO - PWM Sharing Tech Continous operation",Cooling,650.0,4
+"Arctic Cooling P14 Slim PWM PST, black, 1 pack, 140mm, 52 CFM, 1800rpm, aux fan, PST - PWM Sharing Tech",Cooling,499.0,3
+"Arctic Cooling P14 PWM PST, black, 5 pack, 140mm, 72.8 CFM, 1700rpm, aux fan, PST - PWM Sharing Tech",Cooling,2250.0,4
+"Arctic Cooling P14 PWM PST, black, 1 pack, 140mm, 72.8 CFM, 1700rpm, aux fan, PST - PWM Sharing Tech",Cooling,575.0,2
+"Arctic Cooling P14 PWM PST, white, 1 pack, 140mm, 72.8 CFM, 1700rpm, aux fan, PST - PWM Sharing Tech",Cooling,650.0,3
+"Arctic Cooling Bionix F140, black white, 1 pack, 140mm, 69 CFM, 1800rpm, aux fan",Cooling,750.0,1
+"Arctic Cooling Bionix P140, grey, 1 pack, 140mm, 77.6 CFM, 1950rpm, aux fan",Cooling,750.0,2
+"Arctic Cooling F12 PWM PST CO, black, 1 pack, 120mm, 53 CFM, 1350rpm, aux fan, PST CO - PWM Sharing Tech Continous operation",Cooling,475.0,0
+"Arctic Cooling F12 PWM PST, black, 1 pack, 120mm, 53 CFM, 1350rpm, aux fan, PST - PWM Sharing Tech",Cooling,360.0,3
+"Arctic Cooling F12 PWM PST, black, 5 pack, 120mm, 53.8 CFM, 1350rpm, aux fan, PST - PWM Sharing Tech",Cooling,1425.0,7
+"Arctic Cooling P12 PWM PST CO, black, 1 pack, 120mm, 56.3 CFM, 1800rpm, aux fan, PST CO - PWM Sharing Tech Continous operation",Cooling,475.0,5
+"Arctic Cooling P12 PWM PST, black, 1 pack, 120mm, 56.3 CFM, 1800rpm, aux fan, PST - PWM Sharing Tech",Cooling,360.0,1
+"Arctic Cooling P12 PWM PST, black, 5 pack, 120mm, 56.3 CFM, 1800rpm, aux fan, PST - PWM Sharing Tech",Cooling,1420.0,2
+"Arctic Cooling P12 PWM PST, white, 1 pack, 120mm, 56.3 CFM, 1800rpm, aux fan, PST - PWM Sharing Tech",Cooling,399.0,0
+"Arctic Cooling P12 Slim PWM PST, black, 1 pack, 120mm, 42.1 CFM, 2100rpm, aux fan, PST - PWM Sharing Tech",Cooling,399.0,4
+"Arctic Cooling P12 Slim PWM PST, black, 3 pack, 120mm, 42.1 CFM, 2100rpm, aux fan, PST - PWM Sharing Tech",Cooling,1040.0,3
+"Arctic Cooling P12 MAX, black, 1 pack, 120mm, 81.04 CFM, 3000rpm, aux fan",Cooling,615.0,8
+"Arctic Cooling P12 MAX, black, 5 pack, 120mm, 81.04 CFM, 3000rpm, aux fan",Cooling,1899.0,8
+"Arctic Cooling P12 MAX, white, 1 pack, 120mm, 81.04 CFM, 3000rpm, aux fan",Cooling,615.0,1
+"Arctic Cooling Bionix F120, black white, 1 pack, 120mm, 69 CFM, 1800rpm, aux fan",Cooling,699.0,1
+"Arctic Cooling Bionix F120, black grey, 1 pack, 120mm, 69 CFM, 1800rpm, aux fan",Cooling,699.0,2
+"Ocypus Gamma F12, black, 1 pack, 120mm, aux fan, pn: GAMMA-F12-BK1NN00X-GL",Cooling,160.0,0
+"Ocypus Gamma F12, white, 1 pack, 120mm, aux fan, pn: GAMMA-F12-WH1NN00X-GL",Cooling,160.0,0
+"Ocypus Gamma F12 aRGB, black, 1 pack, 120mm, aux fan, pn: GAMMA-F12-BK1AM00X-GL",Cooling,320.0,0
+"Ocypus Gamma F12 aRGB, white, 1 pack, 120mm, aux fan, pn: GAMMA-F12-WH1AM00X-GL",Cooling,320.0,0
+"Ocypus Gamma F12 aRGB reverse, black, 1 pack, 120mm, aux fan, pn: GAMMA-F12-BK1AM01X-GL",Cooling,320.0,0
+"Ocypus Gamma F12 aRGB reverse, white, 1 pack, 120mm, aux fan, pn: GAMMA-F12-WH1AM01X-GL",Cooling,320.0,0
+"Ocypus Delta F12 aRGB, black, 1 pack, 120mm, aux fan, pn: DELTA-F12-BK1AM00X-GL",Cooling,775.0,0
+"Ocypus Delta F12 aRGB, white, 1 pack, 120mm, aux fan, pn: DELTA-F12-WH1AM00X-GL",Cooling,775.0,0
+"Ocypus Delta F12 aRGB, black, 3 pack, 120mm, aux fan, pn: DELTA-F12-BK3AM00X-GL",Cooling,1980.0,0
+"Ocypus Delta F12 aRGB, white, 3 pack, 120mm, aux fan, pn: DELTA-F12-WH3AM00X-GL",Cooling,1980.0,0
+"Montech RX120 PWM aRGB reverse, black, 1 pack, 120mm, aux fan",Cooling,499.0,0
+"Montech RX120 PWM aRGB reverse, white, 1 pack, 120mm, aux fan",Cooling,535.0,0
+"Montech AX120 PWM aRGB, black, 1 pack, 120mm, aux fan",Cooling,499.0,0
+"Montech AX120 PWM aRGB, white, 1 pack, 120mm, aux fan",Cooling,535.0,0
+"Montech AX140 PWM aRGB, black, 1 pack, 140mm, aux fan",Cooling,799.0,0
+"Montech AX140 PWM aRGB, white, 1 pack, 140mm, aux fan",Cooling,840.0,0
+"darkFlash Infinity 24R aRGB reverse, black, 1 pack, 120mm, aux fan, 6 pin",Cooling,360.0,0
+"darkFlash Infinity 24R aRGB reverse, white, 1 pack, 120mm, aux fan, 6 pin",Cooling,399.0,0
+"darkFlash DM12RF aRGB reverse, black, 1 pack, 120mm, aux fan, 6 pin",Cooling,299.0,0
+"darkFlash DM12RF aRGB reverse, white, 1 pack, 120mm, aux fan, 6 pin",Cooling,360.0,0
+"Lian Li Unifan TL120 aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12TL3B",Cooling,5725.0,2
+"Lian Li Unifan TL120 aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12TL3W",Cooling,5725.0,2
+"Lian Li Unifan SL120 wireless aRGB, black, 1 pack, 120mm, aux fan, pn:",Cooling,1599.0,0
+"Lian Li Unifan SL120 wireless aRGB, white, 1 pack, 120mm, aux fan, pn:",Cooling,1599.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, black, 1 pack, 120mm, aux fan, pn:",Cooling,1599.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, white, 1 pack, 120mm, aux fan, pn:",Cooling,1599.0,0
+"Lian Li Unifan SL120 wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn:",Cooling,5350.0,0
+"Lian Li Unifan SL120 wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn:",Cooling,5350.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn:",Cooling,5350.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn:",Cooling,5350.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, black, 1 pack, 120mm, aux fan, pn:",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, white, 1 pack, 120mm, aux fan, pn:",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, black, 1 pack, 120mm, aux fan, pn:",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, white, 1 pack, 120mm, aux fan, pn:",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn:",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn:",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn:",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn:",Cooling,8199.0,0
+"Lian Li Unifan SL120 wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12SL1W1B",Cooling,1599.0,0
+"Lian Li Unifan SL120 wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12SL1W1W",Cooling,1599.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12RSL1W1B",Cooling,1599.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12RSL1W1W",Cooling,1599.0,0
+"Lian Li Unifan SL120 wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12SL1W3B",Cooling,5350.0,0
+"Lian Li Unifan SL120 wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12SL1W3W",Cooling,5350.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12RSL1W3B",Cooling,5350.0,0
+"Lian Li Unifan SL120 Reverse Blade wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12RSL1W3W",Cooling,5350.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12SLLCD1W1B",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12SLLCD1W1W",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12RSLLCD1W1B",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12RSLLCD1W1W",Cooling,2580.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12SLLCD1W3B",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12LLCD1W3W",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12RSLLCD1W3B",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD Reverse Blade wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12RSLLCD1W3W",Cooling,8199.0,0
+"Lian Li Unifan SL120 LCD wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12SLLCD1W3W",Cooling,8199.0,0
+"IDCooling AS 120 K aRGB, black, 3 pack, 120mm, 58CFM 27.2dBA, aux fan, pn: AS-120-ARGB-K TRIO",Cooling,960.0,0
+"IDCooling AS 120 W aRGB, white, 3 pack, 120mm, 58CFM 27.2dBA, aux fan, pn: AS-120-ARGB-W TRIO",Cooling,980.0,0
+"IDCooling Boreas 120, black, 1 pack, 120mm, 101.2CFM 35.5dBA, aux fan, pn: BOREAS 120",Cooling,945.0,0
+"IDCooling TF 12015, black, 1 pack, 120mm, 67.58CFM 32.3dBA, aux fan, pn: TF-12015-K",Cooling,325.0,0
+"darkFlash Infinity 34 aRGB black, 3 pack, 120mm, aux fan, 4 pin",Cooling,1360.0,0
+"darkFlash Infinity 34 aRGB white, 3 pack, 120mm, aux fan, 4 pin",Cooling,1430.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, black, 1 pack, 120mm, 2500 RPM 70.7CFM 27.2dBA, aux fan, pn: MFX-B2DN-25NP2-R2",Cooling,650.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, white, 1 pack, 120mm, 2500 RPM 70.7CFM 27.2dBA, aux fan, pn: MFX-B2DW-25NP2-R2",Cooling,650.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, black, 3 pack, 120mm, 2500 RPM 70.7CFM 27.2dBA, aux fan, pn: MFX-B2DN-253P2-R2",Cooling,2550.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, white, 3 pack, 120mm, 2500 RPM 70.7CFM 27.2dBA, aux fan, pn: MFX-B2DW-253P2-R2",Cooling,2550.0,0
+"Cooler Master CM CF120 aRGB, black, 1 pack, 120mm, 1200 RPM 47.65CFM 20dBA, aux fan, pn: R4-S2S-12AA-GP",Cooling,475.0,0
+"Deep Cool DC FT14, black, 140mm, 1 pack, 78.8CFM 1650rpm, 25.1dBA, aux fan, pn: R-FT14-BKWPN1-G",Cooling,1399.0,3
+"Deep Cool DC FT14, white, 140mm, 1 pack, 78.8CFM 1650rpm, 25.1dBA, aux fan, pn: R-FT14-WHWPN1-G",Cooling,1399.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, black, 1 pack, 120mm, 2500 RPM 70.7CFM 32.8dBA, aux fan, pn: MFX-B2DN-25NP2-R2",Cooling,650.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, white, 1 pack, 120mm, 2500 RPM 70.7CFM 32.8dBA, aux fan, pn: MFX-B2DW-25NP2-R2",Cooling,650.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, black, 3 pack, 120mm, 2500 RPM 70.7CFM 32.8dBA, aux fan, pn: MFX-B2DN-253P2-R2",Cooling,2550.0,0
+"Cooler Master CM Sickle Flow Edge aRGB, white, 3 pack, 120mm, 2500 RPM 70.7CFM 32.8dBA, aux fan, pn: MFX-B2DW-253P2-R2",Cooling,2550.0,0
+"Corsair HD120 RGB, 120mm, 1 pack, with controller, 54.4 CFM, 1725rpm, 30dBA, aux fan, pn: CO-9050066-WW",Cooling,1950.0,1
+"Asus TUF AR120 PWM aRGB, black, 1 pack, 120mm, 54.92 CFM 14500rpm, aux fan, pn:",Cooling,670.0,0
+"Asus TUF AR120 PWM aRGB, black, 1 pack, 120mm, 54.92 CFM 14500rpm, aux fan, pn: AR120-1",Cooling,670.0,0
+"Asus AR120 PWM aRGB, black, 1 pack, 120mm, 54.92 CFM 14500rpm, aux fan, pn: AR120-1",Cooling,670.0,0
+"darkFlash Infinity 34 aRGB black, 1 pack, 120mm, aux fan, 4 pin",Cooling,475.0,0
+"darkFlash Infinity 34 aRGB white, 1 pack, 120mm, aux fan, 4 pin",Cooling,499.0,0
+"darkFlash Infinity 34R aRGB reverse black, 1 pack, 120mm, aux fan, 4 pin",Cooling,475.0,0
+"darkFlash Infinity 34R aRGB reverse white, 1 pack, 120mm, aux fan, 4 pin",Cooling,499.0,0
+"Lian Li Unifan TL120 wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12TL1W1B",Cooling,1599.0,0
+"Lian Li Unifan TL120 wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12TL1W3B",Cooling,5450.0,0
+"Lian Li Unifan TL120 wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12TL1W1W",Cooling,1599.0,0
+"Lian Li Unifan TL120 wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12TL1W3W",Cooling,5450.0,0
+"Lian Li Unifan TL120 Reverse Blade wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12RTL1W1B",Cooling,1599.0,0
+"Lian Li Unifan TL120 Reverse Blade wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12RTL1W3B",Cooling,5450.0,0
+"Lian Li Unifan TL120 Reverse Blade wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12RTL1W1W",Cooling,1599.0,0
+"Lian Li Unifan TL120 Reverse Blade wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12RTL1W3W",Cooling,5450.0,0
+"Lian Li Unifan TL120 LCD wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12TLLCD1W1B",Cooling,2550.0,0
+"Lian Li Unifan TL120 LCD wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12TLLCD1W3B",Cooling,8199.0,0
+"Lian Li Unifan TL120 LCD wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12TLLCD1W1W",Cooling,2550.0,0
+"Lian Li Unifan TL120 LCD wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12TLLCD1W3W",Cooling,8199.0,0
+"Lian Li Unifan TL120 LCD Reverse Blade wireless aRGB, black, 1 pack, 120mm, aux fan, pn: 12RTLLCD1W1B",Cooling,2550.0,0
+"Lian Li Unifan TL120 LCD Reverse Blade wireless aRGB, black, 3 pack + controller, 120mm, aux fan, pn: 12RTLLCD1W3B",Cooling,8199.0,0
+"Lian Li Unifan TL120 LCD Reverse Blade wireless aRGB, white, 1 pack, 120mm, aux fan, pn: 12RTLLCD1W1W",Cooling,2550.0,0
+"Lian Li Unifan TL120 LCD Reverse Blade wireless aRGB, white, 3 pack + controller, 120mm, aux fan, pn: 12RTLLCD1W3W",Cooling,8199.0,0
+"Deep Cool DC FL12 aRGB, black, 1 pack, 120mm, 55CFM 2150rpm, 32dBA, aux fan, pn: R-FL12-BKAPN1-G",Cooling,1335.0,0
+"Deep Cool DC FL12 aRGB, black, 3 pack, 120mm, 55CFM 2150rpm, 32dBA, aux fan, pn: R-FL12-BKAPN3-G",Cooling,3750.0,0
+"Deep Cool DC FL12 aRGB, white, 1 pack, 120mm, 55CFM 2150rpm, 32dBA, aux fan, pn: R-FL12-WHAPN1-G",Cooling,1335.0,0
+"Deep Cool DC FL12 aRGB, white, 3 white, 120mm, 55CFM 2150rpm, 32dBA, aux fan, pn: R-FL12-WHAPN3-G",Cooling,3750.0,0
+"Deep Cool DC FL12R aRGB Reverse, black, 1 pack, 120mm, 55CFM 2150rpm, 33.9dBA, aux fan, pn: R-FL12R-BKAPN1-G",Cooling,1750.0,0
+"Deep Cool DC FL12R aRGB Reverse, black, 3 pack, 120mm, 55CFM 2150rpm, 33.9dBA, aux fan, pn: R-FL12R-BKAPN3-G",Cooling,4599.0,0
+"Deep Cool DC FL12R aRGB Reverse, white, 1 pack, 120mm, 55CFM 2150rpm, 33.9dBA, aux fan, pn: R-FL12R-WHAPN1-G",Cooling,1750.0,0
+"Deep Cool DC FL12R aRGB Reverse, white, 3 pack, 120mm, 55CFM 2150rpm, 33.9dBA, aux fan, pn: R-FL12R-WHAPN3-G",Cooling,4599.0,0
+"Ocypus Gamma F12 UNI aRGB black, 3 pack, 120mm, aux fan, pn: GAMMA-F12-BK3AM00U-GL",Cooling,1299.0,0
+"Ocypus Gamma F12 UNI aRGB white, 3 pack, 120mm, aux fan, pn: GAMMA-F12-WH3AM00U-GL",Cooling,1299.0,0
+"Ocypus Gamma F12 UNI aRGB reverse black, 3 pack, 120mm, aux fan, pn: GAMMA-F12-BK3AM01U-GL",Cooling,1299.0,0
+"Ocypus Gamma F12 UNI aRGB reverse white, 3 pack, 120mm, aux fan, pn: GAMMA-F12-WH3AM01U-GL",Cooling,1299.0,0
+"Noctua NF P14s Redux 1200 PWM, 140mm, aux fan",Cooling,999.0,0
+"Noctua NF A12x25 LS PWM, 120mm aux fan",Cooling,1899.0,0
+"Noctua NF A14 ULN, 140mm, aux fan",Cooling,1099.0,0
+"Noctua NF A14x25r G2 PWM, 140mm, aux fan",Cooling,2450.0,0
+"Noctua NF A14x25r G2 PWM Sx2-PP, 2 pack, 140mm, aux fan",Cooling,4699.0,0
