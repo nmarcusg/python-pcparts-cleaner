@@ -1,447 +1,425 @@
-,item_price_in_php,stocks,total_capacity_gb,modules,ddr_gen,mhz,cl,voltage,clean_name
-0,1399.0,9,8,"1,8",4,2666,16.0,1.2,Kingston Fury Beast
-1,1499.0,19,8,"1,8",4,3200,16.0,1.35,Kingston Fury Beast
-2,1899.0,5,8,"1,8",4,3200,16.0,1.35,Kingston Fury Beast RGB
-3,1299.0,3,8,"1,8",4,3200,16.0,1.35,G.Skill Ripjaws V black
-4,1999.0,26,8,"1,8",4,3600,17.0,1.35,Kingston Fury Beast RGB
-5,2380.0,4,16,"1,16",4,2666,16.0,1.2,Kingston Fury Beast
-6,2599.0,8,16,"1,16",4,3200,16.0,1.35,Kingston Fury Beast
-7,2950.0,18,16,"1,16",4,3600,18.0,1.35,Kingston Fury Beast
-8,3399.0,7,16,"1,16",4,3600,18.0,1.35,Kingston Fury Beast RGB
-9,1880.0,0,16,"1,16",4,3600,18.0,1.35,Patriot Viper Steel
-10,3099.0,11,16,"2,8",4,3200,16.0,1.35,Kingston Fury Beast RGB
-11,3599.0,14,16,"2,8",4,3600,18.0,1.35,Tforce Delta RGB black
-12,3599.0,9,16,"2,8",4,3600,18.0,1.35,Tforce Delta RGB white
-13,3699.0,6,16,"2,8",4,3600,17.0,1.35,Kingston Fury Beast RGB
-14,2950.0,1,16,"2,8",4,3600,17.0,1.35,Kingston Fury Beast
-15,3199.0,5,16,"2,8",4,3600,16.0,1.35,G.Skill Ripjaws V black
-16,2725.0,25,16,"2,8",4,3600,18.0,1.35,G.Skill Ripjaws V black
-17,3880.0,0,16,"2,8",4,3600,18.0,1.35,G.Skill Trident Z RGB black
-18,3480.0,0,16,"2,8",4,3600,18.0,1.35,G.Skill Trident Z Neo
-19,4480.0,0,16,"2,8",4,3600,16.0,1.35,G.Skill Trident Z Neo
-20,5499.0,7,32,"2,16",4,3600,18.0,1.35,Tforce Delta RGB black
-21,5499.0,3,32,"2,16",4,3600,18.0,1.35,Tforce Delta RGB white
-22,5399.0,0,32,"2,16",4,3600,18.0,1.35,Kingston Fury Beast RGB
-23,5599.0,8,32,"2,16",4,3600,16.0,1.35,G.Skill Ripjaws V black
-24,7399.0,0,32,"2,16",4,3600,18.0,1.35,G.Skill Trident Z Royal silver
-25,8999.0,10,64,"2,32",4,3600,18.0,1.35,Kingston Fury Beast RGB
-26,8099.0,11,64,"2,32",4,3600,18.0,1.35,Patriot Viper Steel
-27,2499.0,0,16,"1,16",5,5200,36.0,1.2,Patriot Venom
-28,2880.0,0,16,"1,16",5,5200,36.0,1.2,Patriot Venom RGB
-29,3899.0,2,16,"1,16",5,5600,36.0,1.25,Kingston Fury Beast black
-30,4199.0,29,16,"1,16",5,5600,36.0,1.25,Kingston Fury Beast RGB black
-31,2680.0,0,16,"1,16",5,5600,36.0,1.25,Patriot Venom
-32,3199.0,0,16,"1,16",5,5600,36.0,1.25,Patriot Venom RGB
-33,3199.0,2,16,"1,16",5,5600,46.0,,Transcend CL46
-34,4380.0,17,16,"1,16",5,6000,40.0,1.35,Kingston Fury Beast white
-35,4380.0,2,16,"1,16",5,6000,40.0,1.35,Kingston Fury Beast RGB white
-36,4480.0,7,16,"1,16",5,6000,32.0,1.35,Kingston Fury Renegade RGB white
-37,2899.0,0,16,"1,16",5,6000,30.0,1.35,Patriot Venom
-38,3499.0,0,16,"1,16",5,6000,30.0,1.35,Patriot Venom RGB
-39,3799.0,3,16,"1,16",5,6000,38.0,1.25,Tforce Delta RGB black
-40,3799.0,2,16,"1,16",5,6000,38.0,1.25,Tforce Delta RGB white
-41,4699.0,0,32,"1,32",5,5200,36.0,1.2,Patriot Venom
-42,5199.0,0,32,"1,32",5,5200,36.0,1.2,Patriot Venom RGB
-43,5199.0,0,32,"1,32",5,5600,36.0,1.25,Patriot Venom
-44,5599.0,0,32,"1,32",5,5600,36.0,1.25,Patriot Venom RGB
-45,6699.0,5,32,"1,32",5,6000,40.0,1.35,Kingston Fury Beast white
-46,7199.0,6,32,"1,32",5,6000,40.0,1.35,Kingston Fury Beast RGB white
-47,5599.0,0,32,"1,32",5,6000,30.0,1.35,Patriot Venom
-48,6299.0,0,32,"1,32",5,6000,30.0,1.35,Patriot Venom RGB
-49,3880.0,11,16,"2,8",5,5200,40.0,1.25,Kingston Fury Beast
-50,3799.0,5,16,"2,8",5,5600,40.0,1.25,Patriot Venom
-51,4280.0,0,16,"2,8",5,6000,40.0,1.35,Kingston Fury Beast
-52,5399.0,2,16,"2,8",5,6000,40.0,1.35,Kingston Fury Beast RGB
-53,7899.0,1,32,"2,16",5,5200,40.0,1.25,Corsair Dominator Platinum black
-54,7899.0,0,32,"2,16",5,5200,40.0,1.25,Corsair Dominator Platinum white
-55,6699.0,0,32,"2,16",5,5600,36.0,1.25,Kingston Fury Beast
-56,6999.0,0,32,"2,16",5,5600,36.0,1.25,Kingston Fury Beast RGB
-57,5350.0,5,32,"2,16",5,5600,36.0,1.25,Patriot Venom
-58,8280.0,2,32,"2,16",5,5600,36.0,1.2,G.Skill Trident Z5 RGB silver
-59,7399.0,0,32,"2,16",5,5600,36.0,1.2,G.Skill Ripjaws S5 black
-60,7399.0,0,32,"2,16",5,5600,36.0,1.2,G.Skill Ripjaws S5 white
-61,6280.0,0,32,"2,16",5,5600,46.0,1.1,G.Skill Ripjaws S5 black
-62,6280.0,0,32,"2,16",5,5600,46.0,1.1,G.Skill Ripjaws S5 white
-63,9999.0,1,32,"2,16",5,5600,36.0,1.25,Corsair Dominator Platinum white
-64,7799.0,4,32,"2,16",5,6000,36.0,1.35,Kingston Fury Beast
-65,7799.0,2,32,"2,16",5,6000,40.0,1.25,Kingston Fury Beast
-66,7799.0,2,32,"2,16",5,6000,36.0,1.35,Patriot Elite 5 TUF White
-67,5799.0,5,32,"2,16",5,6000,36.0,1.35,Patriot Venom
-68,8099.0,0,32,"2,16",5,6000,30.0,1.35,Tforce Delta RGB white
-69,7850.0,6,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB black
-70,7850.0,0,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB white
-71,6399.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Flare X5 black
-72,7150.0,2,32,"2,16",5,6000,32.0,1.35,G.Skill Flare X5 black
-73,6999.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 Neo RGB black
-74,6999.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 Neo RGB white
-75,7699.0,4,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws M5 RGB black
-76,7699.0,4,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws M5 RGB white
-77,8650.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 Neo RGB black
-78,8525.0,5,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 Neo RGB black
-79,8650.0,10,32,"2,16",5,6000,30.0,1.35,G.Skill Trident Z5 Neo RGB black
-80,9150.0,4,32,"2,16",5,6000,30.0,1.35,G.Skill Trident Z5 Neo RGB white
-81,8525.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB black
-82,8525.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB silver
-83,8525.0,1,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB white
-84,7999.0,4,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 RGB black
-85,7999.0,3,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 RGB white
-86,7150.0,0,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws S5 black
-87,7150.0,0,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws S5 white
-88,6299.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws S5 black
-89,6299.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws S5 white
-90,9999.0,1,32,"2,16",5,6000,36.0,1.25,Corsair Dominator Platinum black
-91,9699.0,2,32,"2,16",5,6000,36.0,1.35,Corsair Dominator Platinum black
-92,10599.0,2,32,"2,16",5,6000,36.0,1.35,Corsair Dominator Platinum black
-93,10999.0,2,32,"2,16",5,6000,30.0,1.4,Corsair Dominator Titanium black
-94,10999.0,0,32,"2,16",5,6000,30.0,1.4,Corsair Dominator Titanium white
-95,7750.0,2,32,"2,16",5,6200,42.0,1.35,Patriot Elite 5 White
-96,6299.0,0,32,"2,16",5,6200,40.0,1.35,Patriot Venom
-97,6550.0,3,32,"2,16",5,6000,36.0,1.35,Patriot Venom RGB
-98,9899.0,2,32,"2,16",5,6200,36.0,1.3,Corsair Dominator Platinum black
-99,7999.0,2,32,"2,16",5,6200,40.0,1.35,Patriot Venom RGB
-100,7799.0,4,32,"2,16",5,6400,40.0,1.35,Tforce Delta RGB black
-101,7799.0,5,32,"2,16",5,6400,40.0,1.35,Tforce Delta RGB white
-102,7150.0,3,32,"2,16",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB black
-103,7150.0,3,32,"2,16",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB white
-104,8999.0,5,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 Neo RGB black
-105,8999.0,2,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 Neo RGB white CL32 1.4v
-106,8299.0,4,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 RGB black
-107,8299.0,2,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 RGB white
-108,9399.0,4,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 Royal RGB silver
-109,11500.0,2,32,"2,16",5,6400,32.0,1.4,Corsair Dominator Platinum black
-110,8225.0,2,32,"2,16",5,6600,36.0,1.4,Patriot Elite 5 White
-111,8550.0,2,32,"2,16",5,6600,34.0,1.4,Patriot Elite 5 TUF White
-112,11999.0,4,32,"2,16",5,6600,32.0,1.4,Corsair Dominator Titanium black
-113,11999.0,1,32,"2,16",5,6600,32.0,1.4,Corsair Dominator Titanium white
-114,13450.0,2,32,"2,16",5,7200,34.0,1.45,Corsair Dominator Titanium black
-115,9799.0,1,32,"2,16",5,7600,36.0,1.45,Patriot Xtreme 5 RGB
-116,10999.0,2,32,"2,16",5,7800,38.0,1.45,Patriot Xtreme 5 RGB
-117,12725.0,1,32,"2,16",5,8000,38.0,1.45,Patriot Xtreme 5 RGB
-118,10350.0,2,48,"2,24",5,6000,42.0,1.35,Patriot Elite 5 White
-119,9980.0,2,48,"2,24",5,6000,36.0,1.35,Patriot Elite 5 TUF White
-120,11799.0,2,48,"2,24",5,6600,34.0,1.4,Patriot Elite 5 TUF White
-121,13999.0,1,48,"2,24",5,7600,36.0,1.45,Patriot Xtreme 5 RGB
-122,15999.0,2,48,"2,24",5,8000,38.0,1.45,Patriot Xtreme 5 RGB
-123,12999.0,3,64,"2,32",5,5600,40.0,1.25,Kingston Fury Beast
-124,13899.0,2,64,"2,32",5,5600,40.0,1.25,Kingston Fury Beast RGB
-125,14399.0,3,64,"2,32",5,5600,36.0,1.25,G.Skill Trident Z5 RGB black
-126,11499.0,0,64,"2,32",5,5600,46.0,1.1,G.Skill Ripjaws S5 black
-127,11499.0,0,64,"2,32",5,5600,46.0,1.1,G.Skill Ripjaws S5 white
-128,14299.0,3,64,"2,32",5,6000,32.0,1.35,Kingston Fury Renegade RGB white
-129,11750.0,3,64,"2,32",5,6000,36.0,1.35,Patriot Venom
-130,13999.0,2,64,"2,32",5,6000,38.0,1.25,Tforce Delta RGB black
-131,13999.0,2,64,"2,32",5,6000,38.0,1.25,Tforce Delta RGB white
-132,14650.0,3,64,"2,32",5,6000,32.0,1.4,G.Skill Ripjaws M5 RGB black
-133,14650.0,1,64,"2,32",5,6000,32.0,1.4,G.Skill Ripjaws M5 RGB white
-134,15150.0,2,64,"2,32",5,6000,32.0,1.4,G.Skill Trident Z5 Neo RGB black
-135,15280.0,3,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 Neo RGB black
-136,16280.0,1,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 Neo RGB white
-137,14399.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Trident Z5 RGB white
-138,15399.0,2,64,"2,32",5,6000,32.0,1.4,G.Skill Trident Z5 RGB black
-139,15150.0,0,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 RGB white
-140,15699.0,0,64,"2,32",5,6000,40.0,1.35,Corsair Dominator Platinum black
-141,13180.0,2,64,"2,32",5,6200,42.0,1.35,Patriot Elite 5 White
-142,12999.0,3,64,"2,32",5,6400,32.0,1.4,Patriot Venom
-143,15150.0,4,64,"2,32",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB black
-144,15150.0,4,64,"2,32",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB white
-145,15525.0,0,64,"2,32",5,6400,32.0,1.4,G.Skill Trident Z5 RGB black
-146,15525.0,1,64,"2,32",5,6400,32.0,1.4,G.Skill Trident Z5 RGB white
-147,17799.0,2,64,"2,32",5,6400,32.0,1.4,G.Skill Trident Z5 Royal RGB silver
-148,18399.0,4,64,"2,32",5,6400,32.0,1.4,Corsair Dominator Platinum black
-149,18699.0,3,64,"2,32",5,6600,32.0,1.4,Corsair Dominator Platinum black
-150,19699.0,0,96,"2,48",5,6000,42.0,1.35,Patriot Elite 5 White
-151,1299.0,3,8,"1,8",4,2666,19.0,1.2,8gb sodimm ddr4 2666 Kingston CL19 1.2v
-152,1475.0,2,8,"1,8",4,3200,22.0,1.2,8gb sodimm ddr4 3200 Kingston CL22 1.2v
-153,1099.0,18,8,"1,8",4,3200,22.0,1.2,8gb sodimm ddr4 3200 Team Elite CL22 1.2V
-154,2550.0,5,16,"1,16",4,2666,19.0,1.2,16gb sodimm ddr4 2666 Kingston CL19 1.2v
-155,2850.0,3,16,"1,16",4,3200,22.0,1.2,16gb sodimm ddr4 3200 Kingston CL22 1.2v
-156,2650.0,6,16,"1,16",4,3200,22.0,1.2,16gb sodimm ddr4 3200 Patriot CL22 1.2V
-157,1699.0,0,8,"1,8",5,4800,40.0,1.1,8gb sodimm ddr5 4800 Adata CL40 1.1v
-158,2050.0,2,8,"1,8",5,4800,40.0,1.1,8gb sodimm ddr5 4800 Kingston CL40 1.1v
-159,2150.0,8,8,"1,8",5,5600,46.0,1.1,8gb sodimm ddr5 5600 Kingston CL46 1.1v
-160,2225.0,67,8,"1,8",5,5600,46.0,1.1,8gb sodimm ddr5 5600 Patriot CL46 1.1V
-161,3050.0,15,16,"1,16",5,4800,40.0,1.1,16gb sodimm ddr5 4800 Kingston CL40 1.1v
-162,3950.0,8,16,"1,16",5,5600,40.0,1.1,16gb sodimm ddr5 5600 Kingston Impact CL40 1.1v
-163,3399.0,5,16,"1,16",5,5600,46.0,1.1,16gb sodimm ddr5 5600 Patriot CL46 1.1V
-164,6180.0,1,32,"1,32",5,5600,40.0,1.1,32gb sodimm ddr5 5600 Kingston Impact CL40 1.1v
-165,7899.0,1,32,"2,16",5,5200,40.0,1.25,Corsair Dominator Platinum RGB black
-166,7899.0,0,32,"2,16",5,5200,40.0,1.25,Corsair Dominator Platinum RGB white
-167,9999.0,0,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 Neo RGB black
-168,9999.0,0,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 Neo RGB white
-169,15699.0,0,64,"2,32",5,6000,40.0,1.35,Corsair Dominator Platinum RGB black
-170,1280.0,0,8,"1,8",4,3200,18.0,1.35,Patriot Viper Steel RGB
-171,1680.0,0,16,"1,16",4,3200,16.0,1.35,Patriot Viper Steel
-172,1880.0,0,16,"1,16",4,3200,18.0,1.35,Patriot Viper Steel RGB
-173,11999.0,0,64,"2,32",5,6000,36.0,1.35,Kingston Fury Beast white
-174,12999.0,0,64,"2,32",5,6000,30.0,1.4,Kingston Fury Beast white
-175,14950.0,0,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast
-176,15599.0,0,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast RGB
-177,7699.0,4,32,"2,16",5,6400,32.0,1.35,Tforce Delta RGB black
-178,7699.0,5,32,"2,16",5,6400,32.0,1.35,Tforce Delta RGB white
-179,7699.0,0,32,"2,16",5,6400,32.0,1.35,Tforce Delta RGB silver
-180,3599.0,14,16,"2,8",4,3600,18.0,1.35,Tforce Delta RGB black
-181,9499.0,0,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 RGB black
-182,10799.0,0,32,"2,16",5,7600,36.0,1.4,G.Skill Trident Z5 RGB black
-183,6799.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 Neo RGB black
-184,6799.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 Neo RGB white
-185,6399.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws S5 black
-186,15199.0,3,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 Neo RGB black
-187,16699.0,0,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 Neo RGB white
-188,15150.0,0,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 RGB black
-189,6899.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 Neo RGB black
-190,6899.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 Neo RGB white
-191,6799.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 Neo RGB black
-192,6799.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 Neo RGB white
-193,11999.0,0,32,"2,16",5,7600,36.0,1.4,G.Skill Trident Z5 Royal silver
-194,13599.0,0,32,"2,16",5,8000,38.0,1.45,G.Skill Trident Z5 RGB black
-195,18599.0,0,48,"2,24",5,8000,40.0,1.4,G.Skill Trident Z5 Neo RGB black
-196,2499.0,0,16,"1,16",5,5200,36.0,1.2,Patriot Venom
-197,2880.0,7,16,"1,16",5,5200,36.0,1.2,Patriot Venom RGB
-198,3450.0,2,16,"1,16",5,5600,36.0,1.25,Kingston Fury Beast black
-199,3299.0,25,16,"1,16",5,5600,36.0,1.25,Kingston Fury Beast RGB black
-200,2680.0,0,16,"1,16",5,5600,36.0,1.25,Patriot Venom
-201,3199.0,1,16,"1,16",5,5600,36.0,1.25,Patriot Venom RGB
-202,3750.0,15,16,"1,16",5,6000,40.0,1.35,Kingston Fury Beast white
-203,4199.0,5,16,"1,16",5,6000,32.0,1.35,Kingston Fury Renegade RGB white
-204,2899.0,0,16,"1,16",5,6000,30.0,1.35,Patriot Venom
-205,3499.0,0,16,"1,16",5,6000,30.0,1.35,Patriot Venom RGB
-206,3799.0,6,16,"1,16",5,6000,38.0,1.25,Tforce Delta RGB black
-207,3799.0,3,16,"1,16",5,6000,38.0,1.25,Tforce Delta RGB white
-208,4699.0,9,32,"1,32",5,5200,36.0,1.2,Patriot Venom
-209,5199.0,9,32,"1,32",5,5200,36.0,1.2,Patriot Venom RGB
-210,5199.0,2,32,"1,32",5,5600,36.0,1.25,Patriot Venom
-211,5599.0,2,32,"1,32",5,5600,36.0,1.25,Patriot Venom RGB
-212,6699.0,9,32,"1,32",5,6000,40.0,1.35,Kingston Fury Beast white
-213,7250.0,6,32,"1,32",5,6000,40.0,1.35,Kingston Fury Beast RGB white
-214,5599.0,0,32,"1,32",5,6000,30.0,1.35,Patriot Venom
-215,6299.0,2,32,"1,32",5,6000,30.0,1.35,Patriot Venom RGB
-216,3599.0,10,16,"2,8",5,5200,40.0,1.25,Kingston Fury Beast
-217,3799.0,0,16,"2,8",5,5600,40.0,1.25,Patriot Venom
-218,4280.0,14,16,"2,8",5,6000,40.0,1.35,Kingston Fury Beast
-219,5399.0,3,16,"2,8",5,6000,40.0,1.35,Kingston Fury Beast RGB
-220,7450.0,0,32,"2,16",5,5200,40.0,1.25,Corsair Dominator Platinum RGB black
-221,7450.0,0,32,"2,16",5,5200,40.0,1.25,Corsair Dominator Platinum RGB white
-222,6599.0,12,32,"2,16",5,5600,36.0,1.25,Kingston Fury Beast
-223,7199.0,2,32,"2,16",5,5600,36.0,1.25,Kingston Fury Beast RGB
-224,5350.0,0,32,"2,16",5,5600,36.0,1.25,Patriot Venom
-225,7099.0,1,32,"2,16",5,5600,36.0,1.2,G.Skill Trident Z5 RGB silver
-226,6150.0,2,32,"2,16",5,5600,36.0,1.2,G.Skill Ripjaws S5 black
-227,6150.0,0,32,"2,16",5,5600,36.0,1.2,G.Skill Ripjaws S5 white
-228,6150.0,6,32,"2,16",5,5600,46.0,1.1,G.Skill Ripjaws S5 black
-229,6150.0,4,32,"2,16",5,5600,46.0,1.1,G.Skill Ripjaws S5 white
-230,9450.0,1,32,"2,16",5,5600,36.0,1.25,Corsair Dominator Platinum white
-231,7399.0,11,32,"2,16",5,6000,36.0,1.35,Kingston Fury Beast
-232,7299.0,4,32,"2,16",5,6000,40.0,1.25,Kingston Fury Beast
-233,7799.0,0,32,"2,16",5,6000,36.0,1.35,Patriot Elite 5 TUF White
-234,5799.0,0,32,"2,16",5,6000,36.0,1.35,Patriot Venom
-235,7999.0,5,32,"2,16",5,6000,30.0,1.35,Tforce Delta RGB white
-236,7699.0,11,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB black
-237,7699.0,5,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB white
-238,6299.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Flare X5 black
-239,7150.0,0,32,"2,16",5,6000,32.0,1.35,G.Skill Flare X5 black
-240,6899.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 Neo RGB black
-241,6899.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 Neo RGB white
-242,7699.0,0,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws M5 RGB black
-243,7699.0,0,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws M5 RGB white
-244,6799.0,3,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 Neo RGB black
-245,6799.0,4,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 Neo RGB white
-246,8650.0,1,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 Neo RGB black
-247,8199.0,3,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 Neo RGB black
-248,8450.0,9,32,"2,16",5,6000,30.0,1.35,G.Skill Trident Z5 Neo RGB black
-249,8999.0,1,32,"2,16",5,6000,30.0,1.35,G.Skill Trident Z5 Neo RGB white
-250,8499.0,4,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB black
-251,8499.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB silver
-252,8499.0,3,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB white
-253,7999.0,3,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 RGB black
-254,7999.0,3,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 RGB white
-255,7150.0,9,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws S5 black
-256,7150.0,5,32,"2,16",5,6000,32.0,1.35,G.Skill Ripjaws S5 white
-257,6299.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws S5 black
-258,6299.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws S5 white
-259,6399.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws S5 black
-260,9150.0,1,32,"2,16",5,6000,36.0,1.35,Corsair Dominator Platinum black
-261,9999.0,1,32,"2,16",5,6000,36.0,1.35,Corsair Dominator Platinum black
-262,10399.0,0,32,"2,16",5,6000,30.0,1.4,Corsair Dominator Titanium black
-263,7750.0,0,32,"2,16",5,6200,42.0,1.35,Patriot Elite 5 White
-264,6299.0,1,32,"2,16",5,6200,40.0,1.35,Patriot Venom
-265,6550.0,0,32,"2,16",5,6000,36.0,1.35,Patriot Venom RGB
-266,9899.0,1,32,"2,16",5,6200,36.0,1.3,Corsair Dominator Platinum black
-267,7999.0,2,32,"2,16",5,6200,40.0,1.35,Patriot Venom RGB
-268,7699.0,4,32,"2,16",5,6400,32.0,1.35,Tforce Delta RGB black
-269,7699.0,6,32,"2,16",5,6400,32.0,1.35,Tforce Delta RGB white
-270,7699.0,6,32,"2,16",5,6400,32.0,1.35,Tforce Delta RGB silver
-271,7899.0,1,32,"2,16",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB black
-272,7899.0,3,32,"2,16",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB white
-273,8999.0,4,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 Neo RGB black
-274,8999.0,2,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 Neo RGB white CL32-39 1.4v
-275,8299.0,0,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 RGB black
-276,8299.0,4,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 RGB white
-277,9399.0,3,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 Royal RGB silver
-278,8225.0,2,32,"2,16",5,6600,36.0,1.4,Patriot Elite 5 White
-279,8550.0,0,32,"2,16",5,6600,34.0,1.4,Patriot Elite 5 TUF White
-280,10299.0,2,32,"2,16",5,6600,32.0,1.4,Corsair Dominator Titanium black
-281,9999.0,2,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 Neo RGB black
-282,9999.0,3,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 Neo RGB white
-283,9499.0,3,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 RGB black
-284,11399.0,2,32,"2,16",5,7200,34.0,1.45,Corsair Dominator Titanium black
-285,9799.0,1,32,"2,16",5,7600,36.0,1.45,Patriot Xtreme 5 RGB
-286,10799.0,5,32,"2,16",5,7600,36.0,1.4,G.Skill Trident Z5 RGB black
-287,11999.0,0,32,"2,16",5,7600,36.0,1.4,G.Skill Trident Z5 Royal silver
-288,10999.0,2,32,"2,16",5,7800,38.0,1.45,Patriot Xtreme 5 RGB
-289,12725.0,1,32,"2,16",5,8000,38.0,1.45,Patriot Xtreme 5 RGB
-290,13599.0,0,32,"2,16",5,8000,38.0,1.45,G.Skill Trident Z5 RGB black
-291,10350.0,2,48,"2,24",5,6000,42.0,1.35,Patriot Elite 5 White
-292,9980.0,2,48,"2,24",5,6000,36.0,1.35,Patriot Elite 5 TUF White
-293,11799.0,2,48,"2,24",5,6600,34.0,1.4,Patriot Elite 5 TUF White
-294,13999.0,1,48,"2,24",5,7600,36.0,1.45,Patriot Xtreme 5 RGB
-295,15999.0,1,48,"2,24",5,8000,38.0,1.45,Patriot Xtreme 5 RGB
-296,18599.0,0,48,"2,24",5,8000,40.0,1.4,G.Skill Trident Z5 Neo RGB black
-297,12099.0,2,64,"2,32",5,5600,40.0,1.25,Kingston Fury Beast
-298,12799.0,0,64,"2,32",5,5600,40.0,1.25,Kingston Fury Beast RGB
-299,12799.0,3,64,"2,32",5,5600,36.0,1.25,G.Skill Trident Z5 RGB black
-300,11499.0,3,64,"2,32",5,5600,46.0,1.1,G.Skill Ripjaws S5 black
-301,11499.0,1,64,"2,32",5,5600,46.0,1.1,G.Skill Ripjaws S5 white
-302,11999.0,1,64,"2,32",5,6000,36.0,1.35,Kingston Fury Beast white
-303,12999.0,1,64,"2,32",5,6000,30.0,1.4,Kingston Fury Beast white
-304,14299.0,2,64,"2,32",5,6000,32.0,1.35,Kingston Fury Renegade RGB white
-305,11750.0,0,64,"2,32",5,6000,36.0,1.35,Patriot Venom
-306,13999.0,4,64,"2,32",5,6000,38.0,1.25,Tforce Delta RGB black
-307,13999.0,2,64,"2,32",5,6000,38.0,1.25,Tforce Delta RGB white
-308,14650.0,1,64,"2,32",5,6000,32.0,1.4,G.Skill Ripjaws M5 RGB black
-309,14650.0,2,64,"2,32",5,6000,32.0,1.4,G.Skill Ripjaws M5 RGB white
-310,15150.0,0,64,"2,32",5,6000,32.0,1.4,G.Skill Trident Z5 Neo RGB black
-311,14399.0,3,64,"2,32",5,6000,36.0,1.35,G.Skill Trident Z5 RGB white
-312,15399.0,0,64,"2,32",5,6000,32.0,1.4,G.Skill Trident Z5 RGB black
-313,15150.0,0,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 RGB black
-314,15150.0,2,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 RGB white
-315,14799.0,0,64,"2,32",5,6000,40.0,1.35,Corsair Dominator Platinum RGB black
-316,13180.0,2,64,"2,32",5,6200,42.0,1.35,Patriot Elite 5 White
-317,14950.0,3,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast
-318,15599.0,1,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast RGB
-319,12999.0,0,64,"2,32",5,6400,32.0,1.4,Patriot Venom
-320,15150.0,3,64,"2,32",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB black
-321,15150.0,2,64,"2,32",5,6400,32.0,1.4,G.Skill Ripjaws M5 RGB white
-322,15525.0,4,64,"2,32",5,6400,32.0,1.4,G.Skill Trident Z5 RGB black
-323,15525.0,2,64,"2,32",5,6400,32.0,1.4,G.Skill Trident Z5 RGB white
-324,17799.0,1,64,"2,32",5,6400,32.0,1.4,G.Skill Trident Z5 Royal RGB silver
-325,19699.0,0,96,"2,48",5,6000,42.0,1.35,Patriot Elite 5 White
-326,6899.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 RGB Neo black
-327,6899.0,0,32,"2,16",5,6000,36.0,1.25,G.Skill Ripjaws M5 RGB Neo white
-328,6799.0,3,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 RGB Neo black
-329,6799.0,4,32,"2,16",5,6000,36.0,1.35,G.Skill Ripjaws M5 RGB Neo white
-330,8650.0,1,32,"2,16",5,6000,36.0,1.35,G.Skill Trident Z5 RGB Neo black
-331,8199.0,3,32,"2,16",5,6000,32.0,1.35,G.Skill Trident Z5 RGB Neo black
-332,8450.0,9,32,"2,16",5,6000,30.0,1.35,G.Skill Trident Z5 RGB Neo black
-333,8999.0,1,32,"2,16",5,6000,30.0,1.35,G.Skill Trident Z5 RGB Neo white
-334,8999.0,4,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 RGB Neo black
-335,8999.0,2,32,"2,16",5,6400,32.0,1.4,G.Skill Trident Z5 RGB Neo white CL32-39 1.4v
-336,9999.0,2,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 RGB Neo black
-337,9999.0,3,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 RGB Neo white
-338,13599.0,0,32,"2,16",5,8000,38.0,1.45,G.Skill Trident Z5 RGB Neo black
-339,18599.0,0,48,"2,24",5,8000,40.0,1.4,G.Skill Trident Z5 RGB Neo black
-340,17500.0,0,48,"2,24",5,8000,40.0,1.35,G.Skill Trident Z5 RGB black
-341,15150.0,0,64,"2,32",5,6000,32.0,1.4,G.Skill Trident Z5 RGB Neo black
-342,15199.0,2,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 RGB Neo black
-343,16699.0,2,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 RGB Neo white
-344,7999.0,0,32,"2,16",5,6000,30.0,1.35,Tforce Delta RGB black
-345,7899.0,0,32,"2,16",5,6400,32.0,1.4,Kingston Fury Beast white
-346,10500.0,0,32,"2,16",5,6800,35.0,1.4,Kingston Fury Beast white
-347,13999.0,0,32,"2,16",5,8000,38.0,1.45,G.Skill Trident Z5 RGB Neo white
-348,8199.0,0,32,"2,16",5,6000,30.0,1.35,Tforce Xtreem aRGB white
-349,7299.0,0,32,"2,16",5,6000,30.0,1.35,G.Skill Flare X5 black
-350,9299.0,0,32,"2,16",5,7200,34.0,1.4,Tforce Xtreem aRGB white
-351,10999.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Flare X5 black
-352,10999.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Flare X5 white
-353,13799.0,0,64,"2,32",5,6000,30.0,1.35,G.Skill Flare X5 black
-354,11899.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Ripjaws M5 RGB Neo black
-355,11899.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Ripjaws M5 RGB Neo white
-356,12399.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Trident Z5 RGB Neo black
-357,12399.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Trident Z5 RGB Neo white
-358,12999.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Trident Z5 RGB black
-359,13650.0,0,64,"2,32",5,6000,32.0,1.4,G.Skill Ripjaws S5 black
-360,11899.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Ripjaws M5 RGB Neo black
-361,12399.0,0,64,"2,32",5,6000,36.0,1.35,G.Skill Trident Z5 RGB Neo black
-362,13299.0,0,32,"2,16",5,6000,28.0,1.4,G.Skill Trident Z5 Royal Neo gold
-363,10999.0,0,32,"2,16",5,6000,28.0,1.4,G.Skill Trident Z5 Royal Neo silver
-364,13199.0,0,32,"2,16",5,6400,30.0,1.4,G.Skill Trident Z5 Royal Neo gold
-365,12999.0,0,32,"2,16",5,6400,30.0,1.4,G.Skill Trident Z5 Royal Neo silver
-366,13999.0,0,32,"2,16",5,8000,38.0,1.45,G.Skill Trident Z5 Royal Neo silver
-367,20999.0,0,48,"2,24",5,6000,28.0,1.35,G.Skill Trident Z5 Royal Neo gold
-368,18750.0,0,48,"2,24",5,6000,28.0,1.35,G.Skill Trident Z5 Royal Neo silver
-369,17550.0,0,48,"2,24",5,8000,40.0,1.4,G.Skill Trident Z5 Royal Neo silver
-370,18999.0,0,64,"2,32",5,6000,30.0,1.4,G.Skill Trident Z5 Royal Neo silver
-371,33999.0,0,96,"2,48",5,6000,28.0,1.35,G.Skill Trident Z5 Royal Neo silver
-372,3399.0,0,16,"1,16",5,6000,38.0,1.25,Tforce Delta RGB black
-373,3399.0,0,16,"1,16",5,6000,38.0,1.25,Tforce Delta RGB white
-374,6799.0,0,32,"2,16",5,6000,30.0,1.35,Tforce T-Create Expert
-375,6799.0,0,32,"2,16",5,6000,30.0,1.35,Tforce T-Create Expert
-376,8199.0,0,32,"2,16",5,6000,30.0,1.35,Tforce Xtreem aRGB black
-377,7599.0,0,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB black
-378,7599.0,0,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB white
-379,9299.0,0,32,"2,16",5,7200,34.0,1.4,Tforce Xtreem aRGB black
-380,12799.0,0,64,"2,32",5,6000,38.0,1.35,Tforce Delta RGB black
-381,12799.0,0,64,"2,32",5,6000,38.0,1.35,Tforce Delta RGB white
-382,7599.0,0,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB black
-383,7599.0,0,32,"2,16",5,6000,38.0,1.25,Tforce Delta RGB white
-384,8699.0,0,32,"2,16",5,6400,30.0,1.4,G.Skill Trident Z5 RGB Neo black
-385,8699.0,0,32,"2,16",5,6400,30.0,1.4,G.Skill Trident Z5 RGB Neo white
-386,11599.0,0,32,"2,16",5,6400,30.0,1.4,G.Skill Trident Z5 Royal RGB gold
-387,11799.0,0,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 Royal RGB gold
-388,10500.0,0,32,"2,16",5,7200,34.0,1.4,G.Skill Trident Z5 Royal RGB silver
-389,11199.0,0,48,"2,24",5,6000,30.0,1.35,G.Skill Ripjaws M5 RGB Neo black
-390,11199.0,0,48,"2,24",5,6000,30.0,1.35,G.Skill Ripjaws M5 RGB Neo white
-391,17799.0,0,48,"2,24",5,6000,28.0,1.35,G.Skill Trident Z5 RGB Neo black
-392,17799.0,0,48,"2,24",5,6000,28.0,1.35,G.Skill Trident Z5 RGB Neo white
-393,32999.0,0,96,"2,48",5,6000,28.0,1.35,G.Skill Trident Z5 RGB Neo black
-394,2499.0,0,8,"1,8",5,6000,30.0,1.4,Kingston Fury Beast RGB black
-395,3650.0,0,16,"1,16",5,6000,36.0,1.35,Kingston Fury Beast black
-396,4150.0,0,16,"1,16",5,6000,30.0,1.4,Kingston Fury Beast RGB black
-397,899.0,0,8,"1,8",4,3200,22.0,1.2,Dahua C300
-398,2899.0,0,16,"1,16",5,6000,36.0,1.35,G.Skill Aegis
-399,6499.0,0,32,"1,32",5,6000,38.0,1.35,Tforce Delta RGB black
-400,6499.0,0,32,"1,32",5,6000,38.0,1.35,Tforce Delta RGB white
-401,5299.0,0,32,"1,32",5,6000,36.0,1.35,G.Skill Aegis
-402,3999.0,0,16,"2,8",5,6000,38.0,1.25,Tforce Delta RGB black
-403,9250.0,0,32,"2,16",5,6000,28.0,1.4,G.Skill Trident Z5 RGB Neo black
-404,9250.0,0,32,"2,16",5,6000,28.0,1.4,G.Skill Trident Z5 RGB Neo white
-405,9750.0,0,32,"2,16",5,7600,36.0,1.4,Tforce Delta RGB black
-406,9750.0,0,32,"2,16",5,7600,36.0,1.4,Tforce Delta RGB white
-407,11550.0,0,32,"2,16",5,8000,38.0,1.45,Tforce Delta RGB black
-408,11550.0,0,32,"2,16",5,8000,38.0,1.45,Tforce Delta RGB white
-409,10950.0,0,48,"2,24",5,6400,32.0,1.35,G.Skill Trident Z5 RGB Neo black
-410,10950.0,0,48,"2,24",5,6400,32.0,1.35,G.Skill Trident Z5 RGB Neo white
-411,15699.0,0,48,"2,24",5,8000,38.0,1.4,Tforce Delta RGB black
-412,16500.0,0,48,"2,24",5,8000,40.0,1.35,G.Skill Trident Z5 Royal RGB silver
-413,9599.0,0,48,"2,24",5,6000,40.0,1.35,G.Skill Trident Z5 RGB Neo black
-414,2880.0,0,16,"1,16",5,5600,46.0,1.1,16gb sodimm ddr5 5600 Kingston CL46 1.1v
-415,5350.0,0,32,"1,32",5,5600,46.0,1.1,32gb sodimm ddr5 5600 Kingston CL46 1.1v
-416,10599.0,0,48,"2,24",5,6400,32.0,1.35,Tforce Delta RGB black
-417,10599.0,0,48,"2,24",5,6400,32.0,1.35,Tforce Delta RGB white
-418,9899.0,0,32,"2,16",5,6400,32.0,1.4,Kingston Fury Beast RGB black
-419,9899.0,0,32,"2,16",5,6400,32.0,1.4,Kingston Fury Beast RGB white
-420,16799.0,1,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast RGB black
-421,15099.0,0,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast RGB white
-422,6499.0,0,32,"2,16",5,6000,38.0,1.35,Tforce Delta RGB black
-423,15399.0,3,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast
-424,16699.0,1,64,"2,32",5,6400,32.0,1.4,Kingston Fury Beast RGB black
-425,1850.0,0,8,"1,8",5,5600,36.0,1.25,Kingston Fury Beast black
-426,2299.0,0,8,"1,8",5,6000,30.0,1.4,Kingston Fury Beast black
-427,4299.0,0,16,"1,16",5,6000,36.0,1.35,Kingston Fury Beast RGB black
-428,4480.0,0,16,"2,8",5,6000,30.0,1.4,Kingston Fury Beast
-429,4199.0,0,16,"2,8",5,6000,30.0,1.4,Kingston Fury Beast RGB
-430,1199.0,0,8,"1,8",5,3200,,1.2,8gb sodimm ddr5 3200 Transcend C22 1.2v
-431,2080.0,0,16,"1,16",5,3200,,1.2,16gb sodimm ddr5 3200 Transcend C22 1.2v
-432,1699.0,0,8,"1,8",5,5600,46.0,1.1,8gb sodimm ddr5 5600 Transcend CL46 1.1v
-433,2999.0,0,16,"1,16",5,5600,46.0,1.1,16gb sodimm ddr5 5600 Transcend CL46 1.1v
-434,1199.0,0,8,"1,8",4,3200,,1.2,8gb sodimm ddr4 3200 Transcend C22 1.2v
-435,2080.0,0,16,"1,16",4,3200,,1.2,16gb sodimm ddr4 3200 Transcend C22 1.2v
-436,25550.0,0,96,"2,48",5,6000,30.0,1.35,G.Skill Trident Z5 RGB black
-437,1920.0,0,8,"1,8",4,3200,22.0,1.2,Kingston
-438,3499.0,0,16,"1,16",4,3200,22.0,1.2,Kingston
-439,2799.0,0,16,"1,16",4,3200,16.0,1.35,G.Skill Ripjaws V black
-440,4399.0,0,16,"2,8",4,3200,16.0,1.35,G.Skill Trident Z Neo
-441,4099.0,0,16,"2,8",4,3200,16.0,1.35,G.Skill Trident Z RGB black
-442,7599.0,0,32,"2,16",4,3600,18.0,1.35,G.Skill Trident Z RGB black
-443,7650.0,0,32,"2,16",5,6000,36.0,1.35,G.Skill Flare X5 black
-444,16999.0,0,32,"2,16",5,6000,28.0,1.4,G.Skill Ripjaws M5 RGB Neo black
-445,6999.0,0,32,"2,16",5,6000,30.0,1.35,Patriot Xtreme 5 RGB MPOWER
+,brand,clean_name,item_price_in_php,stocks,total_capacity_gb,num_modules,capacity_per_module_gb,ddr_gen,mhz,cl,voltage
+0,Kingston,Kingston Fury Beast,1399.0,9,8,1,8,4,2666,16.0,1.2
+1,Kingston,Kingston Fury Beast,1499.0,19,8,1,8,4,3200,16.0,1.35
+2,Kingston,Kingston Fury Beast RGB,1899.0,5,8,1,8,4,3200,16.0,1.35
+3,G.Skill,G.Skill Ripjaws V black,1299.0,3,8,1,8,4,3200,16.0,1.35
+4,Kingston,Kingston Fury Beast RGB,1999.0,26,8,1,8,4,3600,17.0,1.35
+5,Kingston,Kingston Fury Beast,2380.0,4,16,1,16,4,2666,16.0,1.2
+6,Kingston,Kingston Fury Beast,2599.0,8,16,1,16,4,3200,16.0,1.35
+7,Kingston,Kingston Fury Beast,2950.0,18,16,1,16,4,3600,18.0,1.35
+8,Kingston,Kingston Fury Beast RGB,3399.0,7,16,1,16,4,3600,18.0,1.35
+9,Patriot,Patriot Viper Steel,1880.0,0,16,1,16,4,3600,18.0,1.35
+10,Kingston,Kingston Fury Beast RGB,3099.0,11,16,2,8,4,3200,16.0,1.35
+11,Tforce,Tforce Delta RGB black,3599.0,14,16,2,8,4,3600,18.0,1.35
+12,Tforce,Tforce Delta RGB white,3599.0,9,16,2,8,4,3600,18.0,1.35
+13,Kingston,Kingston Fury Beast RGB,3699.0,6,16,2,8,4,3600,17.0,1.35
+14,Kingston,Kingston Fury Beast,2950.0,1,16,2,8,4,3600,17.0,1.35
+15,G.Skill,G.Skill Ripjaws V black,3199.0,5,16,2,8,4,3600,16.0,1.35
+16,G.Skill,G.Skill Ripjaws V black,2725.0,25,16,2,8,4,3600,18.0,1.35
+17,G.Skill,G.Skill Trident Z RGB black,3880.0,0,16,2,8,4,3600,18.0,1.35
+18,G.Skill,G.Skill Trident Z Neo,3480.0,0,16,2,8,4,3600,18.0,1.35
+19,G.Skill,G.Skill Trident Z Neo,4480.0,0,16,2,8,4,3600,16.0,1.35
+20,Tforce,Tforce Delta RGB black,5499.0,7,32,2,16,4,3600,18.0,1.35
+21,Tforce,Tforce Delta RGB white,5499.0,3,32,2,16,4,3600,18.0,1.35
+22,Kingston,Kingston Fury Beast RGB,5399.0,0,32,2,16,4,3600,18.0,1.35
+23,G.Skill,G.Skill Ripjaws V black,5599.0,8,32,2,16,4,3600,16.0,1.35
+24,G.Skill,G.Skill Trident Z Royal silver,7399.0,0,32,2,16,4,3600,18.0,1.35
+25,Kingston,Kingston Fury Beast RGB,8999.0,10,64,2,32,4,3600,18.0,1.35
+26,Patriot,Patriot Viper Steel,8099.0,11,64,2,32,4,3600,18.0,1.35
+27,Patriot,Patriot Venom,2499.0,0,16,1,16,5,5200,36.0,1.2
+28,Patriot,Patriot Venom RGB,2880.0,0,16,1,16,5,5200,36.0,1.2
+29,Kingston,Kingston Fury Beast black,3899.0,2,16,1,16,5,5600,36.0,1.25
+30,Kingston,Kingston Fury Beast RGB black,4199.0,29,16,1,16,5,5600,36.0,1.25
+31,Patriot,Patriot Venom,2680.0,0,16,1,16,5,5600,36.0,1.25
+32,Patriot,Patriot Venom RGB,3199.0,0,16,1,16,5,5600,36.0,1.25
+33,Transcend,Transcend CL46,3199.0,2,16,1,16,5,5600,46.0,
+34,Kingston,Kingston Fury Beast white,4380.0,17,16,1,16,5,6000,40.0,1.35
+35,Kingston,Kingston Fury Beast RGB white,4380.0,2,16,1,16,5,6000,40.0,1.35
+36,Kingston,Kingston Fury Renegade RGB white,4480.0,7,16,1,16,5,6000,32.0,1.35
+37,Patriot,Patriot Venom,2899.0,0,16,1,16,5,6000,30.0,1.35
+38,Patriot,Patriot Venom RGB,3499.0,0,16,1,16,5,6000,30.0,1.35
+39,Tforce,Tforce Delta RGB black,3799.0,3,16,1,16,5,6000,38.0,1.25
+40,Tforce,Tforce Delta RGB white,3799.0,2,16,1,16,5,6000,38.0,1.25
+41,Patriot,Patriot Venom,4699.0,0,32,1,32,5,5200,36.0,1.2
+42,Patriot,Patriot Venom RGB,5199.0,0,32,1,32,5,5200,36.0,1.2
+43,Patriot,Patriot Venom,5199.0,0,32,1,32,5,5600,36.0,1.25
+44,Patriot,Patriot Venom RGB,5599.0,0,32,1,32,5,5600,36.0,1.25
+45,Kingston,Kingston Fury Beast white,6699.0,5,32,1,32,5,6000,40.0,1.35
+46,Kingston,Kingston Fury Beast RGB white,7199.0,6,32,1,32,5,6000,40.0,1.35
+47,Patriot,Patriot Venom,5599.0,0,32,1,32,5,6000,30.0,1.35
+48,Patriot,Patriot Venom RGB,6299.0,0,32,1,32,5,6000,30.0,1.35
+49,Kingston,Kingston Fury Beast,3880.0,11,16,2,8,5,5200,40.0,1.25
+50,Patriot,Patriot Venom,3799.0,5,16,2,8,5,5600,40.0,1.25
+51,Kingston,Kingston Fury Beast,4280.0,0,16,2,8,5,6000,40.0,1.35
+52,Kingston,Kingston Fury Beast RGB,5399.0,2,16,2,8,5,6000,40.0,1.35
+53,Corsair,Corsair Dominator Platinum black,7899.0,1,32,2,16,5,5200,40.0,1.25
+54,Corsair,Corsair Dominator Platinum white,7899.0,0,32,2,16,5,5200,40.0,1.25
+55,Kingston,Kingston Fury Beast,6699.0,0,32,2,16,5,5600,36.0,1.25
+56,Kingston,Kingston Fury Beast RGB,6999.0,0,32,2,16,5,5600,36.0,1.25
+57,Patriot,Patriot Venom,5350.0,5,32,2,16,5,5600,36.0,1.25
+58,G.Skill,G.Skill Trident Z5 RGB silver,8280.0,2,32,2,16,5,5600,36.0,1.2
+59,G.Skill,G.Skill Ripjaws S5 black,7399.0,0,32,2,16,5,5600,36.0,1.2
+60,G.Skill,G.Skill Ripjaws S5 white,7399.0,0,32,2,16,5,5600,36.0,1.2
+61,G.Skill,G.Skill Ripjaws S5 black,6280.0,0,32,2,16,5,5600,46.0,1.1
+62,G.Skill,G.Skill Ripjaws S5 white,6280.0,0,32,2,16,5,5600,46.0,1.1
+63,Corsair,Corsair Dominator Platinum white,9999.0,1,32,2,16,5,5600,36.0,1.25
+64,Kingston,Kingston Fury Beast,7799.0,4,32,2,16,5,6000,36.0,1.35
+65,Kingston,Kingston Fury Beast,7799.0,2,32,2,16,5,6000,40.0,1.25
+66,Patriot,Patriot Elite 5 TUF White,7799.0,2,32,2,16,5,6000,36.0,1.35
+67,Patriot,Patriot Venom,5799.0,5,32,2,16,5,6000,36.0,1.35
+68,Tforce,Tforce Delta RGB white,8099.0,0,32,2,16,5,6000,30.0,1.35
+69,Tforce,Tforce Delta RGB black,7850.0,6,32,2,16,5,6000,38.0,1.25
+70,Tforce,Tforce Delta RGB white,7850.0,0,32,2,16,5,6000,38.0,1.25
+71,G.Skill,G.Skill Flare X5 black,6399.0,0,32,2,16,5,6000,36.0,1.25
+72,G.Skill,G.Skill Flare X5 black,7150.0,2,32,2,16,5,6000,32.0,1.35
+73,G.Skill,G.Skill Ripjaws M5 Neo RGB black,6999.0,0,32,2,16,5,6000,36.0,1.25
+74,G.Skill,G.Skill Ripjaws M5 Neo RGB white,6999.0,0,32,2,16,5,6000,36.0,1.25
+75,G.Skill,G.Skill Ripjaws M5 RGB black,7699.0,4,32,2,16,5,6000,32.0,1.35
+76,G.Skill,G.Skill Ripjaws M5 RGB white,7699.0,4,32,2,16,5,6000,32.0,1.35
+77,G.Skill,G.Skill Trident Z5 Neo RGB black,8650.0,0,32,2,16,5,6000,36.0,1.35
+78,G.Skill,G.Skill Trident Z5 Neo RGB black,8525.0,5,32,2,16,5,6000,32.0,1.35
+79,G.Skill,G.Skill Trident Z5 Neo RGB black,8650.0,10,32,2,16,5,6000,30.0,1.35
+80,G.Skill,G.Skill Trident Z5 Neo RGB white,9150.0,4,32,2,16,5,6000,30.0,1.35
+81,G.Skill,G.Skill Trident Z5 RGB black,8525.0,0,32,2,16,5,6000,36.0,1.35
+82,G.Skill,G.Skill Trident Z5 RGB silver,8525.0,0,32,2,16,5,6000,36.0,1.35
+83,G.Skill,G.Skill Trident Z5 RGB white,8525.0,1,32,2,16,5,6000,36.0,1.35
+84,G.Skill,G.Skill Trident Z5 RGB black,7999.0,4,32,2,16,5,6000,32.0,1.35
+85,G.Skill,G.Skill Trident Z5 RGB white,7999.0,3,32,2,16,5,6000,32.0,1.35
+86,G.Skill,G.Skill Ripjaws S5 black,7150.0,0,32,2,16,5,6000,32.0,1.35
+87,G.Skill,G.Skill Ripjaws S5 white,7150.0,0,32,2,16,5,6000,32.0,1.35
+88,G.Skill,G.Skill Ripjaws S5 black,6299.0,0,32,2,16,5,6000,36.0,1.25
+89,G.Skill,G.Skill Ripjaws S5 white,6299.0,0,32,2,16,5,6000,36.0,1.25
+90,Corsair,Corsair Dominator Platinum black,9999.0,1,32,2,16,5,6000,36.0,1.25
+91,Corsair,Corsair Dominator Platinum black,9699.0,2,32,2,16,5,6000,36.0,1.35
+92,Corsair,Corsair Dominator Platinum black,10599.0,2,32,2,16,5,6000,36.0,1.35
+93,Corsair,Corsair Dominator Titanium black,10999.0,2,32,2,16,5,6000,30.0,1.4
+94,Corsair,Corsair Dominator Titanium white,10999.0,0,32,2,16,5,6000,30.0,1.4
+95,Patriot,Patriot Elite 5 White,7750.0,2,32,2,16,5,6200,42.0,1.35
+96,Patriot,Patriot Venom,6299.0,0,32,2,16,5,6200,40.0,1.35
+97,Patriot,Patriot Venom RGB,6550.0,3,32,2,16,5,6000,36.0,1.35
+98,Corsair,Corsair Dominator Platinum black,9899.0,2,32,2,16,5,6200,36.0,1.3
+99,Patriot,Patriot Venom RGB,7999.0,2,32,2,16,5,6200,40.0,1.35
+100,Tforce,Tforce Delta RGB black,7799.0,4,32,2,16,5,6400,40.0,1.35
+101,Tforce,Tforce Delta RGB white,7799.0,5,32,2,16,5,6400,40.0,1.35
+102,G.Skill,G.Skill Ripjaws M5 RGB black,7150.0,3,32,2,16,5,6400,32.0,1.4
+103,G.Skill,G.Skill Ripjaws M5 RGB white,7150.0,3,32,2,16,5,6400,32.0,1.4
+104,G.Skill,G.Skill Trident Z5 Neo RGB black,8999.0,5,32,2,16,5,6400,32.0,1.4
+105,G.Skill,G.Skill Trident Z5 Neo RGB white CL32 1.4v,8999.0,2,32,2,16,5,6400,32.0,1.4
+106,G.Skill,G.Skill Trident Z5 RGB black,8299.0,4,32,2,16,5,6400,32.0,1.4
+107,G.Skill,G.Skill Trident Z5 RGB white,8299.0,2,32,2,16,5,6400,32.0,1.4
+108,G.Skill,G.Skill Trident Z5 Royal RGB silver,9399.0,4,32,2,16,5,6400,32.0,1.4
+109,Corsair,Corsair Dominator Platinum black,11500.0,2,32,2,16,5,6400,32.0,1.4
+110,Patriot,Patriot Elite 5 White,8225.0,2,32,2,16,5,6600,36.0,1.4
+111,Patriot,Patriot Elite 5 TUF White,8550.0,2,32,2,16,5,6600,34.0,1.4
+112,Corsair,Corsair Dominator Titanium black,11999.0,4,32,2,16,5,6600,32.0,1.4
+113,Corsair,Corsair Dominator Titanium white,11999.0,1,32,2,16,5,6600,32.0,1.4
+114,Corsair,Corsair Dominator Titanium black,13450.0,2,32,2,16,5,7200,34.0,1.45
+115,Patriot,Patriot Xtreme 5 RGB,9799.0,1,32,2,16,5,7600,36.0,1.45
+116,Patriot,Patriot Xtreme 5 RGB,10999.0,2,32,2,16,5,7800,38.0,1.45
+117,Patriot,Patriot Xtreme 5 RGB,12725.0,1,32,2,16,5,8000,38.0,1.45
+118,Patriot,Patriot Elite 5 White,10350.0,2,48,2,24,5,6000,42.0,1.35
+119,Patriot,Patriot Elite 5 TUF White,9980.0,2,48,2,24,5,6000,36.0,1.35
+120,Patriot,Patriot Elite 5 TUF White,11799.0,2,48,2,24,5,6600,34.0,1.4
+121,Patriot,Patriot Xtreme 5 RGB,13999.0,1,48,2,24,5,7600,36.0,1.45
+122,Patriot,Patriot Xtreme 5 RGB,15999.0,2,48,2,24,5,8000,38.0,1.45
+123,Kingston,Kingston Fury Beast,12999.0,3,64,2,32,5,5600,40.0,1.25
+124,Kingston,Kingston Fury Beast RGB,13899.0,2,64,2,32,5,5600,40.0,1.25
+125,G.Skill,G.Skill Trident Z5 RGB black,14399.0,3,64,2,32,5,5600,36.0,1.25
+126,G.Skill,G.Skill Ripjaws S5 black,11499.0,0,64,2,32,5,5600,46.0,1.1
+127,G.Skill,G.Skill Ripjaws S5 white,11499.0,0,64,2,32,5,5600,46.0,1.1
+128,Kingston,Kingston Fury Renegade RGB white,14299.0,3,64,2,32,5,6000,32.0,1.35
+129,Patriot,Patriot Venom,11750.0,3,64,2,32,5,6000,36.0,1.35
+130,Tforce,Tforce Delta RGB black,13999.0,2,64,2,32,5,6000,38.0,1.25
+131,Tforce,Tforce Delta RGB white,13999.0,2,64,2,32,5,6000,38.0,1.25
+132,G.Skill,G.Skill Ripjaws M5 RGB black,14650.0,3,64,2,32,5,6000,32.0,1.4
+133,G.Skill,G.Skill Ripjaws M5 RGB white,14650.0,1,64,2,32,5,6000,32.0,1.4
+134,G.Skill,G.Skill Trident Z5 Neo RGB black,15150.0,2,64,2,32,5,6000,32.0,1.4
+135,G.Skill,G.Skill Trident Z5 Neo RGB black,15280.0,3,64,2,32,5,6000,30.0,1.4
+136,G.Skill,G.Skill Trident Z5 Neo RGB white,16280.0,1,64,2,32,5,6000,30.0,1.4
+137,G.Skill,G.Skill Trident Z5 RGB white,14399.0,0,64,2,32,5,6000,36.0,1.35
+138,G.Skill,G.Skill Trident Z5 RGB black,15399.0,2,64,2,32,5,6000,32.0,1.4
+139,G.Skill,G.Skill Trident Z5 RGB white,15150.0,0,64,2,32,5,6000,30.0,1.4
+140,Corsair,Corsair Dominator Platinum black,15699.0,0,64,2,32,5,6000,40.0,1.35
+141,Patriot,Patriot Elite 5 White,13180.0,2,64,2,32,5,6200,42.0,1.35
+142,Patriot,Patriot Venom,12999.0,3,64,2,32,5,6400,32.0,1.4
+143,G.Skill,G.Skill Ripjaws M5 RGB black,15150.0,4,64,2,32,5,6400,32.0,1.4
+144,G.Skill,G.Skill Ripjaws M5 RGB white,15150.0,4,64,2,32,5,6400,32.0,1.4
+145,G.Skill,G.Skill Trident Z5 RGB black,15525.0,0,64,2,32,5,6400,32.0,1.4
+146,G.Skill,G.Skill Trident Z5 RGB white,15525.0,1,64,2,32,5,6400,32.0,1.4
+147,G.Skill,G.Skill Trident Z5 Royal RGB silver,17799.0,2,64,2,32,5,6400,32.0,1.4
+148,Corsair,Corsair Dominator Platinum black,18399.0,4,64,2,32,5,6400,32.0,1.4
+149,Corsair,Corsair Dominator Platinum black,18699.0,3,64,2,32,5,6600,32.0,1.4
+150,Patriot,Patriot Elite 5 White,19699.0,0,96,2,48,5,6000,42.0,1.35
+165,Corsair,Corsair Dominator Platinum RGB black,7899.0,1,32,2,16,5,5200,40.0,1.25
+166,Corsair,Corsair Dominator Platinum RGB white,7899.0,0,32,2,16,5,5200,40.0,1.25
+167,G.Skill,G.Skill Trident Z5 Neo RGB black,9999.0,0,32,2,16,5,7200,34.0,1.4
+168,G.Skill,G.Skill Trident Z5 Neo RGB white,9999.0,0,32,2,16,5,7200,34.0,1.4
+169,Corsair,Corsair Dominator Platinum RGB black,15699.0,0,64,2,32,5,6000,40.0,1.35
+170,Patriot,Patriot Viper Steel RGB,1280.0,0,8,1,8,4,3200,18.0,1.35
+171,Patriot,Patriot Viper Steel,1680.0,0,16,1,16,4,3200,16.0,1.35
+172,Patriot,Patriot Viper Steel RGB,1880.0,0,16,1,16,4,3200,18.0,1.35
+173,Kingston,Kingston Fury Beast white,11999.0,0,64,2,32,5,6000,36.0,1.35
+174,Kingston,Kingston Fury Beast white,12999.0,0,64,2,32,5,6000,30.0,1.4
+175,Kingston,Kingston Fury Beast,14950.0,0,64,2,32,5,6400,32.0,1.4
+176,Kingston,Kingston Fury Beast RGB,15599.0,0,64,2,32,5,6400,32.0,1.4
+177,Tforce,Tforce Delta RGB black,7699.0,4,32,2,16,5,6400,32.0,1.35
+178,Tforce,Tforce Delta RGB white,7699.0,5,32,2,16,5,6400,32.0,1.35
+179,Tforce,Tforce Delta RGB silver,7699.0,0,32,2,16,5,6400,32.0,1.35
+180,Tforce,Tforce Delta RGB black,3599.0,14,16,2,8,4,3600,18.0,1.35
+181,G.Skill,G.Skill Trident Z5 RGB black,9499.0,0,32,2,16,5,7200,34.0,1.4
+182,G.Skill,G.Skill Trident Z5 RGB black,10799.0,0,32,2,16,5,7600,36.0,1.4
+183,G.Skill,G.Skill Ripjaws M5 Neo RGB black,6799.0,0,32,2,16,5,6000,36.0,1.35
+184,G.Skill,G.Skill Ripjaws M5 Neo RGB white,6799.0,0,32,2,16,5,6000,36.0,1.35
+185,G.Skill,G.Skill Ripjaws S5 black,6399.0,0,32,2,16,5,6000,36.0,1.35
+186,G.Skill,G.Skill Trident Z5 Neo RGB black,15199.0,3,64,2,32,5,6000,30.0,1.4
+187,G.Skill,G.Skill Trident Z5 Neo RGB white,16699.0,0,64,2,32,5,6000,30.0,1.4
+188,G.Skill,G.Skill Trident Z5 RGB black,15150.0,0,64,2,32,5,6000,30.0,1.4
+189,G.Skill,G.Skill Ripjaws M5 Neo RGB black,6899.0,0,32,2,16,5,6000,36.0,1.25
+190,G.Skill,G.Skill Ripjaws M5 Neo RGB white,6899.0,0,32,2,16,5,6000,36.0,1.25
+191,G.Skill,G.Skill Ripjaws M5 Neo RGB black,6799.0,0,32,2,16,5,6000,36.0,1.35
+192,G.Skill,G.Skill Ripjaws M5 Neo RGB white,6799.0,0,32,2,16,5,6000,36.0,1.35
+193,G.Skill,G.Skill Trident Z5 Royal silver,11999.0,0,32,2,16,5,7600,36.0,1.4
+194,G.Skill,G.Skill Trident Z5 RGB black,13599.0,0,32,2,16,5,8000,38.0,1.45
+195,G.Skill,G.Skill Trident Z5 Neo RGB black,18599.0,0,48,2,24,5,8000,40.0,1.4
+196,Patriot,Patriot Venom,2499.0,0,16,1,16,5,5200,36.0,1.2
+197,Patriot,Patriot Venom RGB,2880.0,7,16,1,16,5,5200,36.0,1.2
+198,Kingston,Kingston Fury Beast black,3450.0,2,16,1,16,5,5600,36.0,1.25
+199,Kingston,Kingston Fury Beast RGB black,3299.0,25,16,1,16,5,5600,36.0,1.25
+200,Patriot,Patriot Venom,2680.0,0,16,1,16,5,5600,36.0,1.25
+201,Patriot,Patriot Venom RGB,3199.0,1,16,1,16,5,5600,36.0,1.25
+202,Kingston,Kingston Fury Beast white,3750.0,15,16,1,16,5,6000,40.0,1.35
+203,Kingston,Kingston Fury Renegade RGB white,4199.0,5,16,1,16,5,6000,32.0,1.35
+204,Patriot,Patriot Venom,2899.0,0,16,1,16,5,6000,30.0,1.35
+205,Patriot,Patriot Venom RGB,3499.0,0,16,1,16,5,6000,30.0,1.35
+206,Tforce,Tforce Delta RGB black,3799.0,6,16,1,16,5,6000,38.0,1.25
+207,Tforce,Tforce Delta RGB white,3799.0,3,16,1,16,5,6000,38.0,1.25
+208,Patriot,Patriot Venom,4699.0,9,32,1,32,5,5200,36.0,1.2
+209,Patriot,Patriot Venom RGB,5199.0,9,32,1,32,5,5200,36.0,1.2
+210,Patriot,Patriot Venom,5199.0,2,32,1,32,5,5600,36.0,1.25
+211,Patriot,Patriot Venom RGB,5599.0,2,32,1,32,5,5600,36.0,1.25
+212,Kingston,Kingston Fury Beast white,6699.0,9,32,1,32,5,6000,40.0,1.35
+213,Kingston,Kingston Fury Beast RGB white,7250.0,6,32,1,32,5,6000,40.0,1.35
+214,Patriot,Patriot Venom,5599.0,0,32,1,32,5,6000,30.0,1.35
+215,Patriot,Patriot Venom RGB,6299.0,2,32,1,32,5,6000,30.0,1.35
+216,Kingston,Kingston Fury Beast,3599.0,10,16,2,8,5,5200,40.0,1.25
+217,Patriot,Patriot Venom,3799.0,0,16,2,8,5,5600,40.0,1.25
+218,Kingston,Kingston Fury Beast,4280.0,14,16,2,8,5,6000,40.0,1.35
+219,Kingston,Kingston Fury Beast RGB,5399.0,3,16,2,8,5,6000,40.0,1.35
+220,Corsair,Corsair Dominator Platinum RGB black,7450.0,0,32,2,16,5,5200,40.0,1.25
+221,Corsair,Corsair Dominator Platinum RGB white,7450.0,0,32,2,16,5,5200,40.0,1.25
+222,Kingston,Kingston Fury Beast,6599.0,12,32,2,16,5,5600,36.0,1.25
+223,Kingston,Kingston Fury Beast RGB,7199.0,2,32,2,16,5,5600,36.0,1.25
+224,Patriot,Patriot Venom,5350.0,0,32,2,16,5,5600,36.0,1.25
+225,G.Skill,G.Skill Trident Z5 RGB silver,7099.0,1,32,2,16,5,5600,36.0,1.2
+226,G.Skill,G.Skill Ripjaws S5 black,6150.0,2,32,2,16,5,5600,36.0,1.2
+227,G.Skill,G.Skill Ripjaws S5 white,6150.0,0,32,2,16,5,5600,36.0,1.2
+228,G.Skill,G.Skill Ripjaws S5 black,6150.0,6,32,2,16,5,5600,46.0,1.1
+229,G.Skill,G.Skill Ripjaws S5 white,6150.0,4,32,2,16,5,5600,46.0,1.1
+230,Corsair,Corsair Dominator Platinum white,9450.0,1,32,2,16,5,5600,36.0,1.25
+231,Kingston,Kingston Fury Beast,7399.0,11,32,2,16,5,6000,36.0,1.35
+232,Kingston,Kingston Fury Beast,7299.0,4,32,2,16,5,6000,40.0,1.25
+233,Patriot,Patriot Elite 5 TUF White,7799.0,0,32,2,16,5,6000,36.0,1.35
+234,Patriot,Patriot Venom,5799.0,0,32,2,16,5,6000,36.0,1.35
+235,Tforce,Tforce Delta RGB white,7999.0,5,32,2,16,5,6000,30.0,1.35
+236,Tforce,Tforce Delta RGB black,7699.0,11,32,2,16,5,6000,38.0,1.25
+237,Tforce,Tforce Delta RGB white,7699.0,5,32,2,16,5,6000,38.0,1.25
+238,G.Skill,G.Skill Flare X5 black,6299.0,0,32,2,16,5,6000,36.0,1.25
+239,G.Skill,G.Skill Flare X5 black,7150.0,0,32,2,16,5,6000,32.0,1.35
+240,G.Skill,G.Skill Ripjaws M5 Neo RGB black,6899.0,0,32,2,16,5,6000,36.0,1.25
+241,G.Skill,G.Skill Ripjaws M5 Neo RGB white,6899.0,0,32,2,16,5,6000,36.0,1.25
+242,G.Skill,G.Skill Ripjaws M5 RGB black,7699.0,0,32,2,16,5,6000,32.0,1.35
+243,G.Skill,G.Skill Ripjaws M5 RGB white,7699.0,0,32,2,16,5,6000,32.0,1.35
+244,G.Skill,G.Skill Ripjaws M5 Neo RGB black,6799.0,3,32,2,16,5,6000,36.0,1.35
+245,G.Skill,G.Skill Ripjaws M5 Neo RGB white,6799.0,4,32,2,16,5,6000,36.0,1.35
+246,G.Skill,G.Skill Trident Z5 Neo RGB black,8650.0,1,32,2,16,5,6000,36.0,1.35
+247,G.Skill,G.Skill Trident Z5 Neo RGB black,8199.0,3,32,2,16,5,6000,32.0,1.35
+248,G.Skill,G.Skill Trident Z5 Neo RGB black,8450.0,9,32,2,16,5,6000,30.0,1.35
+249,G.Skill,G.Skill Trident Z5 Neo RGB white,8999.0,1,32,2,16,5,6000,30.0,1.35
+250,G.Skill,G.Skill Trident Z5 RGB black,8499.0,4,32,2,16,5,6000,36.0,1.35
+251,G.Skill,G.Skill Trident Z5 RGB silver,8499.0,0,32,2,16,5,6000,36.0,1.35
+252,G.Skill,G.Skill Trident Z5 RGB white,8499.0,3,32,2,16,5,6000,36.0,1.35
+253,G.Skill,G.Skill Trident Z5 RGB black,7999.0,3,32,2,16,5,6000,32.0,1.35
+254,G.Skill,G.Skill Trident Z5 RGB white,7999.0,3,32,2,16,5,6000,32.0,1.35
+255,G.Skill,G.Skill Ripjaws S5 black,7150.0,9,32,2,16,5,6000,32.0,1.35
+256,G.Skill,G.Skill Ripjaws S5 white,7150.0,5,32,2,16,5,6000,32.0,1.35
+257,G.Skill,G.Skill Ripjaws S5 black,6299.0,0,32,2,16,5,6000,36.0,1.25
+258,G.Skill,G.Skill Ripjaws S5 white,6299.0,0,32,2,16,5,6000,36.0,1.25
+259,G.Skill,G.Skill Ripjaws S5 black,6399.0,0,32,2,16,5,6000,36.0,1.35
+260,Corsair,Corsair Dominator Platinum black,9150.0,1,32,2,16,5,6000,36.0,1.35
+261,Corsair,Corsair Dominator Platinum black,9999.0,1,32,2,16,5,6000,36.0,1.35
+262,Corsair,Corsair Dominator Titanium black,10399.0,0,32,2,16,5,6000,30.0,1.4
+263,Patriot,Patriot Elite 5 White,7750.0,0,32,2,16,5,6200,42.0,1.35
+264,Patriot,Patriot Venom,6299.0,1,32,2,16,5,6200,40.0,1.35
+265,Patriot,Patriot Venom RGB,6550.0,0,32,2,16,5,6000,36.0,1.35
+266,Corsair,Corsair Dominator Platinum black,9899.0,1,32,2,16,5,6200,36.0,1.3
+267,Patriot,Patriot Venom RGB,7999.0,2,32,2,16,5,6200,40.0,1.35
+268,Tforce,Tforce Delta RGB black,7699.0,4,32,2,16,5,6400,32.0,1.35
+269,Tforce,Tforce Delta RGB white,7699.0,6,32,2,16,5,6400,32.0,1.35
+270,Tforce,Tforce Delta RGB silver,7699.0,6,32,2,16,5,6400,32.0,1.35
+271,G.Skill,G.Skill Ripjaws M5 RGB black,7899.0,1,32,2,16,5,6400,32.0,1.4
+272,G.Skill,G.Skill Ripjaws M5 RGB white,7899.0,3,32,2,16,5,6400,32.0,1.4
+273,G.Skill,G.Skill Trident Z5 Neo RGB black,8999.0,4,32,2,16,5,6400,32.0,1.4
+274,G.Skill,G.Skill Trident Z5 Neo RGB white CL32-39 1.4v,8999.0,2,32,2,16,5,6400,32.0,1.4
+275,G.Skill,G.Skill Trident Z5 RGB black,8299.0,0,32,2,16,5,6400,32.0,1.4
+276,G.Skill,G.Skill Trident Z5 RGB white,8299.0,4,32,2,16,5,6400,32.0,1.4
+277,G.Skill,G.Skill Trident Z5 Royal RGB silver,9399.0,3,32,2,16,5,6400,32.0,1.4
+278,Patriot,Patriot Elite 5 White,8225.0,2,32,2,16,5,6600,36.0,1.4
+279,Patriot,Patriot Elite 5 TUF White,8550.0,0,32,2,16,5,6600,34.0,1.4
+280,Corsair,Corsair Dominator Titanium black,10299.0,2,32,2,16,5,6600,32.0,1.4
+281,G.Skill,G.Skill Trident Z5 Neo RGB black,9999.0,2,32,2,16,5,7200,34.0,1.4
+282,G.Skill,G.Skill Trident Z5 Neo RGB white,9999.0,3,32,2,16,5,7200,34.0,1.4
+283,G.Skill,G.Skill Trident Z5 RGB black,9499.0,3,32,2,16,5,7200,34.0,1.4
+284,Corsair,Corsair Dominator Titanium black,11399.0,2,32,2,16,5,7200,34.0,1.45
+285,Patriot,Patriot Xtreme 5 RGB,9799.0,1,32,2,16,5,7600,36.0,1.45
+286,G.Skill,G.Skill Trident Z5 RGB black,10799.0,5,32,2,16,5,7600,36.0,1.4
+287,G.Skill,G.Skill Trident Z5 Royal silver,11999.0,0,32,2,16,5,7600,36.0,1.4
+288,Patriot,Patriot Xtreme 5 RGB,10999.0,2,32,2,16,5,7800,38.0,1.45
+289,Patriot,Patriot Xtreme 5 RGB,12725.0,1,32,2,16,5,8000,38.0,1.45
+290,G.Skill,G.Skill Trident Z5 RGB black,13599.0,0,32,2,16,5,8000,38.0,1.45
+291,Patriot,Patriot Elite 5 White,10350.0,2,48,2,24,5,6000,42.0,1.35
+292,Patriot,Patriot Elite 5 TUF White,9980.0,2,48,2,24,5,6000,36.0,1.35
+293,Patriot,Patriot Elite 5 TUF White,11799.0,2,48,2,24,5,6600,34.0,1.4
+294,Patriot,Patriot Xtreme 5 RGB,13999.0,1,48,2,24,5,7600,36.0,1.45
+295,Patriot,Patriot Xtreme 5 RGB,15999.0,1,48,2,24,5,8000,38.0,1.45
+296,G.Skill,G.Skill Trident Z5 Neo RGB black,18599.0,0,48,2,24,5,8000,40.0,1.4
+297,Kingston,Kingston Fury Beast,12099.0,2,64,2,32,5,5600,40.0,1.25
+298,Kingston,Kingston Fury Beast RGB,12799.0,0,64,2,32,5,5600,40.0,1.25
+299,G.Skill,G.Skill Trident Z5 RGB black,12799.0,3,64,2,32,5,5600,36.0,1.25
+300,G.Skill,G.Skill Ripjaws S5 black,11499.0,3,64,2,32,5,5600,46.0,1.1
+301,G.Skill,G.Skill Ripjaws S5 white,11499.0,1,64,2,32,5,5600,46.0,1.1
+302,Kingston,Kingston Fury Beast white,11999.0,1,64,2,32,5,6000,36.0,1.35
+303,Kingston,Kingston Fury Beast white,12999.0,1,64,2,32,5,6000,30.0,1.4
+304,Kingston,Kingston Fury Renegade RGB white,14299.0,2,64,2,32,5,6000,32.0,1.35
+305,Patriot,Patriot Venom,11750.0,0,64,2,32,5,6000,36.0,1.35
+306,Tforce,Tforce Delta RGB black,13999.0,4,64,2,32,5,6000,38.0,1.25
+307,Tforce,Tforce Delta RGB white,13999.0,2,64,2,32,5,6000,38.0,1.25
+308,G.Skill,G.Skill Ripjaws M5 RGB black,14650.0,1,64,2,32,5,6000,32.0,1.4
+309,G.Skill,G.Skill Ripjaws M5 RGB white,14650.0,2,64,2,32,5,6000,32.0,1.4
+310,G.Skill,G.Skill Trident Z5 Neo RGB black,15150.0,0,64,2,32,5,6000,32.0,1.4
+311,G.Skill,G.Skill Trident Z5 RGB white,14399.0,3,64,2,32,5,6000,36.0,1.35
+312,G.Skill,G.Skill Trident Z5 RGB black,15399.0,0,64,2,32,5,6000,32.0,1.4
+313,G.Skill,G.Skill Trident Z5 RGB black,15150.0,0,64,2,32,5,6000,30.0,1.4
+314,G.Skill,G.Skill Trident Z5 RGB white,15150.0,2,64,2,32,5,6000,30.0,1.4
+315,Corsair,Corsair Dominator Platinum RGB black,14799.0,0,64,2,32,5,6000,40.0,1.35
+316,Patriot,Patriot Elite 5 White,13180.0,2,64,2,32,5,6200,42.0,1.35
+317,Kingston,Kingston Fury Beast,14950.0,3,64,2,32,5,6400,32.0,1.4
+318,Kingston,Kingston Fury Beast RGB,15599.0,1,64,2,32,5,6400,32.0,1.4
+319,Patriot,Patriot Venom,12999.0,0,64,2,32,5,6400,32.0,1.4
+320,G.Skill,G.Skill Ripjaws M5 RGB black,15150.0,3,64,2,32,5,6400,32.0,1.4
+321,G.Skill,G.Skill Ripjaws M5 RGB white,15150.0,2,64,2,32,5,6400,32.0,1.4
+322,G.Skill,G.Skill Trident Z5 RGB black,15525.0,4,64,2,32,5,6400,32.0,1.4
+323,G.Skill,G.Skill Trident Z5 RGB white,15525.0,2,64,2,32,5,6400,32.0,1.4
+324,G.Skill,G.Skill Trident Z5 Royal RGB silver,17799.0,1,64,2,32,5,6400,32.0,1.4
+325,Patriot,Patriot Elite 5 White,19699.0,0,96,2,48,5,6000,42.0,1.35
+326,G.Skill,G.Skill Ripjaws M5 RGB Neo black,6899.0,0,32,2,16,5,6000,36.0,1.25
+327,G.Skill,G.Skill Ripjaws M5 RGB Neo white,6899.0,0,32,2,16,5,6000,36.0,1.25
+328,G.Skill,G.Skill Ripjaws M5 RGB Neo black,6799.0,3,32,2,16,5,6000,36.0,1.35
+329,G.Skill,G.Skill Ripjaws M5 RGB Neo white,6799.0,4,32,2,16,5,6000,36.0,1.35
+330,G.Skill,G.Skill Trident Z5 RGB Neo black,8650.0,1,32,2,16,5,6000,36.0,1.35
+331,G.Skill,G.Skill Trident Z5 RGB Neo black,8199.0,3,32,2,16,5,6000,32.0,1.35
+332,G.Skill,G.Skill Trident Z5 RGB Neo black,8450.0,9,32,2,16,5,6000,30.0,1.35
+333,G.Skill,G.Skill Trident Z5 RGB Neo white,8999.0,1,32,2,16,5,6000,30.0,1.35
+334,G.Skill,G.Skill Trident Z5 RGB Neo black,8999.0,4,32,2,16,5,6400,32.0,1.4
+335,G.Skill,G.Skill Trident Z5 RGB Neo white CL32-39 1.4v,8999.0,2,32,2,16,5,6400,32.0,1.4
+336,G.Skill,G.Skill Trident Z5 RGB Neo black,9999.0,2,32,2,16,5,7200,34.0,1.4
+337,G.Skill,G.Skill Trident Z5 RGB Neo white,9999.0,3,32,2,16,5,7200,34.0,1.4
+338,G.Skill,G.Skill Trident Z5 RGB Neo black,13599.0,0,32,2,16,5,8000,38.0,1.45
+339,G.Skill,G.Skill Trident Z5 RGB Neo black,18599.0,0,48,2,24,5,8000,40.0,1.4
+340,G.Skill,G.Skill Trident Z5 RGB black,17500.0,0,48,2,24,5,8000,40.0,1.35
+341,G.Skill,G.Skill Trident Z5 RGB Neo black,15150.0,0,64,2,32,5,6000,32.0,1.4
+342,G.Skill,G.Skill Trident Z5 RGB Neo black,15199.0,2,64,2,32,5,6000,30.0,1.4
+343,G.Skill,G.Skill Trident Z5 RGB Neo white,16699.0,2,64,2,32,5,6000,30.0,1.4
+344,Tforce,Tforce Delta RGB black,7999.0,0,32,2,16,5,6000,30.0,1.35
+345,Kingston,Kingston Fury Beast white,7899.0,0,32,2,16,5,6400,32.0,1.4
+346,Kingston,Kingston Fury Beast white,10500.0,0,32,2,16,5,6800,35.0,1.4
+347,G.Skill,G.Skill Trident Z5 RGB Neo white,13999.0,0,32,2,16,5,8000,38.0,1.45
+348,Tforce,Tforce Xtreem aRGB white,8199.0,0,32,2,16,5,6000,30.0,1.35
+349,G.Skill,G.Skill Flare X5 black,7299.0,0,32,2,16,5,6000,30.0,1.35
+350,Tforce,Tforce Xtreem aRGB white,9299.0,0,32,2,16,5,7200,34.0,1.4
+351,G.Skill,G.Skill Flare X5 black,10999.0,0,64,2,32,5,6000,36.0,1.35
+352,G.Skill,G.Skill Flare X5 white,10999.0,0,64,2,32,5,6000,36.0,1.35
+353,G.Skill,G.Skill Flare X5 black,13799.0,0,64,2,32,5,6000,30.0,1.35
+354,G.Skill,G.Skill Ripjaws M5 RGB Neo black,11899.0,0,64,2,32,5,6000,36.0,1.35
+355,G.Skill,G.Skill Ripjaws M5 RGB Neo white,11899.0,0,64,2,32,5,6000,36.0,1.35
+356,G.Skill,G.Skill Trident Z5 RGB Neo black,12399.0,0,64,2,32,5,6000,36.0,1.35
+357,G.Skill,G.Skill Trident Z5 RGB Neo white,12399.0,0,64,2,32,5,6000,36.0,1.35
+358,G.Skill,G.Skill Trident Z5 RGB black,12999.0,0,64,2,32,5,6000,36.0,1.35
+359,G.Skill,G.Skill Ripjaws S5 black,13650.0,0,64,2,32,5,6000,32.0,1.4
+360,G.Skill,G.Skill Ripjaws M5 RGB Neo black,11899.0,0,64,2,32,5,6000,36.0,1.35
+361,G.Skill,G.Skill Trident Z5 RGB Neo black,12399.0,0,64,2,32,5,6000,36.0,1.35
+362,G.Skill,G.Skill Trident Z5 Royal Neo gold,13299.0,0,32,2,16,5,6000,28.0,1.4
+363,G.Skill,G.Skill Trident Z5 Royal Neo silver,10999.0,0,32,2,16,5,6000,28.0,1.4
+364,G.Skill,G.Skill Trident Z5 Royal Neo gold,13199.0,0,32,2,16,5,6400,30.0,1.4
+365,G.Skill,G.Skill Trident Z5 Royal Neo silver,12999.0,0,32,2,16,5,6400,30.0,1.4
+366,G.Skill,G.Skill Trident Z5 Royal Neo silver,13999.0,0,32,2,16,5,8000,38.0,1.45
+367,G.Skill,G.Skill Trident Z5 Royal Neo gold,20999.0,0,48,2,24,5,6000,28.0,1.35
+368,G.Skill,G.Skill Trident Z5 Royal Neo silver,18750.0,0,48,2,24,5,6000,28.0,1.35
+369,G.Skill,G.Skill Trident Z5 Royal Neo silver,17550.0,0,48,2,24,5,8000,40.0,1.4
+370,G.Skill,G.Skill Trident Z5 Royal Neo silver,18999.0,0,64,2,32,5,6000,30.0,1.4
+371,G.Skill,G.Skill Trident Z5 Royal Neo silver,33999.0,0,96,2,48,5,6000,28.0,1.35
+372,Tforce,Tforce Delta RGB black,3399.0,0,16,1,16,5,6000,38.0,1.25
+373,Tforce,Tforce Delta RGB white,3399.0,0,16,1,16,5,6000,38.0,1.25
+374,Tforce,Tforce T-Create Expert,6799.0,0,32,2,16,5,6000,30.0,1.35
+375,Tforce,Tforce T-Create Expert,6799.0,0,32,2,16,5,6000,30.0,1.35
+376,Tforce,Tforce Xtreem aRGB black,8199.0,0,32,2,16,5,6000,30.0,1.35
+377,Tforce,Tforce Delta RGB black,7599.0,0,32,2,16,5,6000,38.0,1.25
+378,Tforce,Tforce Delta RGB white,7599.0,0,32,2,16,5,6000,38.0,1.25
+379,Tforce,Tforce Xtreem aRGB black,9299.0,0,32,2,16,5,7200,34.0,1.4
+380,Tforce,Tforce Delta RGB black,12799.0,0,64,2,32,5,6000,38.0,1.35
+381,Tforce,Tforce Delta RGB white,12799.0,0,64,2,32,5,6000,38.0,1.35
+382,Tforce,Tforce Delta RGB black,7599.0,0,32,2,16,5,6000,38.0,1.25
+383,Tforce,Tforce Delta RGB white,7599.0,0,32,2,16,5,6000,38.0,1.25
+384,G.Skill,G.Skill Trident Z5 RGB Neo black,8699.0,0,32,2,16,5,6400,30.0,1.4
+385,G.Skill,G.Skill Trident Z5 RGB Neo white,8699.0,0,32,2,16,5,6400,30.0,1.4
+386,G.Skill,G.Skill Trident Z5 Royal RGB gold,11599.0,0,32,2,16,5,6400,30.0,1.4
+387,G.Skill,G.Skill Trident Z5 Royal RGB gold,11799.0,0,32,2,16,5,7200,34.0,1.4
+388,G.Skill,G.Skill Trident Z5 Royal RGB silver,10500.0,0,32,2,16,5,7200,34.0,1.4
+389,G.Skill,G.Skill Ripjaws M5 RGB Neo black,11199.0,0,48,2,24,5,6000,30.0,1.35
+390,G.Skill,G.Skill Ripjaws M5 RGB Neo white,11199.0,0,48,2,24,5,6000,30.0,1.35
+391,G.Skill,G.Skill Trident Z5 RGB Neo black,17799.0,0,48,2,24,5,6000,28.0,1.35
+392,G.Skill,G.Skill Trident Z5 RGB Neo white,17799.0,0,48,2,24,5,6000,28.0,1.35
+393,G.Skill,G.Skill Trident Z5 RGB Neo black,32999.0,0,96,2,48,5,6000,28.0,1.35
+394,Kingston,Kingston Fury Beast RGB black,2499.0,0,8,1,8,5,6000,30.0,1.4
+395,Kingston,Kingston Fury Beast black,3650.0,0,16,1,16,5,6000,36.0,1.35
+396,Kingston,Kingston Fury Beast RGB black,4150.0,0,16,1,16,5,6000,30.0,1.4
+397,Dahua,Dahua C300,899.0,0,8,1,8,4,3200,22.0,1.2
+398,G.Skill,G.Skill Aegis,2899.0,0,16,1,16,5,6000,36.0,1.35
+399,Tforce,Tforce Delta RGB black,6499.0,0,32,1,32,5,6000,38.0,1.35
+400,Tforce,Tforce Delta RGB white,6499.0,0,32,1,32,5,6000,38.0,1.35
+401,G.Skill,G.Skill Aegis,5299.0,0,32,1,32,5,6000,36.0,1.35
+402,Tforce,Tforce Delta RGB black,3999.0,0,16,2,8,5,6000,38.0,1.25
+403,G.Skill,G.Skill Trident Z5 RGB Neo black,9250.0,0,32,2,16,5,6000,28.0,1.4
+404,G.Skill,G.Skill Trident Z5 RGB Neo white,9250.0,0,32,2,16,5,6000,28.0,1.4
+405,Tforce,Tforce Delta RGB black,9750.0,0,32,2,16,5,7600,36.0,1.4
+406,Tforce,Tforce Delta RGB white,9750.0,0,32,2,16,5,7600,36.0,1.4
+407,Tforce,Tforce Delta RGB black,11550.0,0,32,2,16,5,8000,38.0,1.45
+408,Tforce,Tforce Delta RGB white,11550.0,0,32,2,16,5,8000,38.0,1.45
+409,G.Skill,G.Skill Trident Z5 RGB Neo black,10950.0,0,48,2,24,5,6400,32.0,1.35
+410,G.Skill,G.Skill Trident Z5 RGB Neo white,10950.0,0,48,2,24,5,6400,32.0,1.35
+411,Tforce,Tforce Delta RGB black,15699.0,0,48,2,24,5,8000,38.0,1.4
+412,G.Skill,G.Skill Trident Z5 Royal RGB silver,16500.0,0,48,2,24,5,8000,40.0,1.35
+413,G.Skill,G.Skill Trident Z5 RGB Neo black,9599.0,0,48,2,24,5,6000,40.0,1.35
+416,Tforce,Tforce Delta RGB black,10599.0,0,48,2,24,5,6400,32.0,1.35
+417,Tforce,Tforce Delta RGB white,10599.0,0,48,2,24,5,6400,32.0,1.35
+418,Kingston,Kingston Fury Beast RGB black,9899.0,0,32,2,16,5,6400,32.0,1.4
+419,Kingston,Kingston Fury Beast RGB white,9899.0,0,32,2,16,5,6400,32.0,1.4
+420,Kingston,Kingston Fury Beast RGB black,16799.0,1,64,2,32,5,6400,32.0,1.4
+421,Kingston,Kingston Fury Beast RGB white,15099.0,0,64,2,32,5,6400,32.0,1.4
+422,Tforce,Tforce Delta RGB black,6499.0,0,32,2,16,5,6000,38.0,1.35
+423,Kingston,Kingston Fury Beast,15399.0,3,64,2,32,5,6400,32.0,1.4
+424,Kingston,Kingston Fury Beast RGB black,16699.0,1,64,2,32,5,6400,32.0,1.4
+425,Kingston,Kingston Fury Beast black,1850.0,0,8,1,8,5,5600,36.0,1.25
+426,Kingston,Kingston Fury Beast black,2299.0,0,8,1,8,5,6000,30.0,1.4
+427,Kingston,Kingston Fury Beast RGB black,4299.0,0,16,1,16,5,6000,36.0,1.35
+428,Kingston,Kingston Fury Beast,4480.0,0,16,2,8,5,6000,30.0,1.4
+429,Kingston,Kingston Fury Beast RGB,4199.0,0,16,2,8,5,6000,30.0,1.4
+436,G.Skill,G.Skill Trident Z5 RGB black,25550.0,0,96,2,48,5,6000,30.0,1.35
+437,Kingston,Kingston,1920.0,0,8,1,8,4,3200,22.0,1.2
+438,Kingston,Kingston,3499.0,0,16,1,16,4,3200,22.0,1.2
+439,G.Skill,G.Skill Ripjaws V black,2799.0,0,16,1,16,4,3200,16.0,1.35
+440,G.Skill,G.Skill Trident Z Neo,4399.0,0,16,2,8,4,3200,16.0,1.35
+441,G.Skill,G.Skill Trident Z RGB black,4099.0,0,16,2,8,4,3200,16.0,1.35
+442,G.Skill,G.Skill Trident Z RGB black,7599.0,0,32,2,16,4,3600,18.0,1.35
+443,G.Skill,G.Skill Flare X5 black,7650.0,0,32,2,16,5,6000,36.0,1.35
+444,G.Skill,G.Skill Ripjaws M5 RGB Neo black,16999.0,0,32,2,16,5,6000,28.0,1.4
+445,Patriot,Patriot Xtreme 5 RGB MPOWER,6999.0,0,32,2,16,5,6000,30.0,1.35
