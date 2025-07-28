@@ -1,447 +1,447 @@
-item_name,category_name,item_price_in_php,stocks
-"8gb ddr4 2666 Kingston Fury Beast, CL16 1.2v, pn: KF426C16BB/8",Ram,1399.0,9
-"8gb ddr4 3200 Kingston Fury Beast, CL16 1.35v, pn: KF432C16BB/8",Ram,1499.0,19
-"8gb ddr4 3200 Kingston Fury Beast RGB, CL16 1.35v, pn: KF432C16BBA/8 | KF432C16BB2A/8",Ram,1899.0,5
-"8gb ddr4 3200 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3200C16S-8GVKB",Ram,1299.0,3
-"8gb ddr4 3600 Kingston Fury Beast RGB, CL17 1.35v, pn: KF436C17BBA/8 | KF436C17BB2A/8",Ram,1999.0,26
-"16gb ddr4 2666 Kingston Fury Beast, CL16 1.2v, pn: KF426C16BB1/16 | KF426C16BB/16",Ram,2380.0,4
-"16gb ddr4 3200 Kingston Fury Beast, CL16 1.35v, pn: KF432C16BB/16 | KF432C16BB1/16",Ram,2599.0,8
-"16gb ddr4 3600 Kingston Fury Beast, CL18 1.35v, pn: KF436C18BB/16",Ram,2950.0,18
-"16gb ddr4 3600 Kingston Fury Beast RGB, CL18 1.35v, pn: KF436C18BB2A/16",Ram,3399.0,7
-"16gb ddr4 3600 Patriot Viper Steel, CL18 1.35v, pn: PVS416G360C8",Ram,1880.0,0
-"16gb (dual) ddr4 3200 Kingston Fury Beast RGB, CL16 1.35v, pn: KF432C16BBAK2/16 | KF432C16BB2AK2/16",Ram,3099.0,11
-"16gb (dual) ddr4 3600 Tforce Delta RGB black, CL18 1.35v, pn: TF3D416G3600HC18JDC01",Ram,3599.0,14
-"16gb (dual) ddr4 3600 Tforce Delta RGB white, CL18 1.35v, pn: TF4D416G3600HC18JDC01",Ram,3599.0,9
-"16gb (dual) ddr4 3600 Kingston Fury Beast RGB, CL17 1.35v, pn: KF436C17BBAK2/16 | KF436C17BB2AK2/16",Ram,3699.0,6
-"16gb (dual) ddr4 3600 Kingston Fury Beast, CL17 1.35v, pn: KF436C17BBK2/16",Ram,2950.0,1
-"16gb (dual) ddr4 3600 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3600C16D-16GVKC",Ram,3199.0,5
-"16gb (dual) ddr4 3600 G.Skill Ripjaws V black, CL18 1.35v, pn: F4-3600C18D-16GVK",Ram,2725.0,25
-"16gb (dual) ddr4 3600 G.Skill Trident Z RGB black, CL18 1.35v, pn: F4-3600C18D-16GTZRX",Ram,3880.0,0
-"16gb (dual) ddr4 3600 G.Skill Trident Z Neo, CL18 1.35v, pn: F4-3600C18D-16GTZN",Ram,3480.0,0
-"16gb (dual) ddr4 3600 G.Skill Trident Z Neo, CL16 1.35v, pn: F4-3600C16D-16GTZNC",Ram,4480.0,0
-"32gb (dual) ddr4 3600 Tforce Delta RGB black, CL18 1.35v, pn: TF3D432G3600HC18JDC01",Ram,5499.0,7
-"32gb (dual) ddr4 3600 Tforce Delta RGB white, CL18 1.35v, pn: TF4D432G3600HC18JDC01",Ram,5499.0,3
-"32gb (dual) ddr4 3600 Kingston Fury Beast RGB, CL18 1.35v, pn: KF436C18BBAK2/32 | KF436C18BB2AK2/32",Ram,5399.0,0
-"32gb (dual) ddr4 3600 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3600C16D-32GVKC",Ram,5599.0,8
-"32gb (dual) ddr4 3600 G.Skill Trident Z Royal silver, CL18 1.35v, pn: F4-3600C18D-32GTRS",Ram,7399.0,0
-"64gb (dual) ddr4 3600 Kingston Fury Beast RGB, CL18 1.35v, pn: KF436C18BBAK2/64 | KF436C18BB2AK2/64",Ram,8999.0,10
-"64gb (dual) ddr4 3600 Patriot Viper Steel, CL18 1.35v, pn: PVS464G360C8K",Ram,8099.0,11
-"16gb ddr5 5200 Patriot Venom, CL36 1.2v, pn: PVV516G52C36",Ram,2499.0,0
-"16gb ddr5 5200 Patriot Venom RGB, CL36 1.2v, pn: PVVR516G52C36",Ram,2880.0,0
-"16gb ddr5 5600 Kingston Fury Beast black, CL36 1.25v, pn: KF556C36BBE-16",Ram,3899.0,2
-"16gb ddr5 5600 Kingston Fury Beast RGB black, CL36 1.25v, pn: KF556C36BBEA-16",Ram,4199.0,29
-"16gb ddr5 5600 Patriot Venom, CL36 1.25v, pn: PVV516G56C36",Ram,2680.0,0
-"16gb ddr5 5600 Patriot Venom RGB, CL36 1.25v, pn: PVVR516G56C36",Ram,3199.0,0
-"16gb ddr5 5600 Transcend CL46, pn: JM5600ALE-16G",Ram,3199.0,2
-"16gb ddr5 6000 Kingston Fury Beast white, CL40 1.35v, pn: KF560C40BW-16",Ram,4380.0,17
-"16gb ddr5 6000 Kingston Fury Beast RGB white, CL40 1.35v, pn: KF560C40BWA-16",Ram,4380.0,2
-"16gb ddr5 6000 Kingston Fury Renegade RGB white, CL32 1.35v, pn: KF560C32RWA-16",Ram,4480.0,7
-"16gb ddr5 6000 Patriot Venom, CL30 1.35v, pn: PVV516G60C30",Ram,2899.0,0
-"16gb ddr5 6000 Patriot Venom RGB, CL30 1.35v, pn: PVVR516G60C30",Ram,3499.0,0
-"16gb ddr5 6000 Tforce Delta RGB black, CL38 1.25v, pn: FF3D516G6000HC38A01",Ram,3799.0,3
-"16gb ddr5 6000 Tforce Delta RGB white, CL38 1.25v, pn: FF4D516G6000HC38A01",Ram,3799.0,2
-"32gb ddr5 5200 Patriot Venom, CL36 1.2v, pn: PVV532G52C36",Ram,4699.0,0
-"32gb ddr5 5200 Patriot Venom RGB, CL36 1.2v, pn: PVVR532G52C36",Ram,5199.0,0
-"32gb ddr5 5600 Patriot Venom, CL36 1.25v, pn: PVV532G56C36",Ram,5199.0,0
-"32gb ddr5 5600 Patriot Venom RGB, CL36 1.25v, pn: PVVR532G56C36",Ram,5599.0,0
-"32gb ddr5 6000 Kingston Fury Beast white, CL40 1.35v, pn: KF560C40BW-32",Ram,6699.0,5
-"32gb ddr5 6000 Kingston Fury Beast RGB white, CL40 1.35v, pn: KF560C40BWA-32",Ram,7199.0,6
-"32gb ddr5 6000 Patriot Venom, CL30 1.35v, pn: PVV532G60C30",Ram,5599.0,0
-"32gb ddr5 6000 Patriot Venom RGB, CL30 1.35v, pn: PVVR532G60C30",Ram,6299.0,0
-"16gb (dual) ddr5 5200 Kingston Fury Beast, CL40 1.25v, pn: KF552C40BBK2-16",Ram,3880.0,11
-"16gb (dual) ddr5 5600 Patriot Venom, CL40 1.25v, pn: PVV516G560C40K",Ram,3799.0,5
-"16gb (dual) ddr5 6000 Kingston Fury Beast, CL40 1.35v, pn: KF560C40BBK2-16",Ram,4280.0,0
-"16gb (dual) ddr5 6000 Kingston Fury Beast RGB, CL40 1.35v, pn: KF560C40BBAK2/16",Ram,5399.0,2
-"32gb (dual) ddr5 5200 Corsair Dominator Platinum black, CL40 1.25v, pn: CMT32GX5M2B5200C40",Ram,7899.0,1
-"32gb (dual) ddr5 5200 Corsair Dominator Platinum white, CL40 1.25v, pn: CMT32GX5M2B5200C40W",Ram,7899.0,0
-"32gb (dual) ddr5 5600 Kingston Fury Beast, CL36 1.25v, pn: KF556C36BBEK2-32",Ram,6699.0,0
-"32gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL36 1.25v, pn: KF556C36BBEAK2-32",Ram,6999.0,0
-"32gb (dual) ddr5 5600 Patriot Venom, CL36 1.25v, pn: PVV532G560C36K",Ram,5350.0,5
-"32gb (dual) ddr5 5600 G.Skill Trident Z5 RGB silver, CL36 1.2v, pn: F5-5600J3636C16GX2-TZ5RS",Ram,8280.0,2
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL36 1.2v, pn: F5-5600J3636C16GX2-RS5K",Ram,7399.0,0
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL36 1.2v, pn: F5-5600J3636C16GX2-RS5W",Ram,7399.0,0
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46 1.1v, pn: F5-5600J4645A16GX2-RS5K",Ram,6280.0,0
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46 1.1v, pn: F5-5600J4645A16GX2-RS5W",Ram,6280.0,0
-"32gb (dual) ddr5 5600 Corsair Dominator Platinum white, CL36 1.25v, pn: CMT32GX5M2B5600C36W",Ram,9999.0,1
-"32gb (dual) ddr5 6000 Kingston Fury Beast, CL36 1.35v, AMD EXPO, pn: KF560C36BBEK2-32 | KF560C36BBE2K2-32",Ram,7799.0,4
-"32gb (dual) ddr5 6000 Kingston Fury Beast, CL40 1.25v, pn: KF560C40BBK2-32",Ram,7799.0,2
-"32gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36 1.35v, pn: PVER532G60C36KT",Ram,7799.0,2
-"32gb (dual) ddr5 6000 Patriot Venom, CL36 1.35v, pn: PVV532G600C36K",Ram,5799.0,5
-"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL30 1.35v, pn: FF4D532G6000HC30DC01",Ram,8099.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38 1.25v, pn: FF3D532G6000HC38ADC01",Ram,7850.0,6
-"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38 1.25v, pn: FF4D532G6000HC38ADC01",Ram,7850.0,0
-"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36 1.25v, pn: F5-6000J3648D16GX2-FX5",Ram,6399.0,0
-"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL32 1.35v, pn: F5-6000J3238F16GX2-FX5",Ram,7150.0,2
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.25v, AMD EXPO, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6999.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.25v, AMD EXPO, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6999.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32 1.35v, pn: F5-6000J3238F16GX2-RM5RK",Ram,7699.0,4
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32 1.35v, pn: F5-6000J3238F16GX2-RM5RW",Ram,7699.0,4
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5NR",Ram,8650.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32 1.35v, pn: F5-6000J3238F16GX2-TZ5NR",Ram,8525.0,5
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30 1.35v, pn: F5-6000J3038F16GX2-TZ5NR",Ram,8650.0,10
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30 1.35v, pn: F5-6000J3036F16GX2-TZ5NRW",Ram,9150.0,4
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5RK",Ram,8525.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB silver, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5RS",Ram,8525.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5RW",Ram,8525.0,1
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32 1.35v, pn: F5-6000J3238F16GX2-TZ5RK",Ram,7999.0,4
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL32 1.35v, pn: F5-6000J3238F16GX2-TZ5RW",Ram,7999.0,3
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL32 1.35v, pn: F5-6000J3238F16GX2-RS5K",Ram,7150.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL32 1.35v, pn: F5-6000J3238F16GX2-RS5W",Ram,7150.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36 1.25v, pn: F5-6000J3648D16GX2-RS5K",Ram,6299.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL36 1.25v, pn: F5-6000J3648D16GX2-RS5W",Ram,6299.0,0
-"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36 1.25v, pn: CMT32GX5M2X6000C36",Ram,9999.0,1
-"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36 1.35v, pn: CMT32GX5M2E6000C36",Ram,9699.0,2
-"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36 1.35v, AMD EXPO, pn: CMT32GX5M2D6000Z36",Ram,10599.0,2
-"32gb (dual) ddr5 6000 Corsair Dominator Titanium black, CL30 1.4v, pn: CMP32GX5M2B6000C30",Ram,10999.0,2
-"32gb (dual) ddr5 6000 Corsair Dominator Titanium white, CL30 1.4v, pn: CMP32GX5M2B6000C30W",Ram,10999.0,0
-"32gb (dual) ddr5 6200 Patriot Elite 5 White, CL42 1.35v, pn: PVER532G62C42KW",Ram,7750.0,2
-"32gb (dual) ddr5 6200 Patriot Venom, CL40 1.35v, pn: PVV532G620C40K",Ram,6299.0,0
-"32gb (dual) ddr5 6000 Patriot Venom RGB, CL36 1.35v, pn: PVVR532G600C36K",Ram,6550.0,3
-"32gb (dual) ddr5 6200 Corsair Dominator Platinum black, CL36 1.30v, pn: CMT32GX5M2X6200C36",Ram,9899.0,2
-"32gb (dual) ddr5 6200 Patriot Venom RGB, CL40 1.35v, pn: PVVR532G620C40K",Ram,7999.0,2
-"32gb (dual) ddr5 6400 Tforce Delta RGB black, CL40 1.35v, pn: FF3D532G6400HC32ADC01",Ram,7799.0,4
-"32gb (dual) ddr5 6400 Tforce Delta RGB white, CL40 1.35v, pn: FF4D532G6400HC32ADC01",Ram,7799.0,5
-"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32 1.4v, pn: F5-6400J3239G16GX2-RM5RK",Ram,7150.0,3
-"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32 1.4v, pn: F5-6400J3239G16GX2-RM5RW",Ram,7150.0,3
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB black, CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5NR",Ram,8999.0,5
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB white CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5NRW",Ram,8999.0,2
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5RK",Ram,8299.0,4
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5RW",Ram,8299.0,2
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32 1.4v, pn: F5-6400J3239G16GX2-TR5S",Ram,9399.0,4
-"32gb (dual) ddr5 6400 Corsair Dominator Platinum black, CL32 1.4v, pn: CMT32GX5M2B6400C32",Ram,11500.0,2
-"32gb (dual) ddr5 6600 Patriot Elite 5 White, CL36 1.4v, pn: PVER532G66C36KW",Ram,8225.0,2
-"32gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34 1.4v, pn: PVER532G66C34KT",Ram,8550.0,2
-"32gb (dual) ddr5 6600 Corsair Dominator Titanium black, CL32 1.4v, pn: CMP32GX5M2X6600C32",Ram,11999.0,4
-"32gb (dual) ddr5 6600 Corsair Dominator Titanium white, CL32 1.4v, pn: CMP32GX5M2X6600C32W",Ram,11999.0,1
-"32gb (dual) ddr5 7200 Corsair Dominator Titanium black, CL34 1.45v, pn: CMP32GX5M2X7200C34",Ram,13450.0,2
-"32gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36 1.45v, pn: PVXR532G76C36K",Ram,9799.0,1
-"32gb (dual) ddr5 7800 Patriot Xtreme 5 RGB, CL38 1.45v, pn: PVXR532G78C38K",Ram,10999.0,2
-"32gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38 1.45v, pn: PVXR532G80C38K",Ram,12725.0,1
-"48gb (dual) ddr5 6000 Patriot Elite 5 White, CL42 1.35v, pn: PVER548G60C42KW",Ram,10350.0,2
-"48gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36 1.35v, pn: PVER548G60C36KT",Ram,9980.0,2
-"48gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34 1.4v, pn: PVER548G66C34KT",Ram,11799.0,2
-"48gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36 1.45v, pn: PVXR548G76C36K",Ram,13999.0,1
-"48gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38 1.45v, pn: PVXR548G80C38K",Ram,15999.0,2
-"64gb (dual) ddr5 5600 Kingston Fury Beast, CL40 1.25v, pn: KF556C40BBK2-64",Ram,12999.0,3
-"64gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL40 1.25v, pn: KF556C40BBAK2-64",Ram,13899.0,2
-"64gb (dual) ddr5 5600 G.Skill Trident Z5 RGB black, CL36 1.25v, pn: F5-5600J3636D32GX2-TZ5RK",Ram,14399.0,3
-"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46 1.1v, pn: F5-5600J4645A32GX2-RS5K",Ram,11499.0,0
-"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46 1.1v, pn: F5-5600J4645A32GX2-RS5W",Ram,11499.0,0
-"64gb (dual) ddr5 6000 Kingston Fury Renegade RGB white, CL32 1.35v, pn: KF560C32RWAK2-64",Ram,14299.0,3
-"64gb (dual) ddr5 6000 Patriot Venom, CL36 1.35v, pn: PVV564G600C36K",Ram,11750.0,3
-"64gb (dual) ddr5 6000 Tforce Delta RGB black, CL38 1.25v, pn: FF3D564G6000HC38ADC01",Ram,13999.0,2
-"64gb (dual) ddr5 6000 Tforce Delta RGB white, CL38 1.25v, pn: FF4D564G6000HC38ADC01",Ram,13999.0,2
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32 1.4v, pn: F5-6000J3238G32GX2-RM5RK",Ram,14650.0,3
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32 1.4v, pn: F5-6000J3238G32GX2-RM5RW",Ram,14650.0,1
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32 1.4v, pn: F5-6000J3238G32GX2-TZ5NR",Ram,15150.0,2
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30 1.4v, pn: F5-6000J3040G32GX2-TZ5NR",Ram,15280.0,3
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30 1.4v, pn: F5-6000J3036G32GX2-TZ5NRW",Ram,16280.0,1
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36 1.35v, pn: F5-6000J3636F32GX2-TZ5RW",Ram,14399.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32 1.4v, pn: F5-6000J3238G32GX2-TZ5RK",Ram,15399.0,2
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL30 1.4v, pn: F5-6000J3040G32GX2-TZ5RW",Ram,15150.0,0
-"64gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL40 1.35v, pn: CMT64GX5M2B6000C40",Ram,15699.0,0
-"64gb (dual) ddr5 6200 Patriot Elite 5 White, CL42 1.35v, pn: PVER564G62C42KW",Ram,13180.0,2
-"64gb (dual) ddr5 6400 Patriot Venom, CL32 1.4v, pn: PVV564G640C32K",Ram,12999.0,3
-"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32 1.4v, pn: F5-6400J3239G32GX2-RM5RK",Ram,15150.0,4
-"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32 1.4v, pn: F5-6400J3239G32GX2-RM5RW",Ram,15150.0,4
-"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32 1.4v, pn: F5-6400J3239G32GX2-TZ5RK",Ram,15525.0,0
-"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32 1.4v, pn: F5-6400J3239G32GX2-TZ5RW",Ram,15525.0,1
-"64gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32 1.4v, pn: F5-6400J3239G32GX2-TR5S",Ram,17799.0,2
-"64gb (dual) ddr5 6400 Corsair Dominator Platinum black, CL32 1.40v, pn: CMT64GX5M2B6400C32",Ram,18399.0,4
-"64gb (dual) ddr5 6600 Corsair Dominator Platinum black, CL32 1.40v, pn: CMT64GX5M2B6600C32",Ram,18699.0,3
-"96gb (dual) ddr5 6000 Patriot Elite 5 White, CL42 1.35v, pn: PVER596G60C42KW",Ram,19699.0,0
-"8gb sodimm ddr4 2666 Kingston CL19 1.2v, pn: KVR26S19S6/8 | KVR26S19S8/8",Ram,1299.0,3
-"8gb sodimm ddr4 3200 Kingston CL22 1.2v, pn: KVR32S22S6/8 | KVR32S22S8/8",Ram,1475.0,2
-"8gb sodimm ddr4 3200 Team Elite CL22 1.2V, pn: TED48G3200C22-S01",Ram,1099.0,18
-"16gb sodimm ddr4 2666 Kingston CL19 1.2v, pn: KVR26S19S8/16",Ram,2550.0,5
-"16gb sodimm ddr4 3200 Kingston CL22 1.2v, pn: KVR32S22S8/16 | KVR32S22D8/16",Ram,2850.0,3
-"16gb sodimm ddr4 3200 Patriot CL22 1.2V, pn: PSD416G320081S",Ram,2650.0,6
-"8gb sodimm ddr5 4800 Adata CL40 1.1v, pn: AD5S48008G-S",Ram,1699.0,0
-"8gb sodimm ddr5 4800 Kingston CL40 1.1v, pn: KVR48S40BS6-8",Ram,2050.0,2
-"8gb sodimm ddr5 5600 Kingston CL46 1.1v, pn: KVR56S46BS6-8",Ram,2150.0,8
-"8gb sodimm ddr5 5600 Patriot CL46 1.1V, pn: PSD58G560041S",Ram,2225.0,67
-"16gb sodimm ddr5 4800 Kingston CL40 1.1v, pn: KVR48S40BS8-16",Ram,3050.0,15
-"16gb sodimm ddr5 5600 Kingston Impact CL40 1.1v, pn: KF556S40IB-16",Ram,3950.0,8
-"16gb sodimm ddr5 5600 Patriot CL46 1.1V, pn: PSD516G560081S",Ram,3399.0,5
-"32gb sodimm ddr5 5600 Kingston Impact CL40 1.1v, pn: KF556S40IB-32",Ram,6180.0,1
-"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB black, CL40 1.25v, pn: CMT32GX5M2B5200C40",Ram,7899.0,1
-"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB white, CL40 1.25v, pn: CMT32GX5M2B5200C40W",Ram,7899.0,0
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB black, CL34 1.4v, pn: F5-7200J3445G16GX2-TZ5NR",Ram,9999.0,0
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB white, CL34 1.4v, pn: F5-7200J3445G16GX2-TZ5NRW",Ram,9999.0,0
-"64gb (dual) ddr5 6000 Corsair Dominator Platinum RGB black, CL40 1.35v, pn: CMT64GX5M2B6000C40",Ram,15699.0,0
-"8gb ddr4 3200 Patriot Viper Steel RGB, CL18 1.35v, pn: PVSR48G320C8",Ram,1280.0,0
-"16gb ddr4 3200 Patriot Viper Steel, CL16 1.35v, pn: PVS416G320C6",Ram,1680.0,0
-"16gb ddr4 3200 Patriot Viper Steel RGB, CL18 1.35v, pn: PVSR416G320C8",Ram,1880.0,0
-"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL36 1.35v, pn: KF560C36BWEK2-64",Ram,11999.0,0
-"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL30 1.40v, pn: KF560C30BWEK2-64",Ram,12999.0,0
-"64gb (dual) ddr5 6400 Kingston Fury Beast, CL32 1.40v, pn: KF564C32BBK2-64",Ram,14950.0,0
-"64gb (dual) ddr5 6400 Kingston Fury Beast RGB, CL32 1.40v, pn: KF564C32BBAK2-64",Ram,15599.0,0
-"32gb (dual) ddr5 6400 Tforce Delta RGB black, CL32 1.35v, pn: FF3D532G6400HC32ADC01",Ram,7699.0,4
-"32gb (dual) ddr5 6400 Tforce Delta RGB white, CL32 1.35v, pn: FF4D532G6400HC32ADC01",Ram,7699.0,5
-"32gb (dual) ddr5 6400 Tforce Delta RGB silver, CL32 1.35v, pn: FF2D532G6400HC32ADC01",Ram,7699.0,0
-"16gb (dual) ddr4 3600 Tforce Delta RGB black, CL18 1.35v, pn: TF3D416G3600HC18JDC01 | TF9D416G3600HC18JDC01",Ram,3599.0,14
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB black, CL34 1.4v, pn: F5-7200J3445G16GX2-TZ5RK",Ram,9499.0,0
-"32gb (dual) ddr5 7600 G.Skill Trident Z5 RGB black, CL36 1.4v, pn: F5-7600J3646G16GX2-TZ5RK",Ram,10799.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.35v, AMD EXPO, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.35v, AMD EXPO, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36 1.35v, pn: F5-6000J3636F16GX2-RS5K",Ram,6399.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5NR",Ram,15199.0,3
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30-36 1.4v, pn: F5-6000J3036G32GX2-TZ5NRW",Ram,16699.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL30 1.4v, pn: F5-6000J3040G32GX2-TZ5RK",Ram,15150.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.25v, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6899.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.25v, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6899.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.35v, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.35v, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,0
-"32gb (dual) ddr5 7600 G.Skill Trident Z5 Royal silver, CL36 1.4v, pn: F5-7600J3646G16GX2-TR5S",Ram,11999.0,0
-"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB black, CL38 1.45v, pn: F5-8000J3848H16GX2-TZ5RK",Ram,13599.0,0
-"48gb (dual) ddr5 8000 G.Skill Trident Z5 Neo RGB black, CL40 1.4v, pn: F5-8000J4048G24GX2-TZ5NR",Ram,18599.0,0
-"16gb ddr5 5200 Patriot Venom, CL36-36 1.2v, pn: PVV516G52C36",Ram,2499.0,0
-"16gb ddr5 5200 Patriot Venom RGB, CL36-36 1.2v, pn: PVVR516G52C36",Ram,2880.0,7
-"16gb ddr5 5600 Kingston Fury Beast black, CL36-38 1.25v, pn: KF556C36BBE-16",Ram,3450.0,2
-"16gb ddr5 5600 Kingston Fury Beast RGB black, CL36-38 1.25v, pn: KF556C36BBEA-16",Ram,3299.0,25
-"16gb ddr5 5600 Patriot Venom, CL36-36 1.25v, pn: PVV516G56C36",Ram,2680.0,0
-"16gb ddr5 5600 Patriot Venom RGB, CL36-36 1.25v, pn: PVVR516G56C36",Ram,3199.0,1
-"16gb ddr5 6000 Kingston Fury Beast white, CL40-40 1.35v, pn: KF560C40BW-16",Ram,3750.0,15
-"16gb ddr5 6000 Kingston Fury Renegade RGB white, CL32-38 1.35v, pn: KF560C32RWA-16",Ram,4199.0,5
-"16gb ddr5 6000 Patriot Venom, CL30-40 1.35v, pn: PVV516G60C30",Ram,2899.0,0
-"16gb ddr5 6000 Patriot Venom RGB, CL30-40 1.35v, pn: PVVR516G60C30",Ram,3499.0,0
-"16gb ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D516G6000HC38A01",Ram,3799.0,6
-"16gb ddr5 6000 Tforce Delta RGB white, CL38-38 1.25v, pn: FF4D516G6000HC38A01",Ram,3799.0,3
-"32gb ddr5 5200 Patriot Venom, CL36-36 1.2v, pn: PVV532G52C36",Ram,4699.0,9
-"32gb ddr5 5200 Patriot Venom RGB, CL36-36 1.2v, pn: PVVR532G52C36",Ram,5199.0,9
-"32gb ddr5 5600 Patriot Venom, CL36-36 1.25v, pn: PVV532G56C36",Ram,5199.0,2
-"32gb ddr5 5600 Patriot Venom RGB, CL36-36 1.25v, pn: PVVR532G56C36",Ram,5599.0,2
-"32gb ddr5 6000 Kingston Fury Beast white, CL40-40 1.35v, pn: KF560C40BW-32",Ram,6699.0,9
-"32gb ddr5 6000 Kingston Fury Beast RGB white, CL40-40 1.35v, pn: KF560C40BWA-32",Ram,7250.0,6
-"32gb ddr5 6000 Patriot Venom, CL30-40 1.35v, pn: PVV532G60C30",Ram,5599.0,0
-"32gb ddr5 6000 Patriot Venom RGB, CL30-40 1.35v, pn: PVVR532G60C30",Ram,6299.0,2
-"16gb (dual) ddr5 5200 Kingston Fury Beast, CL40-40 1.25v, pn: KF552C40BBK2-16",Ram,3599.0,10
-"16gb (dual) ddr5 5600 Patriot Venom, CL40-40 1.25v, pn: PVV516G560C40K",Ram,3799.0,0
-"16gb (dual) ddr5 6000 Kingston Fury Beast, CL40-40 1.35v, pn: KF560C40BBK2-16",Ram,4280.0,14
-"16gb (dual) ddr5 6000 Kingston Fury Beast RGB, CL40-40 1.35v, pn: KF560C40BBAK2-16",Ram,5399.0,3
-"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB black, CL40-40 1.25v, pn: CMT32GX5M2B5200C40",Ram,7450.0,0
-"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB white, CL40-40 1.25v, pn: CMT32GX5M2B5200C40W",Ram,7450.0,0
-"32gb (dual) ddr5 5600 Kingston Fury Beast, CL36-38 1.25v, pn: KF556C36BBEK2-32",Ram,6599.0,12
-"32gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL36-38 1.25v, pn: KF556C36BBEAK2-32",Ram,7199.0,2
-"32gb (dual) ddr5 5600 Patriot Venom, CL36-36 1.25v, pn: PVV532G560C36K",Ram,5350.0,0
-"32gb (dual) ddr5 5600 G.Skill Trident Z5 RGB silver, CL36-36 1.2v, pn: F5-5600J3636C16GX2-TZ5RS",Ram,7099.0,1
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL36-36 1.2v, pn: F5-5600J3636C16GX2-RS5K",Ram,6150.0,2
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL36-36 1.2v, pn: F5-5600J3636C16GX2-RS5W",Ram,6150.0,0
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46-45 1.1v, pn: F5-5600J4645A16GX2-RS5K",Ram,6150.0,6
-"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46-45 1.1v, pn: F5-5600J4645A16GX2-RS5W",Ram,6150.0,4
-"32gb (dual) ddr5 5600 Corsair Dominator Platinum white, CL36-36 1.25v, pn: CMT32GX5M2B5600C36W",Ram,9450.0,1
-"32gb (dual) ddr5 6000 Kingston Fury Beast, CL36-44 1.35v, AMD EXPO, pn: KF560C36BBEK2-32 | KF560C36BBE2K2-32",Ram,7399.0,11
-"32gb (dual) ddr5 6000 Kingston Fury Beast, CL40-40 1.25v, pn: KF560C40BBK2-32",Ram,7299.0,4
-"32gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36-36 1.35v, pn: PVER532G60C36KT",Ram,7799.0,0
-"32gb (dual) ddr5 6000 Patriot Venom, CL36-36 1.35v, pn: PVV532G600C36K",Ram,5799.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL30-36 1.35v, pn: FF4D532G6000HC30DC01",Ram,7999.0,5
-"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D532G6000HC38ADC01",Ram,7699.0,11
-"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-38 1.25v, pn: FF4D532G6000HC38ADC01",Ram,7699.0,5
-"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-FX5",Ram,6299.0,0
-"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-FX5",Ram,7150.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6899.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6899.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RM5RK",Ram,7699.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RM5RW",Ram,7699.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,3
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,4
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5NR",Ram,8650.0,1
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5NR",Ram,8199.0,3
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30-38 1.35v, pn: F5-6000J3038F16GX2-TZ5NR",Ram,8450.0,9
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30-36 1.35v, pn: F5-6000J3036F16GX2-TZ5NRW",Ram,8999.0,1
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5RK",Ram,8499.0,4
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB silver, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5RS",Ram,8499.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5RW",Ram,8499.0,3
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5RK",Ram,7999.0,3
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5RW",Ram,7999.0,3
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RS5K",Ram,7150.0,9
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RS5W",Ram,7150.0,5
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RS5K",Ram,6299.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RS5W",Ram,6299.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RS5K",Ram,6399.0,0
-"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36-44 1.35v, pn: CMT32GX5M2E6000C36",Ram,9150.0,1
-"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36-36 1.35v, AMD EXPO, pn: CMT32GX5M2D6000Z36",Ram,9999.0,1
-"32gb (dual) ddr5 6000 Corsair Dominator Titanium black, CL30-36 1.4v, pn: CMP32GX5M2B6000C30",Ram,10399.0,0
-"32gb (dual) ddr5 6200 Patriot Elite 5 White, CL42-46 1.35v, pn: PVER532G62C42KW",Ram,7750.0,0
-"32gb (dual) ddr5 6200 Patriot Venom, CL40-40 1.35v, pn: PVV532G620C40K",Ram,6299.0,1
-"32gb (dual) ddr5 6000 Patriot Venom RGB, CL36-36 1.35v, pn: PVVR532G600C36K",Ram,6550.0,0
-"32gb (dual) ddr5 6200 Corsair Dominator Platinum black, CL36-39 1.30v, pn: CMT32GX5M2X6200C36",Ram,9899.0,1
-"32gb (dual) ddr5 6200 Patriot Venom RGB, CL40-40 1.35v, pn: PVVR532G620C40K",Ram,7999.0,2
-"32gb (dual) ddr5 6400 Tforce Delta RGB black, CL32-39 1.35v, pn: FF3D532G6400HC32ADC01",Ram,7699.0,4
-"32gb (dual) ddr5 6400 Tforce Delta RGB white, CL32-39 1.35v, pn: FF4D532G6400HC32ADC01",Ram,7699.0,6
-"32gb (dual) ddr5 6400 Tforce Delta RGB silver, CL32-39 1.35v, pn: FF2D532G6400HC32ADC01",Ram,7699.0,6
-"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-RM5RK",Ram,7899.0,1
-"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G16GX2-RM5RW",Ram,7899.0,3
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NR",Ram,8999.0,4
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB white CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NRW",Ram,8999.0,2
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5RK",Ram,8299.0,0
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5RW",Ram,8299.0,4
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TR5S",Ram,9399.0,3
-"32gb (dual) ddr5 6600 Patriot Elite 5 White, CL36-46 1.4v, pn: PVER532G66C36KW",Ram,8225.0,2
-"32gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34-40 1.4v, pn: PVER532G66C34KT",Ram,8550.0,0
-"32gb (dual) ddr5 6600 Corsair Dominator Titanium black, CL32-39 1.4v, pn: CMP32GX5M2X6600C32",Ram,10299.0,2
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB black, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NR",Ram,9999.0,2
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB white, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NRW",Ram,9999.0,3
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB black, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5RK",Ram,9499.0,3
-"32gb (dual) ddr5 7200 Corsair Dominator Titanium black, CL34-44 1.45v, pn: CMP32GX5M2X7200C34",Ram,11399.0,2
-"32gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36-48 1.45v, pn: PVXR532G76C36K",Ram,9799.0,1
-"32gb (dual) ddr5 7600 G.Skill Trident Z5 RGB black, CL36-46 1.4v, pn: F5-7600J3646G16GX2-TZ5RK",Ram,10799.0,5
-"32gb (dual) ddr5 7600 G.Skill Trident Z5 Royal silver, CL36-46 1.4v, pn: F5-7600J3646G16GX2-TR5S",Ram,11999.0,0
-"32gb (dual) ddr5 7800 Patriot Xtreme 5 RGB, CL38-48 1.45v, pn: PVXR532G78C38K",Ram,10999.0,2
-"32gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38-48 1.45v, pn: PVXR532G80C38K",Ram,12725.0,1
-"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB black, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TZ5RK",Ram,13599.0,0
-"48gb (dual) ddr5 6000 Patriot Elite 5 White, CL42-42 1.35v, pn: PVER548G60C42KW",Ram,10350.0,2
-"48gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36-36 1.35v, pn: PVER548G60C36KT",Ram,9980.0,2
-"48gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34-40 1.4v, pn: PVER548G66C34KT",Ram,11799.0,2
-"48gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36-48 1.45v, pn: PVXR548G76C36K",Ram,13999.0,1
-"48gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38-48 1.45v, pn: PVXR548G80C38K",Ram,15999.0,1
-"48gb (dual) ddr5 8000 G.Skill Trident Z5 Neo RGB black, CL40-48 1.4v, pn: F5-8000J4048G24GX2-TZ5NR",Ram,18599.0,0
-"64gb (dual) ddr5 5600 Kingston Fury Beast, CL40-40 1.25v, pn: KF556C40BBK2-64",Ram,12099.0,2
-"64gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL40-40 1.25v, pn: KF556C40BBAK2-64",Ram,12799.0,0
-"64gb (dual) ddr5 5600 G.Skill Trident Z5 RGB black, CL36-36 1.25v, pn: F5-5600J3636D32GX2-TZ5RK",Ram,12799.0,3
-"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46-45 1.1v, pn: F5-5600J4645A32GX2-RS5K",Ram,11499.0,3
-"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46-45 1.1v, pn: F5-5600J4645A32GX2-RS5W",Ram,11499.0,1
-"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL36-38 1.35v, pn: KF560C36BWEK2-64",Ram,11999.0,1
-"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL30-36 1.40v, pn: KF560C30BWEK2-64",Ram,12999.0,1
-"64gb (dual) ddr5 6000 Kingston Fury Renegade RGB white, CL32-38 1.35v, pn: KF560C32RWAK2-64",Ram,14299.0,2
-"64gb (dual) ddr5 6000 Patriot Venom, CL36-36 1.35v, pn: PVV564G600C36K",Ram,11750.0,0
-"64gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D564G6000HC38ADC01",Ram,13999.0,4
-"64gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-38 1.25v, pn: FF4D564G6000HC38ADC01",Ram,13999.0,2
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-RM5RK",Ram,14650.0,1
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32-38 1.4v, pn: F5-6000J3238G32GX2-RM5RW",Ram,14650.0,2
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-TZ5NR",Ram,15150.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5RW",Ram,14399.0,3
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32-36 1.4v, pn: F5-6000J3238G32GX2-TZ5RK",Ram,15399.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5RK",Ram,15150.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5RW",Ram,15150.0,2
-"64gb (dual) ddr5 6000 Corsair Dominator Platinum RGB black, CL40-40 1.35v, pn: CMT64GX5M2B6000C40",Ram,14799.0,0
-"64gb (dual) ddr5 6200 Patriot Elite 5 White, CL42-46 1.35v, pn: PVER564G62C42KW",Ram,13180.0,2
-"64gb (dual) ddr5 6400 Kingston Fury Beast, CL32-39 1.40v, pn: KF564C32BBK2-64",Ram,14950.0,3
-"64gb (dual) ddr5 6400 Kingston Fury Beast RGB, CL32-39 1.40v, pn: KF564C32BBAK2-64",Ram,15599.0,1
-"64gb (dual) ddr5 6400 Patriot Venom, CL32-40 1.4v, pn: PVV564G640C32K",Ram,12999.0,0
-"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G32GX2-RM5RK",Ram,15150.0,3
-"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G32GX2-RM5RW",Ram,15150.0,2
-"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G32GX2-TZ5RK",Ram,15525.0,4
-"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G32GX2-TZ5RW",Ram,15525.0,2
-"64gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32-39 1.4v, pn: F5-6400J3239G32GX2-TR5S",Ram,17799.0,1
-"96gb (dual) ddr5 6000 Patriot Elite 5 White, CL42-42 1.35v, pn: PVER596G60C42KW",Ram,19699.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6899.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6899.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,3
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,4
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5NR",Ram,8650.0,1
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5NR",Ram,8199.0,3
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL30-38 1.35v, pn: F5-6000J3038F16GX2-TZ5NR",Ram,8450.0,9
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL30-36 1.35v, pn: F5-6000J3036F16GX2-TZ5NRW",Ram,8999.0,1
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NR",Ram,8999.0,4
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo white CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NRW",Ram,8999.0,2
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB Neo black, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NR",Ram,9999.0,2
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB Neo white, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NRW",Ram,9999.0,3
-"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB Neo black, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TZ5NR",Ram,13599.0,0
-"48gb (dual) ddr5 8000 G.Skill Trident Z5 RGB Neo black, CL40-48 1.4v, pn: F5-8000J4048G24GX2-TZ5NR",Ram,18599.0,0
-"48gb (dual) ddr5 8000 G.Skill Trident Z5 RGB black, CL40-48 1.35v, pn: F5-8000J4048F24GX2-TZ5RK",Ram,17500.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-TZ5NR",Ram,15150.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5NR",Ram,15199.0,2
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL30-36 1.4v, pn: F5-6000J3036G32GX2-TZ5NRW",Ram,16699.0,2
-"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL30-36 1.35v, pn: FF3D532G6000HC30DC01",Ram,7999.0,0
-"32gb (dual) ddr5 6400 Kingston Fury Beast white, CL32-39 1.4v, pn: KF564C32BWK2-32",Ram,7899.0,0
-"32gb (dual) ddr5 6800 Kingston Fury Beast white, CL35-45 1.4v, pn: KF568C34BWK2-32",Ram,10500.0,0
-"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB Neo white, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TZ5NRW",Ram,13999.0,0
-"32gb (dual) ddr5 6000 Tforce Xtreem aRGB white, CL30-36 1.35v, pn: FFAD532G6000HC30DC01",Ram,8199.0,0
-"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL30-38 1.35v, pn: F5-6000J3038F16GX2-FX5",Ram,7299.0,0
-"32gb (dual) ddr5 7200 Tforce Xtreem aRGB white, CL34-42 1.4v, pn: FFAD532G7200HC34ADC01",Ram,9299.0,0
-"64gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-FX5",Ram,10999.0,0
-"64gb (dual) ddr5 6000 G.Skill Flare X5 white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-FX5W",Ram,10999.0,0
-"64gb (dual) ddr5 6000 G.Skill Flare X5 black, CL30-40 1.35v, pn: F5-6000J3040G32GX2-FX5",Ram,13799.0,0
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-RM6NRK",Ram,11899.0,0
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-RM5NRW",Ram,11899.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5NRK",Ram,12399.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5NRW",Ram,12399.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5RK",Ram,12999.0,0
-"64gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-RS5K",Ram,13650.0,0
-"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-RM5NRK",Ram,11899.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5NR",Ram,12399.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo gold, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TR5NG",Ram,13299.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TR5NS",Ram,10999.0,0
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal Neo gold, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TR5NG",Ram,13199.0,0
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal Neo silver, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TR5NS",Ram,12999.0,0
-"32gb (dual) ddr5 8000 G.Skill Trident Z5 Royal Neo silver, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TR5NS",Ram,13999.0,0
-"48gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo gold, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TR5NG",Ram,20999.0,0
-"48gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TR5NS",Ram,18750.0,0
-"48gb (dual) ddr5 8000 G.Skill Trident Z5 Royal Neo silver, CL40-48 1.4v, pn: F5-8000J4048G24GX2-TR5NS",Ram,17550.0,0
-"64gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL30-36 1.4v, pn: F5-6000J3036G32GX2-TR5NS",Ram,18999.0,0
-"96gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL28-36 1.35v, pn: F5-6000J2836F48GX2-TR5NS",Ram,33999.0,0
-"16gb ddr5 6000 Tforce Delta RGB black, CL38-46 1.25v, pn: FF3D516G6000HC38G01",Ram,3399.0,0
-"16gb ddr5 6000 Tforce Delta RGB white, CL38-46 1.25v, pn: FF4D516G6000HC38G01",Ram,3399.0,0
-"32gb (dual) ddr5 6000 Tforce T-Create Expert, black, CL30-36 1.35v, pn: CTCED532G6000HC30DC01",Ram,6799.0,0
-"32gb (dual) ddr5 6000 Tforce T-Create Expert, white, CL30-36 1.35v, pn: CTCWD532G6000HC30DC01",Ram,6799.0,0
-"32gb (dual) ddr5 6000 Tforce Xtreem aRGB black, CL30-36 1.35v, pn: FF9D532G6000HC30DC01",Ram,8199.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.25v, pn: FF3D532G6000HC38AGC01",Ram,7599.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-46 1.25v, pn: FF4D532G6000HC38AGC01",Ram,7599.0,0
-"32gb (dual) ddr5 7200 Tforce Xtreem aRGB black, CL34-42 1.4v, pn: FF9D532G7200HC34ADC01",Ram,9299.0,0
-"64gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.35v, pn: FF3D564G6000HC38GDC01",Ram,12799.0,0
-"64gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-46 1.35v, pn: FF4D564G6000HC38GDC01",Ram,12799.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.25v, pn: FF3D532G6000HC38GDC01",Ram,7599.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-46 1.25v, pn: FF4D532G6000HC38GDC01",Ram,7599.0,0
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo black, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TZ5NR",Ram,8699.0,0
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo white, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TZ5NRW",Ram,8699.0,0
-"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB gold, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TR5G",Ram,11599.0,0
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 Royal RGB gold, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TR5G",Ram,11799.0,0
-"32gb (dual) ddr5 7200 G.Skill Trident Z5 Royal RGB silver, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TR5S",Ram,10500.0,0
-"48gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL30-36 1.35v, pn: F5-6000J3036F24GX2-RM5NRK",Ram,11199.0,0
-"48gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL30-36 1.35v, pn: F5-6000J3036F24GX2-RM5NRW",Ram,11199.0,0
-"48gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TZ5NR",Ram,17799.0,0
-"48gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TZ5NRW",Ram,17799.0,0
-"96gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL28-36 1.35v, pn: F5-6000J2836F48GX2-TZ5NR",Ram,32999.0,0
-"8gb ddr5 6000 Kingston Fury Beast RGB black, CL30-36 1.4v, pn: KF560C30BBEA-8",Ram,2499.0,0
-"16gb ddr5 6000 Kingston Fury Beast black, CL36-44 1.35v, pn: KF560C36BBE2-16",Ram,3650.0,0
-"16gb ddr5 6000 Kingston Fury Beast RGB black, CL30-36 1.4v, pn: KF560C30BBEA-16",Ram,4150.0,0
-"8gb ddr4 3200 Dahua C300, CL22 1.2v, pn: DHI-DDR-C300U8G32",Ram,899.0,0
-"16gb ddr5 6000 G.Skill Aegis, CL36-36 1.35v, pn: F5-6000J3636F16GX1-IS",Ram,2899.0,0
-"32gb ddr5 6000 Tforce Delta RGB black, CL38-46 1.35v, pn: FF3D532G6000HC38G01",Ram,6499.0,0
-"32gb ddr5 6000 Tforce Delta RGB white, CL38-46 1.35v, pn: FF4D532G6000HC38G01",Ram,6499.0,0
-"32gb ddr5 6000 G.Skill Aegis, CL36-36 1.35v, pn: F5-6000J3636F32GX1-IS",Ram,5299.0,0
-"16gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D516G6000HC38ADC01",Ram,3999.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TZ5NR",Ram,9250.0,0
-"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TZ5NRW",Ram,9250.0,0
-"32gb (dual) ddr5 7600 Tforce Delta RGB black, CL36-46 1.4v, pn: FF3D532G7600HC36DDC01",Ram,9750.0,0
-"32gb (dual) ddr5 7600 Tforce Delta RGB white, CL36-46 1.4v, pn: FF4D532G7600HC36DDC01",Ram,9750.0,0
-"32gb (dual) ddr5 8000 Tforce Delta RGB black, CL38-48 1.45v, pn: FF3D532G8000HC38DDC01",Ram,11550.0,0
-"32gb (dual) ddr5 8000 Tforce Delta RGB white, CL38-48 1.45v, pn: FF4D532G8000HC38DDC01",Ram,11550.0,0
-"48gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo black, CL32-39 1.35v, pn: F5-6400J3239F24GX2-TZ5NR",Ram,10950.0,0
-"48gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo white, CL32-39 1.35v, pn: F5-6400J3239F24GX2-TZ5NRW",Ram,10950.0,0
-"48gb (dual) ddr5 8000 Tforce Delta RGB black, CL38-49 1.4v, pn: FF3D548G8000HC38EDC01",Ram,15699.0,0
-"48gb (dual) ddr5 8000 G.Skill Trident Z5 Royal RGB silver, CL40-48 1.35v, pn: F5-8000J4048F24GX2-TR5S",Ram,16500.0,0
-"48gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL40-48 1.35v, pn: F5-6000J4048F24GX2-TZ5NR",Ram,9599.0,0
-"16gb sodimm ddr5 5600 Kingston CL46 1.1v, pn: KVR56S46BS8-16",Ram,2880.0,0
-"32gb sodimm ddr5 5600 Kingston CL46 1.1v, pn: KVR56S46BD8-32",Ram,5350.0,0
-"48gb (dual) ddr5 6400 Tforce Delta RGB black, CL32-39 1.35v, pn: FF3D548G6400HC32ADC01",Ram,10599.0,0
-"48gb (dual) ddr5 6400 Tforce Delta RGB white, CL32-39 1.35v, pn: FF4D548G6400HC32ADC01",Ram,10599.0,0
-"32gb (dual) ddr5 6400 Kingston Fury Beast RGB black, CL32-39 1.4v, pn: KF564C32BBEAK2-32",Ram,9899.0,0
-"32gb (dual) ddr5 6400 Kingston Fury Beast RGB white, CL32-39 1.4v, pn: KF564C32BWEAK2-32",Ram,9899.0,0
-"64gb (dual) ddr5 6400 Kingston Fury Beast RGB black, CL32-39 1.40v, pn: KF564C32BBAK2-64",Ram,16799.0,1
-"64gb (dual) ddr5 6400 Kingston Fury Beast RGB white, CL32-39 1.4v, pn: KF564C32BWEAK2-64",Ram,15099.0,0
-"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.35v, pn: FF3D532G6000HC38JDC01",Ram,6499.0,0
-"64gb (dual) ddr5 6400 Kingston Fury Beast, CL32-39 1.4v, pn: KF564C32BBK2-64",Ram,15399.0,3
-"64gb (dual) ddr5 6400 Kingston Fury Beast RGB black, CL32-39 1.4v, pn: KF564C32BBAK2-64",Ram,16699.0,1
-"8gb ddr5 5600 Kingston Fury Beast black, CL36-36 1.25v, pn: KF556C36BBE-8",Ram,1850.0,0
-"8gb ddr5 6000 Kingston Fury Beast black, CL30-36 1.4v, pn: KF560C30BBE-8",Ram,2299.0,0
-"16gb ddr5 6000 Kingston Fury Beast RGB black, CL36-44 1.35v, pn: KF560C36BBE2A-16",Ram,4299.0,0
-"16gb (dual) ddr5 6000 Kingston Fury Beast, CL30-36 1.4v, pn: KF560C30BBK2-16",Ram,4480.0,0
-"16gb (dual) ddr5 6000 Kingston Fury Beast RGB, CL30-36 1.4v, pn: KF560C30BBEAK2-16",Ram,4199.0,0
-"8gb sodimm ddr5 3200 Transcend C22 1.2v, pn: JM3200HSG-8G",Ram,1199.0,0
-"16gb sodimm ddr5 3200 Transcend C22 1.2v, pn: JM3200HSE-16G",Ram,2080.0,0
-"8gb sodimm ddr5 5600 Transcend CL46 1.1v, pn: JM5600ASG-8G",Ram,1699.0,0
-"16gb sodimm ddr5 5600 Transcend CL46 1.1v, pn: JM5600ASE-16G",Ram,2999.0,0
-"8gb sodimm ddr4 3200 Transcend C22 1.2v, pn: JM3200HSG-8G",Ram,1199.0,0
-"16gb sodimm ddr4 3200 Transcend C22 1.2v, pn: JM3200HSE-16G",Ram,2080.0,0
-"96gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL30-36 1.35v, pn: F5-6000J3036F48GX2-TZ5RK",Ram,25550.0,0
-"8gb ddr4 3200 Kingston, CL22 1.2v, pn: KVR32N22S6/8",Ram,1920.0,0
-"16gb ddr4 3200 Kingston, CL22 1.2v, pn: KVR32N22S8/16",Ram,3499.0,0
-"16gb ddr4 3200 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3200C16S-16GVK",Ram,2799.0,0
-"16gb (dual) ddr4 3200 G.Skill Trident Z Neo, CL16 1.35v, pn: F4-3200C16D-16GTZN",Ram,4399.0,0
-"16gb (dual) ddr4 3200 G.Skill Trident Z RGB black, CL16 1.35v, pn: F4-3200C16D-16GTZR",Ram,4099.0,0
-"32gb (dual) ddr4 3600 G.Skill Trident Z RGB black, CL18 1.35v, pn: F4-3600C18D-32GTZR",Ram,7599.0,0
-"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-FX5",Ram,7650.0,0
-"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL28-36 1.40v, pn: F5-6000J2836G32GX2-RM5NRK",Ram,16999.0,0
-"32gb (dual) ddr5 6000 Patriot Xtreme 5 RGB MPOWER, CL30-40 1.35v, pn: PVXR532G60C30KM",Ram,6999.0,0
+item_name,category_name,item_price_in_php,stocks,total_capacity_gb,modules,ddr_gen,mhz,cl,voltage
+"8gb ddr4 2666 Kingston Fury Beast, CL16 1.2v, pn: KF426C16BB/8",Ram,1399.0,9,8,"1,8",4,2666,16,1.2
+"8gb ddr4 3200 Kingston Fury Beast, CL16 1.35v, pn: KF432C16BB/8",Ram,1499.0,19,8,"1,8",4,3200,16,1.35
+"8gb ddr4 3200 Kingston Fury Beast RGB, CL16 1.35v, pn: KF432C16BBA/8 | KF432C16BB2A/8",Ram,1899.0,5,8,"1,8",4,3200,16,1.35
+"8gb ddr4 3200 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3200C16S-8GVKB",Ram,1299.0,3,8,"1,8",4,3200,16,1.35
+"8gb ddr4 3600 Kingston Fury Beast RGB, CL17 1.35v, pn: KF436C17BBA/8 | KF436C17BB2A/8",Ram,1999.0,26,8,"1,8",4,3600,17,1.35
+"16gb ddr4 2666 Kingston Fury Beast, CL16 1.2v, pn: KF426C16BB1/16 | KF426C16BB/16",Ram,2380.0,4,16,"1,16",4,2666,16,1.2
+"16gb ddr4 3200 Kingston Fury Beast, CL16 1.35v, pn: KF432C16BB/16 | KF432C16BB1/16",Ram,2599.0,8,16,"1,16",4,3200,16,1.35
+"16gb ddr4 3600 Kingston Fury Beast, CL18 1.35v, pn: KF436C18BB/16",Ram,2950.0,18,16,"1,16",4,3600,18,1.35
+"16gb ddr4 3600 Kingston Fury Beast RGB, CL18 1.35v, pn: KF436C18BB2A/16",Ram,3399.0,7,16,"1,16",4,3600,18,1.35
+"16gb ddr4 3600 Patriot Viper Steel, CL18 1.35v, pn: PVS416G360C8",Ram,1880.0,0,16,"1,16",4,3600,18,1.35
+"16gb (dual) ddr4 3200 Kingston Fury Beast RGB, CL16 1.35v, pn: KF432C16BBAK2/16 | KF432C16BB2AK2/16",Ram,3099.0,11,16,"2,8",4,3200,16,1.35
+"16gb (dual) ddr4 3600 Tforce Delta RGB black, CL18 1.35v, pn: TF3D416G3600HC18JDC01",Ram,3599.0,14,16,"2,8",4,3600,18,1.35
+"16gb (dual) ddr4 3600 Tforce Delta RGB white, CL18 1.35v, pn: TF4D416G3600HC18JDC01",Ram,3599.0,9,16,"2,8",4,3600,18,1.35
+"16gb (dual) ddr4 3600 Kingston Fury Beast RGB, CL17 1.35v, pn: KF436C17BBAK2/16 | KF436C17BB2AK2/16",Ram,3699.0,6,16,"2,8",4,3600,17,1.35
+"16gb (dual) ddr4 3600 Kingston Fury Beast, CL17 1.35v, pn: KF436C17BBK2/16",Ram,2950.0,1,16,"2,8",4,3600,17,1.35
+"16gb (dual) ddr4 3600 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3600C16D-16GVKC",Ram,3199.0,5,16,"2,8",4,3600,16,1.35
+"16gb (dual) ddr4 3600 G.Skill Ripjaws V black, CL18 1.35v, pn: F4-3600C18D-16GVK",Ram,2725.0,25,16,"2,8",4,3600,18,1.35
+"16gb (dual) ddr4 3600 G.Skill Trident Z RGB black, CL18 1.35v, pn: F4-3600C18D-16GTZRX",Ram,3880.0,0,16,"2,8",4,3600,18,1.35
+"16gb (dual) ddr4 3600 G.Skill Trident Z Neo, CL18 1.35v, pn: F4-3600C18D-16GTZN",Ram,3480.0,0,16,"2,8",4,3600,18,1.35
+"16gb (dual) ddr4 3600 G.Skill Trident Z Neo, CL16 1.35v, pn: F4-3600C16D-16GTZNC",Ram,4480.0,0,16,"2,8",4,3600,16,1.35
+"32gb (dual) ddr4 3600 Tforce Delta RGB black, CL18 1.35v, pn: TF3D432G3600HC18JDC01",Ram,5499.0,7,32,"2,16",4,3600,18,1.35
+"32gb (dual) ddr4 3600 Tforce Delta RGB white, CL18 1.35v, pn: TF4D432G3600HC18JDC01",Ram,5499.0,3,32,"2,16",4,3600,18,1.35
+"32gb (dual) ddr4 3600 Kingston Fury Beast RGB, CL18 1.35v, pn: KF436C18BBAK2/32 | KF436C18BB2AK2/32",Ram,5399.0,0,32,"2,16",4,3600,18,1.35
+"32gb (dual) ddr4 3600 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3600C16D-32GVKC",Ram,5599.0,8,32,"2,16",4,3600,16,1.35
+"32gb (dual) ddr4 3600 G.Skill Trident Z Royal silver, CL18 1.35v, pn: F4-3600C18D-32GTRS",Ram,7399.0,0,32,"2,16",4,3600,18,1.35
+"64gb (dual) ddr4 3600 Kingston Fury Beast RGB, CL18 1.35v, pn: KF436C18BBAK2/64 | KF436C18BB2AK2/64",Ram,8999.0,10,64,"2,32",4,3600,18,1.35
+"64gb (dual) ddr4 3600 Patriot Viper Steel, CL18 1.35v, pn: PVS464G360C8K",Ram,8099.0,11,64,"2,32",4,3600,18,1.35
+"16gb ddr5 5200 Patriot Venom, CL36 1.2v, pn: PVV516G52C36",Ram,2499.0,0,16,"1,16",5,5200,36,1.2
+"16gb ddr5 5200 Patriot Venom RGB, CL36 1.2v, pn: PVVR516G52C36",Ram,2880.0,0,16,"1,16",5,5200,36,1.2
+"16gb ddr5 5600 Kingston Fury Beast black, CL36 1.25v, pn: KF556C36BBE-16",Ram,3899.0,2,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Kingston Fury Beast RGB black, CL36 1.25v, pn: KF556C36BBEA-16",Ram,4199.0,29,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Patriot Venom, CL36 1.25v, pn: PVV516G56C36",Ram,2680.0,0,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Patriot Venom RGB, CL36 1.25v, pn: PVVR516G56C36",Ram,3199.0,0,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Transcend CL46, pn: JM5600ALE-16G",Ram,3199.0,2,16,"1,16",5,5600,46,
+"16gb ddr5 6000 Kingston Fury Beast white, CL40 1.35v, pn: KF560C40BW-16",Ram,4380.0,17,16,"1,16",5,6000,40,1.35
+"16gb ddr5 6000 Kingston Fury Beast RGB white, CL40 1.35v, pn: KF560C40BWA-16",Ram,4380.0,2,16,"1,16",5,6000,40,1.35
+"16gb ddr5 6000 Kingston Fury Renegade RGB white, CL32 1.35v, pn: KF560C32RWA-16",Ram,4480.0,7,16,"1,16",5,6000,32,1.35
+"16gb ddr5 6000 Patriot Venom, CL30 1.35v, pn: PVV516G60C30",Ram,2899.0,0,16,"1,16",5,6000,30,1.35
+"16gb ddr5 6000 Patriot Venom RGB, CL30 1.35v, pn: PVVR516G60C30",Ram,3499.0,0,16,"1,16",5,6000,30,1.35
+"16gb ddr5 6000 Tforce Delta RGB black, CL38 1.25v, pn: FF3D516G6000HC38A01",Ram,3799.0,3,16,"1,16",5,6000,38,1.25
+"16gb ddr5 6000 Tforce Delta RGB white, CL38 1.25v, pn: FF4D516G6000HC38A01",Ram,3799.0,2,16,"1,16",5,6000,38,1.25
+"32gb ddr5 5200 Patriot Venom, CL36 1.2v, pn: PVV532G52C36",Ram,4699.0,0,32,"1,32",5,5200,36,1.2
+"32gb ddr5 5200 Patriot Venom RGB, CL36 1.2v, pn: PVVR532G52C36",Ram,5199.0,0,32,"1,32",5,5200,36,1.2
+"32gb ddr5 5600 Patriot Venom, CL36 1.25v, pn: PVV532G56C36",Ram,5199.0,0,32,"1,32",5,5600,36,1.25
+"32gb ddr5 5600 Patriot Venom RGB, CL36 1.25v, pn: PVVR532G56C36",Ram,5599.0,0,32,"1,32",5,5600,36,1.25
+"32gb ddr5 6000 Kingston Fury Beast white, CL40 1.35v, pn: KF560C40BW-32",Ram,6699.0,5,32,"1,32",5,6000,40,1.35
+"32gb ddr5 6000 Kingston Fury Beast RGB white, CL40 1.35v, pn: KF560C40BWA-32",Ram,7199.0,6,32,"1,32",5,6000,40,1.35
+"32gb ddr5 6000 Patriot Venom, CL30 1.35v, pn: PVV532G60C30",Ram,5599.0,0,32,"1,32",5,6000,30,1.35
+"32gb ddr5 6000 Patriot Venom RGB, CL30 1.35v, pn: PVVR532G60C30",Ram,6299.0,0,32,"1,32",5,6000,30,1.35
+"16gb (dual) ddr5 5200 Kingston Fury Beast, CL40 1.25v, pn: KF552C40BBK2-16",Ram,3880.0,11,16,"2,8",5,5200,40,1.25
+"16gb (dual) ddr5 5600 Patriot Venom, CL40 1.25v, pn: PVV516G560C40K",Ram,3799.0,5,16,"2,8",5,5600,40,1.25
+"16gb (dual) ddr5 6000 Kingston Fury Beast, CL40 1.35v, pn: KF560C40BBK2-16",Ram,4280.0,0,16,"2,8",5,6000,40,1.35
+"16gb (dual) ddr5 6000 Kingston Fury Beast RGB, CL40 1.35v, pn: KF560C40BBAK2/16",Ram,5399.0,2,16,"2,8",5,6000,40,1.35
+"32gb (dual) ddr5 5200 Corsair Dominator Platinum black, CL40 1.25v, pn: CMT32GX5M2B5200C40",Ram,7899.0,1,32,"2,16",5,5200,40,1.25
+"32gb (dual) ddr5 5200 Corsair Dominator Platinum white, CL40 1.25v, pn: CMT32GX5M2B5200C40W",Ram,7899.0,0,32,"2,16",5,5200,40,1.25
+"32gb (dual) ddr5 5600 Kingston Fury Beast, CL36 1.25v, pn: KF556C36BBEK2-32",Ram,6699.0,0,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL36 1.25v, pn: KF556C36BBEAK2-32",Ram,6999.0,0,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 5600 Patriot Venom, CL36 1.25v, pn: PVV532G560C36K",Ram,5350.0,5,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 5600 G.Skill Trident Z5 RGB silver, CL36 1.2v, pn: F5-5600J3636C16GX2-TZ5RS",Ram,8280.0,2,32,"2,16",5,5600,36,1.2
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL36 1.2v, pn: F5-5600J3636C16GX2-RS5K",Ram,7399.0,0,32,"2,16",5,5600,36,1.2
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL36 1.2v, pn: F5-5600J3636C16GX2-RS5W",Ram,7399.0,0,32,"2,16",5,5600,36,1.2
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46 1.1v, pn: F5-5600J4645A16GX2-RS5K",Ram,6280.0,0,32,"2,16",5,5600,46,1.1
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46 1.1v, pn: F5-5600J4645A16GX2-RS5W",Ram,6280.0,0,32,"2,16",5,5600,46,1.1
+"32gb (dual) ddr5 5600 Corsair Dominator Platinum white, CL36 1.25v, pn: CMT32GX5M2B5600C36W",Ram,9999.0,1,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 6000 Kingston Fury Beast, CL36 1.35v, AMD EXPO, pn: KF560C36BBEK2-32 | KF560C36BBE2K2-32",Ram,7799.0,4,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Kingston Fury Beast, CL40 1.25v, pn: KF560C40BBK2-32",Ram,7799.0,2,32,"2,16",5,6000,40,1.25
+"32gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36 1.35v, pn: PVER532G60C36KT",Ram,7799.0,2,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Patriot Venom, CL36 1.35v, pn: PVV532G600C36K",Ram,5799.0,5,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL30 1.35v, pn: FF4D532G6000HC30DC01",Ram,8099.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38 1.25v, pn: FF3D532G6000HC38ADC01",Ram,7850.0,6,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38 1.25v, pn: FF4D532G6000HC38ADC01",Ram,7850.0,0,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36 1.25v, pn: F5-6000J3648D16GX2-FX5",Ram,6399.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL32 1.35v, pn: F5-6000J3238F16GX2-FX5",Ram,7150.0,2,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.25v, AMD EXPO, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6999.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.25v, AMD EXPO, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6999.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32 1.35v, pn: F5-6000J3238F16GX2-RM5RK",Ram,7699.0,4,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32 1.35v, pn: F5-6000J3238F16GX2-RM5RW",Ram,7699.0,4,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5NR",Ram,8650.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32 1.35v, pn: F5-6000J3238F16GX2-TZ5NR",Ram,8525.0,5,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30 1.35v, pn: F5-6000J3038F16GX2-TZ5NR",Ram,8650.0,10,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30 1.35v, pn: F5-6000J3036F16GX2-TZ5NRW",Ram,9150.0,4,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5RK",Ram,8525.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB silver, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5RS",Ram,8525.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36 1.35v, pn: F5-6000J3636F16GX2-TZ5RW",Ram,8525.0,1,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32 1.35v, pn: F5-6000J3238F16GX2-TZ5RK",Ram,7999.0,4,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL32 1.35v, pn: F5-6000J3238F16GX2-TZ5RW",Ram,7999.0,3,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL32 1.35v, pn: F5-6000J3238F16GX2-RS5K",Ram,7150.0,0,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL32 1.35v, pn: F5-6000J3238F16GX2-RS5W",Ram,7150.0,0,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36 1.25v, pn: F5-6000J3648D16GX2-RS5K",Ram,6299.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL36 1.25v, pn: F5-6000J3648D16GX2-RS5W",Ram,6299.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36 1.25v, pn: CMT32GX5M2X6000C36",Ram,9999.0,1,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36 1.35v, pn: CMT32GX5M2E6000C36",Ram,9699.0,2,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36 1.35v, AMD EXPO, pn: CMT32GX5M2D6000Z36",Ram,10599.0,2,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Corsair Dominator Titanium black, CL30 1.4v, pn: CMP32GX5M2B6000C30",Ram,10999.0,2,32,"2,16",5,6000,30,1.4
+"32gb (dual) ddr5 6000 Corsair Dominator Titanium white, CL30 1.4v, pn: CMP32GX5M2B6000C30W",Ram,10999.0,0,32,"2,16",5,6000,30,1.4
+"32gb (dual) ddr5 6200 Patriot Elite 5 White, CL42 1.35v, pn: PVER532G62C42KW",Ram,7750.0,2,32,"2,16",5,6200,42,1.35
+"32gb (dual) ddr5 6200 Patriot Venom, CL40 1.35v, pn: PVV532G620C40K",Ram,6299.0,0,32,"2,16",5,6200,40,1.35
+"32gb (dual) ddr5 6000 Patriot Venom RGB, CL36 1.35v, pn: PVVR532G600C36K",Ram,6550.0,3,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6200 Corsair Dominator Platinum black, CL36 1.30v, pn: CMT32GX5M2X6200C36",Ram,9899.0,2,32,"2,16",5,6200,36,1.3
+"32gb (dual) ddr5 6200 Patriot Venom RGB, CL40 1.35v, pn: PVVR532G620C40K",Ram,7999.0,2,32,"2,16",5,6200,40,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB black, CL40 1.35v, pn: FF3D532G6400HC32ADC01",Ram,7799.0,4,32,"2,16",5,6400,40,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB white, CL40 1.35v, pn: FF4D532G6400HC32ADC01",Ram,7799.0,5,32,"2,16",5,6400,40,1.35
+"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32 1.4v, pn: F5-6400J3239G16GX2-RM5RK",Ram,7150.0,3,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32 1.4v, pn: F5-6400J3239G16GX2-RM5RW",Ram,7150.0,3,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB black, CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5NR",Ram,8999.0,5,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB white CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5NRW",Ram,8999.0,2,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5RK",Ram,8299.0,4,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32 1.4v, pn: F5-6400J3239G16GX2-TZ5RW",Ram,8299.0,2,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32 1.4v, pn: F5-6400J3239G16GX2-TR5S",Ram,9399.0,4,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 Corsair Dominator Platinum black, CL32 1.4v, pn: CMT32GX5M2B6400C32",Ram,11500.0,2,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6600 Patriot Elite 5 White, CL36 1.4v, pn: PVER532G66C36KW",Ram,8225.0,2,32,"2,16",5,6600,36,1.4
+"32gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34 1.4v, pn: PVER532G66C34KT",Ram,8550.0,2,32,"2,16",5,6600,34,1.4
+"32gb (dual) ddr5 6600 Corsair Dominator Titanium black, CL32 1.4v, pn: CMP32GX5M2X6600C32",Ram,11999.0,4,32,"2,16",5,6600,32,1.4
+"32gb (dual) ddr5 6600 Corsair Dominator Titanium white, CL32 1.4v, pn: CMP32GX5M2X6600C32W",Ram,11999.0,1,32,"2,16",5,6600,32,1.4
+"32gb (dual) ddr5 7200 Corsair Dominator Titanium black, CL34 1.45v, pn: CMP32GX5M2X7200C34",Ram,13450.0,2,32,"2,16",5,7200,34,1.45
+"32gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36 1.45v, pn: PVXR532G76C36K",Ram,9799.0,1,32,"2,16",5,7600,36,1.45
+"32gb (dual) ddr5 7800 Patriot Xtreme 5 RGB, CL38 1.45v, pn: PVXR532G78C38K",Ram,10999.0,2,32,"2,16",5,7800,38,1.45
+"32gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38 1.45v, pn: PVXR532G80C38K",Ram,12725.0,1,32,"2,16",5,8000,38,1.45
+"48gb (dual) ddr5 6000 Patriot Elite 5 White, CL42 1.35v, pn: PVER548G60C42KW",Ram,10350.0,2,48,"2,24",5,6000,42,1.35
+"48gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36 1.35v, pn: PVER548G60C36KT",Ram,9980.0,2,48,"2,24",5,6000,36,1.35
+"48gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34 1.4v, pn: PVER548G66C34KT",Ram,11799.0,2,48,"2,24",5,6600,34,1.4
+"48gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36 1.45v, pn: PVXR548G76C36K",Ram,13999.0,1,48,"2,24",5,7600,36,1.45
+"48gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38 1.45v, pn: PVXR548G80C38K",Ram,15999.0,2,48,"2,24",5,8000,38,1.45
+"64gb (dual) ddr5 5600 Kingston Fury Beast, CL40 1.25v, pn: KF556C40BBK2-64",Ram,12999.0,3,64,"2,32",5,5600,40,1.25
+"64gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL40 1.25v, pn: KF556C40BBAK2-64",Ram,13899.0,2,64,"2,32",5,5600,40,1.25
+"64gb (dual) ddr5 5600 G.Skill Trident Z5 RGB black, CL36 1.25v, pn: F5-5600J3636D32GX2-TZ5RK",Ram,14399.0,3,64,"2,32",5,5600,36,1.25
+"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46 1.1v, pn: F5-5600J4645A32GX2-RS5K",Ram,11499.0,0,64,"2,32",5,5600,46,1.1
+"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46 1.1v, pn: F5-5600J4645A32GX2-RS5W",Ram,11499.0,0,64,"2,32",5,5600,46,1.1
+"64gb (dual) ddr5 6000 Kingston Fury Renegade RGB white, CL32 1.35v, pn: KF560C32RWAK2-64",Ram,14299.0,3,64,"2,32",5,6000,32,1.35
+"64gb (dual) ddr5 6000 Patriot Venom, CL36 1.35v, pn: PVV564G600C36K",Ram,11750.0,3,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 Tforce Delta RGB black, CL38 1.25v, pn: FF3D564G6000HC38ADC01",Ram,13999.0,2,64,"2,32",5,6000,38,1.25
+"64gb (dual) ddr5 6000 Tforce Delta RGB white, CL38 1.25v, pn: FF4D564G6000HC38ADC01",Ram,13999.0,2,64,"2,32",5,6000,38,1.25
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32 1.4v, pn: F5-6000J3238G32GX2-RM5RK",Ram,14650.0,3,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32 1.4v, pn: F5-6000J3238G32GX2-RM5RW",Ram,14650.0,1,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32 1.4v, pn: F5-6000J3238G32GX2-TZ5NR",Ram,15150.0,2,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30 1.4v, pn: F5-6000J3040G32GX2-TZ5NR",Ram,15280.0,3,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30 1.4v, pn: F5-6000J3036G32GX2-TZ5NRW",Ram,16280.0,1,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36 1.35v, pn: F5-6000J3636F32GX2-TZ5RW",Ram,14399.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32 1.4v, pn: F5-6000J3238G32GX2-TZ5RK",Ram,15399.0,2,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL30 1.4v, pn: F5-6000J3040G32GX2-TZ5RW",Ram,15150.0,0,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL40 1.35v, pn: CMT64GX5M2B6000C40",Ram,15699.0,0,64,"2,32",5,6000,40,1.35
+"64gb (dual) ddr5 6200 Patriot Elite 5 White, CL42 1.35v, pn: PVER564G62C42KW",Ram,13180.0,2,64,"2,32",5,6200,42,1.35
+"64gb (dual) ddr5 6400 Patriot Venom, CL32 1.4v, pn: PVV564G640C32K",Ram,12999.0,3,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32 1.4v, pn: F5-6400J3239G32GX2-RM5RK",Ram,15150.0,4,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32 1.4v, pn: F5-6400J3239G32GX2-RM5RW",Ram,15150.0,4,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32 1.4v, pn: F5-6400J3239G32GX2-TZ5RK",Ram,15525.0,0,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32 1.4v, pn: F5-6400J3239G32GX2-TZ5RW",Ram,15525.0,1,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32 1.4v, pn: F5-6400J3239G32GX2-TR5S",Ram,17799.0,2,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Corsair Dominator Platinum black, CL32 1.40v, pn: CMT64GX5M2B6400C32",Ram,18399.0,4,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6600 Corsair Dominator Platinum black, CL32 1.40v, pn: CMT64GX5M2B6600C32",Ram,18699.0,3,64,"2,32",5,6600,32,1.4
+"96gb (dual) ddr5 6000 Patriot Elite 5 White, CL42 1.35v, pn: PVER596G60C42KW",Ram,19699.0,0,96,"2,48",5,6000,42,1.35
+"8gb sodimm ddr4 2666 Kingston CL19 1.2v, pn: KVR26S19S6/8 | KVR26S19S8/8",Ram,1299.0,3,8,"1,8",4,2666,19,1.2
+"8gb sodimm ddr4 3200 Kingston CL22 1.2v, pn: KVR32S22S6/8 | KVR32S22S8/8",Ram,1475.0,2,8,"1,8",4,3200,22,1.2
+"8gb sodimm ddr4 3200 Team Elite CL22 1.2V, pn: TED48G3200C22-S01",Ram,1099.0,18,8,"1,8",4,3200,22,1.2
+"16gb sodimm ddr4 2666 Kingston CL19 1.2v, pn: KVR26S19S8/16",Ram,2550.0,5,16,"1,16",4,2666,19,1.2
+"16gb sodimm ddr4 3200 Kingston CL22 1.2v, pn: KVR32S22S8/16 | KVR32S22D8/16",Ram,2850.0,3,16,"1,16",4,3200,22,1.2
+"16gb sodimm ddr4 3200 Patriot CL22 1.2V, pn: PSD416G320081S",Ram,2650.0,6,16,"1,16",4,3200,22,1.2
+"8gb sodimm ddr5 4800 Adata CL40 1.1v, pn: AD5S48008G-S",Ram,1699.0,0,8,"1,8",5,4800,40,1.1
+"8gb sodimm ddr5 4800 Kingston CL40 1.1v, pn: KVR48S40BS6-8",Ram,2050.0,2,8,"1,8",5,4800,40,1.1
+"8gb sodimm ddr5 5600 Kingston CL46 1.1v, pn: KVR56S46BS6-8",Ram,2150.0,8,8,"1,8",5,5600,46,1.1
+"8gb sodimm ddr5 5600 Patriot CL46 1.1V, pn: PSD58G560041S",Ram,2225.0,67,8,"1,8",5,5600,46,1.1
+"16gb sodimm ddr5 4800 Kingston CL40 1.1v, pn: KVR48S40BS8-16",Ram,3050.0,15,16,"1,16",5,4800,40,1.1
+"16gb sodimm ddr5 5600 Kingston Impact CL40 1.1v, pn: KF556S40IB-16",Ram,3950.0,8,16,"1,16",5,5600,40,1.1
+"16gb sodimm ddr5 5600 Patriot CL46 1.1V, pn: PSD516G560081S",Ram,3399.0,5,16,"1,16",5,5600,46,1.1
+"32gb sodimm ddr5 5600 Kingston Impact CL40 1.1v, pn: KF556S40IB-32",Ram,6180.0,1,32,"1,32",5,5600,40,1.1
+"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB black, CL40 1.25v, pn: CMT32GX5M2B5200C40",Ram,7899.0,1,32,"2,16",5,5200,40,1.25
+"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB white, CL40 1.25v, pn: CMT32GX5M2B5200C40W",Ram,7899.0,0,32,"2,16",5,5200,40,1.25
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB black, CL34 1.4v, pn: F5-7200J3445G16GX2-TZ5NR",Ram,9999.0,0,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB white, CL34 1.4v, pn: F5-7200J3445G16GX2-TZ5NRW",Ram,9999.0,0,32,"2,16",5,7200,34,1.4
+"64gb (dual) ddr5 6000 Corsair Dominator Platinum RGB black, CL40 1.35v, pn: CMT64GX5M2B6000C40",Ram,15699.0,0,64,"2,32",5,6000,40,1.35
+"8gb ddr4 3200 Patriot Viper Steel RGB, CL18 1.35v, pn: PVSR48G320C8",Ram,1280.0,0,8,"1,8",4,3200,18,1.35
+"16gb ddr4 3200 Patriot Viper Steel, CL16 1.35v, pn: PVS416G320C6",Ram,1680.0,0,16,"1,16",4,3200,16,1.35
+"16gb ddr4 3200 Patriot Viper Steel RGB, CL18 1.35v, pn: PVSR416G320C8",Ram,1880.0,0,16,"1,16",4,3200,18,1.35
+"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL36 1.35v, pn: KF560C36BWEK2-64",Ram,11999.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL30 1.40v, pn: KF560C30BWEK2-64",Ram,12999.0,0,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6400 Kingston Fury Beast, CL32 1.40v, pn: KF564C32BBK2-64",Ram,14950.0,0,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Kingston Fury Beast RGB, CL32 1.40v, pn: KF564C32BBAK2-64",Ram,15599.0,0,64,"2,32",5,6400,32,1.4
+"32gb (dual) ddr5 6400 Tforce Delta RGB black, CL32 1.35v, pn: FF3D532G6400HC32ADC01",Ram,7699.0,4,32,"2,16",5,6400,32,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB white, CL32 1.35v, pn: FF4D532G6400HC32ADC01",Ram,7699.0,5,32,"2,16",5,6400,32,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB silver, CL32 1.35v, pn: FF2D532G6400HC32ADC01",Ram,7699.0,0,32,"2,16",5,6400,32,1.35
+"16gb (dual) ddr4 3600 Tforce Delta RGB black, CL18 1.35v, pn: TF3D416G3600HC18JDC01 | TF9D416G3600HC18JDC01",Ram,3599.0,14,16,"2,8",4,3600,18,1.35
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB black, CL34 1.4v, pn: F5-7200J3445G16GX2-TZ5RK",Ram,9499.0,0,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7600 G.Skill Trident Z5 RGB black, CL36 1.4v, pn: F5-7600J3646G16GX2-TZ5RK",Ram,10799.0,0,32,"2,16",5,7600,36,1.4
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.35v, AMD EXPO, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.35v, AMD EXPO, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36 1.35v, pn: F5-6000J3636F16GX2-RS5K",Ram,6399.0,0,32,"2,16",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5NR",Ram,15199.0,3,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30-36 1.4v, pn: F5-6000J3036G32GX2-TZ5NRW",Ram,16699.0,0,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL30 1.4v, pn: F5-6000J3040G32GX2-TZ5RK",Ram,15150.0,0,64,"2,32",5,6000,30,1.4
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.25v, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6899.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.25v, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6899.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36 1.35v, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36 1.35v, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 7600 G.Skill Trident Z5 Royal silver, CL36 1.4v, pn: F5-7600J3646G16GX2-TR5S",Ram,11999.0,0,32,"2,16",5,7600,36,1.4
+"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB black, CL38 1.45v, pn: F5-8000J3848H16GX2-TZ5RK",Ram,13599.0,0,32,"2,16",5,8000,38,1.45
+"48gb (dual) ddr5 8000 G.Skill Trident Z5 Neo RGB black, CL40 1.4v, pn: F5-8000J4048G24GX2-TZ5NR",Ram,18599.0,0,48,"2,24",5,8000,40,1.4
+"16gb ddr5 5200 Patriot Venom, CL36-36 1.2v, pn: PVV516G52C36",Ram,2499.0,0,16,"1,16",5,5200,36,1.2
+"16gb ddr5 5200 Patriot Venom RGB, CL36-36 1.2v, pn: PVVR516G52C36",Ram,2880.0,7,16,"1,16",5,5200,36,1.2
+"16gb ddr5 5600 Kingston Fury Beast black, CL36-38 1.25v, pn: KF556C36BBE-16",Ram,3450.0,2,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Kingston Fury Beast RGB black, CL36-38 1.25v, pn: KF556C36BBEA-16",Ram,3299.0,25,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Patriot Venom, CL36-36 1.25v, pn: PVV516G56C36",Ram,2680.0,0,16,"1,16",5,5600,36,1.25
+"16gb ddr5 5600 Patriot Venom RGB, CL36-36 1.25v, pn: PVVR516G56C36",Ram,3199.0,1,16,"1,16",5,5600,36,1.25
+"16gb ddr5 6000 Kingston Fury Beast white, CL40-40 1.35v, pn: KF560C40BW-16",Ram,3750.0,15,16,"1,16",5,6000,40,1.35
+"16gb ddr5 6000 Kingston Fury Renegade RGB white, CL32-38 1.35v, pn: KF560C32RWA-16",Ram,4199.0,5,16,"1,16",5,6000,32,1.35
+"16gb ddr5 6000 Patriot Venom, CL30-40 1.35v, pn: PVV516G60C30",Ram,2899.0,0,16,"1,16",5,6000,30,1.35
+"16gb ddr5 6000 Patriot Venom RGB, CL30-40 1.35v, pn: PVVR516G60C30",Ram,3499.0,0,16,"1,16",5,6000,30,1.35
+"16gb ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D516G6000HC38A01",Ram,3799.0,6,16,"1,16",5,6000,38,1.25
+"16gb ddr5 6000 Tforce Delta RGB white, CL38-38 1.25v, pn: FF4D516G6000HC38A01",Ram,3799.0,3,16,"1,16",5,6000,38,1.25
+"32gb ddr5 5200 Patriot Venom, CL36-36 1.2v, pn: PVV532G52C36",Ram,4699.0,9,32,"1,32",5,5200,36,1.2
+"32gb ddr5 5200 Patriot Venom RGB, CL36-36 1.2v, pn: PVVR532G52C36",Ram,5199.0,9,32,"1,32",5,5200,36,1.2
+"32gb ddr5 5600 Patriot Venom, CL36-36 1.25v, pn: PVV532G56C36",Ram,5199.0,2,32,"1,32",5,5600,36,1.25
+"32gb ddr5 5600 Patriot Venom RGB, CL36-36 1.25v, pn: PVVR532G56C36",Ram,5599.0,2,32,"1,32",5,5600,36,1.25
+"32gb ddr5 6000 Kingston Fury Beast white, CL40-40 1.35v, pn: KF560C40BW-32",Ram,6699.0,9,32,"1,32",5,6000,40,1.35
+"32gb ddr5 6000 Kingston Fury Beast RGB white, CL40-40 1.35v, pn: KF560C40BWA-32",Ram,7250.0,6,32,"1,32",5,6000,40,1.35
+"32gb ddr5 6000 Patriot Venom, CL30-40 1.35v, pn: PVV532G60C30",Ram,5599.0,0,32,"1,32",5,6000,30,1.35
+"32gb ddr5 6000 Patriot Venom RGB, CL30-40 1.35v, pn: PVVR532G60C30",Ram,6299.0,2,32,"1,32",5,6000,30,1.35
+"16gb (dual) ddr5 5200 Kingston Fury Beast, CL40-40 1.25v, pn: KF552C40BBK2-16",Ram,3599.0,10,16,"2,8",5,5200,40,1.25
+"16gb (dual) ddr5 5600 Patriot Venom, CL40-40 1.25v, pn: PVV516G560C40K",Ram,3799.0,0,16,"2,8",5,5600,40,1.25
+"16gb (dual) ddr5 6000 Kingston Fury Beast, CL40-40 1.35v, pn: KF560C40BBK2-16",Ram,4280.0,14,16,"2,8",5,6000,40,1.35
+"16gb (dual) ddr5 6000 Kingston Fury Beast RGB, CL40-40 1.35v, pn: KF560C40BBAK2-16",Ram,5399.0,3,16,"2,8",5,6000,40,1.35
+"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB black, CL40-40 1.25v, pn: CMT32GX5M2B5200C40",Ram,7450.0,0,32,"2,16",5,5200,40,1.25
+"32gb (dual) ddr5 5200 Corsair Dominator Platinum RGB white, CL40-40 1.25v, pn: CMT32GX5M2B5200C40W",Ram,7450.0,0,32,"2,16",5,5200,40,1.25
+"32gb (dual) ddr5 5600 Kingston Fury Beast, CL36-38 1.25v, pn: KF556C36BBEK2-32",Ram,6599.0,12,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL36-38 1.25v, pn: KF556C36BBEAK2-32",Ram,7199.0,2,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 5600 Patriot Venom, CL36-36 1.25v, pn: PVV532G560C36K",Ram,5350.0,0,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 5600 G.Skill Trident Z5 RGB silver, CL36-36 1.2v, pn: F5-5600J3636C16GX2-TZ5RS",Ram,7099.0,1,32,"2,16",5,5600,36,1.2
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL36-36 1.2v, pn: F5-5600J3636C16GX2-RS5K",Ram,6150.0,2,32,"2,16",5,5600,36,1.2
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL36-36 1.2v, pn: F5-5600J3636C16GX2-RS5W",Ram,6150.0,0,32,"2,16",5,5600,36,1.2
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46-45 1.1v, pn: F5-5600J4645A16GX2-RS5K",Ram,6150.0,6,32,"2,16",5,5600,46,1.1
+"32gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46-45 1.1v, pn: F5-5600J4645A16GX2-RS5W",Ram,6150.0,4,32,"2,16",5,5600,46,1.1
+"32gb (dual) ddr5 5600 Corsair Dominator Platinum white, CL36-36 1.25v, pn: CMT32GX5M2B5600C36W",Ram,9450.0,1,32,"2,16",5,5600,36,1.25
+"32gb (dual) ddr5 6000 Kingston Fury Beast, CL36-44 1.35v, AMD EXPO, pn: KF560C36BBEK2-32 | KF560C36BBE2K2-32",Ram,7399.0,11,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Kingston Fury Beast, CL40-40 1.25v, pn: KF560C40BBK2-32",Ram,7299.0,4,32,"2,16",5,6000,40,1.25
+"32gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36-36 1.35v, pn: PVER532G60C36KT",Ram,7799.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Patriot Venom, CL36-36 1.35v, pn: PVV532G600C36K",Ram,5799.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL30-36 1.35v, pn: FF4D532G6000HC30DC01",Ram,7999.0,5,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D532G6000HC38ADC01",Ram,7699.0,11,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-38 1.25v, pn: FF4D532G6000HC38ADC01",Ram,7699.0,5,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-FX5",Ram,6299.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-FX5",Ram,7150.0,0,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6899.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6899.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RM5RK",Ram,7699.0,0,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RM5RW",Ram,7699.0,0,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,3,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 Neo RGB white, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,4,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5NR",Ram,8650.0,1,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5NR",Ram,8199.0,3,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL30-38 1.35v, pn: F5-6000J3038F16GX2-TZ5NR",Ram,8450.0,9,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB white, CL30-36 1.35v, pn: F5-6000J3036F16GX2-TZ5NRW",Ram,8999.0,1,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5RK",Ram,8499.0,4,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB silver, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5RS",Ram,8499.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5RW",Ram,8499.0,3,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5RK",Ram,7999.0,3,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5RW",Ram,7999.0,3,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RS5K",Ram,7150.0,9,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL32-38 1.35v, pn: F5-6000J3238F16GX2-RS5W",Ram,7150.0,5,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RS5K",Ram,6299.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 white, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RS5W",Ram,6299.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RS5K",Ram,6399.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36-44 1.35v, pn: CMT32GX5M2E6000C36",Ram,9150.0,1,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Corsair Dominator Platinum black, CL36-36 1.35v, AMD EXPO, pn: CMT32GX5M2D6000Z36",Ram,9999.0,1,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 Corsair Dominator Titanium black, CL30-36 1.4v, pn: CMP32GX5M2B6000C30",Ram,10399.0,0,32,"2,16",5,6000,30,1.4
+"32gb (dual) ddr5 6200 Patriot Elite 5 White, CL42-46 1.35v, pn: PVER532G62C42KW",Ram,7750.0,0,32,"2,16",5,6200,42,1.35
+"32gb (dual) ddr5 6200 Patriot Venom, CL40-40 1.35v, pn: PVV532G620C40K",Ram,6299.0,1,32,"2,16",5,6200,40,1.35
+"32gb (dual) ddr5 6000 Patriot Venom RGB, CL36-36 1.35v, pn: PVVR532G600C36K",Ram,6550.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6200 Corsair Dominator Platinum black, CL36-39 1.30v, pn: CMT32GX5M2X6200C36",Ram,9899.0,1,32,"2,16",5,6200,36,1.3
+"32gb (dual) ddr5 6200 Patriot Venom RGB, CL40-40 1.35v, pn: PVVR532G620C40K",Ram,7999.0,2,32,"2,16",5,6200,40,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB black, CL32-39 1.35v, pn: FF3D532G6400HC32ADC01",Ram,7699.0,4,32,"2,16",5,6400,32,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB white, CL32-39 1.35v, pn: FF4D532G6400HC32ADC01",Ram,7699.0,6,32,"2,16",5,6400,32,1.35
+"32gb (dual) ddr5 6400 Tforce Delta RGB silver, CL32-39 1.35v, pn: FF2D532G6400HC32ADC01",Ram,7699.0,6,32,"2,16",5,6400,32,1.35
+"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-RM5RK",Ram,7899.0,1,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G16GX2-RM5RW",Ram,7899.0,3,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NR",Ram,8999.0,4,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Neo RGB white CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NRW",Ram,8999.0,2,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5RK",Ram,8299.0,0,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5RW",Ram,8299.0,4,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TR5S",Ram,9399.0,3,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6600 Patriot Elite 5 White, CL36-46 1.4v, pn: PVER532G66C36KW",Ram,8225.0,2,32,"2,16",5,6600,36,1.4
+"32gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34-40 1.4v, pn: PVER532G66C34KT",Ram,8550.0,0,32,"2,16",5,6600,34,1.4
+"32gb (dual) ddr5 6600 Corsair Dominator Titanium black, CL32-39 1.4v, pn: CMP32GX5M2X6600C32",Ram,10299.0,2,32,"2,16",5,6600,32,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB black, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NR",Ram,9999.0,2,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 Neo RGB white, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NRW",Ram,9999.0,3,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB black, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5RK",Ram,9499.0,3,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7200 Corsair Dominator Titanium black, CL34-44 1.45v, pn: CMP32GX5M2X7200C34",Ram,11399.0,2,32,"2,16",5,7200,34,1.45
+"32gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36-48 1.45v, pn: PVXR532G76C36K",Ram,9799.0,1,32,"2,16",5,7600,36,1.45
+"32gb (dual) ddr5 7600 G.Skill Trident Z5 RGB black, CL36-46 1.4v, pn: F5-7600J3646G16GX2-TZ5RK",Ram,10799.0,5,32,"2,16",5,7600,36,1.4
+"32gb (dual) ddr5 7600 G.Skill Trident Z5 Royal silver, CL36-46 1.4v, pn: F5-7600J3646G16GX2-TR5S",Ram,11999.0,0,32,"2,16",5,7600,36,1.4
+"32gb (dual) ddr5 7800 Patriot Xtreme 5 RGB, CL38-48 1.45v, pn: PVXR532G78C38K",Ram,10999.0,2,32,"2,16",5,7800,38,1.45
+"32gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38-48 1.45v, pn: PVXR532G80C38K",Ram,12725.0,1,32,"2,16",5,8000,38,1.45
+"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB black, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TZ5RK",Ram,13599.0,0,32,"2,16",5,8000,38,1.45
+"48gb (dual) ddr5 6000 Patriot Elite 5 White, CL42-42 1.35v, pn: PVER548G60C42KW",Ram,10350.0,2,48,"2,24",5,6000,42,1.35
+"48gb (dual) ddr5 6000 Patriot Elite 5 TUF White, CL36-36 1.35v, pn: PVER548G60C36KT",Ram,9980.0,2,48,"2,24",5,6000,36,1.35
+"48gb (dual) ddr5 6600 Patriot Elite 5 TUF White, CL34-40 1.4v, pn: PVER548G66C34KT",Ram,11799.0,2,48,"2,24",5,6600,34,1.4
+"48gb (dual) ddr5 7600 Patriot Xtreme 5 RGB, CL36-48 1.45v, pn: PVXR548G76C36K",Ram,13999.0,1,48,"2,24",5,7600,36,1.45
+"48gb (dual) ddr5 8000 Patriot Xtreme 5 RGB, CL38-48 1.45v, pn: PVXR548G80C38K",Ram,15999.0,1,48,"2,24",5,8000,38,1.45
+"48gb (dual) ddr5 8000 G.Skill Trident Z5 Neo RGB black, CL40-48 1.4v, pn: F5-8000J4048G24GX2-TZ5NR",Ram,18599.0,0,48,"2,24",5,8000,40,1.4
+"64gb (dual) ddr5 5600 Kingston Fury Beast, CL40-40 1.25v, pn: KF556C40BBK2-64",Ram,12099.0,2,64,"2,32",5,5600,40,1.25
+"64gb (dual) ddr5 5600 Kingston Fury Beast RGB, CL40-40 1.25v, pn: KF556C40BBAK2-64",Ram,12799.0,0,64,"2,32",5,5600,40,1.25
+"64gb (dual) ddr5 5600 G.Skill Trident Z5 RGB black, CL36-36 1.25v, pn: F5-5600J3636D32GX2-TZ5RK",Ram,12799.0,3,64,"2,32",5,5600,36,1.25
+"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 black, CL46-45 1.1v, pn: F5-5600J4645A32GX2-RS5K",Ram,11499.0,3,64,"2,32",5,5600,46,1.1
+"64gb (dual) ddr5 5600 G.Skill Ripjaws S5 white, CL46-45 1.1v, pn: F5-5600J4645A32GX2-RS5W",Ram,11499.0,1,64,"2,32",5,5600,46,1.1
+"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL36-38 1.35v, pn: KF560C36BWEK2-64",Ram,11999.0,1,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 Kingston Fury Beast white, CL30-36 1.40v, pn: KF560C30BWEK2-64",Ram,12999.0,1,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 Kingston Fury Renegade RGB white, CL32-38 1.35v, pn: KF560C32RWAK2-64",Ram,14299.0,2,64,"2,32",5,6000,32,1.35
+"64gb (dual) ddr5 6000 Patriot Venom, CL36-36 1.35v, pn: PVV564G600C36K",Ram,11750.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D564G6000HC38ADC01",Ram,13999.0,4,64,"2,32",5,6000,38,1.25
+"64gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-38 1.25v, pn: FF4D564G6000HC38ADC01",Ram,13999.0,2,64,"2,32",5,6000,38,1.25
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-RM5RK",Ram,14650.0,1,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB white, CL32-38 1.4v, pn: F5-6000J3238G32GX2-RM5RW",Ram,14650.0,2,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Neo RGB black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-TZ5NR",Ram,15150.0,0,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5RW",Ram,14399.0,3,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL32-36 1.4v, pn: F5-6000J3238G32GX2-TZ5RK",Ram,15399.0,0,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5RK",Ram,15150.0,0,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB white, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5RW",Ram,15150.0,2,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 Corsair Dominator Platinum RGB black, CL40-40 1.35v, pn: CMT64GX5M2B6000C40",Ram,14799.0,0,64,"2,32",5,6000,40,1.35
+"64gb (dual) ddr5 6200 Patriot Elite 5 White, CL42-46 1.35v, pn: PVER564G62C42KW",Ram,13180.0,2,64,"2,32",5,6200,42,1.35
+"64gb (dual) ddr5 6400 Kingston Fury Beast, CL32-39 1.40v, pn: KF564C32BBK2-64",Ram,14950.0,3,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Kingston Fury Beast RGB, CL32-39 1.40v, pn: KF564C32BBAK2-64",Ram,15599.0,1,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Patriot Venom, CL32-40 1.4v, pn: PVV564G640C32K",Ram,12999.0,0,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G32GX2-RM5RK",Ram,15150.0,3,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Ripjaws M5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G32GX2-RM5RW",Ram,15150.0,2,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB black, CL32-39 1.4v, pn: F5-6400J3239G32GX2-TZ5RK",Ram,15525.0,4,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Trident Z5 RGB white, CL32-39 1.4v, pn: F5-6400J3239G32GX2-TZ5RW",Ram,15525.0,2,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB silver, CL32-39 1.4v, pn: F5-6400J3239G32GX2-TR5S",Ram,17799.0,1,64,"2,32",5,6400,32,1.4
+"96gb (dual) ddr5 6000 Patriot Elite 5 White, CL42-42 1.35v, pn: PVER596G60C42KW",Ram,19699.0,0,96,"2,48",5,6000,42,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRK",Ram,6899.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL36-48 1.25v, pn: F5-6000J3648D16GX2-RM5NRW",Ram,6899.0,0,32,"2,16",5,6000,36,1.25
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRK",Ram,6799.0,3,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL36-36 1.35v, pn: F5-6000J3636F16GX2-RM5NRW",Ram,6799.0,4,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-TZ5NR",Ram,8650.0,1,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL32-38 1.35v, pn: F5-6000J3238F16GX2-TZ5NR",Ram,8199.0,3,32,"2,16",5,6000,32,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL30-38 1.35v, pn: F5-6000J3038F16GX2-TZ5NR",Ram,8450.0,9,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL30-36 1.35v, pn: F5-6000J3036F16GX2-TZ5NRW",Ram,8999.0,1,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo black, CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NR",Ram,8999.0,4,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo white CL32-39 1.4v, pn: F5-6400J3239G16GX2-TZ5NRW",Ram,8999.0,2,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB Neo black, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NR",Ram,9999.0,2,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 RGB Neo white, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TZ5NRW",Ram,9999.0,3,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB Neo black, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TZ5NR",Ram,13599.0,0,32,"2,16",5,8000,38,1.45
+"48gb (dual) ddr5 8000 G.Skill Trident Z5 RGB Neo black, CL40-48 1.4v, pn: F5-8000J4048G24GX2-TZ5NR",Ram,18599.0,0,48,"2,24",5,8000,40,1.4
+"48gb (dual) ddr5 8000 G.Skill Trident Z5 RGB black, CL40-48 1.35v, pn: F5-8000J4048F24GX2-TZ5RK",Ram,17500.0,0,48,"2,24",5,8000,40,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-TZ5NR",Ram,15150.0,0,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL30-40 1.4v, pn: F5-6000J3040G32GX2-TZ5NR",Ram,15199.0,2,64,"2,32",5,6000,30,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL30-36 1.4v, pn: F5-6000J3036G32GX2-TZ5NRW",Ram,16699.0,2,64,"2,32",5,6000,30,1.4
+"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL30-36 1.35v, pn: FF3D532G6000HC30DC01",Ram,7999.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6400 Kingston Fury Beast white, CL32-39 1.4v, pn: KF564C32BWK2-32",Ram,7899.0,0,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6800 Kingston Fury Beast white, CL35-45 1.4v, pn: KF568C34BWK2-32",Ram,10500.0,0,32,"2,16",5,6800,35,1.4
+"32gb (dual) ddr5 8000 G.Skill Trident Z5 RGB Neo white, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TZ5NRW",Ram,13999.0,0,32,"2,16",5,8000,38,1.45
+"32gb (dual) ddr5 6000 Tforce Xtreem aRGB white, CL30-36 1.35v, pn: FFAD532G6000HC30DC01",Ram,8199.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL30-38 1.35v, pn: F5-6000J3038F16GX2-FX5",Ram,7299.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 7200 Tforce Xtreem aRGB white, CL34-42 1.4v, pn: FFAD532G7200HC34ADC01",Ram,9299.0,0,32,"2,16",5,7200,34,1.4
+"64gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-FX5",Ram,10999.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Flare X5 white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-FX5W",Ram,10999.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Flare X5 black, CL30-40 1.35v, pn: F5-6000J3040G32GX2-FX5",Ram,13799.0,0,64,"2,32",5,6000,30,1.35
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-RM6NRK",Ram,11899.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-RM5NRW",Ram,11899.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5NRK",Ram,12399.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5NRW",Ram,12399.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5RK",Ram,12999.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Ripjaws S5 black, CL32-38 1.4v, pn: F5-6000J3238G32GX2-RS5K",Ram,13650.0,0,64,"2,32",5,6000,32,1.4
+"64gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-RM5NRK",Ram,11899.0,0,64,"2,32",5,6000,36,1.35
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL36-36 1.35v, pn: F5-6000J3636F32GX2-TZ5NR",Ram,12399.0,0,64,"2,32",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo gold, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TR5NG",Ram,13299.0,0,32,"2,16",5,6000,28,1.4
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TR5NS",Ram,10999.0,0,32,"2,16",5,6000,28,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal Neo gold, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TR5NG",Ram,13199.0,0,32,"2,16",5,6400,30,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal Neo silver, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TR5NS",Ram,12999.0,0,32,"2,16",5,6400,30,1.4
+"32gb (dual) ddr5 8000 G.Skill Trident Z5 Royal Neo silver, CL38-48 1.45v, pn: F5-8000J3848H16GX2-TR5NS",Ram,13999.0,0,32,"2,16",5,8000,38,1.45
+"48gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo gold, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TR5NG",Ram,20999.0,0,48,"2,24",5,6000,28,1.35
+"48gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TR5NS",Ram,18750.0,0,48,"2,24",5,6000,28,1.35
+"48gb (dual) ddr5 8000 G.Skill Trident Z5 Royal Neo silver, CL40-48 1.4v, pn: F5-8000J4048G24GX2-TR5NS",Ram,17550.0,0,48,"2,24",5,8000,40,1.4
+"64gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL30-36 1.4v, pn: F5-6000J3036G32GX2-TR5NS",Ram,18999.0,0,64,"2,32",5,6000,30,1.4
+"96gb (dual) ddr5 6000 G.Skill Trident Z5 Royal Neo silver, CL28-36 1.35v, pn: F5-6000J2836F48GX2-TR5NS",Ram,33999.0,0,96,"2,48",5,6000,28,1.35
+"16gb ddr5 6000 Tforce Delta RGB black, CL38-46 1.25v, pn: FF3D516G6000HC38G01",Ram,3399.0,0,16,"1,16",5,6000,38,1.25
+"16gb ddr5 6000 Tforce Delta RGB white, CL38-46 1.25v, pn: FF4D516G6000HC38G01",Ram,3399.0,0,16,"1,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 Tforce T-Create Expert, black, CL30-36 1.35v, pn: CTCED532G6000HC30DC01",Ram,6799.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 Tforce T-Create Expert, white, CL30-36 1.35v, pn: CTCWD532G6000HC30DC01",Ram,6799.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 Tforce Xtreem aRGB black, CL30-36 1.35v, pn: FF9D532G6000HC30DC01",Ram,8199.0,0,32,"2,16",5,6000,30,1.35
+"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.25v, pn: FF3D532G6000HC38AGC01",Ram,7599.0,0,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-46 1.25v, pn: FF4D532G6000HC38AGC01",Ram,7599.0,0,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 7200 Tforce Xtreem aRGB black, CL34-42 1.4v, pn: FF9D532G7200HC34ADC01",Ram,9299.0,0,32,"2,16",5,7200,34,1.4
+"64gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.35v, pn: FF3D564G6000HC38GDC01",Ram,12799.0,0,64,"2,32",5,6000,38,1.35
+"64gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-46 1.35v, pn: FF4D564G6000HC38GDC01",Ram,12799.0,0,64,"2,32",5,6000,38,1.35
+"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.25v, pn: FF3D532G6000HC38GDC01",Ram,7599.0,0,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6000 Tforce Delta RGB white, CL38-46 1.25v, pn: FF4D532G6000HC38GDC01",Ram,7599.0,0,32,"2,16",5,6000,38,1.25
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo black, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TZ5NR",Ram,8699.0,0,32,"2,16",5,6400,30,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo white, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TZ5NRW",Ram,8699.0,0,32,"2,16",5,6400,30,1.4
+"32gb (dual) ddr5 6400 G.Skill Trident Z5 Royal RGB gold, CL30-39 1.4v, pn: F5-6400J3039G16GX2-TR5G",Ram,11599.0,0,32,"2,16",5,6400,30,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 Royal RGB gold, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TR5G",Ram,11799.0,0,32,"2,16",5,7200,34,1.4
+"32gb (dual) ddr5 7200 G.Skill Trident Z5 Royal RGB silver, CL34-45 1.4v, pn: F5-7200J3445G16GX2-TR5S",Ram,10500.0,0,32,"2,16",5,7200,34,1.4
+"48gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL30-36 1.35v, pn: F5-6000J3036F24GX2-RM5NRK",Ram,11199.0,0,48,"2,24",5,6000,30,1.35
+"48gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo white, CL30-36 1.35v, pn: F5-6000J3036F24GX2-RM5NRW",Ram,11199.0,0,48,"2,24",5,6000,30,1.35
+"48gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TZ5NR",Ram,17799.0,0,48,"2,24",5,6000,28,1.35
+"48gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL28-36 1.35v, pn: F5-6000J2836F24GX2-TZ5NRW",Ram,17799.0,0,48,"2,24",5,6000,28,1.35
+"96gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL28-36 1.35v, pn: F5-6000J2836F48GX2-TZ5NR",Ram,32999.0,0,96,"2,48",5,6000,28,1.35
+"8gb ddr5 6000 Kingston Fury Beast RGB black, CL30-36 1.4v, pn: KF560C30BBEA-8",Ram,2499.0,0,8,"1,8",5,6000,30,1.4
+"16gb ddr5 6000 Kingston Fury Beast black, CL36-44 1.35v, pn: KF560C36BBE2-16",Ram,3650.0,0,16,"1,16",5,6000,36,1.35
+"16gb ddr5 6000 Kingston Fury Beast RGB black, CL30-36 1.4v, pn: KF560C30BBEA-16",Ram,4150.0,0,16,"1,16",5,6000,30,1.4
+"8gb ddr4 3200 Dahua C300, CL22 1.2v, pn: DHI-DDR-C300U8G32",Ram,899.0,0,8,"1,8",4,3200,22,1.2
+"16gb ddr5 6000 G.Skill Aegis, CL36-36 1.35v, pn: F5-6000J3636F16GX1-IS",Ram,2899.0,0,16,"1,16",5,6000,36,1.35
+"32gb ddr5 6000 Tforce Delta RGB black, CL38-46 1.35v, pn: FF3D532G6000HC38G01",Ram,6499.0,0,32,"1,32",5,6000,38,1.35
+"32gb ddr5 6000 Tforce Delta RGB white, CL38-46 1.35v, pn: FF4D532G6000HC38G01",Ram,6499.0,0,32,"1,32",5,6000,38,1.35
+"32gb ddr5 6000 G.Skill Aegis, CL36-36 1.35v, pn: F5-6000J3636F32GX1-IS",Ram,5299.0,0,32,"1,32",5,6000,36,1.35
+"16gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-38 1.25v, pn: FF3D516G6000HC38ADC01",Ram,3999.0,0,16,"2,8",5,6000,38,1.25
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TZ5NR",Ram,9250.0,0,32,"2,16",5,6000,28,1.4
+"32gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo white, CL28-36 1.4v, pn: F5-6000J2836G16GX2-TZ5NRW",Ram,9250.0,0,32,"2,16",5,6000,28,1.4
+"32gb (dual) ddr5 7600 Tforce Delta RGB black, CL36-46 1.4v, pn: FF3D532G7600HC36DDC01",Ram,9750.0,0,32,"2,16",5,7600,36,1.4
+"32gb (dual) ddr5 7600 Tforce Delta RGB white, CL36-46 1.4v, pn: FF4D532G7600HC36DDC01",Ram,9750.0,0,32,"2,16",5,7600,36,1.4
+"32gb (dual) ddr5 8000 Tforce Delta RGB black, CL38-48 1.45v, pn: FF3D532G8000HC38DDC01",Ram,11550.0,0,32,"2,16",5,8000,38,1.45
+"32gb (dual) ddr5 8000 Tforce Delta RGB white, CL38-48 1.45v, pn: FF4D532G8000HC38DDC01",Ram,11550.0,0,32,"2,16",5,8000,38,1.45
+"48gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo black, CL32-39 1.35v, pn: F5-6400J3239F24GX2-TZ5NR",Ram,10950.0,0,48,"2,24",5,6400,32,1.35
+"48gb (dual) ddr5 6400 G.Skill Trident Z5 RGB Neo white, CL32-39 1.35v, pn: F5-6400J3239F24GX2-TZ5NRW",Ram,10950.0,0,48,"2,24",5,6400,32,1.35
+"48gb (dual) ddr5 8000 Tforce Delta RGB black, CL38-49 1.4v, pn: FF3D548G8000HC38EDC01",Ram,15699.0,0,48,"2,24",5,8000,38,1.4
+"48gb (dual) ddr5 8000 G.Skill Trident Z5 Royal RGB silver, CL40-48 1.35v, pn: F5-8000J4048F24GX2-TR5S",Ram,16500.0,0,48,"2,24",5,8000,40,1.35
+"48gb (dual) ddr5 6000 G.Skill Trident Z5 RGB Neo black, CL40-48 1.35v, pn: F5-6000J4048F24GX2-TZ5NR",Ram,9599.0,0,48,"2,24",5,6000,40,1.35
+"16gb sodimm ddr5 5600 Kingston CL46 1.1v, pn: KVR56S46BS8-16",Ram,2880.0,0,16,"1,16",5,5600,46,1.1
+"32gb sodimm ddr5 5600 Kingston CL46 1.1v, pn: KVR56S46BD8-32",Ram,5350.0,0,32,"1,32",5,5600,46,1.1
+"48gb (dual) ddr5 6400 Tforce Delta RGB black, CL32-39 1.35v, pn: FF3D548G6400HC32ADC01",Ram,10599.0,0,48,"2,24",5,6400,32,1.35
+"48gb (dual) ddr5 6400 Tforce Delta RGB white, CL32-39 1.35v, pn: FF4D548G6400HC32ADC01",Ram,10599.0,0,48,"2,24",5,6400,32,1.35
+"32gb (dual) ddr5 6400 Kingston Fury Beast RGB black, CL32-39 1.4v, pn: KF564C32BBEAK2-32",Ram,9899.0,0,32,"2,16",5,6400,32,1.4
+"32gb (dual) ddr5 6400 Kingston Fury Beast RGB white, CL32-39 1.4v, pn: KF564C32BWEAK2-32",Ram,9899.0,0,32,"2,16",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Kingston Fury Beast RGB black, CL32-39 1.40v, pn: KF564C32BBAK2-64",Ram,16799.0,1,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Kingston Fury Beast RGB white, CL32-39 1.4v, pn: KF564C32BWEAK2-64",Ram,15099.0,0,64,"2,32",5,6400,32,1.4
+"32gb (dual) ddr5 6000 Tforce Delta RGB black, CL38-46 1.35v, pn: FF3D532G6000HC38JDC01",Ram,6499.0,0,32,"2,16",5,6000,38,1.35
+"64gb (dual) ddr5 6400 Kingston Fury Beast, CL32-39 1.4v, pn: KF564C32BBK2-64",Ram,15399.0,3,64,"2,32",5,6400,32,1.4
+"64gb (dual) ddr5 6400 Kingston Fury Beast RGB black, CL32-39 1.4v, pn: KF564C32BBAK2-64",Ram,16699.0,1,64,"2,32",5,6400,32,1.4
+"8gb ddr5 5600 Kingston Fury Beast black, CL36-36 1.25v, pn: KF556C36BBE-8",Ram,1850.0,0,8,"1,8",5,5600,36,1.25
+"8gb ddr5 6000 Kingston Fury Beast black, CL30-36 1.4v, pn: KF560C30BBE-8",Ram,2299.0,0,8,"1,8",5,6000,30,1.4
+"16gb ddr5 6000 Kingston Fury Beast RGB black, CL36-44 1.35v, pn: KF560C36BBE2A-16",Ram,4299.0,0,16,"1,16",5,6000,36,1.35
+"16gb (dual) ddr5 6000 Kingston Fury Beast, CL30-36 1.4v, pn: KF560C30BBK2-16",Ram,4480.0,0,16,"2,8",5,6000,30,1.4
+"16gb (dual) ddr5 6000 Kingston Fury Beast RGB, CL30-36 1.4v, pn: KF560C30BBEAK2-16",Ram,4199.0,0,16,"2,8",5,6000,30,1.4
+"8gb sodimm ddr5 3200 Transcend C22 1.2v, pn: JM3200HSG-8G",Ram,1199.0,0,8,"1,8",5,3200,,1.2
+"16gb sodimm ddr5 3200 Transcend C22 1.2v, pn: JM3200HSE-16G",Ram,2080.0,0,16,"1,16",5,3200,,1.2
+"8gb sodimm ddr5 5600 Transcend CL46 1.1v, pn: JM5600ASG-8G",Ram,1699.0,0,8,"1,8",5,5600,46,1.1
+"16gb sodimm ddr5 5600 Transcend CL46 1.1v, pn: JM5600ASE-16G",Ram,2999.0,0,16,"1,16",5,5600,46,1.1
+"8gb sodimm ddr4 3200 Transcend C22 1.2v, pn: JM3200HSG-8G",Ram,1199.0,0,8,"1,8",4,3200,,1.2
+"16gb sodimm ddr4 3200 Transcend C22 1.2v, pn: JM3200HSE-16G",Ram,2080.0,0,16,"1,16",4,3200,,1.2
+"96gb (dual) ddr5 6000 G.Skill Trident Z5 RGB black, CL30-36 1.35v, pn: F5-6000J3036F48GX2-TZ5RK",Ram,25550.0,0,96,"2,48",5,6000,30,1.35
+"8gb ddr4 3200 Kingston, CL22 1.2v, pn: KVR32N22S6/8",Ram,1920.0,0,8,"1,8",4,3200,22,1.2
+"16gb ddr4 3200 Kingston, CL22 1.2v, pn: KVR32N22S8/16",Ram,3499.0,0,16,"1,16",4,3200,22,1.2
+"16gb ddr4 3200 G.Skill Ripjaws V black, CL16 1.35v, pn: F4-3200C16S-16GVK",Ram,2799.0,0,16,"1,16",4,3200,16,1.35
+"16gb (dual) ddr4 3200 G.Skill Trident Z Neo, CL16 1.35v, pn: F4-3200C16D-16GTZN",Ram,4399.0,0,16,"2,8",4,3200,16,1.35
+"16gb (dual) ddr4 3200 G.Skill Trident Z RGB black, CL16 1.35v, pn: F4-3200C16D-16GTZR",Ram,4099.0,0,16,"2,8",4,3200,16,1.35
+"32gb (dual) ddr4 3600 G.Skill Trident Z RGB black, CL18 1.35v, pn: F4-3600C18D-32GTZR",Ram,7599.0,0,32,"2,16",4,3600,18,1.35
+"32gb (dual) ddr5 6000 G.Skill Flare X5 black, CL36-36 1.35v, pn: F5-6000J3636F16GX2-FX5",Ram,7650.0,0,32,"2,16",5,6000,36,1.35
+"32gb (dual) ddr5 6000 G.Skill Ripjaws M5 RGB Neo black, CL28-36 1.40v, pn: F5-6000J2836G32GX2-RM5NRK",Ram,16999.0,0,32,"2,16",5,6000,28,1.4
+"32gb (dual) ddr5 6000 Patriot Xtreme 5 RGB MPOWER, CL30-40 1.35v, pn: PVXR532G60C30KM",Ram,6999.0,0,32,"2,16",5,6000,30,1.35
